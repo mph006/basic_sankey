@@ -172,7 +172,7 @@ function fetchRoot(d,thisRoot){
 }
 
 function updateSankey(graph){
-    // Set the sankey diagram properties
+    // reset the sankey diagram properties
     sankey = d3.sankey()
         .nodeWidth(36)
         .nodePadding(40)
@@ -183,127 +183,33 @@ function updateSankey(graph){
 
     var path = sankey.link();
 
-    // add in the links
-    // var link = svg.append("g").selectAll(".link")
-    //             .data(graph.links)
-    //             .enter().append("path")
-    //             .attr("class", "link")
-    //             .attr("d", path)
-    //             .style("stroke-width", function(d) { return Math.max(1, d.dy); })
-    //             .sort(function(a, b) { return b.dy - a.dy; });
+    //Pseudo enter/update/exit pattern here
+    d3.select("#sankey-wrapper-svg")
+        .selectAll(".link")
+        .transition()
+        .duration(animDuration)
+        .style("stroke-width","0");
 
-    var link = d3.selectAll(".link").data(graph.links);
-    
-    link.transition().duration(animDuration)
-        .style("stroke-width", function(d) { return Math.max(1, d.dy); })
-        .sort(function(a, b) { return b.dy - a.dy; });
+    d3.select("#sankey-wrapper-svg")
+        .selectAll(".node-wrapper")
+        .selectAll(".node-rect")
+        .transition()
+        .duration(animDuration)
+        .attr("height", 0)
+        .attr("width",0);
 
-    link.enter()
-        .append("path")
-        .attr("class", "link")
-        .attr("d", path)
-        .transition().duration(animDuration)
-        .style("stroke-width", function(d) { return Math.max(1, d.dy); })
-        .sort(function(a, b) { return b.dy - a.dy; });
+    d3.select("#sankey-wrapper-svg")
+        .selectAll(".node-wrapper")
+        .selectAll(".node-name")
+        .transition()
+        .duration(animDuration)
+        .style("opacity", 0);
+        
+    d3.select(".links").transition().duration(animDuration).remove();
+    d3.select(".nodes").transition().duration(animDuration/2).remove().each('end',function(){
+        appendElementsToDom(d3.select("#sankey-wrapper-svg"),sankey,path);
+    });
 
-    link.exit().remove();
-
-    // // add the link titles
-    // link.append("title")
-    //     .text(function(d) {
-    //         return d.source.name + " → " + d.target.name + "\n" + format(d.value); 
-    //     }).attr("class","link-title");
-
-    // // add in the nodes
-    // var node = svg.append("g").selectAll(".node")
-    //     .data(graph.nodes)
-    //     .enter().append("g")
-    //     .attr("class", "node")
-    //     .attr("transform", function(d) { 
-    //         return "translate(" + d.x + "," + d.y + ")"; 
-    //     })
-    //     .style("cursor",function(d){
-    //         return (canDrillDown(d))?"pointer":"default"
-    //     })
-    //     .on("dblclick",function(d){
-    //         if(canDrillDown(d)){return drillDown(d);}
-    //     });
-
-    var node = d3.selectAll(".node").data(graph.nodes);
-    console.log(node);
-    node.on("dblclick",function(d){
-            if(canDrillDown(d)){return drillDown(d);}
-        })
-        .style("cursor",function(d){
-            return (canDrillDown(d))?"pointer":"default"
-        })
-        .transition().duration(animDuration)
-        .attr("transform", function(d) { 
-            return "translate(" + d.x + "," + d.y + ")"; 
-        });
-
-    node.enter().append("g")
-        .attr("class", "node")
-        .style("cursor",function(d){
-            return (canDrillDown(d))?"pointer":"default"
-        })
-        .on("dblclick",function(d){
-            if(canDrillDown(d)){return drillDown(d);}
-        })
-        .transition().duration(animDuration)
-        .attr("transform", function(d) { 
-            return "translate(" + d.x + "," + d.y + ")"; 
-        });
-
-    node.exit().remove();
-    var rects = node.selectAll(".node-rect");
-
-    rects.transition().duration(animDuration)
-        .attr("height", function(d) { return d.dy; })
-        .attr("width", sankey.nodeWidth())
-        .style("fill", function(d) { 
-            return d.color = color(d.name.replace(/ .*/, "")); })
-        .style("stroke", function(d) { 
-            return d3.rgb(d.color).darker(2); })
-
-    // rects.enter().append("rect")
-    //     .transition().duration(animDuration)
-    //     .attr("height", function(d) { return d.dy; })
-    //     .attr("width", sankey.nodeWidth())
-    //     .attr("class","node-rect")
-    //     .style("fill", function(d) { 
-    //         return d.color = color(d.name.replace(/ .*/, "")); })
-    //     .style("stroke", function(d) { 
-    //         return d3.rgb(d.color).darker(2); });
-
-
-    // // add the rectangles for the nodes
-    // node.append("rect")
-    //     .attr("height", function(d) { return d.dy; })
-    //     .attr("width", sankey.nodeWidth())
-    //     .attr("class","node-rect")
-    //     .style("fill", function(d) { 
-    //         return d.color = color(d.name.replace(/ .*/, "")); })
-    //     .style("stroke", function(d) { 
-    //         return d3.rgb(d.color).darker(2); })
-    //     .append("title")
-    //     .text(function(d) { 
-    //         return d.name + "\n" + format(d.value); 
-    //     })
-    //     .attr("class","node-title");
-
-    // // add in the title for the nodes
-    // node.append("text")
-    //     .attr("x", -6)
-    //     .attr("y", function(d) { return d.dy / 2; })
-    //     .attr("dy", ".35em")
-    //     .attr("text-anchor", "end")
-    //     .attr("transform", null)
-    //     .text(function(d) { return d.name; })
-    //     .filter(function(d) { return d.x < width / 2; })
-    //     .attr("x", 6 + sankey.nodeWidth())
-    //     .attr("text-anchor", "start")
-    //     .attR("class","node-name");
 }
 
 function drillDown(d){
@@ -369,6 +275,69 @@ function fetchNest(data){
     
 }
 
+function appendElementsToDom(svg,sankey,path){
+
+    var link = svg.append("g").attr("class","links")
+                .selectAll(".link")
+                .data(graph.links)
+                .enter().append("path")
+                .attr("class", "link")
+                .attr("d", path)
+                .sort(function(a, b) { return b.dy - a.dy; })
+                .transition().duration(animDuration)
+                .style("stroke-width", function(d) { return Math.max(1, d.dy); });
+
+    // add the link titles
+    svg.selectAll(".link").append("title")
+        .attr("class","link-title")
+        .text(function(d) {
+            return d.source.name + " → " + d.target.name + "\n" + format(d.value); 
+        });
+
+    // add in the nodes
+    var node = svg.append("g")
+        .attr("class","nodes")
+        .selectAll(".node")
+        .data(graph.nodes)
+        .enter().append("g")
+        .attr("class", "node-wrapper")
+        .style("cursor",function(d){
+            return (canDrillDown(d))?"pointer":"default"
+        })
+        .on("dblclick",function(d){
+            if(canDrillDown(d)){return drillDown(d);}
+        })
+        .transition().duration(animDuration)
+        .attr("transform", function(d) { 
+            return "translate(" + d.x + "," + d.y + ")"; 
+        });
+
+    // add the rectangles for the nodes
+    svg.selectAll(".node-wrapper").append("rect")
+        .attr("class","node-rect")
+        .style("fill", function(d) { 
+            return d.color = color(d.name.replace(/ .*/, "")); })
+        .style("stroke", function(d) { 
+            return d3.rgb(d.color).darker(2); 
+        })
+        .transition().duration(animDuration)
+        .attr("height", function(d) { return d.dy; })
+        .attr("width", sankey.nodeWidth());
+
+    // add in the title for the nodes
+    svg.selectAll(".node-wrapper").append("text")
+        .attr("class","node-name")
+        .attr("x", -6)
+        .attr("y", function(d) { return d.dy / 2; })
+        .attr("dy", ".35em")
+        .attr("text-anchor", "end")
+        .attr("transform", null)
+        .text(function(d) { return d.name; })
+        .filter(function(d) { return d.x < width / 2; })
+        .attr("x", 6 + sankey.nodeWidth())
+        .attr("text-anchor", "start");
+}
+
 function drawSankey(graph){
 
     var margin = {top: 10, right: 10, bottom: 10, left: 10};
@@ -394,64 +363,9 @@ function drawSankey(graph){
         .layout(32);
 
     var path = sankey.link();
-
+    appendElementsToDom(svg,sankey,path)
     // add in the links
-    var link = svg.append("g").selectAll(".link")
-                .data(graph.links)
-                .enter().append("path")
-                .attr("class", "link")
-                .attr("d", path)
-                .style("stroke-width", function(d) { return Math.max(1, d.dy); })
-                .sort(function(a, b) { return b.dy - a.dy; });
-
-    // add the link titles
-    link.append("title")
-        .text(function(d) {
-            return d.source.name + " → " + d.target.name + "\n" + format(d.value); 
-        }).attr("class","link-title");
-
-    // add in the nodes
-    var node = svg.append("g").selectAll(".node")
-        .data(graph.nodes)
-        .enter().append("g")
-        .attr("class", "node")
-        .attr("transform", function(d) { 
-            return "translate(" + d.x + "," + d.y + ")"; 
-        })
-        .style("cursor",function(d){
-            return (canDrillDown(d))?"pointer":"default"
-        })
-        .on("dblclick",function(d){
-            if(canDrillDown(d)){return drillDown(d);}
-        });
-
-    // add the rectangles for the nodes
-    node.append("rect")
-        .attr("height", function(d) { return d.dy; })
-        .attr("width", sankey.nodeWidth())
-        .attr("class","node-rect")
-        .style("fill", function(d) { 
-            return d.color = color(d.name.replace(/ .*/, "")); })
-        .style("stroke", function(d) { 
-            return d3.rgb(d.color).darker(2); })
-        .append("title")
-        .text(function(d) { 
-            return d.name + "\n" + format(d.value); 
-        })
-        .attr("class","node-title");
-
-    // add in the title for the nodes
-    node.append("text")
-        .attr("x", -6)
-        .attr("y", function(d) { return d.dy / 2; })
-        .attr("dy", ".35em")
-        .attr("text-anchor", "end")
-        .attr("transform", null)
-        .text(function(d) { return d.name; })
-        .filter(function(d) { return d.x < width / 2; })
-        .attr("x", 6 + sankey.nodeWidth())
-        .attr("text-anchor", "start")
-        .attr("class","node-name");
+    
 }
 
 
