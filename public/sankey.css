@@ -26,11 +26,10 @@ body{
 #breadcrumb-wrapper{
   position: relative;
   display: block;
-  height:50px;
+  height:30px;
   width: 90%;
   margin-left: 5%;
   margin-bottom: 20px;
-  border:thin solid red;
 }
 
 .node rect {
@@ -51,4 +50,15 @@ body{
 
 .link:hover {
   stroke-opacity: .5;
+}
+
+.breadcrumb-text{
+  stroke:white;
+  fill:white;
+}
+
+.node-name,.breadcrumb-text, #sankey-title{
+  -webkit-user-select: none; /* Chrome/Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+ */
 }

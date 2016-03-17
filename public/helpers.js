@@ -46,4 +46,22 @@ function fetchPeers(data){
         }
     }
     return peers;
-}   
+}  
+
+getDepth = function (obj) {
+    var depth = -1;
+    //Stupid root offset again
+    if(obj.length>1){
+        obj = obj[0]
+    }
+
+    if (obj.children) {
+        obj.children.forEach(function (d) {
+            var tmpDepth = getDepth(d);
+            if (tmpDepth > depth) {
+                depth = tmpDepth;
+            }
+        });
+    }
+    return 1 + depth;
+}; 
