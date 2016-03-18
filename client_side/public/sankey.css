@@ -3,10 +3,10 @@ body{
 }
 
 #sankey-title{
-  display: block;
+  display: inline-block;
   position: relative;
-  width: 50%;
-  margin-left: 25%;
+  width: 40%;
+  margin-left: 10%;
   text-align: center;
   border-bottom: thin solid black;
   margin-top: 10px;
@@ -15,10 +15,25 @@ body{
   font-size: 20px;
 }
 
+#sankey-description{
+  display: inline-block;
+  position: relative;
+  float: right;
+  font-size: 12px;
+  margin-right: 20%;
+  width: 19%;
+  text-align: center;
+}
+
+.desc-highlight{
+  font-size: 15px;
+  font-weight: bold;
+}
+
 #sankey-wrapper{
   position: relative;
   display: block;
-  height: 600px;
+  height: 650px;
   width:90%;
   margin-left: 5%;
 }
@@ -30,6 +45,12 @@ body{
   width: 90%;
   margin-left: 5%;
   margin-bottom: 20px;
+}
+
+.breadcrumb-text{
+  font-family: helvetica;
+  font-size: 12px;
+  font-weight: 100;
 }
 
 .node rect {

@@ -49,7 +49,9 @@ function updateBreadcrumbs(element) {
       .attr("dy", "0.35em")
       .attr("text-anchor", "middle")
       .attr("class","breadcrumb-text")
-      .text(element["key"])
+      .text(function(){
+        return (element["key"].length <40)?element["key"]:element["key"].substring(0,35)+"..."
+      })
   
 
   crumb.attr("transform", function() {
