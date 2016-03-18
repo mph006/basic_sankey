@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>Sankey</title>
+<!--     d3 library and queue -->
+    <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+    <!-- jquery, do we really need it? -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <!-- styles -->
+    <link rel="stylesheet" type="text/css" href="sankey.css"/>
+<!--    "modules" (faking it with script tag instead of browserify) -->
+    <script type="text/javascript" src="sankey_layout.js"></script>
+    <script type="text/javascript" src="eventHandlers.js"></script>
+    <script type="text/javascript" src="globals.js"></script>
+    <script type="text/javascript" src="dataFormatting.js"></script>
+    <script type="text/javascript" src="drawingMethods.js"></script>
+    <script type="text/javascript" src="breadcrumbs.js"></script>
+    <script type="text/javascript" src="helpers.js"></script>
+  </head>
+  
+  <body>
+    <div id="sankey-title">Title</div>
+    <div id="breadcrumb-wrapper"></div>
+    <div id="sankey-wrapper"></div>
+  </body>
+
+  <script type="text/javascript" src="sankey.js"></script>
+
+</html>
