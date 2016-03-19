@@ -1,0 +1,150 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic",
+  "nodes": [
+    {
+      "name": "New York"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Pennsylvania"
+    },
+    {
+      "name": "New Jersey"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 15
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 17
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 10
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 8
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 13
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 10
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 12
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 10
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 4
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 4
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 4
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 5
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1913
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 2348
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1699
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 920
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2201
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1046
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1687
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1011
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 438
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 623
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 316
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 507
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_Jersey",
+  "nodes": [
+    {
+      "name": "NE Corner of New Jersey"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of New Jersey"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 4
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 4
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 438
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 582
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 316
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 507
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 41
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

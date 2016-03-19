@@ -1,0 +1,150 @@
+{
+  "keyPath": "root->United_States->South",
+  "nodes": [
+    {
+      "name": "South Atlantic"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "West South Central"
+    },
+    {
+      "name": "East South Central"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 49
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 49
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 56
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 51
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 21
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 20
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 25
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 30
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 18
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 17
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 18
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 10
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 6844
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 5907
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 7322
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 5891
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2461
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 2513
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 2900
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 3993
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 2119
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 2265
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1900
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1247
+    }
+  ]
+}

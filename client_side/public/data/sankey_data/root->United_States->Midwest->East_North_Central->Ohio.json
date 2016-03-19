@@ -1,0 +1,193 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Ohio",
+  "nodes": [
+    {
+      "name": "SW Corner of Ohio"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NE Corner of Ohio"
+    },
+    {
+      "name": "NW Corner of Ohio"
+    },
+    {
+      "name": "SE Corner of Ohio"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 5
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 4
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 3
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 225
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 423
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 885
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 242
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 170
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 196
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 738
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 195
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 168
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 197
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 252
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 198
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 212
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "keyPath": "root->United_States->Midwest",
+  "nodes": [
+    {
+      "name": "West North Central"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "East North Central"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 28
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 22
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 46
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 35
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 30
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 33
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 31
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 33
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 3636
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3058
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 5464
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 4435
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 3693
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 3973
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 3673
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 4380
+    }
+  ]
+}

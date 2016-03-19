@@ -1,0 +1,107 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Colorado->NE_Corner_of_Colorado->Adams_County",
+  "nodes": [
+    {
+      "name": "80037"
+    },
+    {
+      "name": "80233"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 160
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 140
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    }
+  ]
+}

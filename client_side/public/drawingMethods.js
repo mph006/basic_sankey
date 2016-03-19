@@ -39,7 +39,8 @@ function updateSankey(graph){
     //console.log(root);
     d3.select("#sankey-title")
     .text(function(){
-        return "Checkout Conversions: "+fetchParentName();
+        var name = (fetchParentName()==="root")?"All Conversions":fetchParentName();
+        return "Checkout Conversions: "+name;
     })
 
 }
@@ -57,6 +58,13 @@ function appendElementsToDom(svg,sankey,path,graph){
                 .enter().append("path")
                 .attr("class", "link")
                 .attr("d", path)
+                .attr("id",function(d){
+                    var source = d.source.name.replaceAll(" ","_");
+                    var target = d.target.name.replaceAll(" ","_");
+                    return source+"TO"+target
+                })
+                .on("mouseenter",mouseEnterLink)
+                .on("mouseleave",mouseLeaveLink)
                 .sort(function(a, b) { return b.dy - a.dy; })
                 .transition().duration(animDuration)
                 .style("stroke-width", function(d) { return Math.max(1, d.dy); });
@@ -77,14 +85,17 @@ function appendElementsToDom(svg,sankey,path,graph){
         .data(graph.nodes)
         .enter().append("g")
         .attr("class", "node-wrapper")
+        .attr("id",function(d){
+            return "node-wrapper-"+d.name.replaceAll(" ","_");
+        })
         .style("cursor",function(d){
             return (canDrillDown(d))?"pointer":"default"
         })
         .on("click",function(d){
             if(canDrillDown(d)){return drillDown(d);}
         })
-        .on("mouseover",mouseOverNode)
-        .on("mouseout", mouseOutNode)
+        .on("mouseenter",function(d){mouseEnterNode(d)})
+        .on("mouseleave", function(d){mouseLeaveNode(d)})
         .attr("transform", function(d) { 
             return "translate(" + d.x + "," + d.y + ")"; 
         })

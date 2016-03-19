@@ -1,0 +1,107 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Arkansas",
+  "nodes": [
+    {
+      "name": "NE Corner of Arkansas"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of Arkansas"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 282
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 368
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 438
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 546
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 299
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

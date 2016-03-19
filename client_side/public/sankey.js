@@ -5,6 +5,6 @@
 
 $( document ).ready(function() {
     initializeBreadcrumbTrail();
-    keyPath="United_States"
+    keyPath="root"
     fetchGraphAndUpdate(keyPath,true);
 });

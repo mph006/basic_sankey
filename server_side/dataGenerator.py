@@ -90,7 +90,7 @@ def findQuadrant(data):
 # writer = csv.writer(open('./output/dataTable.csv', 'wb'))
 
 writer = csv.writer(open('../client_side/public/data/sankey.csv','wb'))
-writer.writerow(['session_id','duration','Completed_step1','Completed_step2','Completed_pmt',"region_name","region_code","state_code","state_name","zip_code","city_name","lat","lng","state_quadrant","county_name","basket_price"])
+writer.writerow(['session_id','duration','Completed_step1','Completed_step2','Completed_pmt',"region_name","region_code","state_code","state_name","zip_code","city_name","lat","lng","state_quadrant","county_name","basket_price","country"])
 
 #reccomended a (43190 * 4 = 172760) or more iterator (for key collisions)
 for x in range(0,int(sys.argv[1])):
@@ -103,11 +103,12 @@ for x in range(0,int(sys.argv[1])):
     path = fetchPath(randint(0,3))
     region_name = stateDict[zipData[2]][15]
     region_code = stateDict[zipData[2]][13]
+    country = "United States"
     if zipData[0] in countyDict:
         county = countyDict[zipData[0]]
     else:
         county = "Unknown County"
     state_quadrant = findQuadrant(zipData)
-    writer.writerow([varId,duration,path[0],path[1],path[2],region_name,region_code,zipData[2],state,zipData[0],zipData[1],zipData[3],zipData[4],state_quadrant,county,basket_price])
+    writer.writerow([varId,duration,path[0],path[1],path[2],region_name,region_code,zipData[2],state,zipData[0],zipData[1],zipData[3],zipData[4],state_quadrant,county,basket_price,country])
     varId+=1
   

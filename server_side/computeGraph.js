@@ -68,6 +68,6 @@ function fetchPath(data){
 		returnString.unshift(pointer.key.replaceAll(" ","_"));
 		pointer = pointer.parent;
 	}
-	returnString.unshift("United_States")
+	returnString.unshift("root")
 	return returnString.join("->");
 }

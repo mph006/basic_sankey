@@ -1,0 +1,64 @@
+{
+  "keyPath": "root",
+  "nodes": [
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 236
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 234
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 269
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 254
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 30315
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 28831
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 33155
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 30957
+    }
+  ]
+}

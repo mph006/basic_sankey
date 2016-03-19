@@ -1,0 +1,193 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Indiana",
+  "nodes": [
+    {
+      "name": "NW Corner of Indiana"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "SW Corner of Indiana"
+    },
+    {
+      "name": "NE Corner of Indiana"
+    },
+    {
+      "name": "SE Corner of Indiana"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 363
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 16
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 15
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 338
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 174
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 36
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 170
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 141
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 187
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 96
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 241
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

@@ -38,7 +38,7 @@ function getDepth(){
 function fetchParentName(){
     var split = keyPath.split("->");
     return (split.length ===1)?
-        "United States":
+        "root":
         split[split.length-1].replaceAll("_"," ");
 }
 

@@ -1,0 +1,193 @@
+{
+  "keyPath": "root->United_States->West->Pacific->California",
+  "nodes": [
+    {
+      "name": "NW Corner of California"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "SE Corner of California"
+    },
+    {
+      "name": "SW Corner of California"
+    },
+    {
+      "name": "NE Corner of California"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 9
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 6
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 12
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 11
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 4
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 5
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 4
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 667
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 706
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1395
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1162
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 869
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 441
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 670
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 860
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 141
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 60
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 260
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 253
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 136
+    }
+  ]
+}

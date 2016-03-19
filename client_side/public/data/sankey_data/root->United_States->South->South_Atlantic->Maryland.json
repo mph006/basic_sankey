@@ -1,0 +1,150 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Maryland",
+  "nodes": [
+    {
+      "name": "NE Corner of Maryland"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "SE Corner of Maryland"
+    },
+    {
+      "name": "NW Corner of Maryland"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 4
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 4
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 683
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 31
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 367
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 153
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 337
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 396
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 449
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 121
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 211
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 207
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 169
+    }
+  ]
+}

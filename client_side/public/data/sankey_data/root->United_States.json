@@ -1,0 +1,193 @@
+{
+  "keyPath": "root->United_States",
+  "nodes": [
+    {
+      "name": "South"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Midwest"
+    },
+    {
+      "name": "West"
+    },
+    {
+      "name": "Northeast"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 88
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 86
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 99
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 91
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 58
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 55
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 77
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 68
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 42
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 46
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 51
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 58
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 48
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 47
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 42
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 37
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 11424
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 10685
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 12122
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 11131
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 7329
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 7031
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 9137
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 8815
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 4892
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 5564
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 6829
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 6914
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 6670
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 5551
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 5067
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 4097
+    }
+  ]
+}

@@ -25,7 +25,8 @@ csv.fromPath("../client_side/public/data/sankey.csv", {headers:true})
             lng:data.lng,
             state_quadrant:data.state_quadrant,
             county_name:data.county_name,
-            basket_price:data.basket_price
+            basket_price:data.basket_price,
+            country:data.country
         })
     })
     .on("end", function(){

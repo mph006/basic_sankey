@@ -1,0 +1,451 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic",
+  "nodes": [
+    {
+      "name": "Florida"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Virginia"
+    },
+    {
+      "name": "West Virginia"
+    },
+    {
+      "name": "Georgia"
+    },
+    {
+      "name": "Maryland"
+    },
+    {
+      "name": "North Carolina"
+    },
+    {
+      "name": "South Carolina"
+    },
+    {
+      "name": "Washington DC"
+    },
+    {
+      "name": "Puerto Rico"
+    },
+    {
+      "name": "Delaware"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 15
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 12
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 16
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 10
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 8
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 9
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 6
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 6
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 9
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 11
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 6
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 4
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 10
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 5
+    },
+    {
+      "source": 8,
+      "target": 3,
+      "value": 7
+    },
+    {
+      "source": 8,
+      "target": 4,
+      "value": 3
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 4
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 7
+    },
+    {
+      "source": 9,
+      "target": 3,
+      "value": 5
+    },
+    {
+      "source": 9,
+      "target": 4,
+      "value": 3
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 5
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 2
+    },
+    {
+      "source": 10,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 10,
+      "target": 4,
+      "value": 3
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 11,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 11,
+      "target": 4,
+      "value": 4
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 12,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 12,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 2
+    },
+    {
+      "source": 13,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 4,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2205
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1421
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1851
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 949
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1137
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 774
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1311
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 184
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 937
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 348
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1250
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1095
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 170
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 494
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 490
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 1490
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1020
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 638
+    },
+    {
+      "source": 8,
+      "target": 3,
+      "value": 1023
+    },
+    {
+      "source": 8,
+      "target": 4,
+      "value": 443
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 466
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1037
+    },
+    {
+      "source": 9,
+      "target": 3,
+      "value": 632
+    },
+    {
+      "source": 9,
+      "target": 4,
+      "value": 478
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 587
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 203
+    },
+    {
+      "source": 10,
+      "target": 3,
+      "value": 162
+    },
+    {
+      "source": 10,
+      "target": 4,
+      "value": 466
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 161
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 404
+    },
+    {
+      "source": 11,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 11,
+      "target": 4,
+      "value": 637
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 97
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 436
+    },
+    {
+      "source": 12,
+      "target": 3,
+      "value": 406
+    },
+    {
+      "source": 12,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 64
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 152
+    },
+    {
+      "source": 13,
+      "target": 3,
+      "value": 197
+    },
+    {
+      "source": 13,
+      "target": 4,
+      "value": 149
+    }
+  ]
+}

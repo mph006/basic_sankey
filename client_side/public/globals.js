@@ -1,8 +1,8 @@
 var sankey, 
 	width, 
 	height, 
-	//Unfourtunately, this must be hardcoded as we do not see the whole depth with one view's data...
-	maxDepth=5,
+	//Unfourtunately, this is hardcoded as we do not see the whole depth with one view's data
+	maxDepth=6,
 	animDuration=1000, 
 	units="Transactions",
 	color = d3.scale.category20(),

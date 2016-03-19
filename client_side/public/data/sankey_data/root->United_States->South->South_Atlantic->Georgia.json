@@ -1,0 +1,193 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Georgia",
+  "nodes": [
+    {
+      "name": "NW Corner of Georgia"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "SW Corner of Georgia"
+    },
+    {
+      "name": "SE Corner of Georgia"
+    },
+    {
+      "name": "NE Corner of Georgia"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 4
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 3
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 263
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 893
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 170
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 97
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 357
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 85
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 134
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 133
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 452
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 60
+    }
+  ]
+}

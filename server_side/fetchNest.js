@@ -5,6 +5,7 @@ module.exports = {
 
         //http://bl.ocks.org/phoebebright/raw/3176159/
         var nest = d3.nest()
+                        .key(function(d){return d.country})
                         .key(function(d){return d.region_code})
                         .key(function(d){return d.region_name})
                         .key(function(d){return d.state_name})
@@ -30,7 +31,7 @@ module.exports = {
                                 });
 
         //Dummy root node required for all hierarchial stuff
-        return partition({key:"United States", values:nest});
+        return partition({key:"root", values:nest});
         
     }
 }

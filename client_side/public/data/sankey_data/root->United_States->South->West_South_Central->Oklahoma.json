@@ -1,0 +1,193 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Oklahoma",
+  "nodes": [
+    {
+      "name": "NE Corner of Oklahoma"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "SE Corner of Oklahoma"
+    },
+    {
+      "name": "SW Corner of Oklahoma"
+    },
+    {
+      "name": "NW Corner of Oklahoma"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 125
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 379
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 486
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 386
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 45
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 218
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 410
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 338
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 243
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 71
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}
