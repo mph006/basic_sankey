@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->South->South_Atlantic->Florida",
+  "nodes": [
+    {
+      "name": "NE Corner of Florida"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "SE Corner of Florida"
+    },
+    {
+      "name": "NW Corner of Florida"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 5
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 4
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 4
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 683
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 425
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 970
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 330
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 537
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 433
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 238
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 75
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

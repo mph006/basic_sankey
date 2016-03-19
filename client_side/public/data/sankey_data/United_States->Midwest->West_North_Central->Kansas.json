@@ -1,0 +1,193 @@
+{
+  "keyPath": "United_States->Midwest->West_North_Central->Kansas",
+  "nodes": [
+    {
+      "name": "NE Corner of Kansas"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of Kansas"
+    },
+    {
+      "name": "SW Corner of Kansas"
+    },
+    {
+      "name": "SE Corner of Kansas"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 54
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 105
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 215
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 113
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 139
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 125
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 144
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 111
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 239
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 96
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 64
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

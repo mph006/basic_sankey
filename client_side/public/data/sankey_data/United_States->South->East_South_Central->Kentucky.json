@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->South->East_South_Central->Kentucky",
+  "nodes": [
+    {
+      "name": "SW Corner of Kentucky"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NE Corner of Kentucky"
+    },
+    {
+      "name": "SE Corner of Kentucky"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 225
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 382
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 340
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 80
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 457
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 227
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 209
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 189
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 23
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 79
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 194
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

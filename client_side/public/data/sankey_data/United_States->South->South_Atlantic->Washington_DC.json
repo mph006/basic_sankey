@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->South->South_Atlantic->Washington_DC",
+  "nodes": [
+    {
+      "name": "SW Corner of Washington DC"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of Washington DC"
+    },
+    {
+      "name": "SE Corner of Washington DC"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 3
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 4
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 380
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 226
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 363
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 473
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 250
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

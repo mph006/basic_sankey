@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->West->Mountain->Idaho",
+  "nodes": [
+    {
+      "name": "SW Corner of Idaho"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "SE Corner of Idaho"
+    },
+    {
+      "name": "NW Corner of Idaho"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 427
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 485
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 174
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 239
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 210
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 150
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 229
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

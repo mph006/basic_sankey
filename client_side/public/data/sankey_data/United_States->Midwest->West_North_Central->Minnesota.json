@@ -1,0 +1,193 @@
+{
+  "keyPath": "United_States->Midwest->West_North_Central->Minnesota",
+  "nodes": [
+    {
+      "name": "SW Corner of Minnesota"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of Minnesota"
+    },
+    {
+      "name": "SE Corner of Minnesota"
+    },
+    {
+      "name": "NE Corner of Minnesota"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 5
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 122
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 523
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 286
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 136
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 213
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 115
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 21
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 15
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 140
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 170
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 87
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

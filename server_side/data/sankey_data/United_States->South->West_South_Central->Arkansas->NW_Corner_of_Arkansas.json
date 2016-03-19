@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->South->West_South_Central->Arkansas->NW_Corner_of_Arkansas",
+  "nodes": [
+    {
+      "name": "Sevier County"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Benton County"
+    },
+    {
+      "name": "Crawford County"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 203
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 210
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 95
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

@@ -3,7 +3,7 @@ var app = express();
 var http = require('http');
 var bodyParser = require('body-parser');
 var path = require('path');
-
+var dataPath = '/public/data/sankey_data/';
 app.set('port', process.env.PORT || 8088);
 app.use(express['static'](path.join(__dirname, './public')));
 app.use(bodyParser.urlencoded({extended:false}));
@@ -15,15 +15,10 @@ http.createServer(app).listen(app.get('port'), function() {
 });
 
 
-// app.get('/',function(req,res){
-//     fetchResearchers(function(researchers){
-//         res.send(researchers);
-//     });
-// });
 
-
-// app.post('/enteredTime',function(req,res){
-//     inputTimeData(req.body,function(update,data){
-//         res.send({"update":update,"data":data});
-//     });
-// });
+app.post('/fetchGraph',function(req,res){
+	console.log(__dirname + dataPath + req.body.path + ".json")
+    res.sendFile(__dirname + dataPath + req.body.path + ".json",function(err){
+        if(err){res.status(err.status).end();}
+    });
+});

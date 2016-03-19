@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->Midwest->West_North_Central->North_Dakota->SE_Corner_of_North_Dakota",
+  "nodes": [
+    {
+      "name": "Stutsman County"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Sheridan County"
+    },
+    {
+      "name": "Cass County"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 15
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 193
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 112
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

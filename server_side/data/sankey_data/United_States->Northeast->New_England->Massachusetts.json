@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->Northeast->New_England->Massachusetts",
+  "nodes": [
+    {
+      "name": "NE Corner of Massachusetts"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of Massachusetts"
+    },
+    {
+      "name": "SE Corner of Massachusetts"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 3
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 4
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 589
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 239
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 135
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 361
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 210
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 21
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 37
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 167
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 117
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 206
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 15
+    }
+  ]
+}

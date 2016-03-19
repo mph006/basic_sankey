@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->West->Pacific->California",
+  "nodes": [
+    {
+      "name": "SE Corner of California"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of California"
+    },
+    {
+      "name": "SW Corner of California"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 7
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 6
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 11
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 10
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 4
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 9
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 9
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 7
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 3
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 766
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1113
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1261
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1307
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 216
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1053
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 872
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1092
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 329
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 291
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 305
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 440
+    }
+  ]
+}

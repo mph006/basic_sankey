@@ -1,0 +1,107 @@
+{
+  "keyPath": "United_States->South->East_South_Central->Alabama->SW_Corner_of_Alabama->Monroe_County",
+  "nodes": [
+    {
+      "name": "36470"
+    },
+    {
+      "name": "36481"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 131
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 207
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    }
+  ]
+}

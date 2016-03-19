@@ -80,15 +80,17 @@ function fetchRoot(d,thisRoot){
 }
 
 function ready(err,data){
-    console.log(data);
+    //console.log(data);
     //Nest the data in hierarchial fashion
-    var nest = fetchNest(data);
+    //var nest = fetchNest(data);
     //Need to save this as a global because I dont totally understand how nest works apparently
-    rootNest = nest;
-    graph = computeGraph(nest);
-    maxDepth = getDepth(nest);
+    //rootNest = nest;
+    //graph = computeGraph(nest);
+    //maxDepth = getDepth(nest);
     initializeBreadcrumbTrail();
-    updateBreadcrumbs(nest);
-    drawSankey(graph);
+    //updateBreadcrumbs(nest);
+
+    keyPath="United_States"
+    fetchGraphAndUpdate(keyPath,true);
     
 };

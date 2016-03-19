@@ -5,7 +5,7 @@ function updateSankey(graph){
         .nodePadding(8)
         .size([width, height])
         .nodes(graph.nodes)
-        .links(graph.links)
+        .links(graph.countLinks)
         .layout(32);
 
     var path = sankey.link();
@@ -34,23 +34,26 @@ function updateSankey(graph){
         
     d3.select(".links").transition().duration(animDuration).remove();
     d3.select(".nodes").transition().duration(animDuration).remove().each('end',function(){
-        appendElementsToDom(d3.select("#sankey-wrapper-svg"),sankey,path);
+        appendElementsToDom(d3.select("#sankey-wrapper-svg"),sankey,path,graph);
     });
-    console.log(root);
+    //console.log(root);
     d3.select("#sankey-title")
     .text(function(){
-        //Stupid root node issue once more
-        var updateText = (root.key)?root.key:root[0].parent.key
-        return "Checkout Conversions: "+updateText
+        return "Checkout Conversions: "+fetchParentName();
     })
 
 }
 
-function appendElementsToDom(svg,sankey,path){
+function appendElementsToDom(svg,sankey,path,graph){
+    var countTotal = 0;
+
+    graph.countLinks.forEach(function(x){
+        countTotal += x.value;
+    })
 
     var link = svg.append("g").attr("class","links")
                 .selectAll(".link")
-                .data(graph.links)
+                .data(graph.countLinks)
                 .enter().append("path")
                 .attr("class", "link")
                 .attr("d", path)
@@ -62,13 +65,9 @@ function appendElementsToDom(svg,sankey,path){
     svg.selectAll(".link").append("title")
         .attr("class","link-title")
         .text(function(d) {
-            //Stupid root issue again
-            var total = (root.value)? root.value:root[0].parent.value;
-            var levelName = (root.key)? root.key: root[0].parent.key;
-            console.log(d,d.value, total, root);
             return d.source.name + " → " + d.target.name.split("_").join(" ") + "\n" 
                     + format(d.value) + "\n" 
-                    +((d.value/total)*100).toFixed(2) +"% of "+levelName+" "+units; 
+                    +((d.value/countTotal)*100).toFixed(2) +"% of "+fetchParentName()+" "+units; 
         });
 
     // add in the nodes
@@ -138,11 +137,11 @@ function drawSankey(graph){
         .nodePadding(8)
         .size([width, height])
         .nodes(graph.nodes)
-        .links(graph.links)
+        .links(graph.countLinks)
         .layout(32);
 
     var path = sankey.link();
-    appendElementsToDom(svg,sankey,path)
+    appendElementsToDom(svg,sankey,path,graph)
     // add in the links
     
 }

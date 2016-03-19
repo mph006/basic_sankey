@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->South->South_Atlantic->North_Carolina",
+  "nodes": [
+    {
+      "name": "NE Corner of North Carolina"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of North Carolina"
+    },
+    {
+      "name": "SE Corner of North Carolina"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 6
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 6
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 5
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 933
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 647
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 979
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 83
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 388
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 621
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 512
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 115
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 148
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 67
+    }
+  ]
+}

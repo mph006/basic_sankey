@@ -1,0 +1,107 @@
+{
+  "keyPath": "United_States->South->South_Atlantic->North_Carolina->NW_Corner_of_North_Carolina->Forsyth_County",
+  "nodes": [
+    {
+      "name": "27111"
+    },
+    {
+      "name": "27130"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 171
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 105
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    }
+  ]
+}

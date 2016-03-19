@@ -43,20 +43,47 @@ function fetchPeers(data){
     return peers;
 }  
 
-getDepth = function (obj) {
-    var depth = -1;
-    //Stupid root offset again
-    if(obj.length>1){
-        obj = obj[0]
-    }
+//http://stackoverflow.com/questions/1144783/replacing-all-occurrences-of-a-string-in-javascript
+String.prototype.replaceAll = function(search, replacement) {
+    var target = this;
+    return target.replace(new RegExp(search, 'g'), replacement);
+};
 
-    if (obj.children) {
-        obj.children.forEach(function (d) {
-            var tmpDepth = getDepth(d);
-            if (tmpDepth > depth) {
-                depth = tmpDepth;
-            }
-        });
-    }
-    return 1 + depth;
+function getDepth(){
+    //Length -1 for length counting
+    return (keyPath.split("->").length-1)
 }; 
+
+function fetchParentName(){
+    var split = keyPath.split("->");
+    return (split.length ===1)?
+        "United States":
+        split[split.length-1].replaceAll("_"," ");
+}
+
+function fetchGraphAndUpdate(path,isFirstTime){
+    $.ajax({
+        method: "POST",
+        data:{path:path.replaceAll(" ","_")},
+        url: '/fetchGraph'
+    }).done(function(graph) {
+        if(isFirstTime){
+            keyPath = path;
+            drawSankey(graph)
+        }
+        else if(keyPath.length > path.length){
+            keyPath = path;
+            updateSankey(graph);
+        }
+        else{
+            keyPath = path;
+            updateSankey(graph)
+            updateBreadcrumbs();
+        }
+        
+    }).fail(function(err) {
+        console.log(err)
+    });
+
+    
+}

@@ -10,37 +10,22 @@ function breadcrumbPoints(d, i) {
   return points.join(" ");
 }
 
-function updateBreadcrumbs(element) {
+function updateBreadcrumbs() {
   b.w = (document.getElementById("breadcrumb-wrapper").offsetWidth/(maxDepth))-10;
-  //Take the root off, its redundant to list it
-  //nodeArray = nodeArray.slice(1,nodeArray.length);
 
-  //Stupid root issue again
-  if(element.length >20){
-    // element = element[0];
-    return;
-  }
+  var labelText = fetchParentName();
+  var depth = getDepth();
 
-  else if(element.length >0){
-    element = element[0].parent;
-    var i=0;
-  }
-
-  else{
-    element = element;
-    var i = element.depth;
-  }
-
+  console.log("appending: "+labelText +" at: "+depth)
   var crumb = d3.select("#trail")
-      .append("g").attr("class","crumb-wrapper").attr("id","crumb-wrapper-"+element.depth)
-      .on("click",function(){return clickedTrail(this,element);})
-      // .on("mouseover",mouseOverBreadcrumb)
-      // .on("mouseout",mouseOutBreadcrumb);
+      .append("g").attr("class","crumb-wrapper").attr("id","crumb-wrapper-"+(depth-1))
+      .on("click",function(){return clickedTrail(this,labelText);})
+
 
   crumb.append("polygon")
       .attr("points",breadcrumbPoints)
       .style("fill",function(){
-        return color(element.key.replace(/ .*/, ""));
+        return color(labelText.replace(/ .*/, ""));
       });
 
   crumb.append("text")
@@ -50,12 +35,13 @@ function updateBreadcrumbs(element) {
       .attr("text-anchor", "middle")
       .attr("class","breadcrumb-text")
       .text(function(){
-        return (element["key"].length <40)?element["key"]:element["key"].substring(0,35)+"..."
+        return (labelText.length <40)?labelText:labelText.substring(0,35)+"..."
       })
   
 
   crumb.attr("transform", function() {
-    return "translate(" + i * (b.w + b.s) + ", 0)";
+    //-2 needed for the length property of arrays and the root node "fakeness"
+    return "translate(" + (depth-1) * (b.w + b.s) + ", 0)";
   });
 
 }

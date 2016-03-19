@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->South->East_South_Central->Alabama->SW_Corner_of_Alabama",
+  "nodes": [
+    {
+      "name": "Monroe County"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Wilcox County"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 338
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 76
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 19
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0
+    }
+  ]
+}

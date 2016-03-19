@@ -1,0 +1,107 @@
+{
+  "keyPath": "United_States->South->South_Atlantic->West_Virginia->NW_Corner_of_West_Virginia",
+  "nodes": [
+    {
+      "name": "Ritchie County"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Harrison County"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 95
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 154
+    }
+  ]
+}

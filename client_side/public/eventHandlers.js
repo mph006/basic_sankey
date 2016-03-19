@@ -1,26 +1,17 @@
 function drillDown(d){
-    if(d.name === "United States"){
-        root = root.children;
-    }
-    else{
-        root = fetchRoot(d,root);        
-    }
-
-    graph = computeGraph(root);
-    updateBreadcrumbs(root);
-    //http://stackoverflow.com/questions/13603832/sankey-diagram-transition
-    updateSankey(graph);
+    fetchGraphAndUpdate(keyPath+"->"+d.name.replaceAll(" ","_"),false);
 }
 
 
 function clickedTrail(htmlElement,d){
+    
+    var split = keyPath.split("->");
+    split.splice(split.indexOf(d.replaceAll(" ","_")))
 
-    //stupid off by one again
-    root = (d.parent)?d.parent:rootNest;
-    graph = computeGraph(root);
     var id = htmlElement.id.split("-");
     var index = +id.pop();
-    for(var i=index; i<maxDepth; i++){
+    console.log(getDepth(),index)
+    for(var i=index; i<getDepth(); i++){
         d3.select("#crumb-wrapper-"+i)
             .transition()
             .duration(animDuration)
@@ -28,7 +19,7 @@ function clickedTrail(htmlElement,d){
             .remove();
     }
    
-    updateSankey(graph);
+    fetchGraphAndUpdate(split.join("->"),false)
 }
 
 function mouseOverNode(){

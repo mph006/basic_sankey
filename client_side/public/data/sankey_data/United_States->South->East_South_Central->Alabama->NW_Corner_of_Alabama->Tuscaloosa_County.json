@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->South->East_South_Central->Alabama->NW_Corner_of_Alabama->Tuscaloosa_County",
+  "nodes": [
+    {
+      "name": "35111"
+    },
+    {
+      "name": "35405"
+    },
+    {
+      "name": "35456"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 206
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 100
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 34
+    }
+  ]
+}

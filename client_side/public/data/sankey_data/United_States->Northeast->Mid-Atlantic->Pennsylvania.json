@@ -1,0 +1,193 @@
+{
+  "keyPath": "United_States->Northeast->Mid-Atlantic->Pennsylvania",
+  "nodes": [
+    {
+      "name": "SW Corner of Pennsylvania"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "SE Corner of Pennsylvania"
+    },
+    {
+      "name": "NE Corner of Pennsylvania"
+    },
+    {
+      "name": "NW Corner of Pennsylvania"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 7
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 4
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 5
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 1
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 854
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 455
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 718
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 114
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 534
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 248
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 774
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 109
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 107
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 158
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 23
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 233
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 195
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 220
+    }
+  ]
+}

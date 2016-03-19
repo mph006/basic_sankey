@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->South->West_South_Central->Oklahoma->NE_Corner_of_Oklahoma->Tulsa_County",
+  "nodes": [
+    {
+      "name": "74120"
+    },
+    {
+      "name": "74130"
+    },
+    {
+      "name": "74172"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 233
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 69
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 84
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0
+    }
+  ]
+}

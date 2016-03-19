@@ -1,0 +1,193 @@
+{
+  "keyPath": "United_States->South->West_South_Central",
+  "nodes": [
+    {
+      "name": "Texas"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Oklahoma"
+    },
+    {
+      "name": "Arkansas"
+    },
+    {
+      "name": "Louisiana"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 12
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 22
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 16
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 18
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 3
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 4
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 3
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 6
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 4
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 4
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 4
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 3
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 947
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3002
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 2253
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 3003
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 325
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 750
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 842
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 273
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 797
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 248
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "value": 421
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 239
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 307
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 693
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "value": 86
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 513
+    }
+  ]
+}

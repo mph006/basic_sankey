@@ -1,0 +1,150 @@
+{
+  "keyPath": "United_States->West->Pacific->California->SE_Corner_of_California->Tulare_County",
+  "nodes": [
+    {
+      "name": "93237"
+    },
+    {
+      "name": "93265"
+    },
+    {
+      "name": "93279"
+    },
+    {
+      "name": "Did_Not_Enter_Checkout"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0
+    }
+  ],
+  "priceLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 60
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 184
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 236
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0
+    }
+  ]
+}

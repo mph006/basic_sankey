@@ -1,6 +1,1001 @@
-session_id,duration,Completed_step1,Completed_step2,Completed_pmt,region_name,region_code,state_code,state_name,zip_code,city_name,lat,lng,state_quadrant,county_name
-0,19786,Y,N,N,West South Central,South,TX,Texas,78950,New Ulm,29.909257,-96.49617,SE Corner of Texas,Austin County
-1,286142,Y,Y,N,Pacific,West,CA,California,92112,San Diego,33.016928,-116.846046,SE Corner of California,San Diego County
-2,276103,Y,Y,Y,East North Central,Midwest,OH,Ohio,45714,Belpre,39.297622,-81.5958,SE Corner of Ohio,Washington County
-3,68692,Y,Y,N,Mountain,West,UT,Utah,84757,New Harmony,37.391483,-113.2821,SW Corner of Utah,Washington County
-4,187777,Y,Y,N,East North Central,Midwest,IL,Illinois,61744,Gridley,40.740729,-88.88791,NE Corner of Illinois,McLean County
+session_id,duration,Completed_step1,Completed_step2,Completed_pmt,region_name,region_code,state_code,state_name,zip_code,city_name,lat,lng,state_quadrant,county_name,basket_price
+0,215623,Y,Y,N,Mountain,West,ID,Idaho,83669,Star,43.697658,-116.49155,SW Corner of Idaho,Ada County,130
+1,13016,Y,Y,Y,Mountain,West,WY,Wyoming,82934,Granger,41.610852,-109.97361,SW Corner of Wyoming,Sweetwater County,91
+2,160327,Y,Y,N,Pacific,West,CA,California,95684,Somerset,38.60766,-120.5937,NW Corner of California,El Dorado County,13
+3,100276,Y,Y,Y,West South Central,South,TX,Texas,78561,Lasara,26.561287,-97.429952,SE Corner of Texas,Willacy County,33
+4,232937,Y,Y,Y,Mountain,West,ID,Idaho,83788,Boise,43.606453,-116.28116,SW Corner of Idaho,Unknown County,166
+5,68305,Y,N,N,Pacific,West,CA,California,95970,Princeton,39.415041,-122.02487,NW Corner of California,Glenn County,136
+6,46314,N,N,N,East North Central,Midwest,IL,Illinois,62043,Brushy Mound,39.213822,-89.82872,SW Corner of Illinois,Unknown County,237
+7,173285,Y,Y,Y,Mountain,West,CO,Colorado,81310,Durango,37.28211,-107.856609,SW Corner of Colorado,Unknown County,50
+8,121335,Y,Y,Y,West South Central,South,OK,Oklahoma,74130,Tulsa,36.239642,-95.95847,NE Corner of Oklahoma,Tulsa County,69
+9,88495,Y,Y,N,West North Central,Midwest,IA,Iowa,52212,Center Junction,42.115943,-91.09397,NE Corner of Iowa,Jones County,71
+10,178036,Y,Y,Y,West North Central,Midwest,KS,Kansas,66079,Rantoul,38.542788,-95.1232,NE Corner of Kansas,Franklin County,17
+11,283690,N,N,N,West North Central,Midwest,ND,North Dakota,58563,New Salem,46.909229,-101.4391,SW Corner of North Dakota,Morton County,64
+12,27881,Y,Y,N,West North Central,Midwest,SD,South Dakota,57657,Trail City,45.51978,-100.88176,NW Corner of South Dakota,Dewey County,184
+13,83669,Y,Y,Y,South Atlantic,South,FL,Florida,32936,Melbourne,28.306726,-80.686159,NE Corner of Florida,Brevard County,231
+14,162574,N,N,N,New England,Northeast,MA,Massachusetts,02199,Boston,42.34713,-71.08234,NE Corner of Massachusetts,Suffolk County,118
+15,108518,Y,Y,N,East North Central,Midwest,IL,Illinois,62865,Mulkeytown,37.963264,-89.06906,SE Corner of Illinois,Franklin County,50
+16,101072,Y,Y,Y,South Atlantic,South,VA,Virginia,24037,Roanoke,37.274175,-79.95786,SW Corner of Virginia,Roanoke City,172
+17,297686,Y,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07001,Avenel,40.578996,-74.27987,NE Corner of New Jersey,Middlesex County,194
+18,243116,Y,Y,N,West South Central,South,TX,Texas,79331,Lamesa,32.714521,-101.94086,NW Corner of Texas,Dawson County,60
+19,201544,Y,N,N,Mountain,West,MT,Montana,59761,Wisdom,45.595349,-113.61624,SW Corner of Montana,Beaverhead County,119
+20,253472,Y,N,N,South Atlantic,South,VA,Virginia,23435,Suffolk,36.84882,-76.46521,SE Corner of Virginia,Suffolk City,138
+21,185962,Y,Y,Y,West South Central,South,TX,Texas,78419,Corpus Christi,27.723611,-97.380884,SE Corner of Texas,Nueces County,242
+22,60572,Y,Y,N,East North Central,Midwest,IL,Illinois,62012,Brighton,39.038752,-90.13819,SW Corner of Illinois,Jersey County,239
+23,41213,Y,Y,N,East North Central,Midwest,IN,Indiana,47280,Taylorsville,39.296605,-85.95025,SE Corner of Indiana,Bartholomew County,147
+24,204394,Y,Y,Y,New England,Northeast,NH,New Hampshire,03305,Concord,43.2134,-71.517151,SE Corner of New Hampshire,Merrimack County,128
+25,4307,Y,Y,N,New England,Northeast,VT,Vermont,05740,East Middlebury,43.97153,-73.091416,NW Corner of Vermont,Addison County,142
+26,244500,Y,Y,N,Pacific,West,CA,California,92276,Thousand Palms,33.821318,-116.38023,SE Corner of California,Riverside County,177
+27,218740,Y,N,N,West South Central,South,TX,Texas,78757,Austin,30.349455,-97.73328,SE Corner of Texas,Travis County,193
+28,153533,N,N,N,South Atlantic,South,DC,Washington DC,20009,Washington,38.919211,-77.03777,NW Corner of Washington DC,District of Columbia,226
+29,283072,N,N,N,West North Central,Midwest,SD,South Dakota,57763,Oelrichs,43.178182,-103.22927,SW Corner of South Dakota,Fall River County,237
+30,178997,N,N,N,South Atlantic,South,SC,South Carolina,29904,Beaufort,32.390605,-80.661027,SE Corner of South Carolina,Beaufort County,202
+31,33580,N,N,N,East North Central,Midwest,IL,Illinois,60103,Bartlett,41.977477,-88.17257,NE Corner of Illinois,Dupage County,104
+32,226005,Y,N,N,Mid-Atlantic,Northeast,NY,New York,12586,Walden,41.563701,-74.1755,SE Corner of New York,Orange County,113
+33,124235,Y,Y,N,West South Central,South,TX,Texas,76097,Burleson,32.524393,-97.2609,NE Corner of Texas,Johnson County,75
+34,92242,Y,N,N,East South Central,South,TN,Tennessee,38046,La Grange,35.049339,-89.23476,NW Corner of Tennessee,Fayette County,53
+35,252492,Y,Y,N,South Atlantic,South,DC,Washington DC,20251,Washington,38.893311,-77.014647,SW Corner of Washington DC,District of Columbia,77
+36,7932,Y,Y,N,Mountain,West,MT,Montana,59722,Deer Lodge,46.392658,-112.7369,SW Corner of Montana,Powell County,211
+37,99723,Y,Y,N,East North Central,Midwest,MI,Michigan,48145,La Salle,41.846349,-83.44652,SE Corner of Michigan,Monroe County,129
+38,161811,Y,Y,Y,Pacific,West,CA,California,93552,Palmdale,34.561207,-118.0375,SE Corner of California,Los Angeles County,42
+39,175836,Y,N,N,West North Central,Midwest,MN,Minnesota,56652,Leonard,47.702771,-95.22132,NW Corner of Minnesota,Clearwater County,110
+40,233300,Y,N,N,South Atlantic,South,WV,West Virginia,25728,Huntington,38.413384,-82.277401,SW Corner of West Virginia,Cabell County,177
+41,74954,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,16645,Glen Hope,40.798959,-78.50032,SW Corner of Pennsylvania,Clearfield County,191
+42,267335,Y,N,N,East South Central,South,AL,Alabama,35242,Birmingham,33.409582,-86.69684,NE Corner of Alabama,Shelby County,39
+43,257607,Y,N,N,South Atlantic,South,GA,Georgia,30323,Atlanta,33.844371,-84.47405,NW Corner of Georgia,Unknown County,91
+44,272233,Y,Y,Y,South Atlantic,South,SC,South Carolina,29639,Due West,34.325575,-82.4023,NW Corner of South Carolina,Abbeville County,190
+45,244659,Y,Y,Y,Pacific,West,CA,California,95982,Sutter,39.16855,-121.76465,NW Corner of California,Sutter County,196
+46,46150,Y,Y,N,East North Central,Midwest,MI,Michigan,48674,Midland,43.612884,-84.197125,SE Corner of Michigan,Midland County,180
+47,198550,Y,N,N,West South Central,South,TX,Texas,78652,Manchaca,30.12848,-97.8438,SE Corner of Texas,Travis County,111
+48,30394,N,N,N,South Atlantic,South,DC,Washington DC,20082,Washington,38.893311,-77.014647,SW Corner of Washington DC,District of Columbia,189
+49,106124,Y,N,N,West South Central,South,OK,Oklahoma,74860,Paden,35.514019,-96.56969,NE Corner of Oklahoma,Okfuskee County,233
+50,13641,Y,Y,N,West North Central,Midwest,IA,Iowa,52046,Farley,42.442226,-91.00932,NE Corner of Iowa,Dubuque County,203
+51,215113,N,N,N,West South Central,South,AR,Arkansas,72125,Perry,35.056424,-92.79432,NE Corner of Arkansas,Perry County,144
+52,129650,Y,Y,N,West North Central,Midwest,IA,Iowa,52658,Wever,40.707554,-91.23415,SE Corner of Iowa,Lee County,65
+53,156084,N,N,N,East North Central,Midwest,IL,Illinois,62612,Ashland,39.891861,-90.03125,NW Corner of Illinois,Cass County,185
+54,50669,Y,Y,N,Mountain,West,NM,New Mexico,87712,Buena Vista,35.881516,-105.18498,NE Corner of New Mexico,Mora County,50
+55,63065,Y,Y,N,West North Central,Midwest,MN,Minnesota,55904,Rochester,43.988708,-92.42937,SE Corner of Minnesota,Olmsted County,140
+56,216454,Y,Y,N,East North Central,Midwest,IL,Illinois,60053,Morton Grove,42.041999,-87.78882,NE Corner of Illinois,Cook County,110
+57,198251,Y,Y,N,Mountain,West,ID,Idaho,83636,Letha,43.896275,-116.646209,SW Corner of Idaho,Gem County,182
+58,30864,Y,Y,N,South Atlantic,South,GA,Georgia,30360,Atlanta,33.934536,-84.27215,NW Corner of Georgia,Dekalb County,170
+59,43272,Y,N,N,West South Central,South,OK,Oklahoma,74120,Tulsa,36.151143,-95.97747,NE Corner of Oklahoma,Tulsa County,233
+60,223146,Y,Y,N,Pacific,West,CA,California,93237,Kaweah,36.472713,-118.902899,SE Corner of California,Tulare County,60
+61,138731,Y,Y,Y,West North Central,Midwest,MO,Missouri,65016,Bonnots Mill,38.575173,-91.90722,NE Corner of Missouri,Osage County,87
+62,23896,Y,N,N,West North Central,Midwest,KS,Kansas,67674,Walker,38.868064,-99.07886,NW Corner of Kansas,Ellis County,139
+63,169921,Y,Y,N,East South Central,South,AL,Alabama,35775,Valhermoso Springs,34.550375,-86.70576,NW Corner of Alabama,Morgan County,146
+64,136154,N,N,N,South Atlantic,South,MD,Maryland,21136,Reisterstown,39.470603,-76.81417,NE Corner of Maryland,Baltimore County,112
+65,35345,Y,Y,N,South Atlantic,South,FL,Florida,33043,Big Pine Key,24.675731,-81.34359,SE Corner of Florida,Monroe County,241
+66,17307,Y,N,N,New England,Northeast,MA,Massachusetts,02272,Watertown,42.446396,-71.459405,NE Corner of Massachusetts,Unknown County,239
+67,189794,Y,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,08362,Vineland,39.271264,-75.027671,SW Corner of New Jersey,Cumberland County,48
+68,221608,Y,N,N,East North Central,Midwest,IN,Indiana,47871,Riley,39.388638,-87.301367,SW Corner of Indiana,Vigo County,249
+69,192775,Y,N,N,South Atlantic,South,MD,Maryland,21754,Ijamsville,39.342096,-77.29984,NW Corner of Maryland,Frederick County,35
+70,189516,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,15712,Arcadia,40.786561,-78.84707,SW Corner of Pennsylvania,Indiana County,237
+71,175269,Y,N,N,New England,Northeast,ME,Maine,04652,Lubec,44.818733,-67.04996,SE Corner of Maine,Washington County,248
+72,15075,Y,Y,Y,South Atlantic,South,MD,Maryland,21862,Showell,38.39893,-75.21195,SE Corner of Maryland,Worcester County,32
+73,294124,Y,Y,N,West South Central,South,TX,Texas,78467,Corpus Christi,27.777,-97.463213,SE Corner of Texas,Nueces County,188
+74,240161,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,16614,Bakers Summit,40.262311,-78.421434,SW Corner of Pennsylvania,Unknown County,10
+75,203867,Y,Y,Y,South Atlantic,South,MD,Maryland,21055,Garrison,39.438964,-76.592139,NE Corner of Maryland,Unknown County,34
+76,82340,Y,N,N,Pacific,West,WA,Washington,99121,Danville,48.977629,-118.51457,NE Corner of Washington,Ferry County,204
+77,153205,Y,N,N,West North Central,Midwest,MO,Missouri,65332,Green Ridge,38.61917,-93.41123,NW Corner of Missouri,Pettis County,97
+78,65537,Y,Y,N,South Atlantic,South,DC,Washington DC,20071,Washington,38.893311,-77.014647,SW Corner of Washington DC,District of Columbia,149
+79,19620,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,17769,Slate Run,41.33275,-77.023601,NE Corner of Pennsylvania,Lycoming County,27
+80,219252,Y,N,N,South Atlantic,South,FL,Florida,34990,Palm City,27.163485,-80.31267,SE Corner of Florida,Martin County,220
+81,77525,Y,Y,Y,West South Central,South,TX,Texas,79735,Fort Stockton,30.877528,-102.852,SW Corner of Texas,Pecos County,236
+82,171957,N,N,N,Pacific,West,WA,Washington,98145,Seattle,47.432251,-121.803388,NW Corner of Washington,King County,28
+83,247034,N,N,N,Mid-Atlantic,Northeast,NY,New York,11753,Jericho,40.786544,-73.53675,SE Corner of New York,Nassau County,52
+84,247573,Y,Y,N,West South Central,South,TX,Texas,88568,El Paso,31.694842,-106.299987,NW Corner of Texas,El Paso County,94
+85,83775,Y,N,N,East North Central,Midwest,OH,Ohio,44404,Burghill,41.340211,-80.536,NE Corner of Ohio,Trumbull County,148
+86,72601,Y,Y,Y,South Atlantic,South,SC,South Carolina,29117,Orangeburg,33.442019,-80.797486,SE Corner of South Carolina,Orangeburg County,202
+87,240316,N,N,N,South Atlantic,South,VA,Virginia,24366,Rocky Gap,37.261609,-81.10659,SW Corner of Virginia,Bland County,227
+88,95412,N,N,N,East North Central,Midwest,OH,Ohio,44818,Bloomville,41.00811,-82.99772,NW Corner of Ohio,Seneca County,61
+89,145323,N,N,N,Mid-Atlantic,Northeast,NY,New York,13797,Lisle,42.335102,-76.02313,SW Corner of New York,Broome County,158
+90,288004,Y,N,N,West South Central,South,TX,Texas,78002,Atascosa,29.288108,-98.72878,SE Corner of Texas,Bexar County,92
+91,283919,N,N,N,West North Central,Midwest,NE,Nebraska,69129,Chappell,41.104806,-102.40905,SW Corner of Nebraska,Deuel County,147
+92,95875,Y,Y,Y,South Atlantic,South,VA,Virginia,22451,Dogue,38.271077,-77.17261,NE Corner of Virginia,King George County,113
+93,155647,N,N,N,New England,Northeast,ME,Maine,04600,Winter Harbor,44.396951,-68.081184,SE Corner of Maine,Unknown County,83
+94,154009,Y,Y,N,Mid-Atlantic,Northeast,PA,Pennsylvania,17901,Pottsville,40.68514,-76.2139,SE Corner of Pennsylvania,Schuylkill County,74
+95,219537,Y,Y,Y,South Atlantic,South,VA,Virginia,23116,Mechanicsville,37.662559,-77.36778,SE Corner of Virginia,Hanover County,219
+96,43221,Y,Y,Y,West South Central,South,TX,Texas,75901,Lufkin,31.330567,-94.68667,NE Corner of Texas,Angelina County,233
+97,57702,Y,Y,N,West South Central,South,LA,Louisiana,70892,Baton Rouge,30.51589,-91.080373,SE Corner of Louisiana,East Baton Rouge Parish,86
+98,146278,Y,Y,N,West North Central,Midwest,KS,Kansas,66851,Florence,38.228452,-96.92825,SE Corner of Kansas,Marion County,31
+99,252631,N,N,N,Mountain,West,AZ,Arizona,85670,Fort Huachuca,31.880077,-109.754263,SE Corner of Arizona,Cochise County,18
+100,251574,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,11788,Hauppauge,40.819266,-73.20967,SE Corner of New York,Suffolk County,110
+101,12266,Y,N,N,East North Central,Midwest,WI,Wisconsin,54209,Egg Harbor,45.027668,-87.28234,NE Corner of Wisconsin,Door County,87
+102,150759,Y,Y,Y,Mountain,West,AZ,Arizona,85323,Avondale,33.454441,-112.32401,SW Corner of Arizona,Maricopa County,71
+103,104980,Y,N,N,Mid-Atlantic,Northeast,NY,New York,12134,Northville,43.21892,-74.14822,NE Corner of New York,Fulton County,222
+104,203085,N,N,N,Pacific,West,WA,Washington,99343,Mesa,46.581454,-119.12107,SE Corner of Washington,Franklin County,234
+105,205364,Y,N,N,West South Central,South,TX,Texas,78475,Corpus Christi,27.777,-97.463213,SE Corner of Texas,Nueces County,114
+106,62963,N,N,N,East North Central,Midwest,MI,Michigan,48212,Hamtramck,42.410037,-83.05826,SE Corner of Michigan,Wayne County,230
+107,230587,Y,Y,N,East South Central,South,KY,Kentucky,42372,Sacramento,37.41277,-87.28063,SW Corner of Kentucky,McLean County,108
+108,136231,Y,Y,Y,South Atlantic,South,NC,North Carolina,28516,Beaufort,34.769532,-76.64783,SE Corner of North Carolina,Carteret County,67
+109,49354,N,N,N,East South Central,South,AL,Alabama,36906,Cromwell,32.004227,-88.200738,SW Corner of Alabama,Unknown County,76
+110,117527,Y,Y,N,East South Central,South,TN,Tennessee,38363,Parsons,35.66088,-88.1184,NW Corner of Tennessee,Decatur County,117
+111,32861,N,N,N,South Atlantic,South,WV,West Virginia,25057,Deep Water,38.126873,-81.25954,SW Corner of West Virginia,Fayette County,21
+112,205824,Y,Y,Y,South Atlantic,South,GA,Georgia,30736,Ringgold,34.916552,-85.14435,NW Corner of Georgia,Catoosa County,58
+113,179768,Y,N,N,West North Central,Midwest,MO,Missouri,64439,Dearborn,39.527667,-94.76577,NW Corner of Missouri,Platte County,16
+114,285232,Y,Y,Y,South Atlantic,South,VA,Virginia,22844,New Market,38.652274,-78.66417,NE Corner of Virginia,Shenandoah County,103
+115,22030,Y,Y,Y,South Atlantic,South,FL,Florida,33601,Tampa,27.996097,-82.582035,NE Corner of Florida,Hillsborough County,173
+116,46268,Y,Y,Y,East North Central,Midwest,MI,Michigan,48275,Detroit,42.239933,-83.150823,SE Corner of Michigan,Wayne County,83
+117,10241,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07950,Morris Plains,40.842399,-74.48223,NE Corner of New Jersey,Morris County,9
+118,219595,Y,Y,Y,Pacific,West,CA,California,93724,Fresno,36.746375,-119.639658,SW Corner of California,Fresno County,62
+119,169455,Y,Y,Y,East South Central,South,TN,Tennessee,37360,Normandy,35.433962,-86.26045,NW Corner of Tennessee,Bedford County,240
+120,135214,Y,Y,Y,Pacific,West,OR,Oregon,97527,Grants Pass,42.405162,-123.3624,SW Corner of Oregon,Josephine County,243
+121,127086,N,N,N,East South Central,South,TN,Tennessee,37089,La Vergne,35.859565,-86.420958,NW Corner of Tennessee,Rutherford County,230
+122,150250,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,11368,Corona,40.747106,-73.85838,SE Corner of New York,Queens County,142
+123,222724,N,N,N,South Atlantic,South,GA,Georgia,31904,Columbus,32.513391,-84.97753,SW Corner of Georgia,Muscogee County,150
+124,222259,Y,Y,Y,West South Central,South,LA,Louisiana,70091,Venice,29.277457,-89.35898,SE Corner of Louisiana,Plaquemines Parish,198
+125,84186,Y,Y,N,Pacific,West,CA,California,92084,Vista,33.213309,-117.21474,SE Corner of California,San Diego County,182
+126,265198,Y,N,N,Mid-Atlantic,Northeast,NY,New York,11557,Hewlett,40.639534,-73.69253,SE Corner of New York,Nassau County,218
+127,180478,Y,Y,Y,Mountain,West,MT,Montana,59624,Helena,46.610002,-112.062393,SW Corner of Montana,Lewis and Clark County,82
+128,55175,N,N,N,East South Central,South,AL,Alabama,36009,Brantley,31.579451,-86.3188,SE Corner of Alabama,Crenshaw County,69
+129,166436,N,N,N,West South Central,South,TX,Texas,76937,Eola,31.377623,-100.10134,NE Corner of Texas,Concho County,47
+130,290132,Y,Y,Y,Pacific,West,CA,California,92603,Irvine,33.648871,-117.764637,SE Corner of California,Orange County,19
+131,203923,Y,Y,N,East North Central,Midwest,IL,Illinois,61426,Castleton,41.118359,-89.70575,NW Corner of Illinois,Stark County,51
+132,113908,N,N,N,West South Central,South,AR,Arkansas,72526,Cushman,35.873117,-91.7544,NE Corner of Arkansas,Independence County,162
+133,7462,Y,N,N,South Atlantic,South,NC,North Carolina,28205,Charlotte,35.222406,-80.79221,NW Corner of North Carolina,Mecklenburg County,207
+134,228225,Y,N,N,South Atlantic,South,MD,Maryland,20788,Hyattsville,38.969434,-76.950913,NE Corner of Maryland,Prince George's County,181
+135,290466,N,N,N,East North Central,Midwest,IL,Illinois,62840,Frankfort Heights,37.994296,-88.941665,SE Corner of Illinois,Franklin County,118
+136,205630,Y,Y,Y,West South Central,South,TX,Texas,78535,Combes,26.245051,-97.74157,SE Corner of Texas,Cameron County,100
+137,31981,Y,N,N,West North Central,Midwest,ND,North Dakota,58642,Manning,47.151337,-102.82216,SW Corner of North Dakota,Dunn County,173
+138,213864,Y,Y,N,East North Central,Midwest,IL,Illinois,60917,Buckingham,41.04699,-88.18649,NE Corner of Illinois,Kankakee County,33
+139,144469,Y,Y,N,West South Central,South,TX,Texas,78559,La Feria,26.149453,-97.82923,SE Corner of Texas,Cameron County,147
+140,59931,N,N,N,East North Central,Midwest,WI,Wisconsin,54448,Marathon,44.935076,-89.83699,NE Corner of Wisconsin,Marathon County,138
+141,106969,Y,Y,N,West South Central,South,TX,Texas,79111,Amarillo,35.226552,-101.67875,NW Corner of Texas,Potter County,156
+142,86868,N,N,N,West South Central,South,AR,Arkansas,72319,Gosnell,35.694942,-89.966819,NE Corner of Arkansas,Mississippi County,5
+143,228501,Y,N,N,West North Central,Midwest,IA,Iowa,50177,Grinnell,41.685742,-92.532032,SE Corner of Iowa,Unknown County,97
+144,208089,N,N,N,South Atlantic,South,WV,West Virginia,25364,Charleston,38.296818,-81.554655,SW Corner of West Virginia,Kanawha County,162
+145,238347,Y,N,N,Mid-Atlantic,Northeast,NY,New York,14621,Rochester,43.185163,-77.60368,NW Corner of New York,Monroe County,183
+146,245310,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,13601,Watertown,43.976735,-75.91199,NW Corner of New York,Jefferson County,70
+147,82739,Y,N,N,West North Central,Midwest,IA,Iowa,52403,Cedar Rapids,41.982201,-91.61409,NE Corner of Iowa,Linn County,104
+148,128363,Y,Y,N,West North Central,Midwest,MN,Minnesota,56173,Steen,43.521947,-96.24301,SW Corner of Minnesota,Rock County,53
+149,208001,Y,Y,N,South Atlantic,South,FL,Florida,33090,Homestead,25.558428,-80.458168,SE Corner of Florida,Miami-Dade County,22
+150,173553,Y,N,N,East North Central,Midwest,IL,Illinois,62379,Warsaw,40.314446,-91.40638,NW Corner of Illinois,Hancock County,232
+151,224167,Y,N,N,West South Central,South,TX,Texas,88567,El Paso,31.694842,-106.299987,NW Corner of Texas,El Paso County,162
+152,116617,Y,Y,N,West South Central,South,TX,Texas,77664,Warren,30.600866,-94.40604,SE Corner of Texas,Tyler County,82
+153,211932,Y,Y,Y,East North Central,Midwest,WI,Wisconsin,54641,Mather,43.94521,-90.049489,SW Corner of Wisconsin,Juneau County,213
+154,206278,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,17110,Harrisburg,40.300738,-76.88528,SE Corner of Pennsylvania,Dauphin County,107
+155,54102,Y,Y,N,West North Central,Midwest,MO,Missouri,64401,Agency,39.627397,-94.72215,NW Corner of Missouri,Buchanan County,236
+156,294053,Y,Y,Y,East North Central,Midwest,OH,Ohio,45119,Feesburg,38.880632,-84.00874,SW Corner of Ohio,Brown County,98
+157,175365,Y,Y,N,Mountain,West,CO,Colorado,80442,Fraser,39.949217,-105.83438,NW Corner of Colorado,Grand County,9
+158,183714,Y,Y,N,Pacific,West,WA,Washington,98811,Ardenvoir,47.737028,-120.37126,NE Corner of Washington,Chelan County,67
+159,124116,Y,N,N,West South Central,South,TX,Texas,76624,Axtell,31.661554,-96.95451,NE Corner of Texas,McLennan County,135
+160,259892,Y,Y,N,Pacific,West,WA,Washington,99164,Pullman,46.838747,-117.644337,SE Corner of Washington,Whitman County,234
+161,125600,Y,Y,Y,West North Central,Midwest,KS,Kansas,67841,Ensign,37.629346,-100.22704,SW Corner of Kansas,Gray County,239
+162,56080,Y,Y,Y,Pacific,West,CA,California,95981,Strawberry Valley,39.584801,-121.08762,NW Corner of California,Plumas County,101
+163,92161,N,N,N,West North Central,Midwest,NE,Nebraska,68773,Royal,42.367457,-98.12019,NE Corner of Nebraska,Antelope County,128
+164,251009,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,18980,Wycombe,40.28083,-75.01422,SE Corner of Pennsylvania,Bucks County,183
+165,296999,Y,N,N,New England,Northeast,RI,Rhode Island,02895,Woonsocket,42.001731,-71.50722,NW Corner of Rhode Island,Providence County,194
+166,197441,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,15455,Leisenring,39.998299,-79.64333,SW Corner of Pennsylvania,Fayette County,30
+167,53825,N,N,N,South Atlantic,South,SC,South Carolina,29305,Spartanburg,35.111404,-82.105503,NW Corner of South Carolina,Spartanburg County,188
+168,67520,Y,Y,Y,South Atlantic,South,FL,Florida,34233,Sarasota,27.285142,-82.47363,SE Corner of Florida,Sarasota County,238
+169,243178,Y,Y,N,West North Central,Midwest,KS,Kansas,67854,Jetmore,38.080626,-99.96701,SW Corner of Kansas,Hodgeman County,52
+170,64951,Y,Y,Y,Pacific,West,AK,Alaska,99733,Circle,65.796306,-144.06388,NE Corner of Alaska,Yukon-Koyukuk Census Area,98
+171,12701,Y,N,N,Pacific,West,CA,California,95344,Merced,37.378234,-120.617808,NW Corner of California,Merced County,155
+172,39901,N,N,N,East North Central,Midwest,OH,Ohio,43720,Blue Rock,39.806956,-81.88179,SE Corner of Ohio,Muskingum County,114
+173,77702,N,N,N,Pacific,West,WA,Washington,98952,White Swan,46.377579,-120.7144,SE Corner of Washington,Yakima County,199
+174,39830,Y,N,N,West South Central,South,LA,Louisiana,71058,Minden,32.576948,-93.250705,NW Corner of Louisiana,Webster Parish,152
+175,241269,N,N,N,Pacific,West,CA,California,93265,Springville,36.150892,-118.76204,SE Corner of California,Tulare County,184
+176,45606,Y,Y,Y,East North Central,Midwest,OH,Ohio,43025,Hebron,39.958869,-82.49882,SE Corner of Ohio,Licking County,52
+177,278194,N,N,N,East North Central,Midwest,OH,Ohio,44613,Brewster,40.712109,-81.59859,NE Corner of Ohio,Stark County,102
+178,296448,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,15278,Pittsburgh,40.434436,-80.024817,SW Corner of Pennsylvania,Allegheny County,164
+179,268380,Y,N,N,East North Central,Midwest,MI,Michigan,48831,Elsie,43.098253,-84.37722,SE Corner of Michigan,Clinton County,71
+180,261989,Y,Y,Y,Pacific,West,CA,California,94257,Sacramento,38.377411,-121.444429,NW Corner of California,Sacramento County,184
+181,6672,Y,Y,N,Mid-Atlantic,Northeast,NJ,New Jersey,08072,Quinton,39.546172,-75.41367,SW Corner of New Jersey,Salem County,14
+182,281093,Y,Y,N,West North Central,Midwest,MO,Missouri,65281,Salisbury,39.461414,-92.80488,NW Corner of Missouri,Chariton County,101
+183,73285,Y,Y,Y,East North Central,Midwest,OH,Ohio,43791,White Cottage,39.855474,-82.11492,SE Corner of Ohio,Muskingum County,95
+184,86537,Y,Y,N,Pacific,West,OR,Oregon,97736,Frenchglen,42.727146,-119.05385,SE Corner of Oregon,Harney County,43
+185,227537,Y,N,N,Pacific,West,CA,California,96067,Mount Shasta,41.317771,-122.31207,NW Corner of California,Siskiyou County,184
+186,241265,Y,N,N,West North Central,Midwest,ND,North Dakota,58673,Dodge,47.304598,-102.203219,SW Corner of North Dakota,Unknown County,186
+187,288538,Y,N,N,South Atlantic,South,WV,West Virginia,26421,Pullman,39.183473,-80.92668,NW Corner of West Virginia,Ritchie County,95
+188,12779,Y,Y,Y,East North Central,Midwest,OH,Ohio,43439,Lacarne,41.51751,-83.04293,NW Corner of Ohio,Ottawa County,86
+189,130257,Y,Y,N,South Atlantic,South,VA,Virginia,20137,Broad Run,38.810629,-77.7057,NE Corner of Virginia,Fauquier County,62
+190,89060,Y,Y,N,East South Central,South,AL,Alabama,35550,Cordova,33.754767,-87.16587,NW Corner of Alabama,Walker County,121
+191,94278,Y,Y,N,West South Central,South,OK,Oklahoma,73644,Elk City,35.405935,-99.41658,NW Corner of Oklahoma,Beckham County,238
+192,112897,Y,N,N,Pacific,West,CA,California,96123,Ravendale,40.800556,-120.36374,NW Corner of California,Lassen County,145
+193,282069,Y,N,N,East North Central,Midwest,MI,Michigan,49924,Houghton,47.414054,-88.297959,NW Corner of Michigan,Unknown County,74
+194,188580,Y,N,N,South Atlantic,South,FL,Florida,34267,Fort Ogden,27.186146,-81.809939,SE Corner of Florida,Desoto County,73
+195,822,Y,Y,Y,East South Central,South,MS,Mississippi,39326,Daleville,32.578591,-88.66152,SE Corner of Mississippi,Lauderdale County,129
+196,52279,N,N,N,East North Central,Midwest,MI,Michigan,48708,Bay City,43.583323,-83.87869,SE Corner of Michigan,Bay County,104
+197,28690,Y,N,N,West North Central,Midwest,IA,Iowa,50671,Stanley,42.643265,-91.81038,NE Corner of Iowa,Buchanan County,241
+198,132174,N,N,N,West South Central,South,LA,Louisiana,71377,Wildsville,31.615767,-91.78713,NW Corner of Louisiana,Concordia Parish,16
+199,97946,Y,Y,N,South Atlantic,South,FL,Florida,33927,Punta Gorda,26.901981,-82.000005,SE Corner of Florida,Charlotte County,170
+200,159402,N,N,N,Mountain,West,CO,Colorado,80642,Hudson,40.060539,-104.62943,NE Corner of Colorado,Weld County,188
+201,183808,Y,Y,Y,New England,Northeast,ME,Maine,04476,Penobscot,44.444707,-68.73576,SE Corner of Maine,Hancock County,48
+202,274346,N,N,N,West North Central,Midwest,NE,Nebraska,68331,Cortland,40.481866,-96.70362,SE Corner of Nebraska,Gage County,105
+203,244825,Y,Y,N,Mountain,West,CO,Colorado,80438,Empire,39.762835,-105.71302,NW Corner of Colorado,Clear Creek County,93
+204,159009,N,N,N,West South Central,South,TX,Texas,75957,Timpson,31.902986,-94.391148,NE Corner of Texas,Unknown County,152
+205,230039,Y,Y,Y,Pacific,West,CA,California,95123,San Jose,37.244426,-121.83246,SW Corner of California,Santa Clara County,221
+206,36545,Y,Y,N,East North Central,Midwest,MI,Michigan,48733,Fairgrove,43.542822,-83.61267,SE Corner of Michigan,Tuscola County,228
+207,269937,Y,N,N,West South Central,South,LA,Louisiana,70546,Jennings,30.242533,-92.66375,SW Corner of Louisiana,Jefferson Davis Parish,188
+208,270973,Y,Y,Y,East North Central,Midwest,OH,Ohio,44216,Clinton,40.936655,-81.5981,NE Corner of Ohio,Summit County,249
+209,204909,N,N,N,West North Central,Midwest,MN,Minnesota,55415,Minneapolis,44.973415,-93.25941,SE Corner of Minnesota,Hennepin County,21
+210,4346,Y,Y,Y,East North Central,Midwest,OH,Ohio,44089,Vermilion,41.407845,-82.3648,NE Corner of Ohio,Erie County,97
+211,113557,Y,Y,Y,Mountain,West,NV,Nevada,89705,Carson City,39.091507,-119.79896,NW Corner of Nevada,Douglas County,242
+212,64945,Y,Y,Y,South Atlantic,South,SC,South Carolina,29568,Longs,33.915705,-78.74796,NE Corner of South Carolina,Horry County,125
+213,27987,N,N,N,West South Central,South,TX,Texas,77353,Magnolia,30.180626,-95.70925,SE Corner of Texas,Montgomery County,14
+214,12630,Y,N,N,Mountain,West,NM,New Mexico,88316,Capitan,33.722955,-105.41326,SE Corner of New Mexico,Lincoln County,20
+215,14010,N,N,N,West North Central,Midwest,MO,Missouri,63621,Arcadia,37.520078,-90.61694,SE Corner of Missouri,Iron County,117
+216,240497,Y,N,N,East North Central,Midwest,OH,Ohio,43910,Bloomingdale,40.361891,-80.81953,NE Corner of Ohio,Jefferson County,119
+217,220451,Y,Y,Y,East South Central,South,KY,Kentucky,42286,Trenton,36.727378,-87.26971,SW Corner of Kentucky,Todd County,80
+218,128934,Y,Y,Y,South Atlantic,South,WV,West Virginia,26574,Grant Town,39.558702,-80.17617,NE Corner of West Virginia,Marion County,213
+219,148049,Y,Y,N,East South Central,South,KY,Kentucky,42719,Campbellsville,37.337936,-85.330374,SE Corner of Kentucky,Taylor County,104
+220,59772,Y,N,N,Mountain,West,UT,Utah,84645,Mona,39.859432,-111.85402,NW Corner of Utah,Juab County,170
+221,17312,N,N,N,East North Central,Midwest,IL,Illinois,62279,Renault,38.153322,-90.13459,SW Corner of Illinois,Monroe County,58
+222,266143,Y,N,N,East South Central,South,AL,Alabama,35405,Tuscaloosa,33.149246,-87.52303,NW Corner of Alabama,Tuscaloosa County,100
+223,1307,N,N,N,West South Central,South,TX,Texas,79847,Salt Flat,31.820395,-105.30882,NW Corner of Texas,Culberson County,184
+224,247026,N,N,N,West South Central,South,LA,Louisiana,70344,Chauvin,29.385126,-90.61939,SE Corner of Louisiana,Terrebonne Parish,146
+225,93448,Y,Y,N,Pacific,West,AK,Alaska,99802,Juneau,58.405657,-134.58969,SE Corner of Alaska,City and Borough of Juneau,168
+226,267158,Y,Y,Y,South Atlantic,South,PR,Puerto Rico,00714,Arroyo,17.987288,-66.05552,SE Corner of Puerto Rico,Unknown County,53
+227,50279,Y,N,N,West North Central,Midwest,SD,South Dakota,57110,Sioux Falls,43.544375,-96.65801,SE Corner of South Dakota,Minnehaha County,27
+228,274045,N,N,N,New England,Northeast,VT,Vermont,05070,South Strafford,43.830375,-72.36228,SE Corner of Vermont,Orange County,110
+229,116191,N,N,N,East North Central,Midwest,WI,Wisconsin,54896,Winter,45.843581,-90.94323,NW Corner of Wisconsin,Sawyer County,154
+230,294121,N,N,N,East North Central,Midwest,OH,Ohio,43085,Columbus,40.097796,-83.02076,SW Corner of Ohio,Franklin County,64
+231,283764,N,N,N,West South Central,South,OK,Oklahoma,74724,Bethel,34.402346,-94.79763,SE Corner of Oklahoma,McCurtain County,134
+232,276820,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,17019,Dillsburg,40.093968,-77.02628,SE Corner of Pennsylvania,York County,83
+233,156003,Y,Y,N,South Atlantic,South,NC,North Carolina,27965,Poplar Branch,36.273428,-75.87867,NE Corner of North Carolina,Currituck County,133
+234,165295,Y,Y,Y,East North Central,Midwest,MI,Michigan,48879,Saint Johns,42.998998,-84.57704,SE Corner of Michigan,Clinton County,21
+235,249277,N,N,N,West North Central,Midwest,KS,Kansas,67020,Burrton,38.008128,-97.67008,SE Corner of Kansas,Harvey County,96
+236,297977,Y,Y,N,West South Central,South,OK,Oklahoma,73650,Hammon,35.646142,-99.38849,NW Corner of Oklahoma,Roger Mills County,140
+237,87044,Y,Y,N,West South Central,South,TX,Texas,79908,El Paso,31.912449,-106.32501,NW Corner of Texas,El Paso County,155
+238,42775,N,N,N,West North Central,Midwest,ND,North Dakota,58472,Montpelier,46.638134,-98.63923,SE Corner of North Dakota,Stutsman County,15
+239,173792,Y,N,N,New England,Northeast,NH,New Hampshire,03592,Pittsburg,45.085547,-71.30724,NE Corner of New Hampshire,Coos County,221
+240,114278,N,N,N,East North Central,Midwest,IN,Indiana,47925,Buffalo,40.882284,-86.74363,NW Corner of Indiana,White County,73
+241,221756,Y,N,N,New England,Northeast,NH,New Hampshire,03254,Moultonborough,43.712184,-71.39299,SE Corner of New Hampshire,Carroll County,143
+242,191833,Y,Y,N,Pacific,West,CA,California,94261,Sacramento,38.377411,-121.444429,NW Corner of California,Sacramento County,75
+243,175889,Y,Y,N,Pacific,West,CA,California,95842,Sacramento,38.687718,-121.349,NW Corner of California,Sacramento County,98
+244,263964,Y,N,N,South Atlantic,South,WV,West Virginia,24817,Bradshaw,37.358272,-81.8013,SW Corner of West Virginia,McDowell County,45
+245,21785,Y,Y,Y,West South Central,South,OK,Oklahoma,74328,Colcord,36.260756,-94.69267,NE Corner of Oklahoma,Unknown County,10
+246,240638,N,N,N,South Atlantic,South,DE,Delaware,19904,Dover,39.161639,-75.5587,NW Corner of Delaware,Kent County,100
+247,75136,Y,Y,Y,East North Central,Midwest,OH,Ohio,43617,Toledo,41.667361,-83.71609,NW Corner of Ohio,Lucas County,39
+248,76385,Y,N,N,West South Central,South,LA,Louisiana,70128,New Orleans,30.05031,-89.95638,SE Corner of Louisiana,Orleans Parish,194
+249,154706,N,N,N,West North Central,Midwest,MO,Missouri,65085,Westphalia,38.417602,-92.02791,NE Corner of Missouri,Osage County,234
+250,94442,Y,Y,N,West North Central,Midwest,IA,Iowa,50060,Corydon,40.756632,-93.31527,SE Corner of Iowa,Wayne County,69
+251,228661,Y,N,N,Pacific,West,CA,California,93279,Visalia,36.393615,-119.118982,SE Corner of California,Tulare County,236
+252,198411,Y,Y,N,East North Central,Midwest,IL,Illinois,61844,Fithian,40.126299,-87.86871,NE Corner of Illinois,Vermilion County,173
+253,93595,Y,N,N,Pacific,West,CA,California,92403,San Bernardino,34.839964,-115.967051,SE Corner of California,San Bernardino County,193
+254,122527,N,N,N,New England,Northeast,CT,Connecticut,06069,Sharon,41.866222,-73.46331,NW Corner of Connecticut,Litchfield County,29
+255,6183,Y,Y,N,Pacific,West,CA,California,92007,Cardiff By The Sea,33.026742,-117.27816,SE Corner of California,San Diego County,51
+256,196221,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,17249,Rockhill Furnace,40.242927,-77.90043,SW Corner of Pennsylvania,Huntingdon County,143
+257,72497,N,N,N,East South Central,South,TN,Tennessee,38135,Memphis,35.232085,-89.85214,NW Corner of Tennessee,Shelby County,204
+258,51415,Y,N,N,East North Central,Midwest,MI,Michigan,49872,Perkins,45.987113,-87.0742,NW Corner of Michigan,Delta County,129
+259,229029,Y,Y,N,Pacific,West,CA,California,94164,San Francisco,37.784827,-122.727802,NW Corner of California,San Francisco County,176
+260,91433,Y,Y,Y,Pacific,West,CA,California,91706,Baldwin Park,34.087108,-117.96966,SE Corner of California,Los Angeles County,147
+261,149963,N,N,N,Mid-Atlantic,Northeast,NY,New York,10982,Tallman,41.160945,-74.060826,SE Corner of New York,Rockland County,168
+262,262703,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,10979,Sterling Forest,41.182344,-74.318354,SE Corner of New York,Orange County,244
+263,116315,Y,N,N,Mountain,West,ID,Idaho,83262,Pingree,43.115708,-112.59511,SE Corner of Idaho,Bingham County,239
+264,209084,Y,Y,Y,Pacific,West,AK,Alaska,99720,Allakaket,66.557586,-152.6559,NE Corner of Alaska,Yukon-Koyukuk Census Area,169
+265,230819,Y,Y,N,East North Central,Midwest,IL,Illinois,62016,Carrollton,39.301561,-90.41674,SW Corner of Illinois,Greene County,31
+266,294870,Y,Y,Y,Mountain,West,WY,Wyoming,82052,Buford,41.105595,-105.3549,SE Corner of Wyoming,Albany County,31
+267,280542,N,N,N,West South Central,South,TX,Texas,79360,Seminole,32.718232,-102.73458,NW Corner of Texas,Gaines County,40
+268,212788,Y,Y,N,Mountain,West,ID,Idaho,83526,Ferdinand,46.154136,-116.40471,NW Corner of Idaho,Idaho County,229
+269,203620,N,N,N,East South Central,South,KY,Kentucky,40295,Louisville,38.188962,-85.676819,NE Corner of Kentucky,Jefferson County,208
+270,43493,N,N,N,New England,Northeast,MA,Massachusetts,01462,Lunenburg,42.582839,-71.72051,NW Corner of Massachusetts,Worcester County,79
+271,171418,N,N,N,West North Central,Midwest,IA,Iowa,52071,Saint Donatus,42.36059,-90.53879,NE Corner of Iowa,Jackson County,93
+272,145112,Y,Y,N,South Atlantic,South,WV,West Virginia,24931,Crawley,37.901788,-80.59452,SW Corner of West Virginia,Greenbrier County,199
+273,15420,Y,Y,Y,Pacific,West,CA,California,90042,Los Angeles,34.114558,-118.19233,SE Corner of California,Los Angeles County,169
+274,30933,Y,Y,Y,West North Central,Midwest,IA,Iowa,50222,Peru,41.223389,-93.94309,SW Corner of Iowa,Madison County,42
+275,205726,N,N,N,Mountain,West,MT,Montana,59471,Roy,47.377169,-108.84397,NE Corner of Montana,Fergus County,10
+276,138113,N,N,N,Mid-Atlantic,Northeast,NY,New York,13476,Vernon,43.079233,-75.5134,NE Corner of New York,Oneida County,59
+277,82713,Y,N,N,East South Central,South,AL,Alabama,35111,McCalla,33.279946,-87.10148,NW Corner of Alabama,Tuscaloosa County,206
+278,278394,Y,N,N,Pacific,West,CA,California,94061,Redwood City,37.463911,-122.23396,NW Corner of California,San Mateo County,103
+279,165556,Y,Y,N,Mountain,West,UT,Utah,84080,Vernon,40.105195,-112.31673,NW Corner of Utah,Tooele County,6
+280,164559,Y,Y,N,Mountain,West,ID,Idaho,83286,Weston,42.055593,-111.98144,SE Corner of Idaho,Franklin County,85
+281,38612,N,N,N,West South Central,South,AR,Arkansas,72105,Jones Mill,34.437118,-92.89278,NE Corner of Arkansas,Hot Spring County,181
+282,246569,N,N,N,South Atlantic,South,FL,Florida,34210,Bradenton,27.455543,-82.63372,SE Corner of Florida,Manatee County,103
+283,238093,Y,N,N,East North Central,Midwest,IN,Indiana,46283,Indianapolis,39.779492,-86.132837,SE Corner of Indiana,Marion County,160
+284,83032,Y,Y,N,Pacific,West,HI,Hawaii,96739,Keauhou,19.593456,-155.438015,SE Corner of Hawaii,Hawaii County,113
+285,143232,Y,Y,N,West North Central,Midwest,MO,Missouri,64637,Cowgill,39.575445,-93.91742,NW Corner of Missouri,Caldwell County,56
+286,226976,N,N,N,East South Central,South,TN,Tennessee,38314,Jackson,35.612405,-88.841225,NW Corner of Tennessee,Madison County,49
+287,221093,N,N,N,West North Central,Midwest,IA,Iowa,52159,Monona,43.061204,-91.37925,NE Corner of Iowa,Clayton County,217
+288,207221,Y,Y,N,South Atlantic,South,GA,Georgia,30732,Oakman,34.569015,-84.711863,NW Corner of Georgia,Gordon County,59
+289,759,Y,N,N,West South Central,South,TX,Texas,79755,Midkiff,31.608083,-101.86524,NW Corner of Texas,Upton County,59
+290,281134,N,N,N,New England,Northeast,RI,Rhode Island,02823,Fiskeville,41.7312,-71.546756,NW Corner of Rhode Island,Providence County,250
+291,241298,N,N,N,Pacific,West,CA,California,92057,Oceanside,33.240926,-117.29851,SE Corner of California,San Diego County,77
+292,237101,Y,N,N,Mountain,West,MT,Montana,59089,Wyola,45.076746,-107.44633,SE Corner of Montana,Big Horn County,208
+293,160410,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,12581,Stanfordville,41.89187,-73.69888,SE Corner of New York,Dutchess County,169
+294,280532,Y,N,N,East North Central,Midwest,IL,Illinois,62858,Louisville,38.806292,-88.48012,SE Corner of Illinois,Clay County,103
+295,75258,Y,N,N,East North Central,Midwest,IN,Indiana,47460,Spencer,39.290029,-86.77844,SW Corner of Indiana,Owen County,16
+296,210493,N,N,N,South Atlantic,South,GA,Georgia,31016,Culloden,32.861386,-84.11732,NW Corner of Georgia,Monroe County,87
+297,63598,Y,N,N,Pacific,West,CA,California,95115,San Jose,37.189396,-121.705327,SW Corner of California,Santa Clara County,100
+298,80443,Y,Y,N,East North Central,Midwest,IN,Indiana,47990,Waynetown,40.071792,-87.06369,NW Corner of Indiana,Montgomery County,236
+299,237799,N,N,N,Pacific,West,CA,California,95834,Sacramento,38.642805,-121.50466,NW Corner of California,Sacramento County,75
+300,774,Y,Y,Y,East South Central,South,AL,Alabama,35776,Woodville,34.664895,-86.23363,NE Corner of Alabama,Jackson County,40
+301,122567,Y,Y,N,West South Central,South,AR,Arkansas,72125,Perry,35.056424,-92.79432,NE Corner of Arkansas,Perry County,120
+302,167354,Y,Y,Y,West North Central,Midwest,MO,Missouri,64141,Kansas City,39.035038,-94.356728,NW Corner of Missouri,Jackson County,140
+303,29309,Y,N,N,New England,Northeast,MA,Massachusetts,01260,South Lee,42.286586,-73.313274,NW Corner of Massachusetts,Berkshire County,21
+304,192751,N,N,N,South Atlantic,South,DC,Washington DC,20500,Washington,38.894781,-77.036122,SW Corner of Washington DC,District of Columbia,81
+305,117989,N,N,N,South Atlantic,South,VA,Virginia,23529,Norfolk,36.931166,-76.23972,SE Corner of Virginia,Norfolk City,71
+306,201555,Y,Y,Y,New England,Northeast,MA,Massachusetts,02053,Medway,42.151526,-71.42315,NE Corner of Massachusetts,Norfolk County,18
+307,161385,Y,Y,Y,Pacific,West,CA,California,91719,Corona,33.735688,-117.42049,SE Corner of California,Unknown County,82
+308,142327,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,12740,Grahamsville,41.85304,-74.52915,SE Corner of New York,Sullivan County,66
+309,19965,Y,Y,Y,West South Central,South,LA,Louisiana,71425,Enterprise,31.899409,-91.91043,NW Corner of Louisiana,Catahoula Parish,116
+310,18442,N,N,N,West South Central,South,TX,Texas,88553,El Paso,31.694842,-106.299987,NW Corner of Texas,El Paso County,28
+311,40026,N,N,N,South Atlantic,South,VA,Virginia,24137,Penhook,36.947422,-79.63536,SW Corner of Virginia,Franklin County,13
+312,136751,Y,Y,N,West South Central,South,TX,Texas,79915,El Paso,31.743038,-106.36957,NW Corner of Texas,El Paso County,37
+313,281980,Y,Y,N,West South Central,South,AR,Arkansas,72658,Norfork,36.193278,-92.29362,NE Corner of Arkansas,Baxter County,10
+314,283659,Y,Y,N,New England,Northeast,NH,New Hampshire,03259,North Sandwich,43.880005,-71.39475,SE Corner of New Hampshire,Carroll County,220
+315,278511,Y,Y,N,West North Central,Midwest,SD,South Dakota,57754,Lead,44.312922,-103.83118,SW Corner of South Dakota,Lawrence County,29
+316,36603,Y,N,N,South Atlantic,South,SC,South Carolina,29634,Clemson,34.847372,-82.710126,NW Corner of South Carolina,Pickens County,61
+317,168254,Y,Y,Y,Pacific,West,CA,California,95361,Oakdale,37.776528,-120.84756,NW Corner of California,Stanislaus County,230
+318,188797,Y,Y,Y,East North Central,Midwest,IL,Illinois,60196,Schaumburg,42.056376,-88.072522,NE Corner of Illinois,Cook County,109
+319,135523,N,N,N,East South Central,South,AL,Alabama,35071,Gardendale,33.67933,-86.8206,NW Corner of Alabama,Jefferson County,105
+320,151824,Y,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07040,Maplewood,40.728901,-74.26821,NE Corner of New Jersey,Essex County,173
+321,202128,Y,N,N,West South Central,South,TX,Texas,75389,Dallas,32.767268,-96.777626,NE Corner of Texas,Dallas County,163
+322,138962,Y,N,N,Mountain,West,CO,Colorado,80222,Denver,39.669237,-104.92766,NE Corner of Colorado,Arapahoe County,157
+323,107755,N,N,N,West North Central,Midwest,MO,Missouri,65025,Clarksburg,38.662989,-92.67253,NW Corner of Missouri,Moniteau County,115
+324,58774,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,08403,Longport,39.314766,-74.52675,SE Corner of New Jersey,Atlantic County,142
+325,105155,N,N,N,Mountain,West,ID,Idaho,83212,Arbon,42.514471,-112.54626,SE Corner of Idaho,Power County,174
+326,231697,Y,Y,N,Pacific,West,CA,California,91503,Burbank,33.786594,-118.298662,SE Corner of California,Los Angeles County,57
+327,235429,Y,Y,N,West South Central,South,OK,Oklahoma,73185,Oklahoma City,35.551409,-97.407537,NE Corner of Oklahoma,Oklahoma County,110
+328,120565,N,N,N,West South Central,South,TX,Texas,76258,Pilot Point,33.385645,-96.95213,NE Corner of Texas,Denton County,11
+329,175126,Y,N,N,West North Central,Midwest,SD,South Dakota,57057,Rutland,44.102243,-96.95951,SE Corner of South Dakota,Lake County,203
+330,253518,Y,N,N,West South Central,South,TX,Texas,76022,Bedford,32.831228,-97.14593,NE Corner of Texas,Tarrant County,67
+331,297666,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,11518,East Rockaway,40.639575,-73.66703,SE Corner of New York,Nassau County,146
+332,166473,Y,Y,Y,East South Central,South,AL,Alabama,36793,Lawley,32.838805,-86.99911,NW Corner of Alabama,Bibb County,188
+333,122484,Y,Y,N,South Atlantic,South,NC,North Carolina,27283,Julian,35.936904,-79.63191,NE Corner of North Carolina,Guilford County,215
+334,217432,Y,Y,Y,East North Central,Midwest,MI,Michigan,48736,Gilford,43.49442,-83.624431,SE Corner of Michigan,Tuscola County,174
+335,163999,N,N,N,South Atlantic,South,SC,South Carolina,29624,Anderson,34.478139,-82.6455,NW Corner of South Carolina,Anderson County,72
+336,88809,Y,N,N,Mid-Atlantic,Northeast,NY,New York,12845,Lake George,43.41928,-73.70766,NE Corner of New York,Warren County,160
+337,251203,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,14205,Buffalo,42.768413,-78.887094,NW Corner of New York,Erie County,219
+338,103074,Y,Y,N,Pacific,West,CA,California,94666,Oakland,37.680181,-121.921498,NW Corner of California,Alameda County,19
+339,223756,Y,Y,N,Pacific,West,WA,Washington,98010,Black Diamond,47.317802,-122.01479,NW Corner of Washington,King County,151
+340,75010,Y,Y,N,Mid-Atlantic,Northeast,NJ,New Jersey,10004,New York,40.699226,-74.04118,NE Corner of New Jersey,New York County,226
+341,532,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,12188,Waterford,42.80535,-73.68976,NE Corner of New York,Saratoga County,93
+342,38260,N,N,N,Mountain,West,MT,Montana,59529,Hogeland,48.843446,-108.73813,NE Corner of Montana,Blaine County,145
+343,195388,Y,Y,N,South Atlantic,South,DE,Delaware,19732,Rockland,39.794496,-75.57433,NW Corner of Delaware,New Castle County,182
+344,14925,Y,Y,Y,East South Central,South,AL,Alabama,35456,Duncanville,33.068806,-87.43974,NW Corner of Alabama,Tuscaloosa County,34
+345,24988,Y,Y,N,East North Central,Midwest,IN,Indiana,47354,Losantville,40.043267,-85.20909,NE Corner of Indiana,Randolph County,102
+346,124028,N,N,N,Pacific,West,CA,California,95053,Santa Clara,37.189396,-121.705327,SW Corner of California,Santa Clara County,241
+347,185194,Y,Y,N,East North Central,Midwest,IN,Indiana,46013,Anderson,40.061092,-85.67672,NE Corner of Indiana,Madison County,105
+348,11773,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,17340,Littlestown,39.748187,-77.10806,SE Corner of Pennsylvania,Adams County,28
+349,49705,Y,N,N,South Atlantic,South,FL,Florida,32538,Paxton,30.970853,-86.311093,NW Corner of Florida,Walton County,75
+350,126074,Y,Y,Y,Mountain,West,ID,Idaho,97910,Jordan Valley,42.749306,-116.8863,SW Corner of Idaho,Malheur County,232
+351,264849,N,N,N,West North Central,Midwest,MO,Missouri,65689,Cabool,37.132577,-92.09857,SE Corner of Missouri,Texas County,221
+352,293225,Y,Y,Y,South Atlantic,South,MD,Maryland,21543,Midlothian,39.63664,-78.95027,NW Corner of Maryland,Allegany County,81
+353,115660,Y,N,N,West North Central,Midwest,MN,Minnesota,56762,Warren,48.195512,-96.74207,NW Corner of Minnesota,Marshall County,103
+354,278337,Y,N,N,New England,Northeast,CT,Connecticut,06521,New Haven,41.365709,-72.927507,SW Corner of Connecticut,New Haven County,35
+355,207727,N,N,N,Mid-Atlantic,Northeast,NY,New York,10523,Elmsford,41.057089,-73.81658,SE Corner of New York,Westchester County,200
+356,74029,Y,N,N,Pacific,West,AK,Alaska,99729,Cantwell,63.255516,-148.39873,NE Corner of Alaska,Denali Borough,173
+357,73596,N,N,N,East North Central,Midwest,OH,Ohio,43902,Alledonia,39.890564,-80.9766,SE Corner of Ohio,Belmont County,52
+358,225378,Y,Y,Y,West North Central,Midwest,IA,Iowa,50136,Keswick,41.463624,-92.26841,SE Corner of Iowa,Keokuk County,151
+359,32778,Y,N,N,South Atlantic,South,FL,Florida,33461,Lake Worth,26.621145,-80.08976,SE Corner of Florida,Palm Beach County,86
+360,128944,N,N,N,West North Central,Midwest,MO,Missouri,64490,Stewartsville,39.74226,-94.51483,NW Corner of Missouri,Dekalb County,23
+361,142797,Y,Y,N,Pacific,West,CA,California,93409,San Luis Obispo,35.221085,-120.636399,SW Corner of California,San Luis Obispo County,233
+362,200836,Y,Y,N,Mid-Atlantic,Northeast,NJ,New Jersey,07930,Chester,40.786549,-74.68799,NE Corner of New Jersey,Morris County,144
+363,106975,Y,Y,Y,Pacific,West,AK,Alaska,99835,Sitka,57.064376,-135.3227,SE Corner of Alaska,Sitka Borough,198
+364,256115,N,N,N,West South Central,South,TX,Texas,78296,San Antonio,29.437532,-98.461582,SE Corner of Texas,Bexar County,41
+365,109782,Y,Y,Y,East North Central,Midwest,IL,Illinois,62958,Makanda,37.612173,-89.17587,SE Corner of Illinois,Jackson County,12
+366,196550,Y,Y,Y,East North Central,Midwest,WI,Wisconsin,54515,Catawba,45.536545,-90.50935,NW Corner of Wisconsin,Price County,73
+367,159291,Y,N,N,South Atlantic,South,FL,Florida,32052,Jasper,30.491893,-82.94876,NE Corner of Florida,Hamilton County,32
+368,94767,Y,N,N,South Atlantic,South,NC,North Carolina,28021,Cherryville,35.383935,-81.39368,NW Corner of North Carolina,Gaston County,81
+369,289287,N,N,N,East North Central,Midwest,OH,Ohio,43160,Washington Court House,39.533002,-83.43905,SW Corner of Ohio,Fayette County,188
+370,74995,N,N,N,New England,Northeast,ME,Maine,04677,Sorrento,44.482607,-68.18185,SE Corner of Maine,Hancock County,184
+371,235493,Y,Y,N,South Atlantic,South,NC,North Carolina,27130,Winston Salem,36.027482,-80.20728,NW Corner of North Carolina,Forsyth County,105
+372,155598,N,N,N,West North Central,Midwest,IA,Iowa,52630,Hillsboro,40.823716,-91.74754,SE Corner of Iowa,Henry County,211
+373,137297,N,N,N,South Atlantic,South,SC,South Carolina,29494,Hollywood,32.727638,-80.24773,SE Corner of South Carolina,Unknown County,174
+374,9246,Y,Y,Y,East North Central,Midwest,IL,Illinois,61363,Standard,41.25645,-89.17901,NE Corner of Illinois,Putnam County,131
+375,57269,Y,N,N,East North Central,Midwest,MI,Michigan,49917,Copper City,47.283086,-88.38434,NW Corner of Michigan,Houghton County,198
+376,285229,N,N,N,East North Central,Midwest,MI,Michigan,49853,McMillan,46.301265,-85.72321,NE Corner of Michigan,Luce County,223
+377,101193,Y,Y,N,West North Central,Midwest,SD,South Dakota,57342,Geddes,43.257067,-98.69907,SE Corner of South Dakota,Charles Mix County,100
+378,243736,Y,Y,Y,East North Central,Midwest,OH,Ohio,45381,West Alexandria,39.730506,-84.53052,SW Corner of Ohio,Preble County,101
+379,93524,Y,Y,N,East North Central,Midwest,IL,Illinois,60513,Brookfield,41.822681,-87.84753,NE Corner of Illinois,Cook County,50
+380,183438,N,N,N,Pacific,West,CA,California,92587,Sun City,33.692876,-117.25038,SE Corner of California,Riverside County,19
+381,258780,Y,N,N,South Atlantic,South,FL,Florida,33844,Haines City,28.101527,-81.6235,NE Corner of Florida,Polk County,125
+382,223644,N,N,N,South Atlantic,South,DC,Washington DC,20277,Washington,38.893311,-77.014647,SW Corner of Washington DC,District of Columbia,110
+383,126159,Y,Y,Y,South Atlantic,South,DC,Washington DC,20426,Washington,38.893311,-77.014647,SW Corner of Washington DC,District of Columbia,72
+384,225410,Y,Y,N,Mountain,West,AZ,Arizona,85911,Cibecue,34.102913,-110.55639,SE Corner of Arizona,Navajo County,170
+385,141227,Y,Y,N,South Atlantic,South,FL,Florida,32833,Orlando,28.511879,-81.09078,NE Corner of Florida,Orange County,91
+386,292470,Y,N,N,South Atlantic,South,SC,South Carolina,29585,Pawleys Island,33.467343,-79.1301,SE Corner of South Carolina,Georgetown County,85
+387,23438,N,N,N,West South Central,South,OK,Oklahoma,73165,Oklahoma City,35.338689,-97.36747,SE Corner of Oklahoma,Cleveland County,107
+388,224967,Y,Y,N,West North Central,Midwest,IA,Iowa,50541,Gilmore City,42.71032,-94.45293,NW Corner of Iowa,Humboldt County,126
+389,171782,Y,Y,N,West South Central,South,TX,Texas,75359,Dallas,32.767268,-96.777626,NE Corner of Texas,Dallas County,209
+390,124955,Y,Y,Y,West North Central,Midwest,MO,Missouri,65732,Preston,37.93345,-93.17887,SW Corner of Missouri,Hickory County,17
+391,197738,N,N,N,East South Central,South,KY,Kentucky,41031,Cynthiana,38.397678,-84.2939,NE Corner of Kentucky,Harrison County,213
+392,258924,Y,N,N,South Atlantic,South,NC,North Carolina,27560,Morrisville,35.846363,-78.83866,NE Corner of North Carolina,Wake County,148
+393,31453,Y,N,N,East South Central,South,AL,Alabama,36275,Spring Garden,33.977829,-85.552143,NE Corner of Alabama,Cherokee County,206
+394,13460,N,N,N,New England,Northeast,MA,Massachusetts,01114,Springfield,42.170731,-72.604842,NW Corner of Massachusetts,Unknown County,131
+395,144437,N,N,N,East North Central,Midwest,OH,Ohio,44026,Chesterland,41.526301,-81.33683,NE Corner of Ohio,Geauga County,118
+396,16885,Y,Y,N,West North Central,Midwest,NE,Nebraska,68463,Weeping Water,40.87142,-96.14188,SE Corner of Nebraska,Cass County,159
+397,227168,Y,Y,N,East North Central,Midwest,OH,Ohio,43414,Dunbridge,41.39235,-83.648996,NW Corner of Ohio,Wood County,182
+398,53181,N,N,N,South Atlantic,South,MD,Maryland,21682,Ridgely,38.88927,-75.861191,NE Corner of Maryland,Caroline County,22
+399,71907,N,N,N,Pacific,West,CA,California,95424,Clearlake Park,38.971518,-122.66423,NW Corner of California,Lake County,9
+400,231475,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,15558,Salisbury,39.742872,-79.0868,SW Corner of Pennsylvania,Somerset County,213
+401,250188,Y,N,N,Mountain,West,NV,Nevada,89195,Las Vegas,35.927901,-114.972061,SE Corner of Nevada,Clark County,225
+402,145624,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,12980,Saint Regis Falls,44.63091,-74.53721,NE Corner of New York,Franklin County,149
+403,151393,Y,Y,N,South Atlantic,South,VA,Virginia,24327,Emory,36.773659,-81.82771,SW Corner of Virginia,Washington County,32
+404,228707,Y,N,N,Pacific,West,CA,California,95720,Kyburz,38.771209,-120.26765,NW Corner of California,El Dorado County,100
+405,219354,Y,Y,Y,South Atlantic,South,SC,South Carolina,29536,Dillon,34.413907,-79.36512,NE Corner of South Carolina,Dillon County,67
+406,217490,Y,Y,N,South Atlantic,South,DC,Washington DC,20020,Washington,38.863079,-76.97138,SE Corner of Washington DC,District of Columbia,250
+407,198197,N,N,N,West North Central,Midwest,MO,Missouri,65042,High Point,38.674914,-92.610941,NW Corner of Missouri,Moniteau County,53
+408,162571,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,19503,Bally,40.401044,-75.58836,SE Corner of Pennsylvania,Berks County,238
+409,93080,Y,Y,Y,West South Central,South,TX,Texas,77266,Houston,29.83399,-95.434241,SE Corner of Texas,Harris County,178
+410,2448,Y,N,N,South Atlantic,South,GA,Georgia,30139,Fairmount,34.434629,-84.70133,NW Corner of Georgia,Gordon County,211
+411,87653,Y,Y,Y,West North Central,Midwest,KS,Kansas,66615,Topeka,39.067174,-95.88115,NE Corner of Kansas,Shawnee County,65
+412,119927,Y,Y,N,South Atlantic,South,GA,Georgia,30021,Clarkston,33.809604,-84.2387,NW Corner of Georgia,Dekalb County,93
+413,191865,Y,Y,N,South Atlantic,South,GA,Georgia,31501,Waycross,31.220059,-82.35133,SE Corner of Georgia,Ware County,163
+414,171000,Y,Y,N,West North Central,Midwest,MO,Missouri,65739,Ridgedale,36.531361,-93.28199,SW Corner of Missouri,Taney County,99
+415,188898,Y,Y,N,Mountain,West,MT,Montana,59453,Judith Gap,46.678858,-109.64119,SE Corner of Montana,Wheatland County,85
+416,57580,Y,Y,Y,South Atlantic,South,DC,Washington DC,20544,Washington,38.893311,-77.014647,SW Corner of Washington DC,District of Columbia,14
+417,179429,Y,N,N,Mountain,West,CO,Colorado,80536,Livermore,40.878334,-105.40415,NE Corner of Colorado,Larimer County,186
+418,176804,Y,Y,Y,East North Central,Midwest,OH,Ohio,43119,Galloway,39.939871,-83.1667,SW Corner of Ohio,Franklin County,228
+419,186928,Y,Y,Y,West North Central,Midwest,SD,South Dakota,57700,Rapid City,44.090788,-103.284511,SW Corner of South Dakota,Unknown County,136
+420,173762,N,N,N,South Atlantic,South,DC,Washington DC,20251,Washington,38.893311,-77.014647,SW Corner of Washington DC,District of Columbia,162
+421,94478,Y,Y,N,West North Central,Midwest,NE,Nebraska,68331,Cortland,40.481866,-96.70362,SE Corner of Nebraska,Gage County,198
+422,95439,Y,Y,N,South Atlantic,South,MD,Maryland,21652,Neavitt,38.795102,-76.152762,SE Corner of Maryland,Talbot County,88
+423,80000,Y,N,N,South Atlantic,South,FL,Florida,32127,Daytona Beach,29.116361,-80.98175,NE Corner of Florida,Volusia County,197
+424,151825,N,N,N,New England,Northeast,NH,New Hampshire,03070,New Boston,42.978267,-71.69414,SW Corner of New Hampshire,Hillsborough County,207
+425,30569,Y,Y,N,Mid-Atlantic,Northeast,NJ,New Jersey,07102,Newark,40.735257,-74.17326,NE Corner of New Jersey,Essex County,40
+426,60693,Y,Y,N,Pacific,West,CA,California,95977,Smartville,39.19322,-121.28975,NW Corner of California,Yuba County,8
+427,235414,Y,Y,Y,South Atlantic,South,FL,Florida,34778,Winter Garden,28.566338,-81.260818,NE Corner of Florida,Orange County,143
+428,247824,Y,Y,N,South Atlantic,South,DE,Delaware,19964,Marydel,39.098772,-75.73943,SW Corner of Delaware,Kent County,95
+429,187270,Y,Y,Y,New England,Northeast,CT,Connecticut,06401,Ansonia,41.34269,-73.07446,SW Corner of Connecticut,New Haven County,79
+430,55871,N,N,N,East North Central,Midwest,MI,Michigan,48622,Farwell,43.840787,-84.86734,SE Corner of Michigan,Clare County,221
+431,46648,Y,N,N,Pacific,West,CA,California,92403,San Bernardino,34.839964,-115.967051,SE Corner of California,San Bernardino County,183
+432,162642,Y,Y,N,Mountain,West,AZ,Arizona,86551,Big Park,34.780464,-111.759944,NE Corner of Arizona,Unknown County,235
+433,48189,Y,N,N,New England,Northeast,VT,Vermont,05663,Northfield,44.141056,-72.66443,NW Corner of Vermont,Washington County,122
+434,110941,N,N,N,West South Central,South,TX,Texas,76934,Carlsbad,31.603027,-100.65431,NW Corner of Texas,Tom Green County,189
+435,134651,N,N,N,Mountain,West,CO,Colorado,80816,Florissant,38.876897,-105.30711,SE Corner of Colorado,Teller County,82
+436,240552,Y,Y,Y,West South Central,South,TX,Texas,78595,Sullivan City,26.272363,-98.5587,SE Corner of Texas,Hidalgo County,199
+437,251807,Y,Y,N,West North Central,Midwest,KS,Kansas,66951,Kensington,39.792636,-99.03877,NW Corner of Kansas,Smith County,125
+438,5806,Y,N,N,East North Central,Midwest,OH,Ohio,43541,Milton Center,41.301347,-83.82923,NW Corner of Ohio,Wood County,179
+439,99445,Y,Y,Y,West South Central,South,AR,Arkansas,71613,Pine Bluff,34.157876,-92.071284,NE Corner of Arkansas,Jefferson County,239
+440,22307,Y,Y,N,East North Central,Midwest,IN,Indiana,46516,Elkhart,41.676899,-85.96044,NE Corner of Indiana,Elkhart County,13
+441,116923,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,15851,Reynoldsville,41.095493,-78.88994,NW Corner of Pennsylvania,Jefferson County,220
+442,84170,Y,Y,N,Mountain,West,AZ,Arizona,85375,Sun City West,33.683352,-112.36474,SW Corner of Arizona,Maricopa County,47
+443,69577,N,N,N,South Atlantic,South,VA,Virginia,24150,Ripplemead,37.351691,-80.67726,SW Corner of Virginia,Giles County,174
+444,252001,N,N,N,South Atlantic,South,VA,Virginia,24477,Stuarts Draft,38.01473,-79.02733,NE Corner of Virginia,Augusta County,135
+445,263094,Y,N,N,East North Central,Midwest,IL,Illinois,60305,River Forest,41.893031,-87.81718,NE Corner of Illinois,Cook County,228
+446,145213,N,N,N,New England,Northeast,MA,Massachusetts,02332,Duxbury,42.031371,-70.70105,SE Corner of Massachusetts,Plymouth County,117
+447,5320,Y,N,N,East South Central,South,AL,Alabama,35236,Birmingham,33.544622,-86.929208,NW Corner of Alabama,Jefferson County,213
+448,180588,Y,Y,Y,Mountain,West,CO,Colorado,80243,Denver,39.738752,-104.408349,NE Corner of Colorado,Denver County,38
+449,240446,Y,N,N,West North Central,Midwest,MN,Minnesota,55024,Farmington,44.649263,-93.15222,SE Corner of Minnesota,Dakota County,15
+450,84686,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,15010,Beaver Falls,40.763899,-80.33572,SW Corner of Pennsylvania,Beaver County,42
+451,76954,Y,Y,N,West North Central,Midwest,NE,Nebraska,68135,Omaha,41.203791,-96.17862,SE Corner of Nebraska,Douglas County,199
+452,95757,Y,N,N,South Atlantic,South,FL,Florida,32791,Longwood,28.744752,-81.22328,NE Corner of Florida,Seminole County,92
+453,52643,Y,N,N,Pacific,West,OR,Oregon,97324,Alsea,44.369264,-123.62349,NW Corner of Oregon,Benton County,52
+454,30139,N,N,N,East South Central,South,AL,Alabama,35061,Dolomite,33.462541,-86.95736,NW Corner of Alabama,Jefferson County,159
+455,267762,N,N,N,West North Central,Midwest,IA,Iowa,52136,Cresco,43.382021,-92.10263,NE Corner of Iowa,Howard County,161
+456,285970,N,N,N,South Atlantic,South,DE,Delaware,19970,Ocean View,38.55044,-75.09928,SE Corner of Delaware,Sussex County,189
+457,292870,N,N,N,Pacific,West,WA,Washington,99536,Kennewick,46.216706,-119.160173,SE Corner of Washington,Unknown County,19
+458,109154,Y,Y,Y,South Atlantic,South,WV,West Virginia,24976,Sinks Grove,37.667594,-80.54184,SW Corner of West Virginia,Monroe County,25
+459,170556,Y,Y,Y,Mid-Atlantic,Northeast,NJ,New Jersey,07709,Allenhurst,40.302718,-74.24928,NE Corner of New Jersey,Monmouth County,26
+460,106966,Y,Y,N,West North Central,Midwest,MO,Missouri,63557,New Boston,39.963355,-92.88684,NW Corner of Missouri,Linn County,21
+461,220778,N,N,N,Mid-Atlantic,Northeast,NY,New York,14127,Orchard Park,42.759917,-78.75294,NW Corner of New York,Erie County,65
+462,63213,Y,Y,Y,East North Central,Midwest,WI,Wisconsin,53027,Hartford,43.313361,-88.37332,SE Corner of Wisconsin,Washington County,33
+463,70323,N,N,N,West South Central,South,TX,Texas,78655,Martindale,29.838163,-97.84178,SE Corner of Texas,Caldwell County,16
+464,267006,N,N,N,West North Central,Midwest,MO,Missouri,64723,Amsterdam,38.363183,-94.57551,NW Corner of Missouri,Bates County,226
+465,220337,Y,Y,N,Pacific,West,CA,California,95157,San Jose,37.189396,-121.705327,SW Corner of California,Santa Clara County,72
+466,87777,Y,Y,N,Mountain,West,CO,Colorado,80728,Fleming,40.620805,-102.84813,NE Corner of Colorado,Logan County,10
+467,118811,Y,N,N,South Atlantic,South,FL,Florida,32828,Orlando,28.542132,-81.18404,NE Corner of Florida,Orange County,237
+468,163577,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,16864,Orviston,41.105537,-77.75273,NW Corner of Pennsylvania,Centre County,233
+469,87128,Y,Y,N,Pacific,West,CA,California,95946,Penn Valley,39.207828,-121.20021,NW Corner of California,Nevada County,154
+470,174351,Y,Y,N,Mountain,West,ID,Idaho,83251,Mackay,43.969772,-113.74907,SE Corner of Idaho,Custer County,105
+471,220978,Y,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,08032,Grenloch,39.781264,-75.0609,SW Corner of New Jersey,Gloucester County,154
+472,8539,N,N,N,East North Central,Midwest,WI,Wisconsin,54563,Tony,45.477056,-90.98354,NW Corner of Wisconsin,Rusk County,120
+473,237739,Y,N,N,West South Central,South,TX,Texas,77029,Houston,29.760794,-95.26043,SE Corner of Texas,Harris County,31
+474,125345,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,15767,Punxsutawney,40.954059,-78.97017,SW Corner of Pennsylvania,Jefferson County,75
+475,246530,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,12961,Moriah Center,44.061849,-73.58384,NE Corner of New York,Essex County,167
+476,149443,Y,Y,Y,West North Central,Midwest,SD,South Dakota,57375,Stickney,43.556293,-98.46986,SE Corner of South Dakota,Aurora County,111
+477,148529,N,N,N,South Atlantic,South,FL,Florida,34265,Arcadia,27.186146,-81.809939,SE Corner of Florida,Desoto County,83
+478,241681,Y,N,N,West North Central,Midwest,MO,Missouri,63660,Mineral Point,37.913799,-90.71264,SE Corner of Missouri,Washington County,164
+479,267107,N,N,N,South Atlantic,South,VA,Virginia,22460,Farnham,37.858952,-76.63263,SE Corner of Virginia,Richmond County,108
+480,47246,Y,N,N,West South Central,South,TX,Texas,75443,Gober,33.469719,-96.111103,NE Corner of Texas,Fannin County,239
+481,131109,N,N,N,Mid-Atlantic,Northeast,NY,New York,11705,Bayport,40.74485,-73.055,SE Corner of New York,Suffolk County,191
+482,5479,Y,Y,Y,Mountain,West,AZ,Arizona,85532,Claypool,33.415409,-110.814893,SE Corner of Arizona,Gila County,174
+483,291835,N,N,N,West North Central,Midwest,SD,South Dakota,57566,Parmelee,43.321116,-101.05768,SW Corner of South Dakota,Todd County,228
+484,208836,Y,N,N,Pacific,West,CA,California,95471,Rio Nido,38.522499,-122.97967,NW Corner of California,Sonoma County,53
+485,249372,Y,Y,N,Pacific,West,CA,California,96079,Shasta Lake,40.686639,-122.334778,NW Corner of California,Shasta County,206
+486,279738,Y,Y,Y,South Atlantic,South,GA,Georgia,30337,Atlanta,33.646984,-84.4538,NW Corner of Georgia,Fulton County,16
+487,61010,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,15725,Clarksburg,40.518067,-79.34538,SW Corner of Pennsylvania,Indiana County,71
+488,71554,Y,Y,N,Mid-Atlantic,Northeast,PA,Pennsylvania,17268,Waynesboro,39.766281,-77.57241,SE Corner of Pennsylvania,Franklin County,174
+489,122463,Y,Y,N,Mid-Atlantic,Northeast,NJ,New Jersey,08108,Collingswood,39.915263,-75.06401,SW Corner of New Jersey,Camden County,215
+490,115825,N,N,N,South Atlantic,South,VA,Virginia,23220,Richmond,37.549396,-77.45739,SE Corner of Virginia,Richmond City,225
+491,278023,Y,N,N,West North Central,Midwest,IA,Iowa,50155,Macksburg,41.210955,-94.18994,SW Corner of Iowa,Madison County,60
+492,266066,N,N,N,West North Central,Midwest,KS,Kansas,67659,Penokee,39.301053,-99.98755,NW Corner of Kansas,Graham County,68
+493,18902,Y,Y,Y,West North Central,Midwest,SD,South Dakota,57522,Blunt,44.500958,-99.99188,SE Corner of South Dakota,Hughes County,86
+494,9506,Y,N,N,East North Central,Midwest,IN,Indiana,46211,Indianapolis,39.779492,-86.132837,SE Corner of Indiana,Marion County,85
+495,210802,Y,N,N,Mountain,West,CO,Colorado,81428,Paonia,38.877695,-107.58799,SW Corner of Colorado,Delta County,218
+496,146492,Y,N,N,East South Central,South,KY,Kentucky,40383,Versailles,38.042639,-84.73189,NE Corner of Kentucky,Woodford County,227
+497,207586,N,N,N,Mountain,West,AZ,Arizona,86302,Prescott,34.574921,-112.491528,NW Corner of Arizona,Yavapai County,224
+498,186479,Y,N,N,Mid-Atlantic,Northeast,NY,New York,12472,Rosendale,41.846938,-74.07602,SE Corner of New York,Ulster County,163
+499,291295,Y,N,N,West South Central,South,TX,Texas,78146,Pettus,28.615464,-97.81591,SE Corner of Texas,Bee County,84
+500,251821,Y,Y,Y,Pacific,West,AK,Alaska,99647,Pedro Bay,59.781241,-154.10833,SW Corner of Alaska,Lake and Peninsula Borough,15
+501,223366,N,N,N,South Atlantic,South,GA,Georgia,30907,Augusta,33.512541,-82.09491,NE Corner of Georgia,Columbia County,193
+502,283339,Y,N,N,Mountain,West,MT,Montana,59001,Absarokee,45.522248,-109.48875,SE Corner of Montana,Stillwater County,182
+503,120431,Y,Y,N,South Atlantic,South,FL,Florida,32238,Jacksonville,30.34494,-81.683107,NE Corner of Florida,Duval County,104
+504,41114,Y,N,N,South Atlantic,South,NC,North Carolina,27605,Raleigh,35.788284,-78.65316,NE Corner of North Carolina,Wake County,44
+505,225370,Y,N,N,West South Central,South,AR,Arkansas,72578,Sturkie,36.479925,-91.8863,NE Corner of Arkansas,Fulton County,36
+506,51692,N,N,N,East North Central,Midwest,MI,Michigan,49097,Vicksburg,42.117028,-85.5073,SE Corner of Michigan,Kalamazoo County,207
+507,274266,Y,Y,N,South Atlantic,South,FL,Florida,32666,Melrose,29.733375,-82.01048,NE Corner of Florida,Putnam County,124
+508,224266,Y,Y,N,New England,Northeast,MA,Massachusetts,02714,Dartmouth,41.756214,-71.067062,SE Corner of Massachusetts,Bristol County,206
+509,195381,N,N,N,East South Central,South,AL,Alabama,36470,Perdue Hill,31.514262,-87.50401,SW Corner of Alabama,Monroe County,131
+510,131625,Y,Y,Y,Mountain,West,UT,Utah,84062,Pleasant Grove,40.38584,-111.73333,NW Corner of Utah,Utah County,173
+511,42697,Y,Y,Y,South Atlantic,South,GA,Georgia,31808,Fortson,32.638885,-85.00736,SW Corner of Georgia,Harris County,147
+512,5441,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07021,Essex Fells,40.827499,-74.28091,NE Corner of New Jersey,Essex County,36
+513,264888,Y,N,N,West South Central,South,TX,Texas,75670,Marshall,32.547424,-94.37958,NE Corner of Texas,Harrison County,157
+514,172364,Y,N,N,South Atlantic,South,VA,Virginia,22663,White Post,39.045019,-78.12417,NE Corner of Virginia,Clarke County,71
+515,264112,Y,Y,N,Pacific,West,CA,California,90053,Los Angeles,33.786594,-118.298662,SE Corner of California,Los Angeles County,237
+516,282103,Y,Y,N,West North Central,Midwest,IA,Iowa,50219,Pella,41.411394,-92.91126,SE Corner of Iowa,Marion County,183
+517,142015,N,N,N,East North Central,Midwest,OH,Ohio,44432,Lisbon,40.757793,-80.7642,NE Corner of Ohio,Columbiana County,144
+518,130737,Y,N,N,East North Central,Midwest,OH,Ohio,45891,Van Wert,40.874092,-84.57871,NW Corner of Ohio,Van Wert County,37
+519,93781,Y,N,N,West South Central,South,OK,Oklahoma,73532,Duke,34.649815,-99.55555,SW Corner of Oklahoma,Jackson County,121
+520,199246,Y,N,N,East North Central,Midwest,OH,Ohio,43320,Edison,40.583666,-82.88443,NW Corner of Ohio,Morrow County,49
+521,225987,Y,N,N,East North Central,Midwest,IL,Illinois,60431,Joliet,41.52493,-88.19022,NE Corner of Illinois,Will County,223
+522,176390,Y,Y,Y,Pacific,West,CA,California,95547,Hydesville,40.546202,-124.08412,NW Corner of California,Humboldt County,81
+523,292056,Y,N,N,South Atlantic,South,NC,North Carolina,27820,Conway,36.416472,-77.23117,NE Corner of North Carolina,Northampton County,124
+524,47932,N,N,N,Mid-Atlantic,Northeast,NY,New York,13318,Cassville,42.937739,-75.24946,NE Corner of New York,Oneida County,192
+525,128322,N,N,N,East North Central,Midwest,MI,Michigan,49286,Tecumseh,42.012268,-83.93878,SE Corner of Michigan,Lenawee County,8
+526,136892,N,N,N,Mountain,West,CO,Colorado,80061,Westminster,39.862286,-105.072049,NE Corner of Colorado,Unknown County,136
+527,145584,Y,Y,Y,West North Central,Midwest,IA,Iowa,52213,Center Point,42.193727,-91.7792,NE Corner of Iowa,Linn County,95
+528,127036,Y,N,N,East North Central,Midwest,IL,Illinois,61442,Keithsburg,41.092081,-90.92743,NW Corner of Illinois,Mercer County,43
+529,121968,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07738,Lincroft,40.337374,-74.12059,NE Corner of New Jersey,Monmouth County,236
+530,248111,Y,Y,N,South Atlantic,South,NC,North Carolina,27111,Winston Salem,36.027482,-80.20728,NW Corner of North Carolina,Forsyth County,171
+531,223139,N,N,N,West North Central,Midwest,NE,Nebraska,68873,Saint Paul,41.230069,-98.47449,SE Corner of Nebraska,Howard County,107
+532,47322,N,N,N,Mid-Atlantic,Northeast,NY,New York,13053,Dryden,42.483348,-76.27901,SW Corner of New York,Tompkins County,88
+533,191322,N,N,N,East North Central,Midwest,WI,Wisconsin,53197,Walworth,42.566752,-88.56557,SE Corner of Wisconsin,Unknown County,14
+534,19590,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,19096,Wynnewood,39.992345,-75.27624,SE Corner of Pennsylvania,Montgomery County,166
+535,129749,Y,N,N,South Atlantic,South,NC,North Carolina,27979,Sunbury,36.440509,-76.60411,NE Corner of North Carolina,Gates County,142
+536,30059,Y,Y,Y,East North Central,Midwest,WI,Wisconsin,53404,Racine,42.743169,-87.80534,SE Corner of Wisconsin,Racine County,14
+537,112527,N,N,N,West North Central,Midwest,MN,Minnesota,56553,Kent,46.434718,-96.62429,NW Corner of Minnesota,Wilkin County,136
+538,239500,N,N,N,East South Central,South,AL,Alabama,36481,Vredenburgh,31.821448,-87.34313,SW Corner of Alabama,Monroe County,207
+539,128543,Y,Y,N,New England,Northeast,MA,Massachusetts,01901,Lynn,42.461246,-70.946743,NE Corner of Massachusetts,Essex County,22
+540,226515,N,N,N,East North Central,Midwest,IL,Illinois,62223,Belleville,38.55615,-90.05078,SW Corner of Illinois,St Clair County,200
+541,199801,Y,Y,N,East South Central,South,TN,Tennessee,37950,Knoxville,35.990142,-83.96218,NE Corner of Tennessee,Knox County,113
+542,291368,N,N,N,East South Central,South,TN,Tennessee,37877,Talbott,36.154381,-83.40946,NE Corner of Tennessee,Hamblen County,70
+543,25262,Y,N,N,Pacific,West,CA,California,95938,Durham,39.624259,-121.79152,NW Corner of California,Butte County,10
+544,132910,Y,N,N,Mountain,West,UT,Utah,84025,Farmington,40.988347,-111.88847,NW Corner of Utah,Davis County,233
+545,198430,Y,Y,N,East South Central,South,AL,Alabama,35119,New Castle,33.640823,-86.77574,NW Corner of Alabama,Jefferson County,35
+546,183501,Y,N,N,West North Central,Midwest,MO,Missouri,64459,Helena,39.917997,-94.64152,NW Corner of Missouri,Andrew County,217
+547,195520,Y,Y,Y,East North Central,Midwest,IL,Illinois,62920,Cobden,37.540571,-89.25489,SE Corner of Illinois,Union County,183
+548,219549,Y,N,N,Mountain,West,MT,Montana,59725,Dillon,45.146179,-112.77411,SW Corner of Montana,Beaverhead County,129
+549,206928,Y,Y,Y,Mountain,West,CO,Colorado,80947,Colorado Springs,38.82469,-104.562027,SE Corner of Colorado,El Paso County,21
+550,243857,N,N,N,Mid-Atlantic,Northeast,NY,New York,14876,Reading Center,42.429721,-76.925846,SW Corner of New York,Schuyler County,67
+551,154420,N,N,N,South Atlantic,South,GA,Georgia,31707,Albany,31.568073,-84.22644,SW Corner of Georgia,Dougherty County,96
+552,175273,Y,N,N,South Atlantic,South,VA,Virginia,23899,Claremont,37.227291,-76.96545,SE Corner of Virginia,Surry County,25
+553,83017,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,18464,Tafton,41.414421,-75.18585,NE Corner of Pennsylvania,Pike County,107
+554,269256,N,N,N,Mountain,West,AZ,Arizona,85259,Scottsdale,33.596995,-111.82628,SE Corner of Arizona,Maricopa County,157
+555,247331,Y,Y,N,East North Central,Midwest,OH,Ohio,44599,Youngstown,41.017082,-80.802854,NE Corner of Ohio,Unknown County,172
+556,236174,Y,Y,N,East North Central,Midwest,WI,Wisconsin,53101,Bassett,42.58098,-87.662878,SE Corner of Wisconsin,Kenosha County,72
+557,12329,Y,Y,Y,East North Central,Midwest,IL,Illinois,61401,Galesburg,40.948073,-90.36871,NW Corner of Illinois,Knox County,229
+558,104293,Y,Y,Y,Mountain,West,CO,Colorado,80642,Hudson,40.060539,-104.62943,NE Corner of Colorado,Weld County,241
+559,49843,Y,N,N,West North Central,Midwest,IA,Iowa,52158,Marquette,43.042838,-91.18417,NE Corner of Iowa,Clayton County,233
+560,88811,Y,Y,Y,Pacific,West,CA,California,92109,San Diego,32.791246,-117.24343,SE Corner of California,San Diego County,210
+561,247462,N,N,N,East South Central,South,KY,Kentucky,40233,Louisville,38.188962,-85.676819,NE Corner of Kentucky,Jefferson County,36
+562,158426,Y,Y,N,South Atlantic,South,WV,West Virginia,24736,Matoaka,37.425866,-81.27625,SW Corner of West Virginia,Mercer County,142
+563,184215,N,N,N,East South Central,South,TN,Tennessee,37213,Nashville,36.167179,-86.76777,NW Corner of Tennessee,Davidson County,8
+564,1582,Y,N,N,West North Central,Midwest,SD,South Dakota,57117,Sioux Falls,43.674582,-96.79134,SE Corner of South Dakota,Minnehaha County,8
+565,253627,Y,N,N,Mountain,West,UT,Utah,84330,Plymouth,41.875803,-112.13957,NW Corner of Utah,Box Elder County,138
+566,5132,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,13621,Chase Mills,44.850439,-75.06915,NE Corner of New York,St Lawrence County,103
+567,56603,Y,Y,Y,South Atlantic,South,VA,Virginia,24026,Roanoke,37.274175,-79.95786,SW Corner of Virginia,Roanoke City,22
+568,67605,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,18976,Warrington,40.240295,-75.13458,SE Corner of Pennsylvania,Bucks County,144
+569,196890,Y,Y,Y,West North Central,Midwest,IA,Iowa,50636,Greene,42.891377,-92.80848,NE Corner of Iowa,Butler County,142
+570,67819,Y,Y,N,West North Central,Midwest,ND,North Dakota,58444,Goodrich,47.480027,-100.13717,SE Corner of North Dakota,Sheridan County,193
+571,189333,Y,Y,N,West North Central,Midwest,MN,Minnesota,56084,Searles,44.302893,-94.738827,SW Corner of Minnesota,Brown County,53
+572,42454,Y,Y,N,West North Central,Midwest,KS,Kansas,66940,Cuba,39.81884,-97.44917,NE Corner of Kansas,Republic County,105
+573,151743,Y,N,N,New England,Northeast,ME,Maine,04001,Acton,43.548123,-70.93189,SW Corner of Maine,York County,103
+574,169454,N,N,N,South Atlantic,South,NC,North Carolina,28010,Barium Springs,35.719228,-80.89909,NW Corner of North Carolina,Iredell County,161
+575,61579,Y,N,N,South Atlantic,South,SC,South Carolina,29907,Beaufort,32.447677,-80.642097,SE Corner of South Carolina,Beaufort County,153
+576,46019,N,N,N,Pacific,West,WA,Washington,98570,Onalaska,46.593526,-122.65346,SW Corner of Washington,Lewis County,212
+577,23676,Y,Y,N,East North Central,Midwest,IN,Indiana,46984,Somerset,40.671369,-85.828846,NE Corner of Indiana,Wabash County,72
+578,103566,Y,N,N,West South Central,South,TX,Texas,78640,Kyle,29.996916,-97.84756,SE Corner of Texas,Hays County,227
+579,166680,Y,N,N,South Atlantic,South,WV,West Virginia,25901,Oak Hill,37.982775,-81.14533,SW Corner of West Virginia,Fayette County,230
+580,101384,N,N,N,New England,Northeast,ME,Maine,04860,Tenants Harbor,43.9464,-69.23524,SW Corner of Maine,Knox County,153
+581,162916,Y,N,N,West South Central,South,TX,Texas,76120,Fort Worth,32.762631,-97.17527,NE Corner of Texas,Tarrant County,130
+582,82902,N,N,N,East North Central,Midwest,OH,Ohio,44055,Lorain,41.435642,-82.13689,NE Corner of Ohio,Lorain County,89
+583,73368,Y,Y,Y,West North Central,Midwest,MO,Missouri,65620,Bruner,37.020827,-92.94999,SW Corner of Missouri,Christian County,188
+584,208793,Y,Y,N,Pacific,West,CA,California,92326,Crest Park,34.839964,-115.967051,SE Corner of California,San Bernardino County,117
+585,138102,Y,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,08846,Middlesex,40.574552,-74.50187,NE Corner of New Jersey,Middlesex County,83
+586,39863,Y,N,N,West South Central,South,TX,Texas,75954,Joaquin,31.95015,-94.05761,NE Corner of Texas,Shelby County,42
+587,246594,N,N,N,East South Central,South,TN,Tennessee,37052,Cunningham,36.371609,-87.4039,NW Corner of Tennessee,Montgomery County,7
+588,74546,N,N,N,West North Central,Midwest,KS,Kansas,67565,Otis,38.587486,-99.04206,NW Corner of Kansas,Rush County,45
+589,62759,Y,Y,N,West South Central,South,TX,Texas,75089,Rowlett,32.923924,-96.54697,NE Corner of Texas,Dallas County,205
+590,150589,N,N,N,New England,Northeast,MA,Massachusetts,02149,Everett,42.409916,-71.0522,NE Corner of Massachusetts,Middlesex County,242
+591,142659,Y,Y,Y,South Atlantic,South,NC,North Carolina,27596,Youngsville,36.000487,-78.44921,NE Corner of North Carolina,Franklin County,83
+592,191514,Y,N,N,West South Central,South,TX,Texas,77642,Port Arthur,29.921564,-93.92694,SE Corner of Texas,Jefferson County,145
+593,212434,Y,Y,N,West South Central,South,AR,Arkansas,71842,Horatio,33.927425,-94.30834,NW Corner of Arkansas,Sevier County,203
+594,271756,Y,Y,Y,East North Central,Midwest,OH,Ohio,44444,Newton Falls,41.188981,-80.96964,NE Corner of Ohio,Trumbull County,52
+595,88082,Y,N,N,Mid-Atlantic,Northeast,NY,New York,10930,Highland Mills,41.35805,-74.12096,SE Corner of New York,Orange County,246
+596,230830,N,N,N,East South Central,South,TN,Tennessee,37314,Cokercreek,35.246689,-84.303121,NE Corner of Tennessee,Monroe County,89
+597,258946,N,N,N,East North Central,Midwest,IL,Illinois,60671,Chicago,41.811929,-87.68732,NE Corner of Illinois,Unknown County,115
+598,247863,Y,Y,Y,East South Central,South,MS,Mississippi,39466,Picayune,30.52798,-89.66611,SE Corner of Mississippi,Pearl River County,148
+599,136104,Y,Y,Y,Mid-Atlantic,Northeast,NJ,New Jersey,08605,Trenton,40.280531,-74.712018,NE Corner of New Jersey,Mercer County,190
+600,114094,Y,N,N,West North Central,Midwest,ND,North Dakota,58108,Fargo,46.934596,-97.229718,SE Corner of North Dakota,Cass County,112
+601,7232,N,N,N,West North Central,Midwest,MN,Minnesota,56048,Janesville,44.102188,-93.71255,SW Corner of Minnesota,Waseca County,122
+602,59493,Y,Y,N,Pacific,West,CA,California,91226,Glendale,33.786594,-118.298662,SE Corner of California,Los Angeles County,101
+603,110478,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,15902,Johnstown,40.309087,-78.90069,SW Corner of Pennsylvania,Cambria County,138
+604,242020,Y,Y,Y,West South Central,South,TX,Texas,79185,Amarillo,35.401475,-101.895089,NW Corner of Texas,Potter County,94
+605,69319,Y,Y,Y,South Atlantic,South,PR,Puerto Rico,00645,Culebra,18.308508,-65.304732,NE Corner of Puerto Rico,Unknown County,19
+606,31870,N,N,N,East North Central,Midwest,MI,Michigan,49072,Mendon,42.005815,-85.46428,SE Corner of Michigan,St Joseph County,228
+607,93586,Y,N,N,Pacific,West,CA,California,92647,Huntington Beach,33.725167,-118.00509,SE Corner of California,Orange County,207
+608,31862,Y,N,N,East North Central,Midwest,IN,Indiana,47453,Owensburg,38.924067,-86.74308,SW Corner of Indiana,Greene County,180
+609,37717,N,N,N,South Atlantic,South,NC,North Carolina,27811,Bellarthur,35.584685,-77.513357,NE Corner of North Carolina,Pitt County,234
+610,296300,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,19038,Glenside,40.10346,-75.16829,SE Corner of Pennsylvania,Montgomery County,99
+611,180025,Y,Y,N,Mountain,West,ID,Idaho,83436,Newdale,43.879722,-111.49617,SE Corner of Idaho,Madison County,20
+612,127489,Y,Y,N,West South Central,South,TX,Texas,75978,Woden,31.502292,-94.52803,NE Corner of Texas,Nacogdoches County,136
+613,99358,Y,Y,Y,South Atlantic,South,VA,Virginia,22242,Arlington,38.850879,-77.052336,NE Corner of Virginia,Arlington County,153
+614,65705,Y,Y,Y,West North Central,Midwest,IA,Iowa,50458,Nora Springs,43.147661,-93.00519,NE Corner of Iowa,Floyd County,6
+615,239371,Y,Y,N,East South Central,South,MS,Mississippi,39150,Port Gibson,31.970308,-90.97911,SW Corner of Mississippi,Claiborne County,184
+616,6595,Y,Y,N,Pacific,West,AK,Alaska,99691,Nikolai,62.999213,-154.41957,NW Corner of Alaska,Yukon-Koyukuk Census Area,236
+617,144538,N,N,N,West North Central,Midwest,MN,Minnesota,55613,Schroeder,47.651374,-90.95917,NE Corner of Minnesota,Cook County,87
+618,126895,N,N,N,East South Central,South,KY,Kentucky,42102,Bowling Green,36.922292,-86.387046,SW Corner of Kentucky,Warren County,211
+619,20790,Y,Y,Y,Pacific,West,CA,California,92275,Salton City,33.289347,-115.9565,SE Corner of California,Imperial County,74
+620,18470,Y,N,N,New England,Northeast,VT,Vermont,05049,Hartland Four Corners,43.592039,-72.588407,SW Corner of Vermont,Windsor County,155
+621,116850,Y,N,N,South Atlantic,South,PR,Puerto Rico,00984,Carolina,18.393355,-65.972495,NE Corner of Puerto Rico,Carolina,91
+622,107755,Y,Y,Y,East North Central,Midwest,OH,Ohio,44721,Canton,40.886297,-81.33145,NE Corner of Ohio,Stark County,30
+623,148964,Y,Y,Y,East North Central,Midwest,WI,Wisconsin,53541,Gratiot,42.572413,-90.02605,SW Corner of Wisconsin,Lafayette County,158
+624,95237,Y,N,N,West North Central,Midwest,IA,Iowa,51004,Anthon,42.378152,-95.90784,NW Corner of Iowa,Woodbury County,75
+625,125906,Y,Y,N,South Atlantic,South,NC,North Carolina,27884,Stokes,35.700448,-77.27014,NE Corner of North Carolina,Pitt County,231
+626,72272,N,N,N,West North Central,Midwest,IA,Iowa,50075,Ellsworth,42.325266,-93.56507,NW Corner of Iowa,Hamilton County,163
+627,139124,Y,Y,N,East North Central,Midwest,MI,Michigan,48054,East China,42.769956,-82.52595,SE Corner of Michigan,St Clair County,201
+628,238230,Y,Y,N,Mid-Atlantic,Northeast,PA,Pennsylvania,18321,Bartonsville,41.012235,-75.29039,NE Corner of Pennsylvania,Monroe County,23
+629,18758,Y,N,N,East North Central,Midwest,IL,Illinois,62972,Ozark,37.548762,-88.74145,SE Corner of Illinois,Johnson County,185
+630,66637,Y,Y,Y,West South Central,South,TX,Texas,76874,Roosevelt,30.480128,-100.1175,SW Corner of Texas,Kimble County,157
+631,287197,Y,Y,N,East North Central,Midwest,IN,Indiana,47354,Losantville,40.043267,-85.20909,NE Corner of Indiana,Randolph County,70
+632,5335,Y,Y,N,East North Central,Midwest,IL,Illinois,62829,Dale,37.999757,-88.50469,SE Corner of Illinois,Hamilton County,106
+633,21432,N,N,N,Pacific,West,OR,Oregon,97339,Corvallis,44.49893,-123.445033,NW Corner of Oregon,Benton County,177
+634,282833,N,N,N,South Atlantic,South,VA,Virginia,23104,Gloucester Point,37.298919,-76.530276,SE Corner of Virginia,Unknown County,176
+635,49915,Y,N,N,West North Central,Midwest,NE,Nebraska,68627,Cedar Rapids,41.552082,-98.17449,NE Corner of Nebraska,Boone County,214
+636,264526,Y,Y,Y,West South Central,South,TX,Texas,77905,Victoria,28.737085,-97.0146,SE Corner of Texas,Victoria County,217
+637,111143,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,14620,Rochester,43.132474,-77.60377,NW Corner of New York,Monroe County,145
+638,70673,Y,Y,Y,Pacific,West,CA,California,91322,Newhall,33.786594,-118.298662,SE Corner of California,Los Angeles County,138
+639,296524,Y,Y,Y,East North Central,Midwest,OH,Ohio,44270,Rittman,40.971727,-81.77938,NE Corner of Ohio,Wayne County,167
+640,8983,Y,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07463,Waldwick,41.013109,-74.12231,NE Corner of New Jersey,Bergen County,5
+641,150427,Y,Y,N,South Atlantic,South,WV,West Virginia,25555,Prichard,38.238942,-82.58178,SW Corner of West Virginia,Wayne County,184
+642,41596,Y,Y,N,Pacific,West,CA,California,96127,Susanville,40.446063,-120.664132,NW Corner of California,Lassen County,123
+643,172994,Y,N,N,South Atlantic,South,WV,West Virginia,24993,Wolfcreek,37.552029,-80.539672,SW Corner of West Virginia,Monroe County,36
+644,35550,Y,Y,N,South Atlantic,South,NC,North Carolina,28318,Autryville,35.020272,-78.614,SE Corner of North Carolina,Sampson County,148
+645,128717,Y,Y,Y,West South Central,South,OK,Oklahoma,73140,Oklahoma City,35.518509,-97.427464,NE Corner of Oklahoma,Oklahoma County,194
+646,263500,Y,N,N,West South Central,South,TX,Texas,78218,San Antonio,29.49428,-98.40431,SE Corner of Texas,Bexar County,124
+647,283270,N,N,N,East North Central,Midwest,WI,Wisconsin,53001,Adell,43.61014,-88.03047,SE Corner of Wisconsin,Sheboygan County,120
+648,121935,Y,Y,N,West South Central,South,AR,Arkansas,72032,Conway,35.075467,-92.43401,NE Corner of Arkansas,Faulkner County,156
+649,68915,Y,Y,N,South Atlantic,South,MD,Maryland,21868,Fairmount,38.107572,-75.789354,SE Corner of Maryland,Unknown County,96
+650,7682,Y,N,N,West North Central,Midwest,NE,Nebraska,69142,Halsey,41.931243,-100.27285,NW Corner of Nebraska,Thomas County,60
+651,185436,Y,Y,Y,East North Central,Midwest,IL,Illinois,61337,Malden,41.427282,-89.36622,NE Corner of Illinois,Bureau County,49
+652,206072,N,N,N,East South Central,South,AL,Alabama,35210,Birmingham,33.546051,-86.66963,NE Corner of Alabama,Jefferson County,58
+653,7586,N,N,N,South Atlantic,South,NC,North Carolina,28580,Snow Hill,35.44451,-77.69186,NE Corner of North Carolina,Greene County,133
+654,54308,Y,N,N,Mountain,West,CO,Colorado,80440,Fairplay,39.22106,-106.0065,NW Corner of Colorado,Park County,167
+655,206549,Y,Y,N,Mountain,West,MT,Montana,59524,Dodson,48.148715,-108.37109,NE Corner of Montana,Phillips County,101
+656,249333,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07806,Picatinny Arsenal,40.867331,-74.578269,NE Corner of New Jersey,Morris County,162
+657,136721,N,N,N,Mountain,West,UT,Utah,84634,Gunnison,39.193513,-111.85047,SW Corner of Utah,Sanpete County,10
+658,242197,Y,Y,Y,South Atlantic,South,MD,Maryland,21529,Ellerslie,39.718905,-78.77685,NW Corner of Maryland,Allegany County,59
+659,280101,Y,Y,Y,West South Central,South,TX,Texas,78780,Austin,30.326374,-97.771258,SE Corner of Texas,Travis County,221
+660,146620,N,N,N,Pacific,West,CA,California,91388,Van Nuys,33.786594,-118.298662,SE Corner of California,Los Angeles County,188
+661,5701,N,N,N,South Atlantic,South,DC,Washington DC,20577,Washington,38.900758,-77.034455,NW Corner of Washington DC,District of Columbia,247
+662,129065,N,N,N,South Atlantic,South,VA,Virginia,24465,Monterey,38.374628,-79.63611,NW Corner of Virginia,Highland County,115
+663,135958,N,N,N,South Atlantic,South,NC,North Carolina,28783,Tuckasegee,35.248885,-83.04111,NW Corner of North Carolina,Jackson County,227
+664,214571,Y,N,N,South Atlantic,South,FL,Florida,33143,Miami,25.702929,-80.29642,SE Corner of Florida,Miami-Dade County,158
+665,26037,Y,N,N,Mountain,West,AZ,Arizona,85720,Tucson,31.970131,-111.890713,SE Corner of Arizona,Pima County,116
+666,94769,Y,Y,N,East North Central,Midwest,IL,Illinois,61772,Shirley,40.399689,-89.06088,NE Corner of Illinois,McLean County,115
+667,88583,Y,N,N,South Atlantic,South,GA,Georgia,30907,Augusta,33.512541,-82.09491,NE Corner of Georgia,Columbia County,11
+668,209241,Y,Y,N,Mountain,West,UT,Utah,84340,Willard,41.368481,-112.05538,NW Corner of Utah,Box Elder County,177
+669,41527,Y,Y,Y,East North Central,Midwest,IL,Illinois,62757,Springfield,39.749457,-89.606017,SW Corner of Illinois,Sangamon County,46
+670,17064,N,N,N,West North Central,Midwest,IA,Iowa,52560,Floris,40.852256,-92.24785,SE Corner of Iowa,Davis County,229
+671,155423,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,17504,Bausman,40.024047,-76.328081,SE Corner of Pennsylvania,Lancaster County,38
+672,206386,N,N,N,Pacific,West,CA,California,95828,Sacramento,38.484747,-121.4024,NW Corner of California,Sacramento County,95
+673,188597,Y,Y,N,East North Central,Midwest,IL,Illinois,61654,Peoria,40.744179,-89.718401,NW Corner of Illinois,Peoria County,120
+674,111454,N,N,N,Mountain,West,MT,Montana,59247,Medicine Lake,48.503927,-104.48487,NE Corner of Montana,Sheridan County,138
+675,27944,N,N,N,West North Central,Midwest,SD,South Dakota,57439,Ferney,45.32904,-98.083721,NE Corner of South Dakota,Brown County,198
+676,94636,Y,Y,Y,Mountain,West,MT,Montana,59640,Marysville,46.748706,-112.30023,SW Corner of Montana,Lewis and Clark County,111
+677,244669,Y,Y,Y,East North Central,Midwest,IN,Indiana,46012,Anderson,40.132892,-85.65097,NE Corner of Indiana,Madison County,113
+678,118344,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,12255,Albany,42.614852,-73.970812,SE Corner of New York,Albany County,120
+679,222163,N,N,N,South Atlantic,South,WV,West Virginia,25978,Nimitz,37.645397,-80.92422,SW Corner of West Virginia,Summers County,172
+680,18249,Y,N,N,South Atlantic,South,MD,Maryland,21206,Baltimore,39.341107,-76.54085,NE Corner of Maryland,Baltimore City,11
+681,248036,Y,Y,Y,South Atlantic,South,VA,Virginia,24486,Weyers Cave,38.290722,-78.92423,NE Corner of Virginia,Augusta County,11
+682,101611,N,N,N,East North Central,Midwest,IN,Indiana,46222,Indianapolis,39.786793,-86.21093,SE Corner of Indiana,Marion County,155
+683,230344,Y,Y,Y,Mountain,West,AZ,Arizona,85337,Gila Bend,32.971684,-112.7946,SW Corner of Arizona,Maricopa County,78
+684,25228,Y,N,N,East South Central,South,KY,Kentucky,42156,Lucas,36.840503,-85.995572,SW Corner of Kentucky,Barren County,151
+685,296444,Y,N,N,South Atlantic,South,SC,South Carolina,29046,Elliott,34.107967,-80.161,NE Corner of South Carolina,Lee County,80
+686,118755,Y,Y,Y,East North Central,Midwest,WI,Wisconsin,53290,Milwaukee,43.037263,-87.914034,SE Corner of Wisconsin,Milwaukee County,245
+687,133185,N,N,N,South Atlantic,South,NC,North Carolina,27531,Goldsboro,35.463121,-77.995728,NE Corner of North Carolina,Wayne County,218
+688,214493,Y,Y,Y,West North Central,Midwest,IA,Iowa,50319,Des Moines,41.592089,-93.603967,SW Corner of Iowa,Polk County,154
+689,56099,Y,Y,Y,West North Central,Midwest,NE,Nebraska,68066,Wahoo,41.199626,-96.6226,SE Corner of Nebraska,Saunders County,187
+690,223523,Y,Y,N,West South Central,South,AR,Arkansas,71901,Hot Springs National Park,34.506487,-93.01941,NE Corner of Arkansas,Garland County,52
+691,99601,Y,N,N,Pacific,West,CA,California,94243,Sacramento,38.377411,-121.444429,NW Corner of California,Unknown County,167
+692,55198,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,11370,East Elmhurst,40.763015,-73.89052,SE Corner of New York,Queens County,172
+693,289751,Y,Y,N,East South Central,South,AL,Alabama,36017,Clio,31.692576,-85.55787,SE Corner of Alabama,Barbour County,151
+694,212200,Y,Y,Y,West North Central,Midwest,MO,Missouri,63124,Saint Louis,38.645802,-90.37687,NE Corner of Missouri,St Louis County,243
+695,298960,Y,Y,N,New England,Northeast,MA,Massachusetts,01026,Cummington,42.465041,-72.91813,NW Corner of Massachusetts,Hampshire County,37
+696,186622,Y,Y,Y,Pacific,West,CA,California,95913,Artois,39.633265,-122.21009,NW Corner of California,Glenn County,110
+697,149292,Y,Y,N,Mountain,West,AZ,Arizona,86018,Parks,35.197566,-111.93253,NW Corner of Arizona,Coconino County,58
+698,20835,N,N,N,New England,Northeast,RI,Rhode Island,02840,Newport,41.488002,-71.31262,SE Corner of Rhode Island,Newport County,213
+699,267713,N,N,N,South Atlantic,South,NC,North Carolina,27909,Elizabeth City,36.293192,-76.23692,NE Corner of North Carolina,Pasquotank County,169
+700,96034,Y,N,N,East North Central,Midwest,IL,Illinois,61075,Scales Mound,42.473737,-90.25362,NW Corner of Illinois,Jo Daviess County,49
+701,61979,Y,N,N,South Atlantic,South,FL,Florida,34233,Sarasota,27.285142,-82.47363,SE Corner of Florida,Sarasota County,178
+702,60524,Y,Y,N,West North Central,Midwest,IA,Iowa,52319,Oakdale,41.642657,-91.599974,SE Corner of Iowa,Johnson County,193
+703,98890,Y,Y,N,West North Central,Midwest,MN,Minnesota,56529,Dilworth,46.878062,-96.70242,NW Corner of Minnesota,Clay County,115
+704,24607,Y,N,N,West South Central,South,TX,Texas,75058,Gunter,33.453628,-96.73436,NE Corner of Texas,Grayson County,164
+705,204409,Y,Y,Y,South Atlantic,South,DC,Washington DC,20415,Washington,38.893311,-77.014647,SW Corner of Washington DC,District of Columbia,136
+706,71535,Y,N,N,Pacific,West,WA,Washington,99003,Chattaroy,47.921687,-117.29378,NE Corner of Washington,Spokane County,196
+707,125452,Y,Y,Y,East North Central,Midwest,MI,Michigan,48081,Saint Clair Shores,42.497736,-82.89979,SE Corner of Michigan,Macomb County,219
+708,30562,N,N,N,East North Central,Midwest,MI,Michigan,48426,Decker,43.50461,-83.06289,SE Corner of Michigan,Sanilac County,43
+709,149819,Y,Y,Y,West South Central,South,TX,Texas,78269,San Antonio,29.437532,-98.461582,SE Corner of Texas,Bexar County,122
+710,70878,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,18424,Gouldsboro,41.251286,-75.49121,NE Corner of Pennsylvania,Lackawanna County,23
+711,33647,Y,Y,Y,Mountain,West,UT,Utah,84141,Salt Lake City,40.668068,-111.908297,NW Corner of Utah,Salt Lake County,140
+712,154628,Y,Y,N,West North Central,Midwest,KS,Kansas,67236,Wichita,37.542182,-97.287134,SE Corner of Kansas,Unknown County,33
+713,197362,Y,Y,N,South Atlantic,South,VA,Virginia,20188,Warrenton,38.765619,-77.820293,NE Corner of Virginia,Fauquier County,191
+714,295500,N,N,N,West North Central,Midwest,MO,Missouri,64653,Linneus,39.884096,-93.19234,NW Corner of Missouri,Linn County,235
+715,117800,N,N,N,South Atlantic,South,SC,South Carolina,29641,Easley,34.813542,-82.653067,NW Corner of South Carolina,Pickens County,159
+716,202511,Y,N,N,South Atlantic,South,NC,North Carolina,28724,Dana,35.295403,-82.388325,NW Corner of North Carolina,Henderson County,180
+717,47266,Y,Y,N,West South Central,South,TX,Texas,75551,Atlanta,33.118611,-94.1773,NE Corner of Texas,Cass County,232
+718,178214,N,N,N,Pacific,West,CA,California,95156,San Jose,37.189396,-121.705327,SW Corner of California,Santa Clara County,88
+719,187606,Y,Y,Y,South Atlantic,South,SC,South Carolina,29065,Jenkinsville,34.295632,-81.30068,NW Corner of South Carolina,Fairfield County,75
+720,123842,Y,N,N,West North Central,Midwest,IA,Iowa,51559,Neola,41.455142,-95.64792,SW Corner of Iowa,Pottawattamie County,48
+721,191506,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,10969,Pine Island,41.295568,-74.48935,SE Corner of New York,Orange County,21
+722,296245,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,08608,Trenton,40.219158,-74.76481,NW Corner of New Jersey,Mercer County,17
+723,277475,Y,Y,Y,South Atlantic,South,FL,Florida,32099,Jacksonville,30.337538,-81.768622,NE Corner of Florida,Duval County,171
+724,22143,Y,Y,Y,South Atlantic,South,GA,Georgia,30377,Atlanta,33.844371,-84.47405,NW Corner of Georgia,Fulton County,200
+725,119527,Y,Y,N,East North Central,Midwest,MI,Michigan,48165,New Hudson,42.501401,-83.62916,SE Corner of Michigan,Oakland County,167
+726,217744,Y,Y,Y,West North Central,Midwest,MO,Missouri,63171,Saint Louis,38.6531,-90.243462,NE Corner of Missouri,St. Louis City,228
+727,271740,Y,Y,N,West North Central,Midwest,IA,Iowa,50152,Luther,41.967091,-93.82106,NW Corner of Iowa,Boone County,168
+728,229454,N,N,N,East North Central,Midwest,IL,Illinois,60928,Crescent City,40.766096,-87.85474,NE Corner of Illinois,Iroquois County,50
+729,163961,Y,Y,Y,East North Central,Midwest,IN,Indiana,47531,Evanston,38.056909,-86.82196,SW Corner of Indiana,Spencer County,238
+730,72148,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07047,North Bergen,40.7946,-74.01963,NE Corner of New Jersey,Hudson County,249
+731,45000,Y,N,N,East South Central,South,KY,Kentucky,41659,Stanville,37.569845,-82.62562,SE Corner of Kentucky,Floyd County,79
+732,166335,Y,Y,N,East North Central,Midwest,IL,Illinois,62216,Aviston,38.607817,-89.60516,SW Corner of Illinois,Clinton County,196
+733,35418,Y,N,N,South Atlantic,South,SC,South Carolina,29039,Cordova,33.425547,-80.90083,SE Corner of South Carolina,Orangeburg County,140
+734,178294,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,18773,Wilkes Barre,41.272248,-75.880146,NE Corner of Pennsylvania,Luzerne County,82
+735,237835,Y,Y,Y,West South Central,South,TX,Texas,76453,Gordon,32.572618,-98.36399,NE Corner of Texas,Palo Pinto County,135
+736,143322,Y,N,N,East North Central,Midwest,OH,Ohio,44322,Akron,41.043496,-81.58536,NE Corner of Ohio,Summit County,219
+737,171483,Y,Y,N,West North Central,Midwest,MO,Missouri,63079,Stanton,38.274398,-91.085533,SE Corner of Missouri,Franklin County,192
+738,190038,Y,N,N,East North Central,Midwest,WI,Wisconsin,54664,Viola,43.502238,-90.65131,SW Corner of Wisconsin,Richland County,18
+739,167427,Y,N,N,East North Central,Midwest,MI,Michigan,49736,Goetzville,46.064734,-84.15477,NE Corner of Michigan,Chippewa County,177
+740,89691,N,N,N,South Atlantic,South,SC,South Carolina,29580,Nesmith,33.653454,-79.56773,SE Corner of South Carolina,Williamsburg County,111
+741,50323,Y,N,N,East North Central,Midwest,IN,Indiana,46379,Sumava Resorts,41.167119,-87.43781,NW Corner of Indiana,Newton County,88
+742,139835,Y,Y,Y,New England,Northeast,MA,Massachusetts,01602,Worcester,42.272359,-71.84482,NW Corner of Massachusetts,Worcester County,167
+743,136675,Y,Y,Y,Mountain,West,NM,New Mexico,87421,Waterflow,36.877607,-108.62606,NW Corner of New Mexico,San Juan County,44
+744,269615,N,N,N,East North Central,Midwest,IL,Illinois,62543,Latham,39.965691,-89.15936,NE Corner of Illinois,Logan County,190
+745,196808,Y,Y,Y,West North Central,Midwest,KS,Kansas,66636,Topeka,39.042939,-95.769657,NE Corner of Kansas,Shawnee County,133
+746,97103,N,N,N,Mid-Atlantic,Northeast,NY,New York,11030,Manhasset,40.796752,-73.68935,SE Corner of New York,Nassau County,195
+747,7995,Y,Y,N,Mountain,West,AZ,Arizona,85323,Avondale,33.454441,-112.32401,SW Corner of Arizona,Maricopa County,37
+748,207825,Y,Y,Y,East South Central,South,AL,Alabama,35293,Birmingham,33.544622,-86.929208,NW Corner of Alabama,Jefferson County,77
+749,233601,Y,Y,N,Pacific,West,WA,Washington,98858,Waterville,47.63205,-119.90423,NE Corner of Washington,Douglas County,34
+750,53651,Y,Y,Y,Mountain,West,AZ,Arizona,86351,Sedona,34.782453,-111.76764,NE Corner of Arizona,Yavapai County,187
+751,286672,Y,Y,Y,Mid-Atlantic,Northeast,NJ,New Jersey,07829,Buttzville,40.84335,-74.985914,NW Corner of New Jersey,Warren County,127
+752,153855,Y,N,N,Pacific,West,OR,Oregon,97374,Scio,44.702164,-122.81401,NW Corner of Oregon,Linn County,66
+753,48365,Y,N,N,West South Central,South,TX,Texas,76949,Silver,32.047723,-100.69452,NW Corner of Texas,Coke County,202
+754,164967,Y,N,N,West North Central,Midwest,IA,Iowa,51523,Blencoe,41.9134,-96.085,SW Corner of Iowa,Monona County,186
+755,208049,Y,Y,Y,Pacific,West,CA,California,93728,Fresno,36.758598,-119.81022,SW Corner of California,Fresno County,157
+756,146894,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,14818,Burdett,42.444243,-76.83274,SW Corner of New York,Schuyler County,63
+757,207917,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,10305,Staten Island,40.599021,-74.07503,SE Corner of New York,Richmond County,156
+758,73565,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,15476,Ronco,39.869675,-79.922,SW Corner of Pennsylvania,Fayette County,149
+759,83427,N,N,N,Mountain,West,CO,Colorado,80540,Lyons,40.253033,-105.33762,NE Corner of Colorado,Boulder County,98
+760,179188,Y,Y,Y,New England,Northeast,ME,Maine,04015,Casco,43.952597,-70.51377,SW Corner of Maine,Cumberland County,79
+761,79734,Y,N,N,West North Central,Midwest,MO,Missouri,65747,Shell Knob,36.587559,-93.58793,SW Corner of Missouri,Barry County,80
+762,258155,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,19318,Chatham,39.852406,-75.811789,SE Corner of Pennsylvania,Chester County,143
+763,140435,N,N,N,South Atlantic,South,WV,West Virginia,25118,Kimberly,38.135059,-81.30312,SW Corner of West Virginia,Fayette County,72
+764,180848,Y,Y,Y,West North Central,Midwest,MN,Minnesota,56229,Cottonwood,44.609098,-95.70555,SW Corner of Minnesota,Lyon County,172
+765,268550,Y,Y,Y,Mountain,West,AZ,Arizona,85075,Phoenix,33.276539,-112.18717,SW Corner of Arizona,Maricopa County,30
+766,200046,Y,Y,Y,West North Central,Midwest,SD,South Dakota,57501,Pierre,44.425356,-100.29145,SW Corner of South Dakota,Hughes County,76
+767,155549,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,08405,Atlantic City,39.509208,-74.608557,SE Corner of New Jersey,Atlantic County,200
+768,188685,Y,Y,N,West North Central,Midwest,KS,Kansas,67868,Pierceville,37.881899,-100.67849,SW Corner of Kansas,Finney County,59
+769,139325,Y,Y,Y,East South Central,South,AL,Alabama,35772,Stevenson,34.877531,-85.84528,NE Corner of Alabama,Jackson County,108
+770,192362,N,N,N,West North Central,Midwest,KS,Kansas,66616,Topeka,39.065249,-95.63808,NE Corner of Kansas,Shawnee County,54
+771,139952,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,12201,Albany,42.614852,-73.970812,SE Corner of New York,Albany County,117
+772,267889,Y,Y,Y,West South Central,South,LA,Louisiana,71448,Longleaf,31.203393,-92.526927,NW Corner of Louisiana,Rapides Parish,199
+773,291330,Y,N,N,Pacific,West,CA,California,90665,Pico Rivera,33.786594,-118.298662,SE Corner of California,Unknown County,138
+774,12335,Y,N,N,East North Central,Midwest,OH,Ohio,45740,Jacksonville,39.475889,-82.07959,SE Corner of Ohio,Athens County,153
+775,160415,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,16006,Cranberry,40.726206,-80.10054,SW Corner of Pennsylvania,Unknown County,65
+776,288840,Y,Y,Y,Mid-Atlantic,Northeast,PA,Pennsylvania,15209,Pittsburgh,40.492618,-79.97458,SW Corner of Pennsylvania,Allegheny County,217
+777,74357,Y,Y,Y,South Atlantic,South,GA,Georgia,31701,Albany,31.580774,-84.16044,SW Corner of Georgia,Dougherty County,142
+778,213335,Y,N,N,Pacific,West,CA,California,90028,Los Angeles,34.098859,-118.32745,SE Corner of California,Los Angeles County,194
+779,58935,Y,Y,N,East North Central,Midwest,WI,Wisconsin,54412,Auburndale,44.662975,-89.9943,SW Corner of Wisconsin,Wood County,87
+780,207899,N,N,N,Mountain,West,CO,Colorado,80020,Broomfield,39.93404,-105.05454,NE Corner of Colorado,Broomfield County,175
+781,120663,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07829,Buttzville,40.84335,-74.985914,NW Corner of New Jersey,Warren County,47
+782,91440,Y,Y,Y,East South Central,South,KY,Kentucky,41705,Fort Thomas,39.08359,-84.450912,NE Corner of Kentucky,Unknown County,189
+783,154279,Y,N,N,Pacific,West,CA,California,92261,Palm Desert,33.660374,-116.408249,SE Corner of California,Riverside County,145
+784,207173,Y,Y,N,South Atlantic,South,MD,Maryland,21754,Ijamsville,39.342096,-77.29984,NW Corner of Maryland,Frederick County,150
+785,53348,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,10805,New Rochelle,40.897783,-73.77933,SE Corner of New York,Westchester County,157
+786,190914,N,N,N,West North Central,Midwest,IA,Iowa,51520,Arion,41.952624,-95.45818,SW Corner of Iowa,Crawford County,157
+787,151351,Y,Y,N,West North Central,Midwest,MN,Minnesota,55486,Minneapolis,45.015914,-93.47188,SW Corner of Minnesota,Hennepin County,244
+788,82108,Y,Y,N,East North Central,Midwest,WI,Wisconsin,54978,Tilleda,44.805167,-88.9006,NE Corner of Wisconsin,Shawano County,100
+789,119130,Y,N,N,South Atlantic,South,WV,West Virginia,24924,Buckeye,38.185341,-80.13261,SE Corner of West Virginia,Pocahontas County,191
+790,291987,Y,Y,N,West North Central,Midwest,IA,Iowa,50025,Audubon,41.741295,-94.92781,SW Corner of Iowa,Audubon County,28
+791,221950,Y,Y,N,East South Central,South,MS,Mississippi,39047,Brandon,32.39705,-89.98466,SW Corner of Mississippi,Rankin County,55
+792,83845,N,N,N,East North Central,Midwest,IN,Indiana,47235,Freetown,38.982358,-86.13561,SE Corner of Indiana,Jackson County,147
+793,4719,Y,Y,Y,East South Central,South,TN,Tennessee,37151,Riddleton,36.335403,-86.0317,NW Corner of Tennessee,Smith County,135
+794,265389,Y,Y,N,South Atlantic,South,NC,North Carolina,27621,Raleigh,35.797692,-78.625265,NE Corner of North Carolina,Wake County,231
+795,157092,Y,Y,Y,South Atlantic,South,DC,Washington DC,20591,Washington,38.893311,-77.014647,SW Corner of Washington DC,District of Columbia,141
+796,287517,Y,Y,Y,New England,Northeast,CT,Connecticut,06437,Guilford,41.31353,-72.69791,SE Corner of Connecticut,New Haven County,207
+797,233068,Y,N,N,Mid-Atlantic,Northeast,NY,New York,11542,Glen Cove,40.864757,-73.62609,SE Corner of New York,Nassau County,192
+798,130955,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,13043,Clockville,43.042044,-75.740848,NE Corner of New York,Madison County,38
+799,66062,Y,Y,Y,New England,Northeast,VT,Vermont,05702,Rutland,43.412792,-72.990632,SW Corner of Vermont,Rutland County,191
+800,17334,N,N,N,West South Central,South,OK,Oklahoma,74172,Tulsa,36.154342,-95.992323,NE Corner of Oklahoma,Tulsa County,84
+801,203636,N,N,N,South Atlantic,South,FL,Florida,34275,Nokomis,27.136731,-82.45241,SE Corner of Florida,Sarasota County,144
+802,1045,Y,N,N,East North Central,Midwest,MI,Michigan,49271,Pittsford,41.832213,-84.45404,SE Corner of Michigan,Hillsdale County,156
+803,68685,Y,N,N,West North Central,Midwest,NE,Nebraska,68424,Plymouth,40.298729,-97.00106,SE Corner of Nebraska,Jefferson County,113
+804,164415,Y,N,N,Pacific,West,WA,Washington,98535,Copalis Beach,47.118566,-124.16027,SW Corner of Washington,Grays Harbor County,228
+805,194841,Y,N,N,East South Central,South,TN,Tennessee,38143,Memphis,35.201738,-89.971538,NW Corner of Tennessee,Unknown County,136
+806,200703,N,N,N,Pacific,West,CA,California,95493,Witter Springs,39.19607,-122.96649,NW Corner of California,Lake County,37
+807,129729,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,14051,East Amherst,43.025217,-78.70394,NW Corner of New York,Erie County,250
+808,267767,Y,N,N,East North Central,Midwest,IL,Illinois,61073,Roscoe,42.419097,-89.00407,NE Corner of Illinois,Winnebago County,57
+809,185611,Y,Y,N,East North Central,Midwest,MI,Michigan,48759,Sebewaing,43.737971,-83.43007,SE Corner of Michigan,Huron County,242
+810,258014,Y,N,N,South Atlantic,South,NC,North Carolina,27295,Lexington,35.856896,-80.28961,NW Corner of North Carolina,Davidson County,119
+811,198707,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,17339,Lewisberry,40.138959,-76.86904,SE Corner of Pennsylvania,York County,23
+812,289887,Y,Y,Y,Pacific,West,WA,Washington,98376,Quilcene,47.826111,-122.85233,NW Corner of Washington,Jefferson County,48
+813,185304,Y,Y,N,South Atlantic,South,NC,North Carolina,28603,Hickory,35.679876,-81.287181,NW Corner of North Carolina,Catawba County,236
+814,292491,N,N,N,West South Central,South,AR,Arkansas,72734,Gentry,36.269478,-94.46137,NW Corner of Arkansas,Benton County,210
+815,261248,Y,N,N,South Atlantic,South,VA,Virginia,22960,Orange,38.231526,-78.07923,NE Corner of Virginia,Orange County,21
+816,218822,Y,Y,Y,South Atlantic,South,FL,Florida,34488,Silver Springs,29.198564,-81.92095,NE Corner of Florida,Marion County,195
+817,238699,N,N,N,South Atlantic,South,NC,North Carolina,27661,Raleigh,35.797692,-78.625265,NE Corner of North Carolina,Wake County,78
+818,191076,Y,N,N,South Atlantic,South,GA,Georgia,31513,Baxley,31.768849,-82.35198,SE Corner of Georgia,Appling County,115
+819,86679,Y,Y,N,Pacific,West,OR,Oregon,97048,Rainier,46.054948,-122.95714,NW Corner of Oregon,Columbia County,248
+820,229997,N,N,N,New England,Northeast,MA,Massachusetts,02163,Boston,42.367946,-71.12056,NE Corner of Massachusetts,Suffolk County,229
+821,77555,Y,N,N,West South Central,South,TX,Texas,78046,Laredo,27.435814,-99.45996,SE Corner of Texas,Webb County,168
+822,223813,Y,Y,N,Mid-Atlantic,Northeast,PA,Pennsylvania,18824,Hop Bottom,41.708207,-75.7846,NE Corner of Pennsylvania,Susquehanna County,135
+823,200480,Y,Y,N,East South Central,South,KY,Kentucky,41313,Bethany,37.740503,-83.475446,SE Corner of Kentucky,Wolfe County,90
+824,170352,N,N,N,East North Central,Midwest,OH,Ohio,44198,Cleveland,41.685744,-81.672797,NE Corner of Ohio,Cuyahoga County,239
+825,225536,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07302,Jersey City,40.721602,-74.04703,NE Corner of New Jersey,Hudson County,11
+826,292154,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,10532,Hawthorne,41.103664,-73.7958,SE Corner of New York,Westchester County,46
+827,120841,Y,N,N,East South Central,South,MS,Mississippi,38740,Duncan,34.033462,-90.78544,NW Corner of Mississippi,Bolivar County,40
+828,103362,N,N,N,West South Central,South,LA,Louisiana,71272,Ruston,32.525825,-92.649298,NW Corner of Louisiana,Lincoln Parish,38
+829,261379,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,15365,Taylorstown,40.16113,-80.378093,SW Corner of Pennsylvania,Washington County,148
+830,190058,Y,Y,N,Pacific,West,CA,California,92336,Fontana,34.125147,-117.45818,SE Corner of California,San Bernardino County,162
+831,50994,Y,Y,Y,New England,Northeast,MA,Massachusetts,02631,Brewster,41.746647,-70.07773,SE Corner of Massachusetts,Barnstable County,15
+832,109279,Y,Y,N,West North Central,Midwest,MN,Minnesota,56034,Garden City,44.029058,-94.18186,SW Corner of Minnesota,Blue Earth County,81
+833,231085,N,N,N,South Atlantic,South,WV,West Virginia,24951,Lindside,37.485348,-80.64293,SW Corner of West Virginia,Monroe County,50
+834,278246,Y,N,N,East South Central,South,KY,Kentucky,42033,Crayne,37.336533,-88.079607,SW Corner of Kentucky,Crittenden County,231
+835,249449,Y,N,N,South Atlantic,South,NC,North Carolina,28611,Collettsville,36.009373,-81.73139,NW Corner of North Carolina,Avery County,34
+836,235552,Y,Y,N,Pacific,West,CA,California,92384,Shoshone,35.947562,-116.27037,SE Corner of California,Inyo County,6
+837,89515,N,N,N,Mountain,West,ID,Idaho,83827,Elk River,46.779767,-116.17964,NW Corner of Idaho,Clearwater County,150
+838,192875,Y,N,N,West North Central,Midwest,ND,North Dakota,58553,Mckenzie,46.814568,-100.40137,SW Corner of North Dakota,Unknown County,88
+839,129528,Y,Y,Y,Pacific,West,CA,California,92243,El Centro,32.783359,-115.57746,SE Corner of California,Imperial County,243
+840,33701,Y,Y,N,Mountain,West,AZ,Arizona,86334,Paulden,34.910591,-112.46252,NW Corner of Arizona,Yavapai County,168
+841,23663,Y,Y,N,East North Central,Midwest,MI,Michigan,49650,Lake Ann,44.725887,-85.85676,NE Corner of Michigan,Benzie County,240
+842,63034,Y,Y,Y,Pacific,West,WA,Washington,98401,Tacoma,47.253671,-122.444335,SW Corner of Washington,Pierce County,179
+843,96988,Y,Y,N,West North Central,Midwest,ND,North Dakota,58000,Minot,48.226422,-101.274388,NW Corner of North Dakota,Unknown County,207
+844,257850,Y,Y,Y,East North Central,Midwest,WI,Wisconsin,54568,Woodruff,45.924341,-89.68496,NE Corner of Wisconsin,Vilas County,178
+845,156961,N,N,N,South Atlantic,South,SC,South Carolina,29706,Chester,34.720597,-81.21429,NW Corner of South Carolina,Chester County,26
+846,124996,N,N,N,East South Central,South,AL,Alabama,35181,Watson,33.544622,-86.929208,NW Corner of Alabama,Jefferson County,39
+847,174582,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,07832,Columbia,40.92976,-75.06193,NW Corner of New Jersey,Warren County,64
+848,255044,Y,N,N,South Atlantic,South,VA,Virginia,23226,Richmond,37.581696,-77.51709,SE Corner of Virginia,Richmond City,231
+849,256417,Y,Y,Y,South Atlantic,South,GA,Georgia,30026,Duluth,33.962979,-84.092267,NW Corner of Georgia,Gwinnett County,248
+850,145121,N,N,N,East North Central,Midwest,IN,Indiana,47033,Morris,39.281429,-85.1739,SE Corner of Indiana,Ripley County,130
+851,232898,Y,N,N,South Atlantic,South,MD,Maryland,20915,Silver Spring,39.143979,-77.207617,NE Corner of Maryland,Montgomery County,29
+852,140703,N,N,N,East South Central,South,KY,Kentucky,41602,Auxier,37.73696,-82.74012,SE Corner of Kentucky,Floyd County,23
+853,9643,Y,Y,N,West South Central,South,TX,Texas,76880,Star,31.477095,-98.630919,NE Corner of Texas,Mills County,191
+854,48038,Y,Y,N,East North Central,Midwest,MI,Michigan,48872,Perry,42.807435,-84.22291,SE Corner of Michigan,Shiawassee County,208
+855,255978,Y,Y,Y,Mid-Atlantic,Northeast,NY,New York,10161,New York,40.780751,-73.977182,SE Corner of New York,New York County,106
+856,255868,Y,N,N,East North Central,Midwest,WI,Wisconsin,53075,Random Lake,43.564477,-87.99094,SE Corner of Wisconsin,Sheboygan County,22
+857,193356,Y,N,N,West North Central,Midwest,SD,South Dakota,57790,Wall,44.018548,-102.23778,SW Corner of South Dakota,Pennington County,120
+858,201674,Y,N,N,East North Central,Midwest,WI,Wisconsin,54651,Ontario,43.740893,-90.56934,SW Corner of Wisconsin,Vernon County,159
+859,144981,Y,N,N,East North Central,Midwest,IL,Illinois,62025,Edwardsville,38.819297,-89.9551,SW Corner of Illinois,Madison County,75
+860,224260,Y,Y,Y,Mountain,West,NM,New Mexico,87113,Albuquerque,35.179635,-106.59384,NW Corner of New Mexico,Bernalillo County,120
+861,180716,Y,Y,N,East North Central,Midwest,WI,Wisconsin,54942,Greenville,44.29382,-88.53557,SE Corner of Wisconsin,Outagamie County,43
+862,89484,Y,Y,Y,South Atlantic,South,DE,Delaware,19808,Wilmington,39.734279,-75.6631,NW Corner of Delaware,New Castle County,167
+863,22804,N,N,N,South Atlantic,South,NC,North Carolina,27510,Carrboro,35.912489,-79.08144,NE Corner of North Carolina,Orange County,101
+864,11330,Y,N,N,Pacific,West,AK,Alaska,99756,Manley Hot Springs,65.021337,-150.50318,NE Corner of Alaska,Yukon-Koyukuk Census Area,236
+865,156359,Y,Y,N,West North Central,Midwest,IA,Iowa,51651,Shambaugh,40.65747,-95.024969,SW Corner of Iowa,Page County,33
+866,232235,Y,Y,Y,Pacific,West,WA,Washington,98360,Orting,47.039607,-122.14691,SW Corner of Washington,Pierce County,155
+867,195181,N,N,N,Pacific,West,CA,California,92179,San Diego,32.572602,-116.918724,SE Corner of California,San Diego County,104
+868,127343,N,N,N,Mountain,West,WY,Wyoming,83013,Moran,44.04215,-110.97876,NW Corner of Wyoming,Teton County,223
+869,189933,N,N,N,West South Central,South,TX,Texas,75615,Longview,32.51121,-94.783493,NE Corner of Texas,Gregg County,190
+870,207357,Y,N,N,West South Central,South,AR,Arkansas,72928,Branch,35.297936,-93.94723,NE Corner of Arkansas,Franklin County,32
+871,108342,Y,N,N,South Atlantic,South,WV,West Virginia,24824,Coalwood,37.416947,-81.69288,SW Corner of West Virginia,Unknown County,88
+872,116025,N,N,N,East North Central,Midwest,OH,Ohio,44212,Brunswick,41.244051,-81.82836,NE Corner of Ohio,Medina County,84
+873,49292,Y,Y,Y,New England,Northeast,VT,Vermont,05750,Hydeville,43.619787,-73.23273,SW Corner of Vermont,Rutland County,197
+874,202226,N,N,N,East South Central,South,KY,Kentucky,42063,Lynnville,36.723872,-88.652009,SW Corner of Kentucky,Graves County,14
+875,32996,N,N,N,West North Central,Midwest,KS,Kansas,67552,Lewis,37.876262,-99.23229,SW Corner of Kansas,Edwards County,144
+876,75501,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,16001,Butler,40.877664,-79.9113,SW Corner of Pennsylvania,Butler County,134
+877,227685,N,N,N,Mid-Atlantic,Northeast,NY,New York,12121,Melrose,42.851106,-73.61867,NE Corner of New York,Rensselaer County,28
+878,93602,Y,Y,N,New England,Northeast,CT,Connecticut,06790,Torrington,41.820274,-73.11787,NW Corner of Connecticut,Litchfield County,234
+879,46034,N,N,N,Mountain,West,WY,Wyoming,82084,Tie Siding,41.024827,-105.46188,SE Corner of Wyoming,Albany County,129
+880,245077,N,N,N,West South Central,South,LA,Louisiana,70058,Harvey,29.878578,-90.06903,SE Corner of Louisiana,Jefferson Parish,107
+881,268171,Y,Y,N,East South Central,South,KY,Kentucky,42285,Sweeden,37.273726,-86.27499,SW Corner of Kentucky,Edmonson County,23
+882,242254,Y,Y,N,East North Central,Midwest,IL,Illinois,60026,Glenview Nas,41.811929,-87.68732,NE Corner of Illinois,Cook County,175
+883,266431,Y,Y,Y,South Atlantic,South,GA,Georgia,30725,Flintstone,34.932348,-85.35064,NW Corner of Georgia,Walker County,135
+884,241177,Y,Y,Y,New England,Northeast,MA,Massachusetts,01754,Maynard,42.430781,-71.45594,NE Corner of Massachusetts,Middlesex County,162
+885,4547,Y,Y,N,South Atlantic,South,GA,Georgia,30475,Vidalia,32.177513,-82.373889,SE Corner of Georgia,Toombs County,83
+886,39147,N,N,N,West South Central,South,AR,Arkansas,72921,Alma,35.48891,-94.20897,NW Corner of Arkansas,Crawford County,95
+887,210915,Y,Y,N,West South Central,South,OK,Oklahoma,73750,Kingfisher,35.856216,-97.93743,NE Corner of Oklahoma,Kingfisher County,147
+888,266344,Y,Y,Y,New England,Northeast,MA,Massachusetts,02152,Winthrop,42.373047,-70.97803,NE Corner of Massachusetts,Suffolk County,136
+889,263054,Y,Y,Y,West North Central,Midwest,MN,Minnesota,55399,Young America,44.805487,-93.766524,SW Corner of Minnesota,Carver County,114
+890,271634,Y,N,N,South Atlantic,South,GA,Georgia,30206,Concord,33.109599,-84.45541,NW Corner of Georgia,Pike County,208
+891,175160,N,N,N,South Atlantic,South,GA,Georgia,30504,Gainesville,34.274355,-83.87003,NW Corner of Georgia,Hall County,22
+892,73440,Y,Y,Y,South Atlantic,South,VA,Virginia,23836,Chester,37.343005,-77.34604,SE Corner of Virginia,Chesterfield County,157
+893,58705,Y,Y,N,East South Central,South,KY,Kentucky,41003,Berry,38.535065,-84.38904,NE Corner of Kentucky,Harrison County,209
+894,98913,Y,Y,Y,West South Central,South,TX,Texas,76691,West,31.783019,-97.07945,NE Corner of Texas,McLennan County,245
+895,139386,Y,Y,Y,Mountain,West,ID,Idaho,83227,Clayton,44.20719,-114.5981,SW Corner of Idaho,Custer County,87
+896,234812,N,N,N,Mid-Atlantic,Northeast,NY,New York,11405,Jamaica,40.651378,-73.870779,SE Corner of New York,Queens County,74
+897,13744,Y,N,N,East South Central,South,AL,Alabama,35242,Birmingham,33.409582,-86.69684,NE Corner of Alabama,Shelby County,118
+898,22852,N,N,N,West North Central,Midwest,IA,Iowa,50319,Des Moines,41.592089,-93.603967,SW Corner of Iowa,Polk County,126
+899,289424,N,N,N,Mountain,West,NM,New Mexico,88006,Las Cruces,32.305193,-106.786259,SW Corner of New Mexico,Do̱a Ana County,74
+900,67060,Y,Y,Y,West South Central,South,TX,Texas,78537,Donna,26.165352,-98.05568,SE Corner of Texas,Hidalgo County,108
+901,153537,Y,N,N,Mid-Atlantic,Northeast,NY,New York,11244,Brooklyn,40.645099,-73.945032,SE Corner of New York,Kings County,201
+902,179728,Y,Y,Y,East North Central,Midwest,OH,Ohio,44450,North Bloomfield,41.449052,-80.81921,NE Corner of Ohio,Trumbull County,224
+903,116861,N,N,N,Mountain,West,UT,Utah,84110,Salt Lake City,40.668068,-111.908297,NW Corner of Utah,Salt Lake County,136
+904,165990,Y,Y,Y,New England,Northeast,MA,Massachusetts,01945,Marblehead,42.497146,-70.86323,NE Corner of Massachusetts,Essex County,45
+905,182839,N,N,N,Pacific,West,AK,Alaska,99774,Stevens Village,66.005296,-149.10303,NE Corner of Alaska,Yukon-Koyukuk Census Area,213
+906,96406,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,16423,Lake City,42.019394,-80.34064,NW Corner of Pennsylvania,Erie County,195
+907,236925,Y,Y,Y,Mountain,West,NM,New Mexico,87062,Veguita,34.460462,-106.71879,NW Corner of New Mexico,Socorro County,184
+908,88437,N,N,N,West North Central,Midwest,SD,South Dakota,57035,Humboldt,43.643112,-97.07195,SE Corner of South Dakota,Minnehaha County,76
+909,50323,N,N,N,South Atlantic,South,VA,Virginia,24292,Whitetop,36.59565,-81.59154,SW Corner of Virginia,Grayson County,244
+910,199285,Y,Y,Y,South Atlantic,South,GA,Georgia,30335,Atlanta,33.752406,-84.389676,NW Corner of Georgia,Unknown County,29
+911,226832,Y,Y,Y,East North Central,Midwest,MI,Michigan,48062,Richmond,42.829226,-82.77538,SE Corner of Michigan,Macomb County,166
+912,180769,Y,Y,N,South Atlantic,South,MD,Maryland,21205,Baltimore,39.301157,-76.57478,NE Corner of Maryland,Baltimore City,172
+913,287724,N,N,N,South Atlantic,South,WV,West Virginia,25051,Costa,38.161661,-81.70438,SW Corner of West Virginia,Boone County,76
+914,172212,Y,N,N,West South Central,South,OK,Oklahoma,74830,Bowlegs,35.147566,-96.6696,SE Corner of Oklahoma,Seminole County,163
+915,243777,Y,Y,N,East North Central,Midwest,IN,Indiana,46051,Lapel,40.065589,-85.84631,NE Corner of Indiana,Madison County,191
+916,174741,Y,N,N,South Atlantic,South,GA,Georgia,30520,Canon,34.338008,-83.09656,NE Corner of Georgia,Hart County,169
+917,37999,Y,N,N,South Atlantic,South,GA,Georgia,30420,Cobbtown,32.301639,-82.11842,SE Corner of Georgia,Tattnall County,128
+918,259258,Y,N,N,Pacific,West,WA,Washington,98941,Roslyn,47.224876,-120.99286,SW Corner of Washington,Kittitas County,239
+919,296356,Y,N,N,East North Central,Midwest,IN,Indiana,46369,Russiaville,40.41663,-86.26679,NE Corner of Indiana,Unknown County,187
+920,80718,Y,Y,Y,East South Central,South,MS,Mississippi,38962,Tippo,33.90263,-90.16305,NW Corner of Mississippi,Tallahatchie County,105
+921,194628,N,N,N,West South Central,South,TX,Texas,77292,Houston,29.744341,-95.332598,SE Corner of Texas,Harris County,35
+922,95261,N,N,N,South Atlantic,South,VA,Virginia,23487,Windsor,36.828408,-76.73506,SE Corner of Virginia,Isle of Wight County,100
+923,273504,Y,Y,N,Pacific,West,AK,Alaska,99599,Anchorage,61.187188,-149.880393,SE Corner of Alaska,Municipality of Anchorage,133
+924,122627,N,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,18099,Emmaus,40.693376,-75.471156,SE Corner of Pennsylvania,Lehigh County,7
+925,229345,Y,Y,N,East South Central,South,AL,Alabama,36766,Oak Hill,31.947005,-87.074497,SW Corner of Alabama,Wilcox County,19
+926,163166,Y,Y,Y,East North Central,Midwest,OH,Ohio,45032,Harveysburg,39.499635,-84.00579,SW Corner of Ohio,Warren County,69
+927,161063,N,N,N,East North Central,Midwest,OH,Ohio,45788,Whipple,39.5103,-81.37669,SE Corner of Ohio,Washington County,228
+928,167184,Y,N,N,Mountain,West,MT,Montana,59018,Clyde Park,45.894359,-110.61105,SW Corner of Montana,Park County,187
+929,80394,Y,N,N,East North Central,Midwest,IL,Illinois,61857,Muncie,40.11594,-87.84208,NE Corner of Illinois,Vermilion County,108
+930,279502,Y,N,N,South Atlantic,South,NC,North Carolina,27256,Gulf,35.562184,-79.28751,NE Corner of North Carolina,Chatham County,16
+931,15144,N,N,N,Mid-Atlantic,Northeast,NJ,New Jersey,08065,Palmyra,40.00278,-75.02626,SW Corner of New Jersey,Burlington County,196
+932,97734,Y,Y,N,West North Central,Midwest,MO,Missouri,63901,Poplar Bluff,36.759357,-90.41689,SE Corner of Missouri,Butler County,222
+933,148801,Y,Y,N,West South Central,South,TX,Texas,77574,League City,29.511582,-95.058153,SE Corner of Texas,Galveston County,89
+934,277518,Y,Y,N,New England,Northeast,NH,New Hampshire,03216,Andover,43.444702,-71.78401,SW Corner of New Hampshire,Merrimack County,93
+935,223709,Y,Y,N,South Atlantic,South,PR,Puerto Rico,00934,Fort Buchanan,18.413511,-66.12198,NE Corner of Puerto Rico,Unknown County,202
+936,215577,Y,N,N,Pacific,West,HI,Hawaii,96846,Honolulu,24.859832,-168.021815,NW Corner of Hawaii,Honolulu County,137
+937,231899,Y,Y,N,New England,Northeast,VT,Vermont,05144,Chester Depot,43.592039,-72.588407,SW Corner of Vermont,Windsor County,77
+938,14213,Y,Y,Y,East North Central,Midwest,WI,Wisconsin,53587,South Wayne,42.584521,-89.9026,SW Corner of Wisconsin,Lafayette County,24
+939,78267,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,10314,Staten Island,40.606337,-74.14513,SE Corner of New York,Richmond County,128
+940,105426,Y,Y,Y,South Atlantic,South,GA,Georgia,30321,Atlanta,33.844371,-84.47405,NW Corner of Georgia,Fulton County,129
+941,175494,N,N,N,West North Central,Midwest,IA,Iowa,52099,Dubuque,42.484861,-90.804116,NE Corner of Iowa,Dubuque County,212
+942,59430,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,10916,Campbell Hall,41.451074,-74.24346,SE Corner of New York,Orange County,39
+943,51641,Y,Y,Y,Mountain,West,MT,Montana,59487,Vaughn,47.577613,-111.60477,NW Corner of Montana,Cascade County,225
+944,64034,Y,N,N,East North Central,Midwest,WI,Wisconsin,54027,Wilson,44.938989,-92.18637,NW Corner of Wisconsin,St Croix County,202
+945,39923,Y,Y,Y,West South Central,South,TX,Texas,78606,Blanco,30.096855,-98.43411,SE Corner of Texas,Blanco County,150
+946,224048,Y,Y,N,East South Central,South,KY,Kentucky,42011,Fredonia,37.220735,-88.061294,SW Corner of Kentucky,Unknown County,209
+947,99281,N,N,N,Mountain,West,CO,Colorado,81039,Fowler,38.002861,-104.03445,SE Corner of Colorado,Otero County,208
+948,16269,Y,N,N,East North Central,Midwest,IL,Illinois,60175,Saint Charles,41.944577,-88.38326,NE Corner of Illinois,Kane County,227
+949,161853,N,N,N,West North Central,Midwest,MO,Missouri,65614,Bradleyville,36.734544,-92.89942,SW Corner of Missouri,Taney County,89
+950,28971,Y,Y,N,East South Central,South,TN,Tennessee,38197,Memphis,35.201738,-89.971538,NW Corner of Tennessee,Shelby County,24
+951,203396,Y,Y,Y,South Atlantic,South,FL,Florida,34420,Belleview,29.054976,-82.04255,NE Corner of Florida,Marion County,57
+952,141327,Y,Y,Y,Mountain,West,MT,Montana,59808,Missoula,46.92275,-114.07639,NW Corner of Montana,Missoula County,113
+953,127211,Y,N,N,East North Central,Midwest,IL,Illinois,62855,Lancaster,38.403424,-87.818672,SE Corner of Illinois,Wabash County,30
+954,138858,Y,Y,N,West North Central,Midwest,MN,Minnesota,56110,Adrian,43.626278,-95.93973,SW Corner of Minnesota,Nobles County,92
+955,134306,N,N,N,Pacific,West,CA,California,90266,Manhattan Beach,33.88898,-118.40535,SE Corner of California,Los Angeles County,183
+956,247493,Y,N,N,Mountain,West,MT,Montana,59311,Alzada,45.189905,-104.38569,SE Corner of Montana,Carter County,201
+957,167842,Y,N,N,Mid-Atlantic,Northeast,NY,New York,13636,Ellisburg,43.75965,-76.152508,NW Corner of New York,Jefferson County,159
+958,46413,Y,Y,N,Pacific,West,CA,California,90310,Inglewood,33.786594,-118.298662,SE Corner of California,Los Angeles County,111
+959,15171,Y,Y,Y,South Atlantic,South,WV,West Virginia,26448,Wallace,39.407957,-80.48869,NW Corner of West Virginia,Harrison County,154
+960,12162,N,N,N,East North Central,Midwest,IL,Illinois,62719,Springfield,39.749457,-89.606017,SW Corner of Illinois,Sangamon County,54
+961,218564,N,N,N,South Atlantic,South,VA,Virginia,23022,Bremo Bluff,37.728067,-78.26865,SE Corner of Virginia,Fluvanna County,34
+962,31285,Y,N,N,East North Central,Midwest,IL,Illinois,62049,Hillsboro,39.146809,-89.48442,SW Corner of Illinois,Montgomery County,53
+963,289230,Y,Y,N,Mountain,West,ID,Idaho,83338,Jerome,42.710124,-114.46394,SW Corner of Idaho,Jerome County,115
+964,58872,Y,N,N,West North Central,Midwest,IA,Iowa,50980,Des Moines,41.672687,-93.572173,SW Corner of Iowa,Polk County,149
+965,292402,Y,Y,Y,West South Central,South,TX,Texas,78043,Laredo,27.538658,-99.38274,SE Corner of Texas,Webb County,214
+966,13392,Y,Y,Y,Pacific,West,CA,California,95486,Villa Grande,38.464487,-123.037996,NW Corner of California,Sonoma County,190
+967,93184,Y,Y,N,East North Central,Midwest,IN,Indiana,47639,Haubstadt,38.187983,-87.5658,SW Corner of Indiana,Gibson County,69
+968,272471,Y,N,N,South Atlantic,South,GA,Georgia,30124,Cave Spring,34.118206,-85.34001,NW Corner of Georgia,Floyd County,149
+969,229239,Y,N,N,West South Central,South,TX,Texas,78960,Warda,30.070257,-96.91939,SE Corner of Texas,Fayette County,193
+970,42427,Y,Y,N,West North Central,Midwest,MO,Missouri,64639,De Witt,39.382255,-93.22876,NW Corner of Missouri,Carroll County,119
+971,34484,Y,Y,Y,South Atlantic,South,MD,Maryland,21831,Hebron,38.416292,-75.691572,SE Corner of Maryland,Unknown County,126
+972,96645,Y,Y,N,Mid-Atlantic,Northeast,NY,New York,10603,White Plains,41.053182,-73.77672,SE Corner of New York,Westchester County,35
+973,152227,N,N,N,South Atlantic,South,GA,Georgia,30412,Alston,32.083879,-82.47988,SE Corner of Georgia,Montgomery County,161
+974,129279,Y,Y,Y,Mountain,West,MT,Montana,59902,Kalispell,48.189424,-114.143531,NW Corner of Montana,Unknown County,155
+975,189954,N,N,N,Pacific,West,CA,California,91342,Sylmar,34.307877,-118.42904,SE Corner of California,Los Angeles County,11
+976,27692,Y,Y,N,South Atlantic,South,NC,North Carolina,27954,Manteo,35.913938,-75.67961,NE Corner of North Carolina,Dare County,169
+977,68584,Y,N,N,Mid-Atlantic,Northeast,NY,New York,12953,Malone,44.813419,-74.2772,NE Corner of New York,Franklin County,7
+978,2202,N,N,N,West North Central,Midwest,MO,Missouri,64847,Lanagan,36.61041,-94.4509,SW Corner of Missouri,McDonald County,162
+979,298097,Y,N,N,South Atlantic,South,NC,North Carolina,27331,Sanford,35.372577,-79.276577,NE Corner of North Carolina,Lee County,173
+980,158040,Y,N,N,Mountain,West,CO,Colorado,80808,Calhan,38.977375,-104.32017,SE Corner of Colorado,El Paso County,92
+981,56297,Y,Y,Y,Pacific,West,CA,California,92133,San Diego,32.733507,-117.216451,SE Corner of California,San Diego County,183
+982,167228,Y,Y,N,Mid-Atlantic,Northeast,NJ,New Jersey,08620,Trenton,40.17296,-74.66915,NE Corner of New Jersey,Mercer County,172
+983,169058,Y,Y,N,West North Central,Midwest,MO,Missouri,63090,Washington,38.535499,-91.02348,NE Corner of Missouri,Franklin County,212
+984,7690,Y,N,N,Mid-Atlantic,Northeast,PA,Pennsylvania,19341,Exton,40.040505,-75.63425,SE Corner of Pennsylvania,Chester County,163
+985,293361,Y,Y,N,East North Central,Midwest,IL,Illinois,60033,Harvard,42.424338,-88.61431,NE Corner of Illinois,McHenry County,131
+986,64308,Y,Y,Y,South Atlantic,South,NC,North Carolina,28814,Asheville,35.664752,-82.492664,NW Corner of North Carolina,Buncombe County,115
+987,251590,Y,Y,N,South Atlantic,South,WV,West Virginia,25132,Mammoth,38.293438,-81.34526,SW Corner of West Virginia,Kanawha County,232
+988,284935,Y,N,N,West South Central,South,LA,Louisiana,70352,Donner,29.696385,-90.944418,SE Corner of Louisiana,Terrebonne Parish,159
+989,123010,Y,Y,Y,East North Central,Midwest,IL,Illinois,60201,Evanston,42.056391,-87.69684,NE Corner of Illinois,Cook County,175
+990,89515,Y,Y,N,New England,Northeast,MA,Massachusetts,01748,Hopkinton,42.220447,-71.53418,NE Corner of Massachusetts,Middlesex County,113
+991,120375,Y,Y,N,South Atlantic,South,FL,Florida,33786,Belleair Beach,27.924748,-82.83937,NE Corner of Florida,Pinellas County,106
+992,248965,Y,Y,N,West South Central,South,TX,Texas,77879,Somerville,30.368922,-96.52359,SE Corner of Texas,Burleson County,197
+993,139373,Y,N,N,Pacific,West,CA,California,93249,Lost Hills,35.689717,-119.91961,SW Corner of California,Kern County,191
+994,289724,Y,Y,N,West South Central,South,OK,Oklahoma,74535,Clarita,34.488403,-96.43356,SE Corner of Oklahoma,Coal County,196
+995,13959,Y,N,N,West South Central,South,AR,Arkansas,72021,Brinkley,34.867846,-91.19271,NE Corner of Arkansas,Monroe County,180
+996,190702,Y,Y,Y,West South Central,South,TX,Texas,79373,Tahoka,33.199867,-101.81949,NW Corner of Texas,Lynn County,119
+997,296427,Y,Y,N,West South Central,South,OK,Oklahoma,73627,Carter,35.215997,-99.47006,SW Corner of Oklahoma,Beckham County,11
+998,252237,Y,Y,Y,West North Central,Midwest,MN,Minnesota,55414,Minneapolis,44.980379,-93.23003,SE Corner of Minnesota,Hennepin County,170
+999,225983,Y,Y,N,East North Central,Midwest,MI,Michigan,49448,Nunica,43.091183,-86.07346,SE Corner of Michigan,Ottawa County,54
