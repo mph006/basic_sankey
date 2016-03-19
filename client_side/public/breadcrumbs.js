@@ -16,7 +16,6 @@ function updateBreadcrumbs() {
   var labelText = fetchParentName();
   var depth = getDepth();
 
-  console.log("appending: "+labelText +" at: "+depth)
   var crumb = d3.select("#trail")
       .append("g").attr("class","crumb-wrapper").attr("id","crumb-wrapper-"+(depth-1))
       .on("click",function(){return clickedTrail(this,labelText);})
@@ -40,7 +39,7 @@ function updateBreadcrumbs() {
   
 
   crumb.attr("transform", function() {
-    //-2 needed for the length property of arrays and the root node "fakeness"
+    //-1 needed for the root node "fakeness"
     return "translate(" + (depth-1) * (b.w + b.s) + ", 0)";
   });
 

@@ -14,10 +14,8 @@ http.createServer(app).listen(app.get('port'), function() {
     console.log('Express server listening on port ' + app.get('port'));
 });
 
-
-
 app.post('/fetchGraph',function(req,res){
-	console.log(__dirname + dataPath + req.body.path + ".json")
+	//console.log(__dirname + dataPath + req.body.path + ".json")
     res.sendFile(__dirname + dataPath + req.body.path + ".json",function(err){
         if(err){res.status(err.status).end();}
     });

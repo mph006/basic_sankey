@@ -1,6 +1,7 @@
 var sankey, 
 	width, 
 	height, 
+	//Unfourtunately, this must be hardcoded as we do not see the whole depth with one view's data...
 	maxDepth=5,
 	animDuration=1000, 
 	units="Transactions",

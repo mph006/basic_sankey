@@ -10,7 +10,7 @@ function clickedTrail(htmlElement,d){
 
     var id = htmlElement.id.split("-");
     var index = +id.pop();
-    console.log(getDepth(),index)
+
     for(var i=index; i<getDepth(); i++){
         d3.select("#crumb-wrapper-"+i)
             .transition()
