@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->SE_Corner_of_Oklahoma",
   "nodes": [
     {
-      "name": "McCurtain County"
+      "name": "Choctaw County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,263 +17,277 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Pushmataha County"
-    },
-    {
-      "name": "Carter County"
-    },
-    {
-      "name": "Cleveland County"
+      "name": "Marshall County"
     },
     {
       "name": "Pittsburg County"
     },
     {
-      "name": "Johnston County"
+      "name": "Le Flore County"
+    },
+    {
+      "name": "Washita County"
+    },
+    {
+      "name": "Cleveland County"
+    },
+    {
+      "name": "Garvin County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Choctaw County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Choctaw County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Choctaw County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Choctaw County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Choctaw County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Choctaw County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Marshall County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Marshall County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Marshall County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Marshall County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Marshall County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Marshall County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Pittsburg County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Pittsburg County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Pittsburg County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Pittsburg County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pittsburg County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Pittsburg County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Le Flore County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Le Flore County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Le Flore County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Le Flore County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Le Flore County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Le Flore County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Washita County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Washita County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Washita County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Washita County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Washita County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Washita County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Cleveland County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Cleveland County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cleveland County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Cleveland County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Cleveland County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Cleveland County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Garvin County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 1,
+      "region": "Garvin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Garvin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Garvin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Garvin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Garvin County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 45
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 218
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 109
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 237
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 135
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 38
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 229
-    }
-  ]
+  "priceLinks": []
 }

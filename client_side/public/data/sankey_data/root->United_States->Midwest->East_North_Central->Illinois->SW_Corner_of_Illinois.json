@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->SW_Corner_of_Illinois",
   "nodes": [
     {
-      "name": "Madison County"
+      "name": "Pike County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,7 +17,10 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Sangamon County"
+      "name": "St Clair County"
+    },
+    {
+      "name": "Madison County"
     },
     {
       "name": "Macoupin County"
@@ -26,254 +29,226 @@
       "name": "Randolph County"
     },
     {
-      "name": "Perry County"
-    },
-    {
-      "name": "Greene County"
+      "name": "Jersey County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Pike County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Pike County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pike County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "Pike County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Pike County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 3
+      "value": 1,
+      "region": "Pike County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "St Clair County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "St Clair County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "St Clair County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "St Clair County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "St Clair County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "St Clair County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Madison County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Madison County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Madison County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "Madison County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Madison County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Madison County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Macoupin County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Macoupin County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Macoupin County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Macoupin County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Macoupin County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Macoupin County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Randolph County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Randolph County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Randolph County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Randolph County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Randolph County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Randolph County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Jersey County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Jersey County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Jersey County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Jersey County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Jersey County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Jersey County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 442
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 178
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 9
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 116
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 128
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 28
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 173
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

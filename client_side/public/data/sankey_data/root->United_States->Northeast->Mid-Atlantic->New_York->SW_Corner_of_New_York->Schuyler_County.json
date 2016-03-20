@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_York->SW_Corner_of_New_York->Schuyler_County",
   "nodes": [
     {
-      "name": "14812"
+      "name": "14805"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -21,44 +21,39 @@
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "14805"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "14805"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "14805"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "14805"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "14805"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "14805"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 80
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

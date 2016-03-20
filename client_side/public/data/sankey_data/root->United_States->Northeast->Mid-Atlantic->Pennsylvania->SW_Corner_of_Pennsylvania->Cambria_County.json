@@ -2,13 +2,16 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic->Pennsylvania->SW_Corner_of_Pennsylvania->Cambria_County",
   "nodes": [
     {
-      "name": "15915"
+      "name": "15760"
     },
     {
-      "name": "16624"
+      "name": "15925"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "16636"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -23,85 +26,112 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 0,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "15760"
     },
     {
       "source": 0,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "15760"
     },
     {
-      "source": 0,
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "15760"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
+      "value": 1,
+      "region": "15760"
     },
     {
-      "source": 1,
-      "target": 2,
-      "value": 0
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "15760"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "15760"
     },
     {
       "source": 1,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "15925"
     },
     {
       "source": 1,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "15925"
     },
     {
-      "source": 1,
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "15925"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
+      "value": 1,
+      "region": "15925"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "15925"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "15925"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "16636"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "16636"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "16636"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "16636"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "16636"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "16636"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 2,
-      "value": 202
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 76
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

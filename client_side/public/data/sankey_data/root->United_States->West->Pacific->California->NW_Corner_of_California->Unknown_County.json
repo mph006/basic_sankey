@@ -2,10 +2,16 @@
   "keyPath": "root->United_States->West->Pacific->California->NW_Corner_of_California->Unknown_County",
   "nodes": [
     {
-      "name": "94308"
+      "name": "94405"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "95298"
+    },
+    {
+      "name": "95390"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +26,112 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 1
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "94405"
     },
     {
       "source": 0,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "94405"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "94405"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "94405"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "94405"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "94405"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "95298"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "95298"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "95298"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "95298"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "95298"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "95298"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "95390"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "95390"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "95390"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "95390"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "95390"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "95390"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 186
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

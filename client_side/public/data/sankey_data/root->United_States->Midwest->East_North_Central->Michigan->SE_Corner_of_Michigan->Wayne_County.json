@@ -2,25 +2,19 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->SE_Corner_of_Michigan->Wayne_County",
   "nodes": [
     {
-      "name": "48134"
+      "name": "48111"
     },
     {
-      "name": "48138"
+      "name": "48135"
     },
     {
-      "name": "48174"
+      "name": "48150"
     },
     {
-      "name": "48206"
+      "name": "48153"
     },
     {
-      "name": "48221"
-    },
-    {
-      "name": "48268"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -35,245 +29,148 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 6,
-      "value": 0
+      "target": 4,
+      "value": 0,
+      "region": "48111"
     },
     {
       "source": 0,
-      "target": 7,
-      "value": 1
+      "target": 5,
+      "value": 1,
+      "region": "48111"
     },
     {
-      "source": 0,
-      "target": 8,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 9,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 8,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 9,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 8,
-      "value": 1
-    },
-    {
-      "source": 2,
-      "target": 9,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 8,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 9,
-      "value": 1
-    },
-    {
-      "source": 4,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 4,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 4,
-      "target": 8,
-      "value": 1
-    },
-    {
-      "source": 4,
-      "target": 9,
-      "value": 0
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "48111"
     },
     {
       "source": 5,
       "target": 6,
-      "value": 0
+      "value": 1,
+      "region": "48111"
     },
     {
-      "source": 5,
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "48111"
+    },
+    {
+      "source": 6,
       "target": 7,
-      "value": 1
+      "value": 1,
+      "region": "48111"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "48135"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "48135"
     },
     {
       "source": 5,
-      "target": 8,
-      "value": 0
+      "target": 4,
+      "value": 0,
+      "region": "48135"
     },
     {
       "source": 5,
-      "target": 9,
-      "value": 0
+      "target": 6,
+      "value": 1,
+      "region": "48135"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "48135"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "48135"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "48150"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "48150"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "48150"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "48150"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "48150"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "48150"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "48153"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "48153"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "48153"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "48153"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "48153"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "48153"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 7,
-      "value": 116
-    },
-    {
-      "source": 0,
-      "target": 8,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 9,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "value": 193
-    },
-    {
-      "source": 1,
-      "target": 8,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 9,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 8,
-      "value": 123
-    },
-    {
-      "source": 2,
-      "target": 9,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 8,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 9,
-      "value": 74
-    },
-    {
-      "source": 4,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 4,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 4,
-      "target": 8,
-      "value": 183
-    },
-    {
-      "source": 4,
-      "target": 9,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 7,
-      "value": 143
-    },
-    {
-      "source": 5,
-      "target": 8,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 9,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

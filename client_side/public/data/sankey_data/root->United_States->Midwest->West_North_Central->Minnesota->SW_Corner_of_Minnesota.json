@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SW_Corner_of_Minnesota",
   "nodes": [
     {
-      "name": "Carver County"
+      "name": "Stearns County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,349 +17,355 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Lyon County"
-    },
-    {
-      "name": "Douglas County"
-    },
-    {
       "name": "Watonwan County"
     },
     {
-      "name": "Sherburne County"
+      "name": "Redwood County"
     },
     {
-      "name": "Pope County"
+      "name": "Stevens County"
     },
     {
-      "name": "Big Stone County"
+      "name": "Hennepin County"
     },
     {
-      "name": "Wright County"
+      "name": "Lincoln County"
+    },
+    {
+      "name": "Wadena County"
+    },
+    {
+      "name": "Kandiyohi County"
+    },
+    {
+      "name": "Otter Tail County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Stearns County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 3,
+      "region": "Stearns County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Stearns County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 3,
+      "region": "Stearns County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Stearns County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 2,
+      "region": "Stearns County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Watonwan County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Watonwan County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Watonwan County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Watonwan County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Watonwan County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Watonwan County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Redwood County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Redwood County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Redwood County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Redwood County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Redwood County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Redwood County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Stevens County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Stevens County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Stevens County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Stevens County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Stevens County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Stevens County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Hennepin County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Hennepin County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Hennepin County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Hennepin County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hennepin County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Hennepin County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Lincoln County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Lincoln County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Lincoln County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Lincoln County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Wadena County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Wadena County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wadena County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Wadena County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Wadena County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Wadena County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Kandiyohi County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Kandiyohi County"
     },
     {
-      "source": 11,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Kandiyohi County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Kandiyohi County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Kandiyohi County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Kandiyohi County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 1,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Otter Tail County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 112
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 12
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 145
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 36
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 75
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 169
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 129
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 91
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

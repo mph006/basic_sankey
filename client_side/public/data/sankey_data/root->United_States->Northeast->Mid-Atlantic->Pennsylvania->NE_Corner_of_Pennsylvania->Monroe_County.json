@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->Pennsylvania->NE_Corner_of_Pennsylvania->Monroe_County",
+  "nodes": [
+    {
+      "name": "18357"
+    },
+    {
+      "name": "18372"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "18357"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "18357"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "18357"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "18357"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "18357"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "18357"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "18372"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "18372"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "18372"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "18372"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "18372"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "18372"
+    }
+  ],
+  "priceLinks": []
+}

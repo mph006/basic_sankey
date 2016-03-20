@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->West->Mountain->Colorado->NW_Corner_of_Colorado",
   "nodes": [
     {
-      "name": "Garfield County"
+      "name": "Jackson County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,134 +17,121 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Mesa County"
+      "name": "Rio Blanco County"
     },
     {
-      "name": "Park County"
+      "name": "Grand County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Jackson County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Jackson County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Jackson County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Jackson County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Jackson County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Jackson County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Rio Blanco County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Rio Blanco County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Rio Blanco County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Rio Blanco County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Rio Blanco County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Rio Blanco County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Grand County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Grand County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Grand County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Grand County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Grand County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Grand County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 136
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 19
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 213
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

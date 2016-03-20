@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SE_Corner_of_Missouri",
   "nodes": [
     {
-      "name": "Iron County"
+      "name": "Dunklin County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,478 +17,238 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Washington County"
+      "name": "Ripley County"
     },
     {
-      "name": "Laclede County"
+      "name": "Scott County"
     },
     {
-      "name": "Unknown County"
+      "name": "Stoddard County"
     },
     {
-      "name": "Dunklin County"
+      "name": "Jefferson County"
     },
     {
-      "name": "Maries County"
-    },
-    {
-      "name": "Carter County"
-    },
-    {
-      "name": "Pemiscot County"
-    },
-    {
-      "name": "Texas County"
-    },
-    {
-      "name": "Cape Girardeau County"
-    },
-    {
-      "name": "Perry County"
+      "name": "Wayne County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Dunklin County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Dunklin County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Dunklin County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Dunklin County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Dunklin County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Dunklin County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Ripley County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Ripley County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Ripley County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Ripley County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Ripley County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Ripley County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Scott County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "Scott County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Scott County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Scott County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Scott County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Scott County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Stoddard County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "Stoddard County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Stoddard County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Stoddard County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Stoddard County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Stoddard County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Jefferson County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Jefferson County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Jefferson County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Jefferson County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Wayne County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Wayne County"
     },
     {
-      "source": 9,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Wayne County"
     },
     {
-      "source": 10,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 10,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Wayne County"
     },
     {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
+      "source": 3,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Wayne County"
     },
     {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 11,
+      "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "value": 1
-    },
-    {
-      "source": 14,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Wayne County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 31
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 29
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 250
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 229
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 221
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 104
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 133
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 231
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 3,
-      "value": 176
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 25
-    },
-    {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "value": 149
-    },
-    {
-      "source": 14,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

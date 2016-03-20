@@ -2,13 +2,13 @@
   "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->NW_Corner_of_West_Virginia->Unknown_County",
   "nodes": [
     {
-      "name": "26145"
+      "name": "26332"
     },
     {
-      "name": "26407"
+      "name": "26589"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -24,84 +24,75 @@
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "26332"
     },
     {
       "source": 0,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "26332"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "26332"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "26332"
     },
     {
-      "source": 0,
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "26332"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
+      "value": 1,
+      "region": "26332"
     },
     {
       "source": 1,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "26589"
     },
     {
       "source": 1,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "26589"
     },
     {
-      "source": 1,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "26589"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "26589"
     },
     {
-      "source": 1,
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "26589"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 1
+      "value": 0,
+      "region": "26589"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 2,
-      "value": 245
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 29
-    }
-  ]
+  "priceLinks": []
 }

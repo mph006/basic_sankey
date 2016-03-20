@@ -5,7 +5,7 @@
       "name": "SW Corner of West Virginia"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -30,164 +30,147 @@
     {
       "source": 0,
       "target": 1,
-      "value": 4
+      "value": 2,
+      "region": "SW Corner of West Virginia"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2
+      "value": 13,
+      "region": "SW Corner of West Virginia"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "SW Corner of West Virginia"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 10,
+      "region": "SW Corner of West Virginia"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 5,
+      "region": "SW Corner of West Virginia"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 6
+      "value": 5,
+      "region": "SW Corner of West Virginia"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "NW Corner of West Virginia"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 4,
+      "region": "NW Corner of West Virginia"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "NW Corner of West Virginia"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 4
+      "value": 2,
+      "region": "NW Corner of West Virginia"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of West Virginia"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 2
+      "value": 1,
+      "region": "NW Corner of West Virginia"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "NE Corner of West Virginia"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 3,
+      "region": "NE Corner of West Virginia"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of West Virginia"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 3,
+      "region": "NE Corner of West Virginia"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "NE Corner of West Virginia"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 2
+      "value": 2,
+      "region": "NE Corner of West Virginia"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "SE Corner of West Virginia"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "SE Corner of West Virginia"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "SE Corner of West Virginia"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "SE Corner of West Virginia"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of West Virginia"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "SE Corner of West Virginia"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 624
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 260
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 802
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 578
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 245
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 88
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 448
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 91
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 68
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 224
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 202
-    }
-  ]
+  "priceLinks": []
 }

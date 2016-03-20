@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->East_South_Central->Tennessee->NW_Corner_of_Tennessee",
   "nodes": [
     {
-      "name": "Shelby County"
+      "name": "Davidson County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,177 +17,238 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Davidson County"
+      "name": "Shelby County"
     },
     {
-      "name": "Dickson County"
+      "name": "Montgomery County"
     },
     {
-      "name": "Robertson County"
+      "name": "Maury County"
+    },
+    {
+      "name": "Chester County"
+    },
+    {
+      "name": "McNairy County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Davidson County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 2,
+      "region": "Davidson County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Davidson County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 1,
+      "region": "Davidson County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Davidson County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Davidson County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Shelby County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Shelby County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Shelby County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Shelby County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Shelby County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Shelby County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Montgomery County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Montgomery County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Montgomery County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Montgomery County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Maury County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Maury County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Maury County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Maury County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Maury County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Maury County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Chester County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "Chester County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Chester County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Chester County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Chester County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Chester County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "McNairy County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 0,
+      "region": "McNairy County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "McNairy County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "McNairy County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "McNairy County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "McNairy County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 231
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 150
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 138
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 5
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 205
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

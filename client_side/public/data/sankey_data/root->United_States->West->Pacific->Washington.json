@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->West->Pacific->Washington",
   "nodes": [
     {
-      "name": "SW Corner of Washington"
+      "name": "NW Corner of Washington"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,7 +20,7 @@
       "name": "NE Corner of Washington"
     },
     {
-      "name": "NW Corner of Washington"
+      "name": "SW Corner of Washington"
     },
     {
       "name": "SE Corner of Washington"
@@ -30,164 +30,147 @@
     {
       "source": 0,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "NW Corner of Washington"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2
+      "value": 5,
+      "region": "NW Corner of Washington"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of Washington"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 4,
+      "region": "NW Corner of Washington"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "NW Corner of Washington"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 2,
+      "region": "NW Corner of Washington"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 2
+      "value": 0,
+      "region": "NE Corner of Washington"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 3,
+      "region": "NE Corner of Washington"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "NE Corner of Washington"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "NE Corner of Washington"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of Washington"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "NE Corner of Washington"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "SW Corner of Washington"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "SW Corner of Washington"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of Washington"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "SW Corner of Washington"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of Washington"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "SW Corner of Washington"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "SE Corner of Washington"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1
+      "value": 2,
+      "region": "SE Corner of Washington"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "SE Corner of Washington"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "SE Corner of Washington"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of Washington"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "SE Corner of Washington"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 109
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 264
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 214
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 69
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 170
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 12
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 131
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 108
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 82
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 184
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

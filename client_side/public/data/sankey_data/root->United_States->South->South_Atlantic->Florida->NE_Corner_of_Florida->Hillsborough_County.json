@@ -2,16 +2,13 @@
   "keyPath": "root->United_States->South->South_Atlantic->Florida->NE_Corner_of_Florida->Hillsborough_County",
   "nodes": [
     {
-      "name": "33509"
+      "name": "33547"
     },
     {
-      "name": "33527"
+      "name": "33549"
     },
     {
-      "name": "33624"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -26,125 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 3,
-      "value": 0
+      "target": 2,
+      "value": 0,
+      "region": "33547"
     },
     {
       "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "33547"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "33547"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "33547"
     },
     {
-      "source": 0,
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "33547"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
+      "value": 0,
+      "region": "33547"
     },
     {
-      "source": 0,
-      "target": 6,
-      "value": 0
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "33549"
     },
     {
       "source": 1,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "33549"
     },
     {
-      "source": 1,
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "33549"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "33549"
     },
     {
-      "source": 1,
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "33549"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 1
+      "value": 0,
+      "region": "33549"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 50
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 46
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 31
-    }
-  ]
+  "priceLinks": []
 }

@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->West->Mountain->Colorado->NE_Corner_of_Colorado",
   "nodes": [
     {
-      "name": "Weld County"
+      "name": "Arapahoe County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,349 +17,277 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Denver County"
-    },
-    {
-      "name": "Adams County"
-    },
-    {
       "name": "Larimer County"
     },
     {
-      "name": "Unknown County"
+      "name": "Weld County"
     },
     {
-      "name": "Arapahoe County"
+      "name": "Yuma County"
+    },
+    {
+      "name": "Denver County"
+    },
+    {
+      "name": "Logan County"
     },
     {
       "name": "Douglas County"
-    },
-    {
-      "name": "Kit Carson County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Arapahoe County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "Arapahoe County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Arapahoe County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Arapahoe County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Arapahoe County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 2
+      "value": 0,
+      "region": "Arapahoe County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Larimer County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Larimer County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Larimer County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Larimer County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Larimer County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Larimer County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Weld County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Weld County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Weld County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Weld County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Weld County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Weld County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Yuma County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Yuma County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Yuma County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Yuma County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Yuma County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Yuma County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Denver County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "Denver County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Denver County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Denver County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Denver County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Denver County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Logan County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Logan County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Logan County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Logan County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Logan County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Logan County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Douglas County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Douglas County"
     },
     {
-      "source": 10,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Douglas County"
     },
     {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Douglas County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Douglas County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Douglas County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 169
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 109
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 101
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 183
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 160
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 140
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 55
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 177
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 125
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 111
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 164
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

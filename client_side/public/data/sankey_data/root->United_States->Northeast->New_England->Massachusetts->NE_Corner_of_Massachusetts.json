@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Northeast->New_England->Massachusetts->NE_Corner_of_Massachusetts",
   "nodes": [
     {
-      "name": "Middlesex County"
+      "name": "Unknown County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,220 +17,160 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Plymouth County"
-    },
-    {
-      "name": "Unknown County"
+      "name": "Norfolk County"
     },
     {
       "name": "Essex County"
     },
     {
-      "name": "Worcester County"
+      "name": "Middlesex County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 3
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Unknown County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 1,
+      "region": "Unknown County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Unknown County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Norfolk County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Norfolk County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Norfolk County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Norfolk County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Norfolk County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Norfolk County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 2
+      "value": 1,
+      "region": "Essex County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Essex County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Essex County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Essex County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Essex County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Essex County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Middlesex County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Middlesex County"
     },
     {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Middlesex County"
     },
     {
-      "source": 8,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 8,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Middlesex County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Middlesex County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Middlesex County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 382
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 264
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 21
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 226
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 232
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 240
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 150
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 230
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

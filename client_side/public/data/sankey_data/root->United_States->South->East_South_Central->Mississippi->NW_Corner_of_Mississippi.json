@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->East_South_Central->Mississippi->NW_Corner_of_Mississippi",
   "nodes": [
     {
-      "name": "Holmes County"
+      "name": "Tallahatchie County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,134 +17,82 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Madison County"
-    },
-    {
-      "name": "Panola County"
+      "name": "Quitman County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Tallahatchie County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Tallahatchie County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Tallahatchie County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Tallahatchie County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tallahatchie County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Tallahatchie County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Quitman County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Quitman County"
     },
     {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 1
-    },
-    {
-      "source": 6,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Quitman County"
     },
     {
-      "source": 6,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 6,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Quitman County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Quitman County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Quitman County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 23
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 202
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 184
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

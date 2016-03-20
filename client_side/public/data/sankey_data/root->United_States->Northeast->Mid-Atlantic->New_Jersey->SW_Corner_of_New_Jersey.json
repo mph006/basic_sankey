@@ -1,0 +1,59 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_Jersey->SW_Corner_of_New_Jersey",
+  "nodes": [
+    {
+      "name": "Gloucester County"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "Gloucester County"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3,
+      "region": "Gloucester County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Gloucester County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Gloucester County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Gloucester County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Gloucester County"
+    }
+  ],
+  "priceLinks": []
+}

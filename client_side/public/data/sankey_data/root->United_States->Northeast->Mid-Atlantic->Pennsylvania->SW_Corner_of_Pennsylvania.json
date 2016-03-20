@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic->Pennsylvania->SW_Corner_of_Pennsylvania",
   "nodes": [
     {
-      "name": "Indiana County"
+      "name": "Allegheny County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,435 +17,550 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Westmoreland County"
-    },
-    {
       "name": "Cambria County"
     },
     {
-      "name": "Franklin County"
+      "name": "Fulton County"
+    },
+    {
+      "name": "Butler County"
+    },
+    {
+      "name": "Blair County"
+    },
+    {
+      "name": "Huntingdon County"
+    },
+    {
+      "name": "Somerset County"
+    },
+    {
+      "name": "Indiana County"
+    },
+    {
+      "name": "Westmoreland County"
+    },
+    {
+      "name": "Greene County"
+    },
+    {
+      "name": "Centre County"
+    },
+    {
+      "name": "Fayette County"
     },
     {
       "name": "Clearfield County"
     },
     {
       "name": "Washington County"
-    },
-    {
-      "name": "Mifflin County"
-    },
-    {
-      "name": "Unknown County"
-    },
-    {
-      "name": "Armstrong County"
-    },
-    {
-      "name": "Fayette County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1
+      "value": 2,
+      "region": "Allegheny County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 3,
+      "region": "Allegheny County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Allegheny County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 3,
+      "region": "Allegheny County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Allegheny County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 3,
+      "region": "Allegheny County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Cambria County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 2
+      "value": 3,
+      "region": "Cambria County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cambria County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 3,
+      "region": "Cambria County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Cambria County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Cambria County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Fulton County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Fulton County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Fulton County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "Fulton County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Fulton County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Fulton County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Butler County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Butler County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Butler County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "Butler County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Butler County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 2,
+      "region": "Butler County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Blair County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Blair County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Blair County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Blair County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Blair County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Blair County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Huntingdon County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Huntingdon County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Huntingdon County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "Huntingdon County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Huntingdon County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 2,
+      "region": "Huntingdon County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Somerset County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Somerset County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Somerset County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Somerset County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Somerset County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Somerset County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Indiana County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Indiana County"
     },
     {
-      "source": 11,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Indiana County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Indiana County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Indiana County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Indiana County"
     },
     {
       "source": 12,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Westmoreland County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Westmoreland County"
     },
     {
-      "source": 12,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Westmoreland County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Westmoreland County"
     },
     {
-      "source": 12,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Westmoreland County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Westmoreland County"
     },
     {
       "source": 13,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Greene County"
     },
     {
       "source": 13,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Greene County"
     },
     {
-      "source": 13,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Greene County"
     },
     {
-      "source": 13,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Centre County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 1,
+      "region": "Centre County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Centre County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Centre County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Centre County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Centre County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Fayette County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 1,
+      "region": "Fayette County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Fayette County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Fayette County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Fayette County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Fayette County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Clearfield County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 1,
+      "region": "Clearfield County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Clearfield County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Clearfield County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Clearfield County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Clearfield County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Washington County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 88
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 46
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 125
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 220
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 165
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 202
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 76
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 60
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 69
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 187
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 206
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 60
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 189
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 104
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 13
-    },
-    {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

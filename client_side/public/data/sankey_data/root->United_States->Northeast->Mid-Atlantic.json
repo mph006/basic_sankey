@@ -5,7 +5,7 @@
       "name": "New York"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -27,124 +27,111 @@
     {
       "source": 0,
       "target": 1,
-      "value": 15
+      "value": 10,
+      "region": "New York"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 17
+      "value": 43,
+      "region": "New York"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 16,
+      "region": "New York"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 10
+      "value": 27,
+      "region": "New York"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 14,
+      "region": "New York"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 8
+      "value": 13,
+      "region": "New York"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 13
+      "value": 13,
+      "region": "Pennsylvania"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 10
+      "value": 37,
+      "region": "Pennsylvania"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 11,
+      "region": "Pennsylvania"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 12
+      "value": 26,
+      "region": "Pennsylvania"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 10,
+      "region": "Pennsylvania"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 10
+      "value": 16,
+      "region": "Pennsylvania"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 4
+      "value": 0,
+      "region": "New Jersey"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 4
+      "value": 14,
+      "region": "New Jersey"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "New Jersey"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 4
+      "value": 12,
+      "region": "New Jersey"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 7,
+      "region": "New Jersey"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 5
+      "value": 5,
+      "region": "New Jersey"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 1913
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 2348
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 1699
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 920
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 2201
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 1046
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 1687
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 1011
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 438
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 623
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 316
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 507
-    }
-  ]
+  "priceLinks": []
 }

@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->NE_Corner_of_Wisconsin",
   "nodes": [
     {
-      "name": "Shawano County"
+      "name": "Forest County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,177 +17,121 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Marathon County"
+      "name": "Vilas County"
     },
     {
-      "name": "Door County"
-    },
-    {
-      "name": "Marinette County"
+      "name": "Oconto County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Forest County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "Forest County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Forest County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Forest County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Forest County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Forest County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Vilas County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Vilas County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Vilas County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Vilas County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Vilas County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Vilas County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Oconto County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Oconto County"
     },
     {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Oconto County"
     },
     {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Oconto County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Oconto County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Oconto County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 57
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 233
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 129
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 104
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 173
-    }
-  ]
+  "priceLinks": []
 }

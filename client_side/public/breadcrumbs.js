@@ -18,13 +18,13 @@ function updateBreadcrumbs() {
 
   var crumb = d3.select("#trail")
       .append("g").attr("class","crumb-wrapper").attr("id","crumb-wrapper-"+(depth-1))
-      .on("click",function(){return clickedTrail(this,labelText);})
+      .on("dblclick",function(){return clickedTrail(this,labelText);})
 
 
   crumb.append("polygon")
       .attr("points",breadcrumbPoints)
-      .style("fill",function(){
-        return color(labelText.replace(/ .*/, ""));
+      .style("fill",function(d){
+        return locationColors(labelText.replace(/ .*/, ""));
       });
 
   crumb.append("text")

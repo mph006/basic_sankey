@@ -5,7 +5,7 @@
       "name": "United States"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -21,44 +21,39 @@
     {
       "source": 0,
       "target": 1,
-      "value": 236
+      "value": 242,
+      "region": "United States"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 234
+      "value": 744,
+      "region": "United States"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 239,
+      "region": "United States"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 269
+      "value": 505,
+      "region": "United States"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 255,
+      "region": "United States"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 254
+      "value": 250,
+      "region": "United States"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 30315
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 28831
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 33155
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 30957
-    }
-  ]
+  "priceLinks": []
 }

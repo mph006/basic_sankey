@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->West->Pacific->California->NW_Corner_of_California",
   "nodes": [
     {
-      "name": "Sonoma County"
+      "name": "San Francisco County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,7 +17,31 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Contra Costa County"
+      "name": "Sacramento County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Sonoma County"
+    },
+    {
+      "name": "Merced County"
+    },
+    {
+      "name": "San Mateo County"
+    },
+    {
+      "name": "Santa Clara County"
+    },
+    {
+      "name": "Siskiyou County"
+    },
+    {
+      "name": "Stanislaus County"
+    },
+    {
+      "name": "Tehama County"
     },
     {
       "name": "Alameda County"
@@ -26,856 +50,556 @@
       "name": "Nevada County"
     },
     {
-      "name": "San Joaquin County"
-    },
-    {
-      "name": "Lassen County"
-    },
-    {
-      "name": "Stanislaus County"
-    },
-    {
-      "name": "San Francisco County"
-    },
-    {
-      "name": "Humboldt County"
-    },
-    {
-      "name": "Marin County"
-    },
-    {
       "name": "Placer County"
     },
     {
-      "name": "Sacramento County"
+      "name": "Sierra County"
     },
     {
-      "name": "Modoc County"
-    },
-    {
-      "name": "Unknown County"
-    },
-    {
-      "name": "Siskiyou County"
-    },
-    {
-      "name": "Tuolumne County"
-    },
-    {
-      "name": "Santa Clara County"
-    },
-    {
-      "name": "Glenn County"
-    },
-    {
-      "name": "Merced County"
-    },
-    {
-      "name": "Yolo County"
+      "name": "Humboldt County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 2
+      "value": 0,
+      "region": "San Francisco County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 3,
+      "region": "San Francisco County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "San Francisco County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 2,
+      "region": "San Francisco County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "San Francisco County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "San Francisco County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Sacramento County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Sacramento County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Sacramento County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 1,
+      "region": "Sacramento County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Sacramento County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Sacramento County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 3,
+      "region": "Unknown County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "Unknown County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Sonoma County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Sonoma County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sonoma County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Sonoma County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Sonoma County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Sonoma County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 2,
+      "region": "Merced County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Merced County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Merced County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Merced County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Merced County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 2
+      "value": 0,
+      "region": "Merced County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "San Mateo County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "San Mateo County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "San Mateo County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "San Mateo County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "San Mateo County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "San Mateo County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Santa Clara County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Santa Clara County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Santa Clara County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Santa Clara County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Santa Clara County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Santa Clara County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 2
+      "value": 0,
+      "region": "Siskiyou County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Siskiyou County"
     },
     {
-      "source": 11,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Siskiyou County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Siskiyou County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Siskiyou County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Siskiyou County"
     },
     {
       "source": 12,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Stanislaus County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Stanislaus County"
     },
     {
-      "source": 12,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Stanislaus County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Stanislaus County"
     },
     {
-      "source": 12,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Stanislaus County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Stanislaus County"
     },
     {
       "source": 13,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Tehama County"
     },
     {
       "source": 13,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Tehama County"
     },
     {
-      "source": 13,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Tehama County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Tehama County"
     },
     {
-      "source": 13,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tehama County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Tehama County"
     },
     {
       "source": 14,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Alameda County"
     },
     {
       "source": 14,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Alameda County"
     },
     {
-      "source": 14,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Alameda County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Alameda County"
     },
     {
-      "source": 14,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Alameda County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Alameda County"
     },
     {
       "source": 15,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Nevada County"
     },
     {
       "source": 15,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Nevada County"
     },
     {
-      "source": 15,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Nevada County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Nevada County"
     },
     {
-      "source": 15,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Nevada County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Nevada County"
     },
     {
       "source": 16,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Placer County"
     },
     {
       "source": 16,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Placer County"
     },
     {
-      "source": 16,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Placer County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Placer County"
     },
     {
-      "source": 16,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Placer County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Placer County"
     },
     {
       "source": 17,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Sierra County"
     },
     {
       "source": 17,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Sierra County"
     },
     {
-      "source": 17,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sierra County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Sierra County"
     },
     {
-      "source": 17,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Sierra County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Sierra County"
     },
     {
       "source": 18,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Humboldt County"
     },
     {
       "source": 18,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Humboldt County"
     },
     {
-      "source": 18,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 4,
-      "value": 1
-    },
-    {
-      "source": 19,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Humboldt County"
     },
     {
-      "source": 19,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 19,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Humboldt County"
     },
     {
-      "source": 19,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 20,
+      "source": 3,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Humboldt County"
     },
     {
-      "source": 20,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 20,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 20,
+      "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 21,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 21,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 21,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 21,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 22,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 22,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 22,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 22,
-      "target": 4,
-      "value": 1
-    },
-    {
-      "source": 23,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 23,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 23,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 23,
-      "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Humboldt County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 152
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 232
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 90
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 251
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 150
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 81
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 119
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 23
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 62
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 171
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 247
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 142
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 180
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 34
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 144
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 91
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 125
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 113
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "value": 10
-    },
-    {
-      "source": 12,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 3,
-      "value": 48
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 176
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 18
-    },
-    {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 105
-    },
-    {
-      "source": 14,
-      "target": 4,
-      "value": 69
-    },
-    {
-      "source": 15,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 4,
-      "value": 186
-    },
-    {
-      "source": 16,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 4,
-      "value": 29
-    },
-    {
-      "source": 17,
-      "target": 1,
-      "value": 186
-    },
-    {
-      "source": 17,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 17,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 17,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 4,
-      "value": 88
-    },
-    {
-      "source": 19,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 19,
-      "target": 2,
-      "value": 201
-    },
-    {
-      "source": 19,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 19,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 20,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 20,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 20,
-      "target": 3,
-      "value": 159
-    },
-    {
-      "source": 20,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 21,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 21,
-      "target": 2,
-      "value": 120
-    },
-    {
-      "source": 21,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 21,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 22,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 22,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 22,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 22,
-      "target": 4,
-      "value": 100
-    },
-    {
-      "source": 23,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 23,
-      "target": 2,
-      "value": 28
-    },
-    {
-      "source": 23,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 23,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

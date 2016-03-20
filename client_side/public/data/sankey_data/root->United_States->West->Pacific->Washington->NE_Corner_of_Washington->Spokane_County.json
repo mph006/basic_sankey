@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->West->Pacific->Washington->NE_Corner_of_Washington->Spokane_County",
+  "nodes": [
+    {
+      "name": "99006"
+    },
+    {
+      "name": "99205"
+    },
+    {
+      "name": "99212"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "99006"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "99006"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "99006"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "99006"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "99006"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "99006"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "99205"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "99205"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "99205"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "99205"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "99205"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "99205"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "99212"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "99212"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "99212"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "99212"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "99212"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "99212"
+    }
+  ],
+  "priceLinks": []
+}

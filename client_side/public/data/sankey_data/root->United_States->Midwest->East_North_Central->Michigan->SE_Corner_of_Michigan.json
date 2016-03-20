@@ -5,7 +5,7 @@
       "name": "Wayne County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,779 +17,784 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Mecosta County"
+      "name": "Kent County"
     },
     {
-      "name": "Genesee County"
-    },
-    {
-      "name": "Oakland County"
-    },
-    {
-      "name": "Jackson County"
-    },
-    {
-      "name": "Livingston County"
-    },
-    {
-      "name": "Kalamazoo County"
-    },
-    {
-      "name": "Manistee County"
-    },
-    {
-      "name": "Ogemaw County"
-    },
-    {
-      "name": "Gratiot County"
-    },
-    {
-      "name": "Roscommon County"
-    },
-    {
-      "name": "Macomb County"
-    },
-    {
-      "name": "Sanilac County"
-    },
-    {
-      "name": "Lapeer County"
+      "name": "Saginaw County"
     },
     {
       "name": "Washtenaw County"
     },
     {
-      "name": "Huron County"
+      "name": "Macomb County"
     },
     {
-      "name": "Iosco County"
+      "name": "Montcalm County"
     },
     {
-      "name": "Kent County"
+      "name": "Benzie County"
+    },
+    {
+      "name": "Allegan County"
+    },
+    {
+      "name": "Oakland County"
+    },
+    {
+      "name": "Barry County"
+    },
+    {
+      "name": "Hillsdale County"
+    },
+    {
+      "name": "Monroe County"
+    },
+    {
+      "name": "Calhoun County"
+    },
+    {
+      "name": "Ogemaw County"
+    },
+    {
+      "name": "Kalamazoo County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Clare County"
+    },
+    {
+      "name": "Newaygo County"
+    },
+    {
+      "name": "Muskegon County"
+    },
+    {
+      "name": "St Clair County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Wayne County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 3
+      "value": 3,
+      "region": "Wayne County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 3,
+      "region": "Wayne County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Wayne County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 2,
+      "region": "Wayne County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Kent County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Kent County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Kent County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "Kent County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Kent County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Kent County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Saginaw County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 3,
+      "region": "Saginaw County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Saginaw County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "Saginaw County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Saginaw County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 2,
+      "region": "Saginaw County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Washtenaw County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Washtenaw County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Washtenaw County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Washtenaw County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Washtenaw County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Washtenaw County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Macomb County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Macomb County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Macomb County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Macomb County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Macomb County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Macomb County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Montcalm County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 1
+      "value": 2,
+      "region": "Montcalm County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Montcalm County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Montcalm County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Montcalm County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Montcalm County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Benzie County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Benzie County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Benzie County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Benzie County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Benzie County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Benzie County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Allegan County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Allegan County"
     },
     {
-      "source": 11,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Allegan County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Allegan County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Allegan County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Allegan County"
     },
     {
       "source": 12,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Oakland County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Oakland County"
     },
     {
-      "source": 12,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Oakland County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Oakland County"
     },
     {
-      "source": 12,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Oakland County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Oakland County"
     },
     {
       "source": 13,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Barry County"
     },
     {
       "source": 13,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Barry County"
     },
     {
-      "source": 13,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Barry County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Barry County"
     },
     {
-      "source": 13,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Barry County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Barry County"
     },
     {
       "source": 14,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Hillsdale County"
     },
     {
       "source": 14,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Hillsdale County"
     },
     {
-      "source": 14,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hillsdale County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Hillsdale County"
     },
     {
-      "source": 14,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hillsdale County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Hillsdale County"
     },
     {
       "source": 15,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Monroe County"
     },
     {
       "source": 15,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Monroe County"
     },
     {
-      "source": 15,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Monroe County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Monroe County"
     },
     {
-      "source": 15,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Monroe County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Monroe County"
     },
     {
       "source": 16,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Calhoun County"
     },
     {
       "source": 16,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Calhoun County"
     },
     {
-      "source": 16,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Calhoun County"
     },
     {
-      "source": 16,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Calhoun County"
     },
     {
       "source": 17,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Ogemaw County"
     },
     {
       "source": 17,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Ogemaw County"
     },
     {
-      "source": 17,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Ogemaw County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Ogemaw County"
     },
     {
-      "source": 17,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Ogemaw County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Ogemaw County"
     },
     {
       "source": 18,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Kalamazoo County"
     },
     {
       "source": 18,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Kalamazoo County"
     },
     {
-      "source": 18,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Kalamazoo County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Kalamazoo County"
     },
     {
-      "source": 18,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Kalamazoo County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Kalamazoo County"
     },
     {
       "source": 19,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 19,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Unknown County"
     },
     {
-      "source": 19,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Unknown County"
     },
     {
-      "source": 19,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 20,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Clare County"
     },
     {
       "source": 20,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "Clare County"
     },
     {
-      "source": 20,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Clare County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Clare County"
     },
     {
-      "source": 20,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Clare County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Clare County"
     },
     {
       "source": 21,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Newaygo County"
     },
     {
       "source": 21,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Newaygo County"
     },
     {
-      "source": 21,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Newaygo County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Newaygo County"
     },
     {
-      "source": 21,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Newaygo County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Newaygo County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Muskegon County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 1,
+      "region": "Muskegon County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Muskegon County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Muskegon County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Muskegon County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Muskegon County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "St Clair County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 1,
+      "region": "St Clair County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "St Clair County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "St Clair County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "St Clair County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "St Clair County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 452
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 306
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 74
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 112
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 92
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 11
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 158
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 212
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 67
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 73
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 154
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 19
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 10
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 3,
-      "value": 126
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 123
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 127
-    },
-    {
-      "source": 14,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 1,
-      "value": 51
-    },
-    {
-      "source": 15,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 4,
-      "value": 104
-    },
-    {
-      "source": 17,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 17,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 17,
-      "target": 3,
-      "value": 179
-    },
-    {
-      "source": 17,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 1,
-      "value": 211
-    },
-    {
-      "source": 18,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 19,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 19,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 19,
-      "target": 3,
-      "value": 79
-    },
-    {
-      "source": 19,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 20,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 20,
-      "target": 2,
-      "value": 228
-    },
-    {
-      "source": 20,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 20,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 21,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 21,
-      "target": 2,
-      "value": 115
-    },
-    {
-      "source": 21,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 21,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

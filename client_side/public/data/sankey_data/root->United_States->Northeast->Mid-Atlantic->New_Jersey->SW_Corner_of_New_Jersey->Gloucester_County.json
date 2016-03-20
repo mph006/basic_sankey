@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_Jersey->SW_Corner_of_New_Jersey->Gloucester_County",
+  "nodes": [
+    {
+      "name": "08090"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "08080"
+    },
+    {
+      "name": "08020"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "08090"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "08090"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "08090"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "08090"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "08090"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "08090"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "08080"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "08080"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "08080"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "08080"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "08080"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "08080"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "08020"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "08020"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "08020"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "08020"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "08020"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "08020"
+    }
+  ],
+  "priceLinks": []
+}

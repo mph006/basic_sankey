@@ -2,19 +2,10 @@
   "keyPath": "root->United_States->South->South_Atlantic->Florida->SE_Corner_of_Florida->Collier_County",
   "nodes": [
     {
-      "name": "34114"
+      "name": "34108"
     },
     {
-      "name": "34116"
-    },
-    {
-      "name": "34119"
-    },
-    {
-      "name": "34120"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -29,165 +20,40 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 4,
-      "value": 1
+      "target": 1,
+      "value": 0,
+      "region": "34108"
     },
     {
       "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "value": 0
+      "target": 2,
+      "value": 1,
+      "region": "34108"
     },
     {
       "source": 2,
-      "target": 4,
-      "value": 1
+      "target": 1,
+      "value": 0,
+      "region": "34108"
     },
     {
       "source": 2,
-      "target": 5,
-      "value": 0
+      "target": 3,
+      "value": 1,
+      "region": "34108"
     },
     {
-      "source": 2,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 7,
-      "value": 0
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "34108"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 5,
-      "value": 1
-    },
-    {
-      "source": 3,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 7,
-      "value": 0
+      "value": 1,
+      "region": "34108"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 4,
-      "value": 224
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 86
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 16
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 5,
-      "value": 16
-    },
-    {
-      "source": 3,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 7,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->West->Mountain->Wyoming",
   "nodes": [
     {
-      "name": "NE Corner of Wyoming"
+      "name": "NW Corner of Wyoming"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,7 +20,7 @@
       "name": "SE Corner of Wyoming"
     },
     {
-      "name": "NW Corner of Wyoming"
+      "name": "NE Corner of Wyoming"
     },
     {
       "name": "SW Corner of Wyoming"
@@ -30,164 +30,147 @@
     {
       "source": 0,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "NW Corner of Wyoming"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "NW Corner of Wyoming"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Wyoming"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "NW Corner of Wyoming"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of Wyoming"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "NW Corner of Wyoming"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "SE Corner of Wyoming"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "SE Corner of Wyoming"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of Wyoming"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "SE Corner of Wyoming"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "SE Corner of Wyoming"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "SE Corner of Wyoming"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "NE Corner of Wyoming"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "NE Corner of Wyoming"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of Wyoming"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "NE Corner of Wyoming"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of Wyoming"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "NE Corner of Wyoming"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "SW Corner of Wyoming"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "SW Corner of Wyoming"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of Wyoming"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "SW Corner of Wyoming"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of Wyoming"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "SW Corner of Wyoming"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 217
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 124
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 100
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 41
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

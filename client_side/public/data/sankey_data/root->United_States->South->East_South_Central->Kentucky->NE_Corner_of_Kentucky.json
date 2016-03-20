@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->East_South_Central->Kentucky->NE_Corner_of_Kentucky",
   "nodes": [
     {
-      "name": "Unknown County"
+      "name": "Jefferson County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,177 +17,199 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Jefferson County"
+      "name": "Fayette County"
     },
     {
-      "name": "Jessamine County"
+      "name": "Greenup County"
     },
     {
       "name": "Fleming County"
+    },
+    {
+      "name": "Owen County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 3
+      "value": 0,
+      "region": "Jefferson County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 4,
+      "region": "Jefferson County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 3,
+      "region": "Jefferson County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Jefferson County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Fayette County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Fayette County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Fayette County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Fayette County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Fayette County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Fayette County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Greenup County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Greenup County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Greenup County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Greenup County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Greenup County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Greenup County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Fleming County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Fleming County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Fleming County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Fleming County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Fleming County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Fleming County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Owen County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "Owen County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Owen County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Owen County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Owen County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Owen County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 333
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 138
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 181
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 23
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 159
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

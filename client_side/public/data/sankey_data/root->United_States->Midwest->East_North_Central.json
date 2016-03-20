@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->East_North_Central",
   "nodes": [
     {
-      "name": "Michigan"
+      "name": "Ohio"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,217 +20,196 @@
       "name": "Illinois"
     },
     {
-      "name": "Ohio"
-    },
-    {
-      "name": "Wisconsin"
+      "name": "Michigan"
     },
     {
       "name": "Indiana"
+    },
+    {
+      "name": "Wisconsin"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 6
+      "value": 14,
+      "region": "Ohio"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 10
+      "value": 30,
+      "region": "Ohio"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 12,
+      "region": "Ohio"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 8
+      "value": 18,
+      "region": "Ohio"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 14,
+      "region": "Ohio"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 6
+      "value": 4,
+      "region": "Ohio"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 4
+      "value": 12,
+      "region": "Illinois"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 10
+      "value": 32,
+      "region": "Illinois"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 8,
+      "region": "Illinois"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 24,
+      "region": "Illinois"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 11,
+      "region": "Illinois"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 12
+      "value": 13,
+      "region": "Illinois"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 9
+      "value": 11,
+      "region": "Michigan"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 5
+      "value": 27,
+      "region": "Michigan"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 6,
+      "region": "Michigan"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 9
+      "value": 21,
+      "region": "Michigan"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 6,
+      "region": "Michigan"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 6
+      "value": 15,
+      "region": "Michigan"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 4
+      "value": 5,
+      "region": "Indiana"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 6
+      "value": 20,
+      "region": "Indiana"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 7,
+      "region": "Indiana"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 4
+      "value": 13,
+      "region": "Indiana"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 7,
+      "region": "Indiana"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 7
+      "value": 6,
+      "region": "Indiana"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 7
+      "value": 7,
+      "region": "Wisconsin"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 2
+      "value": 17,
+      "region": "Wisconsin"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 5,
+      "region": "Wisconsin"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 12,
+      "region": "Wisconsin"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 8,
+      "region": "Wisconsin"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 2
+      "value": 4,
+      "region": "Wisconsin"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 835
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1285
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 1161
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 505
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 686
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 967
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 536
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 1602
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 914
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 761
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 1279
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 1147
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 425
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 616
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 299
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 924
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 833
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 344
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 398
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 202
-    }
-  ]
+  "priceLinks": []
 }

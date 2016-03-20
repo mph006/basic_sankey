@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Northeast->New_England->Connecticut->SW_Corner_of_Connecticut->Fairfield_County",
   "nodes": [
     {
-      "name": "06858"
+      "name": "06650"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,91 +17,160 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "06612"
+      "name": "06913"
+    },
+    {
+      "name": "06859"
+    },
+    {
+      "name": "06854"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "06650"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "06650"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "06650"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "06650"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "06650"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "06650"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "06913"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "06913"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "06913"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "06913"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "06913"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "06913"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "06859"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0,
+      "region": "06859"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "06859"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "06859"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "06859"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "06859"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "06854"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0,
+      "region": "06854"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "06854"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "06854"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "06854"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "06854"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 73
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 215
-    }
-  ]
+  "priceLinks": []
 }

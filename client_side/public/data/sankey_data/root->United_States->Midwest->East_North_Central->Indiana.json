@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Indiana",
   "nodes": [
     {
-      "name": "NW Corner of Indiana"
+      "name": "SW Corner of Indiana"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,177 +17,160 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "SW Corner of Indiana"
-    },
-    {
       "name": "NE Corner of Indiana"
     },
     {
       "name": "SE Corner of Indiana"
+    },
+    {
+      "name": "NW Corner of Indiana"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 2
+      "value": 0,
+      "region": "SW Corner of Indiana"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 8,
+      "region": "SW Corner of Indiana"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "SW Corner of Indiana"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 5,
+      "region": "SW Corner of Indiana"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "SW Corner of Indiana"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 3,
+      "region": "SW Corner of Indiana"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 3
+      "value": 2,
+      "region": "NE Corner of Indiana"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 6,
+      "region": "NE Corner of Indiana"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "NE Corner of Indiana"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 4,
+      "region": "NE Corner of Indiana"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "NE Corner of Indiana"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "NE Corner of Indiana"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 2,
+      "region": "SE Corner of Indiana"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 3,
+      "region": "SE Corner of Indiana"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "SE Corner of Indiana"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "SE Corner of Indiana"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "SE Corner of Indiana"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "SE Corner of Indiana"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "NW Corner of Indiana"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 3,
+      "region": "NW Corner of Indiana"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of Indiana"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 2,
+      "region": "NW Corner of Indiana"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Indiana"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 2,
+      "region": "NW Corner of Indiana"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 363
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 16
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 15
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 338
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 174
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 36
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 170
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 141
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 187
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 96
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 241
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

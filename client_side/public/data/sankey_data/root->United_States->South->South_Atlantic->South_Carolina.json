@@ -5,7 +5,7 @@
       "name": "NW Corner of South Carolina"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -27,124 +27,111 @@
     {
       "source": 0,
       "target": 1,
-      "value": 2
+      "value": 2,
+      "region": "NW Corner of South Carolina"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2
+      "value": 4,
+      "region": "NW Corner of South Carolina"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of South Carolina"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 4,
+      "region": "NW Corner of South Carolina"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "NW Corner of South Carolina"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 2,
+      "region": "NW Corner of South Carolina"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 2
+      "value": 1,
+      "region": "NE Corner of South Carolina"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 4,
+      "region": "NE Corner of South Carolina"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NE Corner of South Carolina"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 3,
+      "region": "NE Corner of South Carolina"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of South Carolina"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 3,
+      "region": "NE Corner of South Carolina"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "SW Corner of South Carolina"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "SW Corner of South Carolina"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of South Carolina"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "SW Corner of South Carolina"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "SW Corner of South Carolina"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "SW Corner of South Carolina"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 296
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 203
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 162
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 192
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 229
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 56
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 62
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 218
-    }
-  ]
+  "priceLinks": []
 }

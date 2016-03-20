@@ -5,7 +5,7 @@
       "name": "Pacific"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -24,84 +24,75 @@
     {
       "source": 0,
       "target": 1,
-      "value": 22
+      "value": 22,
+      "region": "Pacific"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 25
+      "value": 70,
+      "region": "Pacific"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 23,
+      "region": "Pacific"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 30
+      "value": 47,
+      "region": "Pacific"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 25,
+      "region": "Pacific"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 32
+      "value": 22,
+      "region": "Pacific"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 20
+      "value": 18,
+      "region": "Mountain"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 21
+      "value": 45,
+      "region": "Mountain"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 15,
+      "region": "Mountain"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 21
+      "value": 30,
+      "region": "Mountain"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 14,
+      "region": "Mountain"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 26
+      "value": 16,
+      "region": "Mountain"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 2383
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 2801
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 3600
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 3271
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 2509
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 2763
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 3229
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 3643
-    }
-  ]
+  "priceLinks": []
 }

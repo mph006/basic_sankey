@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->SW_Corner_of_Kansas",
   "nodes": [
     {
-      "name": "Clark County"
+      "name": "Stevens County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,134 +17,82 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Rice County"
-    },
-    {
-      "name": "Meade County"
+      "name": "Edwards County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Stevens County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Stevens County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Stevens County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Stevens County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Stevens County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Stevens County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Edwards County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Edwards County"
     },
     {
-      "source": 5,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Edwards County"
     },
     {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Edwards County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Edwards County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Edwards County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 131
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 77
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 207
-    }
-  ]
+  "priceLinks": []
 }

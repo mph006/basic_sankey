@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Ohio",
   "nodes": [
     {
-      "name": "SW Corner of Ohio"
+      "name": "NE Corner of Ohio"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,7 +17,7 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "NE Corner of Ohio"
+      "name": "SW Corner of Ohio"
     },
     {
       "name": "NW Corner of Ohio"
@@ -30,164 +30,147 @@
     {
       "source": 0,
       "target": 1,
-      "value": 2
+      "value": 6,
+      "region": "NE Corner of Ohio"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 3
+      "value": 10,
+      "region": "NE Corner of Ohio"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 5,
+      "region": "NE Corner of Ohio"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 5,
+      "region": "NE Corner of Ohio"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "NE Corner of Ohio"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "NE Corner of Ohio"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 2
+      "value": 3,
+      "region": "SW Corner of Ohio"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 9,
+      "region": "SW Corner of Ohio"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "SW Corner of Ohio"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 7,
+      "region": "SW Corner of Ohio"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "SW Corner of Ohio"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 4
+      "value": 3,
+      "region": "SW Corner of Ohio"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 3
+      "value": 2,
+      "region": "NW Corner of Ohio"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 8,
+      "region": "NW Corner of Ohio"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "NW Corner of Ohio"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 4,
+      "region": "NW Corner of Ohio"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "NW Corner of Ohio"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "NW Corner of Ohio"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 2
+      "value": 3,
+      "region": "SE Corner of Ohio"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 3,
+      "region": "SE Corner of Ohio"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "SE Corner of Ohio"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 2,
+      "region": "SE Corner of Ohio"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "SE Corner of Ohio"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "SE Corner of Ohio"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 225
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 423
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 885
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 242
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 170
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 196
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 738
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 195
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 168
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 197
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 252
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 198
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 212
-    }
-  ]
+  "priceLinks": []
 }

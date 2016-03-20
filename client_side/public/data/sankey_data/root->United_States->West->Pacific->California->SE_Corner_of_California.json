@@ -5,7 +5,7 @@
       "name": "Los Angeles County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,303 +20,313 @@
       "name": "San Diego County"
     },
     {
-      "name": "Kern County"
+      "name": "San Bernardino County"
     },
     {
-      "name": "Ventura County"
+      "name": "Unknown County"
     },
     {
-      "name": "Fresno County"
+      "name": "Imperial County"
     },
     {
       "name": "Orange County"
     },
     {
-      "name": "San Bernardino County"
+      "name": "Tulare County"
+    },
+    {
+      "name": "Kern County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 3
+      "value": 2,
+      "region": "Los Angeles County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 7,
+      "region": "Los Angeles County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Los Angeles County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 4,
+      "region": "Los Angeles County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Los Angeles County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 3
+      "value": 1,
+      "region": "Los Angeles County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1
+      "value": 3,
+      "region": "San Diego County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 2
+      "value": 3,
+      "region": "San Diego County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "San Diego County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "San Diego County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "San Diego County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "San Diego County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 2,
+      "region": "San Bernardino County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "San Bernardino County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "San Bernardino County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "San Bernardino County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "San Bernardino County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "San Bernardino County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1
+      "value": 2,
+      "region": "Unknown County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "Unknown County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Imperial County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Imperial County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Imperial County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "Imperial County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Imperial County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Imperial County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Orange County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Orange County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Orange County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Orange County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Orange County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Orange County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Tulare County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Tulare County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Tulare County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Tulare County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Tulare County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Tulare County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Kern County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 1,
+      "region": "Kern County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Kern County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Kern County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Kern County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Kern County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 375
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 84
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 542
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 527
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 249
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 267
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 143
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 210
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 90
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 102
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 123
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 128
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

@@ -2,10 +2,16 @@
   "keyPath": "root->United_States->South->South_Atlantic->Georgia->NW_Corner_of_Georgia->Fulton_County",
   "nodes": [
     {
-      "name": "30363"
+      "name": "30213"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "30359"
+    },
+    {
+      "name": "30368"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +26,112 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 0,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "30213"
     },
     {
       "source": 0,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "30213"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "30213"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "30213"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "30213"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "30213"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "30359"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "30359"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "30359"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "30359"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "30359"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "30359"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "30368"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "30368"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "30368"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "30368"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "30368"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "30368"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 25
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

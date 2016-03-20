@@ -5,7 +5,7 @@
       "name": "Missouri"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,306 +17,277 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Iowa"
-    },
-    {
       "name": "Minnesota"
     },
     {
+      "name": "Iowa"
+    },
+    {
       "name": "Kansas"
+    },
+    {
+      "name": "Nebraska"
     },
     {
       "name": "South Dakota"
     },
     {
       "name": "North Dakota"
-    },
-    {
-      "name": "Nebraska"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 7
+      "value": 9,
+      "region": "Missouri"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 6
+      "value": 25,
+      "region": "Missouri"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 6,
+      "region": "Missouri"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 14
+      "value": 19,
+      "region": "Missouri"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 12,
+      "region": "Missouri"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 7
+      "value": 7,
+      "region": "Missouri"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 5
+      "value": 4,
+      "region": "Minnesota"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 3
+      "value": 17,
+      "region": "Minnesota"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 6,
+      "region": "Minnesota"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 11,
+      "region": "Minnesota"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 7,
+      "region": "Minnesota"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 8
+      "value": 4,
+      "region": "Minnesota"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 5
+      "value": 4,
+      "region": "Iowa"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 4
+      "value": 17,
+      "region": "Iowa"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Iowa"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 8
+      "value": 15,
+      "region": "Iowa"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "Iowa"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 3
+      "value": 11,
+      "region": "Iowa"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 4
+      "value": 4,
+      "region": "Kansas"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 6
+      "value": 11,
+      "region": "Kansas"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Kansas"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 8,
+      "region": "Kansas"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 5,
+      "region": "Kansas"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 3
+      "value": 3,
+      "region": "Kansas"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 3
+      "value": 2,
+      "region": "Nebraska"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 1
+      "value": 8,
+      "region": "Nebraska"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Nebraska"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 5,
+      "region": "Nebraska"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Nebraska"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 6
+      "value": 2,
+      "region": "Nebraska"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 2
+      "value": 1,
+      "region": "South Dakota"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 2
+      "value": 7,
+      "region": "South Dakota"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "South Dakota"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 4,
+      "region": "South Dakota"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "South Dakota"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 4
+      "value": 2,
+      "region": "South Dakota"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 2
+      "value": 1,
+      "region": "North Dakota"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 4,
+      "region": "North Dakota"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "North Dakota"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 4
+      "value": 3,
+      "region": "North Dakota"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "North Dakota"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 4
+      "value": 3,
+      "region": "North Dakota"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 589
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1018
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 1734
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 874
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 710
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 376
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 859
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 709
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 545
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 487
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 730
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 426
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 626
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 750
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 483
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 421
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 390
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 183
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 729
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 708
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 450
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 244
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 571
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 606
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 326
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 358
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 691
-    }
-  ]
+  "priceLinks": []
 }

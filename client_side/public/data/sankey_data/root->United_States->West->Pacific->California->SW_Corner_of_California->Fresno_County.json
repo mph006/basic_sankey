@@ -2,16 +2,13 @@
   "keyPath": "root->United_States->West->Pacific->California->SW_Corner_of_California->Fresno_County",
   "nodes": [
     {
-      "name": "93761"
+      "name": "93605"
     },
     {
-      "name": "93775"
+      "name": "93664"
     },
     {
-      "name": "93777"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -26,125 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 3,
-      "value": 0
+      "target": 2,
+      "value": 0,
+      "region": "93605"
     },
     {
       "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "93605"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "93605"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "93605"
     },
     {
-      "source": 0,
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "93605"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 1
+      "value": 0,
+      "region": "93605"
     },
     {
-      "source": 0,
-      "target": 6,
-      "value": 0
+      "source": 1,
+      "target": 2,
+      "value": 1,
+      "region": "93664"
     },
     {
       "source": 1,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "93664"
     },
     {
-      "source": 1,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "93664"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "93664"
     },
     {
-      "source": 1,
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "93664"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 1
+      "value": 0,
+      "region": "93664"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 65
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 170
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 43
-    }
-  ]
+  "priceLinks": []
 }

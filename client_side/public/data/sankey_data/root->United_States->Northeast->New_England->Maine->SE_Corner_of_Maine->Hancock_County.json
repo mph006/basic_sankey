@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Northeast->New_England->Maine->SE_Corner_of_Maine->Hancock_County",
   "nodes": [
     {
-      "name": "04431"
+      "name": "04669"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -15,93 +15,45 @@
     },
     {
       "name": "Completed_Purchase"
-    },
-    {
-      "name": "04421"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "04669"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "04669"
     },
     {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 1
-    },
-    {
-      "source": 5,
+      "source": 2,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "04669"
     },
     {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "04669"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04669"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "04669"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 182
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 140
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

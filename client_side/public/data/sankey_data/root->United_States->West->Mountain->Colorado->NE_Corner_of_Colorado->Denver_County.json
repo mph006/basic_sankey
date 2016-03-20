@@ -2,13 +2,10 @@
   "keyPath": "root->United_States->West->Mountain->Colorado->NE_Corner_of_Colorado->Denver_County",
   "nodes": [
     {
-      "name": "80243"
+      "name": "80251"
     },
     {
-      "name": "80273"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -23,85 +20,40 @@
   "countLinks": [
     {
       "source": 0,
+      "target": 1,
+      "value": 1,
+      "region": "80251"
+    },
+    {
+      "source": 0,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "80251"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "80251"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "80251"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "80251"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
+      "value": 0,
+      "region": "80251"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 183
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 101
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->South_Atlantic->Florida",
   "nodes": [
     {
-      "name": "NE Corner of Florida"
+      "name": "SE Corner of Florida"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,7 +17,7 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "SE Corner of Florida"
+      "name": "NE Corner of Florida"
     },
     {
       "name": "NW Corner of Florida"
@@ -27,124 +27,111 @@
     {
       "source": 0,
       "target": 1,
-      "value": 6
+      "value": 3,
+      "region": "SE Corner of Florida"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 5
+      "value": 11,
+      "region": "SE Corner of Florida"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "SE Corner of Florida"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 6
+      "value": 8,
+      "region": "SE Corner of Florida"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "SE Corner of Florida"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 8
+      "value": 4,
+      "region": "SE Corner of Florida"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 8
+      "value": 2,
+      "region": "NE Corner of Florida"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 5
+      "value": 11,
+      "region": "NE Corner of Florida"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 5,
+      "region": "NE Corner of Florida"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 6
+      "value": 6,
+      "region": "NE Corner of Florida"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "NE Corner of Florida"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 2,
+      "region": "NE Corner of Florida"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "NW Corner of Florida"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 2
+      "value": 1,
+      "region": "NW Corner of Florida"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of Florida"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 4
+      "value": 0,
+      "region": "NW Corner of Florida"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Florida"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "NW Corner of Florida"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 1133
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 740
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 777
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 838
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 1028
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 326
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 482
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 66
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 44
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 355
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 592
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 45
-    }
-  ]
+  "priceLinks": []
 }

@@ -2,13 +2,10 @@
   "keyPath": "root->United_States->South->South_Atlantic->Washington_DC->NW_Corner_of_Washington_DC->District_of_Columbia",
   "nodes": [
     {
-      "name": "20036"
+      "name": "20011"
     },
     {
-      "name": "20420"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -22,86 +19,41 @@
   ],
   "countLinks": [
     {
-      "source": 1,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 1
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "20011"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "20011"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "20011"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "20011"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "20011"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 1
+      "value": 0,
+      "region": "20011"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 1,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 236
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 131
-    }
-  ]
+  "priceLinks": []
 }

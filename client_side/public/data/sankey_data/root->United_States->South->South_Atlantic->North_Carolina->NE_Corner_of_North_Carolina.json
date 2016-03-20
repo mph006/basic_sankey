@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->South_Atlantic->North_Carolina->NE_Corner_of_North_Carolina",
   "nodes": [
     {
-      "name": "Chatham County"
+      "name": "Wake County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,478 +17,355 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Wilson County"
-    },
-    {
-      "name": "Wake County"
-    },
-    {
-      "name": "Vance County"
-    },
-    {
-      "name": "Nash County"
-    },
-    {
-      "name": "Johnston County"
-    },
-    {
-      "name": "Orange County"
-    },
-    {
-      "name": "Moore County"
+      "name": "Dare County"
     },
     {
       "name": "Pitt County"
     },
     {
-      "name": "Harnett County"
+      "name": "Guilford County"
     },
     {
-      "name": "Person County"
+      "name": "Martin County"
+    },
+    {
+      "name": "Currituck County"
+    },
+    {
+      "name": "Caswell County"
+    },
+    {
+      "name": "Orange County"
+    },
+    {
+      "name": "Halifax County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Wake County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 2,
+      "region": "Wake County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Wake County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Wake County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Wake County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Wake County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Dare County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "Dare County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Dare County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Dare County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Dare County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Dare County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Pitt County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Pitt County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pitt County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Pitt County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pitt County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Pitt County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Guilford County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Guilford County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Guilford County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Guilford County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Guilford County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Guilford County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Martin County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Martin County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Martin County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Martin County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Martin County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Martin County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Currituck County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Currituck County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Currituck County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Currituck County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Currituck County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Currituck County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Caswell County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Caswell County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Caswell County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Caswell County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Caswell County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Caswell County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Orange County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Orange County"
     },
     {
-      "source": 11,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Orange County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Orange County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Orange County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Orange County"
     },
     {
       "source": 12,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Halifax County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Halifax County"
     },
     {
-      "source": 12,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Halifax County"
     },
     {
-      "source": 13,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 13,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Halifax County"
     },
     {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
+      "source": 3,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Halifax County"
     },
     {
-      "source": 14,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 14,
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Halifax County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 231
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 163
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 117
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 205
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 107
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 23
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 198
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 183
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "value": 108
-    },
-    {
-      "source": 12,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 217
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 35
-    },
-    {
-      "source": 14,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

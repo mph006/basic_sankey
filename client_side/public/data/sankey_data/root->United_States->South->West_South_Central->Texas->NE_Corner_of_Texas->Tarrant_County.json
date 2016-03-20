@@ -2,10 +2,19 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas->NE_Corner_of_Texas->Tarrant_County",
   "nodes": [
     {
-      "name": "76013"
+      "name": "76010"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "76099"
+    },
+    {
+      "name": "76110"
+    },
+    {
+      "name": "76150"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +29,148 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 0,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "76010"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "76010"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "76010"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "76010"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "76010"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "76010"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "76099"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "76099"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "76099"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "76099"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "76099"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "76099"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "76110"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "76110"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "76110"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "76110"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "76110"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "76110"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "76150"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "76150"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "76150"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "76150"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "76150"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "76150"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 149
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

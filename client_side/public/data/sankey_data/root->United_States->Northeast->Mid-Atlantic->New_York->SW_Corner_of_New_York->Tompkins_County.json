@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_York->SW_Corner_of_New_York->Tompkins_County",
+  "nodes": [
+    {
+      "name": "13062"
+    },
+    {
+      "name": "14851"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "13062"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "13062"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "13062"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "13062"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "13062"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "13062"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "14851"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "14851"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "14851"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "14851"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "14851"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "14851"
+    }
+  ],
+  "priceLinks": []
+}

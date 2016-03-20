@@ -5,7 +5,7 @@
       "name": "NW Corner of Oregon"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,134 +17,121 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "SW Corner of Oregon"
+      "name": "NE Corner of Oregon"
     },
     {
-      "name": "NE Corner of Oregon"
+      "name": "SW Corner of Oregon"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1
+      "value": 2,
+      "region": "NW Corner of Oregon"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 3
+      "value": 3,
+      "region": "NW Corner of Oregon"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "NW Corner of Oregon"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 1,
+      "region": "NW Corner of Oregon"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Oregon"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 5
+      "value": 1,
+      "region": "NW Corner of Oregon"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "NE Corner of Oregon"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 4
+      "value": 2,
+      "region": "NE Corner of Oregon"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NE Corner of Oregon"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 1,
+      "region": "NE Corner of Oregon"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "NE Corner of Oregon"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "NE Corner of Oregon"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "SW Corner of Oregon"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "SW Corner of Oregon"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of Oregon"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "SW Corner of Oregon"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "SW Corner of Oregon"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "SW Corner of Oregon"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 237
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 298
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 192
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 312
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 322
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 247
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 188
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 152
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 16
-    }
-  ]
+  "priceLinks": []
 }

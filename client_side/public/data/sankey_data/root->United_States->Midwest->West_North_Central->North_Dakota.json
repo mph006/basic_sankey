@@ -5,7 +5,7 @@
       "name": "SW Corner of North Dakota"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,177 +17,160 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "NW Corner of North Dakota"
+    },
+    {
       "name": "SE Corner of North Dakota"
     },
     {
       "name": "NE Corner of North Dakota"
-    },
-    {
-      "name": "NW Corner of North Dakota"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 2
+      "value": 1,
+      "region": "SW Corner of North Dakota"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "SW Corner of North Dakota"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of North Dakota"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 1,
+      "region": "SW Corner of North Dakota"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of North Dakota"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "SW Corner of North Dakota"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "NW Corner of North Dakota"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 2
+      "value": 1,
+      "region": "NW Corner of North Dakota"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of North Dakota"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "NW Corner of North Dakota"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of North Dakota"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "NW Corner of North Dakota"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "SE Corner of North Dakota"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "SE Corner of North Dakota"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of North Dakota"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "SE Corner of North Dakota"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of North Dakota"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 2
+      "value": 1,
+      "region": "SE Corner of North Dakota"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "NE Corner of North Dakota"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "NE Corner of North Dakota"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NE Corner of North Dakota"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "NE Corner of North Dakota"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of North Dakota"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "NE Corner of North Dakota"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 450
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 90
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 228
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 244
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 124
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 140
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 127
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 238
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 230
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

@@ -2,10 +2,13 @@
   "keyPath": "root->United_States->South->East_South_Central->Kentucky->SW_Corner_of_Kentucky->Warren_County",
   "nodes": [
     {
-      "name": "42274"
+      "name": "42104"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "42170"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "42104"
     },
     {
       "source": 0,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "42104"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "42104"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "42104"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "42104"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "42104"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "42170"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "42170"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "42170"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "42170"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "42170"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "42170"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 135
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

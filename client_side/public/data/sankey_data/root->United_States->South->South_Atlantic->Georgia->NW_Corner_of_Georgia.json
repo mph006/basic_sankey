@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->South_Atlantic->Georgia->NW_Corner_of_Georgia",
   "nodes": [
     {
-      "name": "Dekalb County"
+      "name": "Fulton County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,349 +17,355 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Morgan County"
+      "name": "Hall County"
     },
     {
-      "name": "Troup County"
+      "name": "Dekalb County"
     },
     {
-      "name": "Bibb County"
+      "name": "Bartow County"
     },
     {
-      "name": "Henry County"
+      "name": "Gordon County"
     },
     {
-      "name": "Upson County"
+      "name": "Fannin County"
     },
     {
-      "name": "Floyd County"
+      "name": "Gwinnett County"
     },
     {
-      "name": "Fulton County"
+      "name": "Meriwether County"
+    },
+    {
+      "name": "Carroll County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Fulton County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 2,
+      "region": "Fulton County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Fulton County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Fulton County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Fulton County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Fulton County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Hall County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Hall County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Hall County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Hall County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hall County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Hall County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Dekalb County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Dekalb County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Dekalb County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Dekalb County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Dekalb County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Dekalb County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Bartow County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Bartow County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Bartow County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Bartow County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Bartow County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Bartow County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Gordon County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Gordon County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Gordon County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Gordon County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Gordon County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Gordon County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Fannin County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Fannin County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Fannin County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Fannin County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Fannin County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Fannin County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Gwinnett County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Gwinnett County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Gwinnett County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Gwinnett County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Gwinnett County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Gwinnett County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Meriwether County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Meriwether County"
     },
     {
-      "source": 11,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Meriwether County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Meriwether County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Meriwether County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Meriwether County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1,
+      "region": "Carroll County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 0,
+      "region": "Carroll County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Carroll County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Carroll County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Carroll County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Carroll County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 28
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 42
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 213
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 189
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 225
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 220
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 193
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 21
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 25
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

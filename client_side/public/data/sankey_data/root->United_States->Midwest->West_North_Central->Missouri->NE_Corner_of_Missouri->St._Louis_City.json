@@ -2,16 +2,10 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->NE_Corner_of_Missouri->St._Louis_City",
   "nodes": [
     {
-      "name": "63164"
+      "name": "63198"
     },
     {
-      "name": "63177"
-    },
-    {
-      "name": "63188"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -26,125 +20,40 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 3,
-      "value": 0
+      "target": 1,
+      "value": 0,
+      "region": "63198"
     },
     {
       "source": 0,
-      "target": 4,
-      "value": 0
+      "target": 2,
+      "value": 1,
+      "region": "63198"
     },
     {
-      "source": 0,
-      "target": 5,
-      "value": 1
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 1
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "63198"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "63198"
     },
     {
-      "source": 2,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "63198"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 1
+      "value": 1,
+      "region": "63198"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 148
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 220
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 95
-    }
-  ]
+  "priceLinks": []
 }

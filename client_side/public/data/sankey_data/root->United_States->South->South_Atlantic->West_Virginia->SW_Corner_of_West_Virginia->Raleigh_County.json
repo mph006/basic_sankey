@@ -2,13 +2,10 @@
   "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->SW_Corner_of_West_Virginia->Raleigh_County",
   "nodes": [
     {
-      "name": "25920"
+      "name": "25902"
     },
     {
-      "name": "25927"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -23,85 +20,40 @@
   "countLinks": [
     {
       "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "25902"
+    },
+    {
+      "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "25902"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "25902"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "25902"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "25902"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 1
+      "value": 0,
+      "region": "25902"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 11
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 76
-    }
-  ]
+  "priceLinks": []
 }

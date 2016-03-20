@@ -2,19 +2,16 @@
   "keyPath": "root->United_States->South->East_South_Central->Alabama->NW_Corner_of_Alabama->Tuscaloosa_County",
   "nodes": [
     {
-      "name": "35453"
+      "name": "35405"
     },
     {
-      "name": "35456"
+      "name": "35446"
     },
     {
-      "name": "35478"
+      "name": "35468"
     },
     {
-      "name": "35485"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -29,165 +26,112 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 4,
-      "value": 0
+      "target": 3,
+      "value": 1,
+      "region": "35405"
     },
     {
       "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "35405"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "35405"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 1
+      "value": 0,
+      "region": "35405"
     },
     {
-      "source": 0,
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "35405"
+    },
+    {
+      "source": 5,
       "target": 6,
-      "value": 0
+      "value": 0,
+      "region": "35405"
     },
     {
-      "source": 0,
-      "target": 7,
-      "value": 0
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "35446"
     },
     {
       "source": 1,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "35446"
     },
     {
-      "source": 1,
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "35446"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 1
+      "value": 1,
+      "region": "35446"
     },
     {
-      "source": 1,
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "35446"
+    },
+    {
+      "source": 5,
       "target": 6,
-      "value": 0
+      "value": 0,
+      "region": "35446"
     },
     {
-      "source": 1,
-      "target": 7,
-      "value": 0
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "35468"
     },
     {
       "source": 2,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "35468"
     },
     {
-      "source": 2,
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "35468"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
+      "value": 1,
+      "region": "35468"
     },
     {
-      "source": 2,
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "35468"
+    },
+    {
+      "source": 5,
       "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 6,
-      "value": 1
-    },
-    {
-      "source": 3,
-      "target": 7,
-      "value": 0
+      "value": 1,
+      "region": "35468"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 186
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 212
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 32
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 6,
-      "value": 64
-    },
-    {
-      "source": 3,
-      "target": 7,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

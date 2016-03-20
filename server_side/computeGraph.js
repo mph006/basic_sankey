@@ -15,25 +15,99 @@ module.exports = {
 	        names.push(data.children[i].key)
 	    }
 
+	    //Loss of flow case
+	    // for(var x=0; x<graphArray.length; x++){
+	    //     for(var key in graphArray[x]){
+	    //         if(graphArray[x].hasOwnProperty(key)){
+	    //             graph.nodes.push({ "name": names[x] });
+	    //             graph.nodes.push({ "name": key });
+	    //             graph.countLinks.push({ 
+	    //             		"source": names[x],
+	    //                     "target": key,
+	    //                     "value": +graphArray[x][key].count 
+	    //             });
+	    //            	graph.priceLinks.push({ 
+	    //            			"source": names[x],
+	    //                     "target": key,
+	    //                     "value": +graphArray[x][key]["price_sum"] 
+	    //             });
+	    //         }
+	    //     }
+	    // }
+
+	    //SUPER hackey, need to refactor
 	    for(var x=0; x<graphArray.length; x++){
-	        for(var key in graphArray[x]){
-	            if(graphArray[x].hasOwnProperty(key)){
-	                graph.nodes.push({ "name": names[x] });
-	                graph.nodes.push({ "name": key });
-	                graph.countLinks.push({ "source": names[x],
-	                        "target": key,
-	                        "value": +graphArray[x][key].count });
-	               	graph.priceLinks.push({ "source": names[x],
-	                        "target": key,
-	                        "value": +graphArray[x][key]["price_sum"] });
-	            }
-	        }
-	    }
+	     	var region = names[x]
+	        graph.nodes.push({ "name": region});
+	        graph.nodes.push({ "name": 'Dropped_Out' });
+	        graph.nodes.push({ "name": 'Checkout_Step_1' });
+	        graph.nodes.push({ "name": 'Checkout_Step_2' });
+	        graph.nodes.push({ "name": 'Completed_Purchase' });
+
+	        total = +(graphArray[x]['Dropped_Out'].count+graphArray[x]['Checkout_Step_1'].count+graphArray[x]['Checkout_Step_2'].count
+	                            +graphArray[x]['Completed_Purchase'].count)
+
+	        // From region node to dropout (does not enter checkout)
+	        graph.countLinks.push({ 
+	        		source: region,
+	                target: 'Dropped_Out',
+	                value: +graphArray[x]['Dropped_Out'].count,
+	                region: region
+	            });
+
+	        total -= graphArray[x]['Dropped_Out'].count
+
+	        graph.countLinks.push({ 
+	        		source: region,
+	                target: 'Checkout_Step_1',
+	                value: total,
+	                region:region 
+	            });
+
+	        graph.countLinks.push({ 
+	        		source: 'Checkout_Step_1',
+	                target: 'Dropped_Out',
+	                value: +graphArray[x]['Checkout_Step_1'].count,
+	                region:region
+	            });
+
+	        total -= graphArray[x]['Checkout_Step_1'].count
+
+	        graph.countLinks.push({ 
+	        		source: 'Checkout_Step_1',
+	                target: 'Checkout_Step_2',
+	                value: total,
+	                region:region 
+	            });
+
+	        graph.countLinks.push({ 
+	        		source: 'Checkout_Step_2',
+	                target: 'Dropped_Out',
+	                value: +graphArray[x]['Checkout_Step_2'].count,
+	                region:region 
+	            });
+
+	        total -= graphArray[x]['Checkout_Step_2'].count
+
+	        graph.countLinks.push({ 
+	        		source: 'Checkout_Step_2',
+	                target: 'Completed_Purchase',
+	                value: +graphArray[x]['Completed_Purchase'].count,
+	                region:region
+	            });
+
+	        // check here if total == cthe "completed_purchase"
+
+	        //        graph.priceLinks.push({ source: names[x],
+	        //             target: key,
+	        //             value: +graphArray[x][key]["price_sum"] });}
+
+		}
 
 	    // return only the distinct / unique nodes
 	    graph.nodes = d3.keys(d3.nest()
-	    .key(function (d) { return d.name; })
-	    .map(graph.nodes));
+	    				.key(function (d) { return d.name; })
+	    				.map(graph.nodes));
 
 	    // loop through each link replacing the text with its index from node
 	    graph.countLinks.forEach(function (d, i) {

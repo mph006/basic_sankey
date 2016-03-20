@@ -5,7 +5,7 @@
       "name": "SW Corner of Vermont"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,6 +17,9 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "NE Corner of Vermont"
+    },
+    {
       "name": "NW Corner of Vermont"
     }
   ],
@@ -24,84 +27,111 @@
     {
       "source": 0,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "SW Corner of Vermont"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 3,
+      "region": "SW Corner of Vermont"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "SW Corner of Vermont"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "SW Corner of Vermont"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "SW Corner of Vermont"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "SW Corner of Vermont"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "NE Corner of Vermont"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 2
+      "value": 2,
+      "region": "NE Corner of Vermont"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "NE Corner of Vermont"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "NE Corner of Vermont"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of Vermont"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "NE Corner of Vermont"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Vermont"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 2,
+      "region": "NW Corner of Vermont"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Vermont"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "NW Corner of Vermont"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of Vermont"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "NW Corner of Vermont"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 124
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 5
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 125
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 98
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 219
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

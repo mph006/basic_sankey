@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->NE_Corner_of_Illinois",
   "nodes": [
     {
-      "name": "Dupage County"
+      "name": "Cook County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,349 +17,472 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Will County"
+      "name": "Dupage County"
     },
     {
-      "name": "McLean County"
+      "name": "Livingston County"
     },
     {
-      "name": "Cook County"
+      "name": "Ford County"
     },
     {
-      "name": "McHenry County"
+      "name": "Grundy County"
     },
     {
-      "name": "Vermilion County"
+      "name": "Kane County"
+    },
+    {
+      "name": "Logan County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Iroquois County"
+    },
+    {
+      "name": "Boone County"
+    },
+    {
+      "name": "Tazewell County"
     },
     {
       "name": "La Salle County"
-    },
-    {
-      "name": "Lake County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 2,
+      "region": "Cook County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 8,
+      "region": "Cook County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Cook County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 6,
+      "region": "Cook County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Cook County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 2
+      "value": 4,
+      "region": "Cook County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Dupage County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 3,
+      "region": "Dupage County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Dupage County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 3,
+      "region": "Dupage County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Dupage County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 2,
+      "region": "Dupage County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Livingston County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Livingston County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Livingston County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Livingston County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Livingston County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Livingston County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Ford County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Ford County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Ford County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Ford County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Ford County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Ford County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Grundy County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Grundy County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Grundy County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Grundy County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Grundy County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Grundy County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Kane County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Kane County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Kane County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Kane County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Kane County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Kane County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Logan County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Logan County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Logan County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Logan County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Logan County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Logan County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Unknown County"
     },
     {
-      "source": 11,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Unknown County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1,
+      "region": "Iroquois County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 0,
+      "region": "Iroquois County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Iroquois County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Iroquois County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Iroquois County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Iroquois County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Boone County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 1,
+      "region": "Boone County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Boone County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Boone County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Boone County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Boone County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 1,
+      "region": "Tazewell County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 0,
+      "region": "Tazewell County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Tazewell County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Tazewell County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tazewell County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Tazewell County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "La Salle County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 1,
+      "region": "La Salle County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "La Salle County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "La Salle County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "La Salle County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "La Salle County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 19
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 464
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 104
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 212
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 120
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 81
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 121
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 207
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 8
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 121
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

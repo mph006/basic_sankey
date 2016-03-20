@@ -2,16 +2,10 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->SE_Corner_of_Kansas->Sedgwick_County",
   "nodes": [
     {
-      "name": "67016"
+      "name": "67207"
     },
     {
-      "name": "67201"
-    },
-    {
-      "name": "67212"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -26,125 +20,40 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 3,
-      "value": 0
+      "target": 1,
+      "value": 0,
+      "region": "67207"
     },
     {
       "source": 0,
-      "target": 4,
-      "value": 1
+      "target": 2,
+      "value": 1,
+      "region": "67207"
     },
     {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "67207"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "67207"
     },
     {
-      "source": 2,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "67207"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 0
+      "value": 0,
+      "region": "67207"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 65
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 149
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 177
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

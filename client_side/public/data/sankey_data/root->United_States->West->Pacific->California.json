@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->West->Pacific->California",
   "nodes": [
     {
-      "name": "NW Corner of California"
+      "name": "SE Corner of California"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,177 +17,121 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "SE Corner of California"
+      "name": "NW Corner of California"
     },
     {
       "name": "SW Corner of California"
-    },
-    {
-      "name": "NE Corner of California"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 9
+      "value": 8,
+      "region": "SE Corner of California"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 6
+      "value": 19,
+      "region": "SE Corner of California"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 6,
+      "region": "SE Corner of California"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 12
+      "value": 13,
+      "region": "SE Corner of California"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 8,
+      "region": "SE Corner of California"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 11
+      "value": 5,
+      "region": "SE Corner of California"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 6
+      "value": 6,
+      "region": "NW Corner of California"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 4
+      "value": 17,
+      "region": "NW Corner of California"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 7,
+      "region": "NW Corner of California"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 6
+      "value": 10,
+      "region": "NW Corner of California"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 7,
+      "region": "NW Corner of California"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 5
+      "value": 3,
+      "region": "NW Corner of California"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 2,
+      "region": "SW Corner of California"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 8,
+      "region": "SW Corner of California"
     },
     {
-      "source": 6,
-      "target": 3,
-      "value": 3
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 4
-    },
-    {
-      "source": 7,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "SW Corner of California"
     },
     {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 7,
+      "region": "SW Corner of California"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "SW Corner of California"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 5,
+      "region": "SW Corner of California"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 667
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 706
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 1395
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 1162
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 869
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 441
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 670
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 860
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 141
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 60
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 260
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 253
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 136
-    }
-  ]
+  "priceLinks": []
 }

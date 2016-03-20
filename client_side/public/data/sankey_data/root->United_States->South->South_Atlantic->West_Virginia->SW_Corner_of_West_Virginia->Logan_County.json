@@ -2,10 +2,13 @@
   "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->SW_Corner_of_West_Virginia->Logan_County",
   "nodes": [
     {
-      "name": "25644"
+      "name": "25612"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "25639"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 1
-    },
-    {
-      "source": 0,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "25612"
     },
     {
       "source": 0,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "25612"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "25612"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "25612"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "25612"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "25612"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "25639"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "25639"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "25639"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "25639"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "25639"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "25639"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 45
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

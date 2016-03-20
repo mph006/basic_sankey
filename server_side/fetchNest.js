@@ -43,7 +43,7 @@ function rollItUp(d){
                 if(d["Completed_pmt"] === "Y"){return "Completed_Purchase";}
                 else if(d["Completed_step2"] === "Y"){return "Checkout_Step_2";}
                 else if(d["Completed_step1"] === "Y"){return "Checkout_Step_1";}
-                else {return "Did_Not_Enter_Checkout"}
+                else {return "Dropped_Out"}
             }
 
             return {

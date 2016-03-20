@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->East_South_Central->Alabama->NE_Corner_of_Alabama",
   "nodes": [
     {
-      "name": "Madison County"
+      "name": "Chambers County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,91 +17,121 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Jackson County"
+      "name": "Calhoun County"
+    },
+    {
+      "name": "St Clair County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Chambers County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Chambers County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Chambers County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Chambers County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Chambers County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Chambers County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Calhoun County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Calhoun County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Calhoun County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "St Clair County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "St Clair County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "St Clair County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "St Clair County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "St Clair County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "St Clair County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 75
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 22
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

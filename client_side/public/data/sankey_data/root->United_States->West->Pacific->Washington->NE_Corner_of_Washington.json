@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->West->Pacific->Washington->NE_Corner_of_Washington",
   "nodes": [
     {
-      "name": "Grant County"
+      "name": "Spokane County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -15,136 +15,45 @@
     },
     {
       "name": "Completed_Purchase"
-    },
-    {
-      "name": "Lincoln County"
-    },
-    {
-      "name": "Chelan County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Spokane County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 3,
+      "region": "Spokane County"
     },
     {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
+      "source": 2,
       "target": 1,
-      "value": 1
+      "value": 2,
+      "region": "Spokane County"
     },
     {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Spokane County"
     },
     {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
+      "source": 3,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Spokane County"
     },
     {
-      "source": 6,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Spokane County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 123
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 47
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 12
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

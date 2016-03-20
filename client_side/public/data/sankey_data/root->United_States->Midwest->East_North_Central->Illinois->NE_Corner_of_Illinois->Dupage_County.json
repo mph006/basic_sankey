@@ -2,16 +2,16 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->NE_Corner_of_Illinois->Dupage_County",
   "nodes": [
     {
-      "name": "60157"
+      "name": "60105"
     },
     {
-      "name": "60523"
+      "name": "60521"
     },
     {
-      "name": "60570"
+      "name": "60599"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -27,124 +27,111 @@
     {
       "source": 0,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "60105"
     },
     {
       "source": 0,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "60105"
     },
     {
-      "source": 0,
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "60105"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
+      "value": 1,
+      "region": "60105"
     },
     {
-      "source": 0,
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "60105"
+    },
+    {
+      "source": 5,
       "target": 6,
-      "value": 1
+      "value": 1,
+      "region": "60105"
     },
     {
       "source": 1,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "60521"
     },
     {
       "source": 1,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "60521"
     },
     {
-      "source": 1,
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "60521"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
+      "value": 1,
+      "region": "60521"
     },
     {
-      "source": 1,
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "60521"
+    },
+    {
+      "source": 5,
       "target": 6,
-      "value": 0
+      "value": 1,
+      "region": "60521"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "60599"
     },
     {
       "source": 2,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "60599"
     },
     {
-      "source": 2,
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "60599"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
+      "value": 1,
+      "region": "60599"
     },
     {
-      "source": 2,
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "60599"
+    },
+    {
+      "source": 5,
       "target": 6,
-      "value": 1
+      "value": 0,
+      "region": "60599"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 250
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 19
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 214
-    }
-  ]
+  "priceLinks": []
 }

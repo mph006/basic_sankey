@@ -2,10 +2,13 @@
   "keyPath": "root->United_States->South->South_Atlantic->North_Carolina->NE_Corner_of_North_Carolina->Pitt_County",
   "nodes": [
     {
-      "name": "27879"
+      "name": "27812"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "27858"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 1
-    },
-    {
-      "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "27812"
     },
     {
       "source": 0,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "27812"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "27812"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "27812"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "27812"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "27812"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "27858"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "27858"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "27858"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "27858"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "27858"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "27858"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 108
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

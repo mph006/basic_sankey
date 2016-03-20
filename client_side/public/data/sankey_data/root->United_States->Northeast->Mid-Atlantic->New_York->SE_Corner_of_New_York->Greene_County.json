@@ -2,10 +2,13 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_York->SE_Corner_of_New_York->Greene_County",
   "nodes": [
     {
-      "name": "12087"
+      "name": "12418"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "12452"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "12418"
     },
     {
       "source": 0,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "12418"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "12418"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "12418"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "12418"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "12418"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1,
+      "region": "12452"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "12452"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "12452"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "12452"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "12452"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "12452"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 193
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

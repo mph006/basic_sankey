@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->West_South_Central->Louisiana->SW_Corner_of_Louisiana",
   "nodes": [
     {
-      "name": "Calcasieu Parish"
+      "name": "St Landry Parish"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,91 +17,160 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Vermilion Parish"
+      "name": "Acadia Parish"
+    },
+    {
+      "name": "Avoyelles Parish"
+    },
+    {
+      "name": "Calcasieu Parish"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "St Landry Parish"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "St Landry Parish"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "St Landry Parish"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "St Landry Parish"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "St Landry Parish"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "St Landry Parish"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Acadia Parish"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Acadia Parish"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Acadia Parish"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Acadia Parish"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Acadia Parish"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Acadia Parish"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Avoyelles Parish"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "Avoyelles Parish"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Avoyelles Parish"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Avoyelles Parish"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Avoyelles Parish"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Avoyelles Parish"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Calcasieu Parish"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "Calcasieu Parish"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Calcasieu Parish"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Calcasieu Parish"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Calcasieu Parish"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Calcasieu Parish"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 110
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 72
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 81
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

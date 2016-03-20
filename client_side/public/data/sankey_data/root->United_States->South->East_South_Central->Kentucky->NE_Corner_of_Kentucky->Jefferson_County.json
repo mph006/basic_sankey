@@ -2,13 +2,19 @@
   "keyPath": "root->United_States->South->East_South_Central->Kentucky->NE_Corner_of_Kentucky->Jefferson_County",
   "nodes": [
     {
+      "name": "40025"
+    },
+    {
+      "name": "40209"
+    },
+    {
       "name": "40221"
     },
     {
-      "name": "40285"
+      "name": "40252"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -23,85 +29,148 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "40025"
     },
     {
       "source": 0,
       "target": 5,
-      "value": 0
+      "value": 1,
+      "region": "40025"
     },
     {
-      "source": 1,
-      "target": 2,
-      "value": 0
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "40025"
     },
     {
-      "source": 1,
-      "target": 3,
-      "value": 0
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "40025"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "40025"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "40025"
     },
     {
       "source": 1,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "40209"
     },
     {
       "source": 1,
       "target": 5,
-      "value": 0
+      "value": 1,
+      "region": "40209"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "40209"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "40209"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "40209"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "40209"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "40221"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "40221"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "40221"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "40221"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "40221"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "40221"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "40252"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "40252"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "40252"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "40252"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "40252"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "40252"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 2,
-      "value": 138
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 181
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

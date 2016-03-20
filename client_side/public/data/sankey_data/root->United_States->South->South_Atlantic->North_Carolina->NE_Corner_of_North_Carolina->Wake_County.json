@@ -2,10 +2,16 @@
   "keyPath": "root->United_States->South->South_Atlantic->North_Carolina->NE_Corner_of_North_Carolina->Wake_County",
   "nodes": [
     {
-      "name": "27518"
+      "name": "27540"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "27640"
+    },
+    {
+      "name": "27668"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +26,112 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 0,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "27540"
     },
     {
       "source": 0,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "27540"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "27540"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "27540"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "27540"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "27540"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "27640"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "27640"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "27640"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "27640"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "27640"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "27640"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "27668"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "27668"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "27668"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "27668"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "27668"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "27668"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 117
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

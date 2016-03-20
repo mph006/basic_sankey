@@ -5,7 +5,7 @@
       "name": "NE Corner of Arkansas"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -24,84 +24,75 @@
     {
       "source": 0,
       "target": 1,
-      "value": 2
+      "value": 1,
+      "region": "NE Corner of Arkansas"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2
+      "value": 16,
+      "region": "NE Corner of Arkansas"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "NE Corner of Arkansas"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 3
+      "value": 13,
+      "region": "NE Corner of Arkansas"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "NE Corner of Arkansas"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 6
+      "value": 9,
+      "region": "NE Corner of Arkansas"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "NW Corner of Arkansas"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 3,
+      "region": "NW Corner of Arkansas"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of Arkansas"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 2,
+      "region": "NW Corner of Arkansas"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "NW Corner of Arkansas"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "NW Corner of Arkansas"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 282
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 368
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 438
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 546
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 299
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

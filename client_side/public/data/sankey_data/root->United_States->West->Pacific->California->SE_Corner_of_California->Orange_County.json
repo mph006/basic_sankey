@@ -2,10 +2,13 @@
   "keyPath": "root->United_States->West->Pacific->California->SE_Corner_of_California->Orange_County",
   "nodes": [
     {
-      "name": "92602"
+      "name": "92658"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "92840"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "92658"
     },
     {
       "source": 0,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "92658"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "92658"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "92658"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "92658"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "92658"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "92840"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "92840"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "92840"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "92840"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "92840"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "92840"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 123
-    }
-  ]
+  "priceLinks": []
 }

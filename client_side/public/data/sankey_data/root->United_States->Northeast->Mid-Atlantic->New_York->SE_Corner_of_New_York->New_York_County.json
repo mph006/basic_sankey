@@ -2,19 +2,22 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_York->SE_Corner_of_New_York->New_York_County",
   "nodes": [
     {
-      "name": "10154"
+      "name": "10015"
+    },
+    {
+      "name": "10029"
+    },
+    {
+      "name": "10079"
+    },
+    {
+      "name": "10161"
     },
     {
       "name": "10167"
     },
     {
-      "name": "10170"
-    },
-    {
-      "name": "10184"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -29,165 +32,184 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 4,
-      "value": 1
-    },
-    {
-      "source": 0,
       "target": 5,
-      "value": 0
+      "value": 0,
+      "region": "10015"
     },
     {
       "source": 0,
       "target": 6,
-      "value": 0
+      "value": 1,
+      "region": "10015"
     },
     {
-      "source": 0,
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "10015"
+    },
+    {
+      "source": 6,
       "target": 7,
-      "value": 0
+      "value": 1,
+      "region": "10015"
     },
     {
-      "source": 1,
-      "target": 4,
-      "value": 0
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "10015"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "10015"
     },
     {
       "source": 1,
       "target": 5,
-      "value": 1
+      "value": 0,
+      "region": "10029"
     },
     {
       "source": 1,
       "target": 6,
-      "value": 0
+      "value": 1,
+      "region": "10029"
     },
     {
-      "source": 1,
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "10029"
+    },
+    {
+      "source": 6,
       "target": 7,
-      "value": 0
+      "value": 0,
+      "region": "10029"
     },
     {
-      "source": 2,
-      "target": 4,
-      "value": 0
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "10029"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "10029"
     },
     {
       "source": 2,
       "target": 5,
-      "value": 0
+      "value": 0,
+      "region": "10079"
     },
     {
       "source": 2,
       "target": 6,
-      "value": 1
+      "value": 1,
+      "region": "10079"
     },
     {
-      "source": 2,
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "10079"
+    },
+    {
+      "source": 6,
       "target": 7,
-      "value": 0
+      "value": 1,
+      "region": "10079"
     },
     {
-      "source": 3,
-      "target": 4,
-      "value": 1
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "10079"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "10079"
     },
     {
       "source": 3,
       "target": 5,
-      "value": 0
+      "value": 0,
+      "region": "10161"
     },
     {
       "source": 3,
       "target": 6,
-      "value": 0
+      "value": 1,
+      "region": "10161"
     },
     {
-      "source": 3,
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "10161"
+    },
+    {
+      "source": 6,
       "target": 7,
-      "value": 0
+      "value": 0,
+      "region": "10161"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "10161"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "10161"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "10167"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "10167"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "10167"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "10167"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "10167"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "10167"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 4,
-      "value": 180
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 104
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 225
-    },
-    {
-      "source": 2,
-      "target": 7,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 96
-    },
-    {
-      "source": 3,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 3,
-      "target": 7,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

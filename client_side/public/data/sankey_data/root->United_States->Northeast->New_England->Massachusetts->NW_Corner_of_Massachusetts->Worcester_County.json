@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Northeast->New_England->Massachusetts->NW_Corner_of_Massachusetts->Worcester_County",
   "nodes": [
     {
-      "name": "01506"
+      "name": "01580"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -15,50 +15,84 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "01526"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "01580"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "01580"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "01580"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "01580"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "01580"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "01580"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "01526"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "01526"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "01526"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "01526"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "01526"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "01526"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 65
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

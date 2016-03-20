@@ -2,16 +2,10 @@
   "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->SW_Corner_of_West_Virginia->McDowell_County",
   "nodes": [
     {
-      "name": "24843"
+      "name": "24861"
     },
     {
-      "name": "24872"
-    },
-    {
-      "name": "24892"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -26,125 +20,40 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 3,
-      "value": 0
+      "target": 1,
+      "value": 1,
+      "region": "24861"
     },
     {
       "source": 0,
-      "target": 4,
-      "value": 0
+      "target": 2,
+      "value": 0,
+      "region": "24861"
     },
     {
-      "source": 0,
-      "target": 5,
-      "value": 1
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "24861"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "24861"
     },
     {
-      "source": 2,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "24861"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 1
+      "value": 0,
+      "region": "24861"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 11
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 242
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 13
-    }
-  ]
+  "priceLinks": []
 }

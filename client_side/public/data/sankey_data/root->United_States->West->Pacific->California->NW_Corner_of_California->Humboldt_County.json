@@ -2,13 +2,10 @@
   "keyPath": "root->United_States->West->Pacific->California->NW_Corner_of_California->Humboldt_County",
   "nodes": [
     {
-      "name": "95558"
+      "name": "95540"
     },
     {
-      "name": "95573"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -23,85 +20,40 @@
   "countLinks": [
     {
       "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "95540"
+    },
+    {
+      "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "95540"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "95540"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "95540"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "95540"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
+      "value": 0,
+      "region": "95540"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 48
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "value": 10
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

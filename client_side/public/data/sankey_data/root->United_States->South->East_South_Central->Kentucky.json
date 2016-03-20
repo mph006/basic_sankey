@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->East_South_Central->Kentucky",
   "nodes": [
     {
-      "name": "NE Corner of Kentucky"
+      "name": "SE Corner of Kentucky"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,134 +17,160 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "SE Corner of Kentucky"
+      "name": "SW Corner of Kentucky"
     },
     {
-      "name": "SW Corner of Kentucky"
+      "name": "NE Corner of Kentucky"
+    },
+    {
+      "name": "NW Corner of Kentucky"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 5
+      "value": 4,
+      "region": "SE Corner of Kentucky"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 8,
+      "region": "SE Corner of Kentucky"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "SE Corner of Kentucky"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 5,
+      "region": "SE Corner of Kentucky"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "SE Corner of Kentucky"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 3,
+      "region": "SE Corner of Kentucky"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1
+      "value": 4,
+      "region": "SW Corner of Kentucky"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 2
+      "value": 6,
+      "region": "SW Corner of Kentucky"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "SW Corner of Kentucky"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 3
+      "value": 5,
+      "region": "SW Corner of Kentucky"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "SW Corner of Kentucky"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "SW Corner of Kentucky"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "NE Corner of Kentucky"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1
+      "value": 7,
+      "region": "NE Corner of Kentucky"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "NE Corner of Kentucky"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 4,
+      "region": "NE Corner of Kentucky"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "NE Corner of Kentucky"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "NE Corner of Kentucky"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of Kentucky"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0,
+      "region": "NW Corner of Kentucky"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Kentucky"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "NW Corner of Kentucky"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Kentucky"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "NW Corner of Kentucky"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 630
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 204
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 152
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 236
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 405
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 95
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 55
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 135
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 166
-    }
-  ]
+  "priceLinks": []
 }

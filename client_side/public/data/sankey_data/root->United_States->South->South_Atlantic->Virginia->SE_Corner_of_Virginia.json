@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->South_Atlantic->Virginia->SE_Corner_of_Virginia",
   "nodes": [
     {
-      "name": "Powhatan County"
+      "name": "Norfolk City"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,521 +17,316 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Brunswick County"
+      "name": "Northampton County"
     },
     {
-      "name": "New Kent County"
-    },
-    {
-      "name": "Gloucester County"
-    },
-    {
-      "name": "Southampton County"
-    },
-    {
-      "name": "Albemarle County"
-    },
-    {
-      "name": "Goochland County"
-    },
-    {
-      "name": "Lynchburg City"
-    },
-    {
-      "name": "Amherst County"
+      "name": "Suffolk City"
     },
     {
       "name": "Unknown County"
     },
     {
-      "name": "Richmond City"
+      "name": "Virginia Beach City"
     },
     {
-      "name": "Chesapeake City"
+      "name": "Greensville County"
+    },
+    {
+      "name": "Mathews County"
+    },
+    {
+      "name": "Hanover County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Norfolk City"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 3,
+      "region": "Norfolk City"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Norfolk City"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 3,
+      "region": "Norfolk City"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Norfolk City"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 2,
+      "region": "Norfolk City"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Northampton County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "Northampton County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Northampton County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Northampton County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Northampton County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Northampton County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Suffolk City"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Suffolk City"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Suffolk City"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Suffolk City"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Suffolk City"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Suffolk City"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Unknown County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Unknown County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Unknown County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Virginia Beach City"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "Virginia Beach City"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Virginia Beach City"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Virginia Beach City"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Virginia Beach City"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Virginia Beach City"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Greensville County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Greensville County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Greensville County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Greensville County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Greensville County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Greensville County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Mathews County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Mathews County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Mathews County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Mathews County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Mathews County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Mathews County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Hanover County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Hanover County"
     },
     {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 12,
+      "source": 2,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Hanover County"
     },
     {
-      "source": 12,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 12,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Hanover County"
     },
     {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
+      "source": 3,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Hanover County"
     },
     {
-      "source": 13,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 13,
+      "source": 3,
       "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Hanover County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 10
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 229
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 185
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 110
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 8
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 105
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 11
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 184
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "value": 86
-    },
-    {
-      "source": 12,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 183
-    },
-    {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 2,
-      "value": 41
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 4,
-      "value": 9
-    }
-  ]
+  "priceLinks": []
 }

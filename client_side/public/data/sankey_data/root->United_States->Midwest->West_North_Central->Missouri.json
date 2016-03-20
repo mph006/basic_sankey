@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri",
   "nodes": [
     {
-      "name": "SE Corner of Missouri"
+      "name": "NW Corner of Missouri"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,10 +17,10 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "NW Corner of Missouri"
+      "name": "NE Corner of Missouri"
     },
     {
-      "name": "NE Corner of Missouri"
+      "name": "SE Corner of Missouri"
     },
     {
       "name": "SW Corner of Missouri"
@@ -30,164 +30,147 @@
     {
       "source": 0,
       "target": 1,
-      "value": 1
+      "value": 4,
+      "region": "NW Corner of Missouri"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 4
+      "value": 11,
+      "region": "NW Corner of Missouri"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of Missouri"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 5
+      "value": 10,
+      "region": "NW Corner of Missouri"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "NW Corner of Missouri"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 6,
+      "region": "NW Corner of Missouri"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 5
+      "value": 2,
+      "region": "NE Corner of Missouri"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 2
+      "value": 6,
+      "region": "NE Corner of Missouri"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "NE Corner of Missouri"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 3
+      "value": 3,
+      "region": "NE Corner of Missouri"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "NE Corner of Missouri"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "NE Corner of Missouri"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 2,
+      "region": "SE Corner of Missouri"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 4,
+      "region": "SE Corner of Missouri"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "SE Corner of Missouri"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 3
+      "value": 3,
+      "region": "SE Corner of Missouri"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "SE Corner of Missouri"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 5
+      "value": 0,
+      "region": "SE Corner of Missouri"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "SW Corner of Missouri"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0
+      "value": 4,
+      "region": "SW Corner of Missouri"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "SW Corner of Missouri"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 3
+      "value": 3,
+      "region": "SW Corner of Missouri"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "SW Corner of Missouri"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "SW Corner of Missouri"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 149
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 641
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 567
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 221
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 361
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 377
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 404
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 385
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 536
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 79
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 378
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 117
-    }
-  ]
+  "priceLinks": []
 }

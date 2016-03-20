@@ -2,10 +2,16 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->SE_Corner_of_Michigan->Kent_County",
   "nodes": [
     {
-      "name": "49510"
+      "name": "49345"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "49502"
+    },
+    {
+      "name": "49508"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +26,112 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 0,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "49345"
     },
     {
       "source": 0,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "49345"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "49345"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "49345"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "49345"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "49345"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "49502"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "49502"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "49502"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "49502"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "49502"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "49502"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "49508"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "49508"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "49508"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "49508"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "49508"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "49508"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 115
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->West->Mountain->Idaho->NW_Corner_of_Idaho",
   "nodes": [
     {
-      "name": "Shoshone County"
+      "name": "Clearwater County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,177 +17,82 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Latah County"
-    },
-    {
-      "name": "Unknown County"
-    },
-    {
-      "name": "Idaho County"
+      "name": "Lewis County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Clearwater County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Clearwater County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 2
+      "value": 0,
+      "region": "Clearwater County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Clearwater County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Lewis County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 0,
+      "region": "Lewis County"
     },
     {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Lewis County"
     },
     {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Lewis County"
     },
     {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
+      "source": 3,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Lewis County"
     },
     {
-      "source": 7,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Lewis County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 429
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 183
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 147
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 40
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 39
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

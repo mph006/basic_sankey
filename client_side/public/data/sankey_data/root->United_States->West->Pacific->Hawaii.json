@@ -5,7 +5,7 @@
       "name": "SE Corner of Hawaii"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -15,50 +15,84 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of Hawaii"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "SE Corner of Hawaii"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2
+      "value": 2,
+      "region": "SE Corner of Hawaii"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of Hawaii"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "SE Corner of Hawaii"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "SE Corner of Hawaii"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "SE Corner of Hawaii"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Hawaii"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "NW Corner of Hawaii"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of Hawaii"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "NW Corner of Hawaii"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of Hawaii"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "NW Corner of Hawaii"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 381
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 239
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 157
-    }
-  ]
+  "priceLinks": []
 }

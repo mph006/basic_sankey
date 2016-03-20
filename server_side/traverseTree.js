@@ -3,7 +3,7 @@ module.exports = {
 	    var stack=[];
 	    //ToDo:: Make these keys more reusable and extensible
 	    var treeSummations = {
-	        Did_Not_Enter_Checkout:{
+	        Dropped_Out:{
 	            count:0,
 	            duration_sum:0,
 	            avg_duration:0,

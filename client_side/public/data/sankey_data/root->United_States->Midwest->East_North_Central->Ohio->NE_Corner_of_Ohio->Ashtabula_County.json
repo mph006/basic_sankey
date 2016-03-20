@@ -2,10 +2,13 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->NE_Corner_of_Ohio->Ashtabula_County",
   "nodes": [
     {
-      "name": "44004"
+      "name": "44030"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "44068"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 1
-    },
-    {
-      "source": 0,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "44030"
     },
     {
       "source": 0,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "44030"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "44030"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "44030"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "44030"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "44030"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1,
+      "region": "44068"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "44068"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "44068"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "44068"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "44068"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "44068"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 149
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

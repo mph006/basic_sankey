@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas",
   "nodes": [
     {
-      "name": "Taney County"
+      "name": "Independence County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,564 +17,550 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Johnson County"
+      "name": "Lee County"
     },
     {
-      "name": "Randolph County"
+      "name": "Phillips County"
     },
     {
-      "name": "Saline County"
-    },
-    {
-      "name": "Carroll County"
-    },
-    {
-      "name": "Prairie County"
-    },
-    {
-      "name": "Perry County"
-    },
-    {
-      "name": "Ouachita County"
-    },
-    {
-      "name": "Conway County"
-    },
-    {
-      "name": "Newton County"
+      "name": "Faulkner County"
     },
     {
       "name": "Cleburne County"
     },
     {
+      "name": "Unknown County"
+    },
+    {
+      "name": "White County"
+    },
+    {
       "name": "Craighead County"
     },
     {
-      "name": "Independence County"
+      "name": "Poinsett County"
+    },
+    {
+      "name": "Pulaski County"
+    },
+    {
+      "name": "Randolph County"
+    },
+    {
+      "name": "Yell County"
+    },
+    {
+      "name": "Hot Spring County"
+    },
+    {
+      "name": "Baxter County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Independence County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Independence County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Independence County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "Independence County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Independence County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 2,
+      "region": "Independence County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Lee County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Lee County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "Lee County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lee County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Lee County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Phillips County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Phillips County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Phillips County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Phillips County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Phillips County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Phillips County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Faulkner County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Faulkner County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Faulkner County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Faulkner County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Faulkner County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Faulkner County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Cleburne County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Cleburne County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cleburne County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Cleburne County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Cleburne County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Cleburne County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Unknown County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Unknown County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Unknown County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Unknown County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "White County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "White County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "White County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "White County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "White County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "White County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Craighead County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Craighead County"
     },
     {
-      "source": 11,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Craighead County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Craighead County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Craighead County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "Craighead County"
     },
     {
       "source": 12,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Poinsett County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Poinsett County"
     },
     {
-      "source": 12,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Poinsett County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Poinsett County"
     },
     {
-      "source": 12,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Poinsett County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Poinsett County"
     },
     {
       "source": 13,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Pulaski County"
     },
     {
       "source": 13,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Pulaski County"
     },
     {
-      "source": 13,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pulaski County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Pulaski County"
     },
     {
-      "source": 13,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Pulaski County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Pulaski County"
     },
     {
       "source": 14,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Randolph County"
     },
     {
       "source": 14,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Randolph County"
     },
     {
-      "source": 14,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Randolph County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Randolph County"
     },
     {
-      "source": 14,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Randolph County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Randolph County"
     },
     {
       "source": 15,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Yell County"
     },
     {
       "source": 15,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Yell County"
     },
     {
-      "source": 15,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Yell County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Yell County"
     },
     {
-      "source": 15,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Yell County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "Yell County"
     },
     {
       "source": 16,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Hot Spring County"
     },
     {
       "source": 16,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Hot Spring County"
     },
     {
-      "source": 16,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hot Spring County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Hot Spring County"
     },
     {
-      "source": 16,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Hot Spring County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Hot Spring County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Baxter County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 1,
+      "region": "Baxter County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Baxter County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Baxter County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Baxter County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Baxter County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 92
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 90
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 59
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 133
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 235
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 106
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 37
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 158
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 3,
-      "value": 129
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 217
-    },
-    {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "value": 170
-    },
-    {
-      "source": 14,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 4,
-      "value": 96
-    },
-    {
-      "source": 16,
-      "target": 1,
-      "value": 112
-    },
-    {
-      "source": 16,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

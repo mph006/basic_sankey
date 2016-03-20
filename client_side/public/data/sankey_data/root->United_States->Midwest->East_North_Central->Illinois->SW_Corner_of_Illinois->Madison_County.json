@@ -2,16 +2,13 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->SW_Corner_of_Illinois->Madison_County",
   "nodes": [
     {
-      "name": "62002"
-    },
-    {
       "name": "62025"
     },
     {
-      "name": "62034"
+      "name": "62035"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -26,125 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 3,
-      "value": 0
+      "target": 2,
+      "value": 0,
+      "region": "62025"
     },
     {
       "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "62025"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "62025"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "62025"
     },
     {
-      "source": 0,
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "62025"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
+      "value": 0,
+      "region": "62025"
     },
     {
-      "source": 0,
-      "target": 6,
-      "value": 1
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "62035"
     },
     {
       "source": 1,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "62035"
     },
     {
-      "source": 1,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "62035"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "62035"
     },
     {
-      "source": 1,
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "62035"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 1
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 1
+      "value": 1,
+      "region": "62035"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 244
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 172
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 26
-    }
-  ]
+  "priceLinks": []
 }

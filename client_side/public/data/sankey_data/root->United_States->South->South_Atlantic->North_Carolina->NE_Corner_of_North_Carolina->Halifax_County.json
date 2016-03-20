@@ -1,0 +1,59 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->North_Carolina->NE_Corner_of_North_Carolina->Halifax_County",
+  "nodes": [
+    {
+      "name": "27823"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "27823"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "27823"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "27823"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "27823"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "27823"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "27823"
+    }
+  ],
+  "priceLinks": []
+}

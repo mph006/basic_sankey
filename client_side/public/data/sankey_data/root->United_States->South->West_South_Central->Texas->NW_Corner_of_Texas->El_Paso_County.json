@@ -2,16 +2,13 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas->NW_Corner_of_Texas->El_Paso_County",
   "nodes": [
     {
-      "name": "79901"
+      "name": "79940"
     },
     {
-      "name": "79906"
+      "name": "88549"
     },
     {
-      "name": "79958"
-    },
-    {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -26,125 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 3,
-      "value": 0
+      "target": 2,
+      "value": 0,
+      "region": "79940"
     },
     {
       "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "79940"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "79940"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "79940"
     },
     {
-      "source": 0,
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "79940"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 1
+      "value": 0,
+      "region": "79940"
     },
     {
-      "source": 0,
-      "target": 6,
-      "value": 0
+      "source": 1,
+      "target": 2,
+      "value": 1,
+      "region": "88549"
     },
     {
       "source": 1,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "88549"
     },
     {
-      "source": 1,
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "88549"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "88549"
     },
     {
-      "source": 1,
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "88549"
+    },
+    {
+      "source": 4,
       "target": 5,
-      "value": 1
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 1
+      "value": 0,
+      "region": "88549"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 5,
-      "value": 129
-    },
-    {
-      "source": 0,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "value": 134
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 5,
-      "value": 0
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "value": 21
-    }
-  ]
+  "priceLinks": []
 }

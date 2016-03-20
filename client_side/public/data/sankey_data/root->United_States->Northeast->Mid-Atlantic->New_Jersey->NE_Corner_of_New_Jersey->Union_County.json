@@ -2,10 +2,10 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_Jersey->NE_Corner_of_New_Jersey->Union_County",
   "nodes": [
     {
-      "name": "07088"
+      "name": "07090"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -15,93 +15,45 @@
     },
     {
       "name": "Completed_Purchase"
-    },
-    {
-      "name": "07206"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "07090"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "07090"
     },
     {
-      "source": 0,
-      "target": 3,
-      "value": 1
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "07090"
     },
     {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "07090"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "07090"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 1,
+      "region": "07090"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 57
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 205
-    }
-  ]
+  "priceLinks": []
 }

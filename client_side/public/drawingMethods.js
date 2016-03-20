@@ -1,12 +1,16 @@
 function updateSankey(graph){
     // reset the sankey diagram properties
+
+    var thresh = d3.scale.linear().domain([6,22]).range([80,1])
+    nodePadding = thresh(graph.nodes.length);
+
     sankey = d3.sankey()
-        .nodeWidth(36)
-        .nodePadding(8)
+        .nodeWidth(nodeWidth)
+        .nodePadding(nodePadding)
         .size([width, height])
         .nodes(graph.nodes)
         .links(graph.countLinks)
-        .layout(32);
+        .layout(sankeyIterations);
 
     var path = sankey.link();
 
@@ -59,23 +63,27 @@ function appendElementsToDom(svg,sankey,path,graph){
                 .attr("class", "link")
                 .attr("d", path)
                 .attr("id",function(d){
-                    var source = d.source.name.replaceAll(" ","_");
-                    var target = d.target.name.replaceAll(" ","_");
-                    return source+"TO"+target
+                    return "link-from-"+d.region.replaceAll(" ","_")
                 })
                 .on("mouseenter",mouseEnterLink)
                 .on("mouseleave",mouseLeaveLink)
                 .sort(function(a, b) { return b.dy - a.dy; })
                 .transition().duration(animDuration)
+                .style("stroke",function(d){
+                    return d.color = locationColors(d.region.replace(/ .*/, ""));
+                })
                 .style("stroke-width", function(d) { return Math.max(1, d.dy); });
 
     // add the link titles
     svg.selectAll(".link").append("title")
         .attr("class","link-title")
         .text(function(d) {
-            return d.source.name + " → " + d.target.name.split("_").join(" ") + "\n" 
+            var name = (fetchParentName()==="root")?"United States":fetchParentName();
+
+            return  "User From: "+d.region+"\n"+
+                    "Path: "+d.source.name + " → " + d.target.name.split("_").join(" ") + "\n" 
                     + format(d.value) + "\n" 
-                    +((d.value/countTotal)*100).toFixed(2) +"% of "+fetchParentName()+" "+units; 
+                    +((d.value/countTotal)*100).toFixed(2) +"% of "+name+" "+units; 
         });
 
     // add in the nodes
@@ -89,9 +97,25 @@ function appendElementsToDom(svg,sankey,path,graph){
             return "node-wrapper-"+d.name.replaceAll(" ","_");
         })
         .style("cursor",function(d){
-            return (canDrillDown(d))?"pointer":"default"
+            return (canDrillDown(d))?"pointer":"move"
         })
-        .on("click",function(d){
+        .call(
+
+            d3.behavior.drag().origin(function(d){return d;})
+            .on("dragstart", function() {
+                console.log(d3.event.defaultPrevented);
+                d3.select(this).moveToFront();
+            })
+            .on("drag", function (d) {
+                // if(canDrillDown(d)){return;}
+                d3.select(this).attr("transform", 
+                    "translate(" + (d.x = Math.max(0, Math.min(width - d.dx, d3.event.x))) + "," + 
+                        (d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))) + ")");
+                sankey.relayout();
+                svg.selectAll(".link").attr("d", path);
+            })
+        )
+        .on("dblclick",function(d){
             if(canDrillDown(d)){return drillDown(d);}
         })
         .on("mouseenter",function(d){mouseEnterNode(d)})
@@ -107,7 +131,10 @@ function appendElementsToDom(svg,sankey,path,graph){
     svg.selectAll(".node-wrapper").append("rect")
         .attr("class","node-rect")
         .style("fill", function(d) { 
-            return d.color = color(d.name.replace(/ .*/, "")); })
+            return(nonRegions.indexOf(d.name)===-1)?
+                        d.color = locationColors(d.name.replace(/ .*/, "")):
+                        d.color = flowColors(d.name);
+        })
         .style("stroke", function(d) { 
             return d3.rgb(d.color).darker(2); 
         })
@@ -144,12 +171,12 @@ function drawSankey(graph){
 
     // Set the sankey diagram properties
     sankey = d3.sankey()
-        .nodeWidth(36)
-        .nodePadding(8)
+        .nodeWidth(nodeWidth)
+        .nodePadding(100)
         .size([width, height])
         .nodes(graph.nodes)
         .links(graph.countLinks)
-        .layout(32);
+        .layout(sankeyIterations);
 
     var path = sankey.link();
     appendElementsToDom(svg,sankey,path,graph)

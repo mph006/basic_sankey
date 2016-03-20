@@ -5,7 +5,7 @@
       "name": "New York County"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,22 +17,19 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Kings County"
+    },
+    {
+      "name": "Orange County"
+    },
+    {
+      "name": "Queens County"
+    },
+    {
+      "name": "Westchester County"
+    },
+    {
       "name": "Suffolk County"
-    },
-    {
-      "name": "Albany County"
-    },
-    {
-      "name": "Ulster County"
-    },
-    {
-      "name": "Nassau County"
-    },
-    {
-      "name": "Columbia County"
-    },
-    {
-      "name": "Dutchess County"
     },
     {
       "name": "Schoharie County"
@@ -41,669 +38,529 @@
       "name": "Greene County"
     },
     {
-      "name": "Broome County"
+      "name": "Delaware County"
     },
     {
-      "name": "Rensselaer County"
+      "name": "Nassau County"
     },
     {
-      "name": "Unknown County"
+      "name": "Ulster County"
     },
     {
-      "name": "Westchester County"
+      "name": "Dutchess County"
     },
     {
-      "name": "Orange County"
+      "name": "Rockland County"
     },
     {
-      "name": "Otsego County"
-    },
-    {
-      "name": "Chenango County"
+      "name": "Sullivan County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 2
+      "value": 0,
+      "region": "New York County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1
+      "value": 5,
+      "region": "New York County"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "New York County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 2,
+      "region": "New York County"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "New York County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "New York County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 2
+      "value": 0,
+      "region": "Kings County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 4,
+      "region": "Kings County"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Kings County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 3,
+      "region": "Kings County"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Kings County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Kings County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Orange County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 2
+      "value": 3,
+      "region": "Orange County"
     },
     {
-      "source": 6,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Orange County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "Orange County"
     },
     {
-      "source": 6,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Orange County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Orange County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1
+      "value": 2,
+      "region": "Queens County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Queens County"
     },
     {
-      "source": 7,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Queens County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Queens County"
     },
     {
-      "source": 7,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Queens County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Queens County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Westchester County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Westchester County"
     },
     {
-      "source": 8,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Westchester County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 1,
+      "region": "Westchester County"
     },
     {
-      "source": 8,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Westchester County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Westchester County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Suffolk County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0
+      "value": 2,
+      "region": "Suffolk County"
     },
     {
-      "source": 9,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Suffolk County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "Suffolk County"
     },
     {
-      "source": 9,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Suffolk County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 2,
+      "region": "Suffolk County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Schoharie County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Schoharie County"
     },
     {
-      "source": 10,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Schoharie County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 1
+      "value": 0,
+      "region": "Schoharie County"
     },
     {
-      "source": 10,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Schoharie County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Schoharie County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 1
+      "value": 1,
+      "region": "Greene County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Greene County"
     },
     {
-      "source": 11,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Greene County"
     },
     {
-      "source": 11,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Greene County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Greene County"
     },
     {
       "source": 12,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Delaware County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Delaware County"
     },
     {
-      "source": 12,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Delaware County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Delaware County"
     },
     {
-      "source": 12,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Delaware County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 1,
+      "region": "Delaware County"
     },
     {
       "source": 13,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Nassau County"
     },
     {
       "source": 13,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Nassau County"
     },
     {
-      "source": 13,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Nassau County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Nassau County"
     },
     {
-      "source": 13,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Nassau County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Nassau County"
     },
     {
       "source": 14,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Ulster County"
     },
     {
       "source": 14,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Ulster County"
     },
     {
-      "source": 14,
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Ulster County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "Ulster County"
     },
     {
-      "source": 14,
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Ulster County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Ulster County"
     },
     {
       "source": 15,
       "target": 1,
-      "value": 1
+      "value": 0,
+      "region": "Dutchess County"
     },
     {
       "source": 15,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Dutchess County"
     },
     {
-      "source": 15,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Dutchess County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Dutchess County"
     },
     {
-      "source": 15,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Dutchess County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Dutchess County"
     },
     {
       "source": 16,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Rockland County"
     },
     {
       "source": 16,
       "target": 2,
-      "value": 1
+      "value": 1,
+      "region": "Rockland County"
     },
     {
-      "source": 16,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Rockland County"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Rockland County"
     },
     {
-      "source": 16,
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Rockland County"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Rockland County"
     },
     {
       "source": 17,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Sullivan County"
     },
     {
       "source": 17,
       "target": 2,
-      "value": 0
+      "value": 1,
+      "region": "Sullivan County"
     },
     {
-      "source": 17,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 17,
-      "target": 4,
-      "value": 1
-    },
-    {
-      "source": 18,
+      "source": 2,
       "target": 1,
-      "value": 0
+      "value": 1,
+      "region": "Sullivan County"
     },
     {
-      "source": 18,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 18,
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 0,
+      "region": "Sullivan County"
     },
     {
-      "source": 18,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 19,
+      "source": 3,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "Sullivan County"
     },
     {
-      "source": 19,
-      "target": 2,
-      "value": 1
-    },
-    {
-      "source": 19,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 19,
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "Sullivan County"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 276
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 104
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 225
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 278
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 228
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 171
-    },
-    {
-      "source": 6,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 6,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 79
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 201
-    },
-    {
-      "source": 7,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 7,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 5
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 8,
-      "target": 3,
-      "value": 104
-    },
-    {
-      "source": 8,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 242
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "value": 217
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 195
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 10,
-      "target": 3,
-      "value": 231
-    },
-    {
-      "source": 10,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 27
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 11,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 2,
-      "value": 193
-    },
-    {
-      "source": 12,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 12,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 221
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 13,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 2,
-      "value": 153
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 14,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 1,
-      "value": 94
-    },
-    {
-      "source": 15,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 15,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 2,
-      "value": 18
-    },
-    {
-      "source": 16,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 16,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 17,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 17,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 17,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 17,
-      "target": 4,
-      "value": 59
-    },
-    {
-      "source": 18,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 2,
-      "value": 206
-    },
-    {
-      "source": 18,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 18,
-      "target": 4,
-      "value": 0
-    },
-    {
-      "source": 19,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 19,
-      "target": 2,
-      "value": 222
-    },
-    {
-      "source": 19,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 19,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

@@ -39,6 +39,7 @@ csv.fromPath("../client_side/public/data/sankey.csv", {headers:true})
 
             var saveGraph = computeGraph(element);
             if(saveGraph!==null){writeObj(saveGraph);}
+            //if(saveGraph!==null){writeObj(saveGraph);}
 
             if(element.children!==undefined){
                 for(var i=0; i<element.children.length; i++){
@@ -48,32 +49,50 @@ csv.fromPath("../client_side/public/data/sankey.csv", {headers:true})
         }
     });
 
+//Hack function to give hierarchial sankey many steps or phases in a singular graph view
+//Must connect path nodes to one another, instead of having a flat sankey
+//Taking advantage of the fact that [1]=Dropped_Out, [2]=Step_1, [3] = Step_2, [4]=Completed_Pmt 
+// function sankify(graph){
+//     //http://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-clone-an-object
+//     var graphCopy = JSON.parse(JSON.stringify(graph));
+//     console.log("Graph Count Links: ",JSON.stringify(graph.countLinks,null,2)+"\n");
+//     var tmpGraph =[];
+//     var targetIndex=2;
+//     var sourceIndex=0;
+//     tmpGraph.push(graphCopy.countLinks.pop())
+//     while(targetIndex<5){
+//         graphCopy.countLinks.forEach(function(d){
+//             if(d.target>=targetIndex){
+//                 tmpGraph.push({
+//                     source:sourceIndex,
+//                     target:targetIndex,
+//                     value:d.value
+//                 });
+//             }
+//             //Drop out the link
+//             tmpGraph.push({
+//                 source:targetIndex,
+//                 target:1,
+//                 value:d.value
+//             });
+//         });
+//         graphCopy.countLinks.pop();
+//         targetIndex++;
+//         sourceIndex++;
+//     }
+
+//     console.log(tmpGraph);
+
+//     //sankifyLinks(graphCopy.countLinks);
+//     //sankifyLinks(graphCopy.priceLinks);
+// }
+
+// function sankifyLinks(links){
+//     console.log(links);
+// }
 
 function writeObj(obj){
     fs.writeFile('../client_side/public/data/sankey_data/'+obj.keyPath+'.json',JSON.stringify(obj,null,2),function(err){
         if(err){console.log(err)}
     });
 }
-
-
-// //Taking advantage of sorted order of the partition layout
-// function fetchPeers(data){
-//     var peers = [];
-//     var depth = (data[0])?data[0].depth:data.depth;
-//     // var depth = data[0].depth;
-//     for(var i=0; i<data.length; i++){
-//         if(depth === data[i].depth){
-//             peers.push(data[i]);
-//         }
-//     }
-//     return peers;
-// }  
-
-
-
-
- // fs.writeFile('./data/tree.json',JSON.stringify(nest),function(err){
- //            if(err){
- //                console.log(err)
- //            }
- //        });

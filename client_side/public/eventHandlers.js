@@ -23,7 +23,7 @@ function clickedTrail(htmlElement,d){
 }
 
 function mouseEnterLink(){
-    d3.select(this).style("stroke-opacity",0.5);
+    d3.select(this).style("stroke-opacity",0.9);
 }
 
 function mouseLeaveLink(){
@@ -32,11 +32,21 @@ function mouseLeaveLink(){
 
 //http://bl.ocks.org/Neilos/584b9a5d44d5fe00f779
 function highlightConnected(g) {
-    var sources = g.sourceLinks.filter(function (d) { return d.source === g; });
-    sources.forEach(function(x){
-       var id = "#"+x.source.name.replaceAll(" ","_")+"TO"+x.target.name.replaceAll(" ","_");
-       d3.select(id).style("stroke-opacity",0.5);
-    })
+
+    if(nonRegions.indexOf(g.name)===-1){
+        d3.selectAll("#link-from-"+g.name.replaceAll(" ","_"))
+            .style("stroke-opacity",0.9);
+    }
+    // var sources = g.sourceLinks.filter(function (d) { return d.source === g; });
+    // var links = d3.selectAll(".link").
+    // links.forEach(function(d){
+
+    // })
+    // sources.forEach(function(x){
+    //     console.log(x);
+    //    var id = "#"+x.source.name.replaceAll(" ","_")+"TO"+x.target.name.replaceAll(" ","_");
+    //    d3.select(id).style("stroke-opacity",0.5);
+    // })
   }
 
 function fadeAll() {

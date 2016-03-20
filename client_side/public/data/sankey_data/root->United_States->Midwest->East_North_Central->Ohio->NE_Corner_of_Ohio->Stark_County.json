@@ -2,10 +2,13 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->NE_Corner_of_Ohio->Stark_County",
   "nodes": [
     {
-      "name": "44666"
+      "name": "44601"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "44669"
+    },
+    {
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -20,45 +23,76 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
       "target": 2,
-      "value": 0
+      "value": 0,
+      "region": "44601"
     },
     {
       "source": 0,
       "target": 3,
-      "value": 0
+      "value": 1,
+      "region": "44601"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "44601"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 1
+      "value": 0,
+      "region": "44601"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "44601"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "44601"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "44669"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "44669"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "44669"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "44669"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "44669"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "44669"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 232
-    }
-  ]
+  "priceLinks": []
 }

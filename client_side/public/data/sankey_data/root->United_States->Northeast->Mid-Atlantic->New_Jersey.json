@@ -5,7 +5,7 @@
       "name": "NE Corner of New Jersey"
     },
     {
-      "name": "Did_Not_Enter_Checkout"
+      "name": "Dropped_Out"
     },
     {
       "name": "Checkout_Step_1"
@@ -17,91 +17,160 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "SW Corner of New Jersey"
+    },
+    {
       "name": "NW Corner of New Jersey"
+    },
+    {
+      "name": "SE Corner of New Jersey"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 4
+      "value": 0,
+      "region": "NE Corner of New Jersey"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 3
+      "value": 7,
+      "region": "NE Corner of New Jersey"
     },
     {
-      "source": 0,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "NE Corner of New Jersey"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 4
+      "value": 6,
+      "region": "NE Corner of New Jersey"
     },
     {
-      "source": 0,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "NE Corner of New Jersey"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 5
+      "value": 4,
+      "region": "NE Corner of New Jersey"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0
+      "value": 0,
+      "region": "SW Corner of New Jersey"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1
+      "value": 3,
+      "region": "SW Corner of New Jersey"
     },
     {
-      "source": 5,
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "SW Corner of New Jersey"
+    },
+    {
+      "source": 2,
       "target": 3,
-      "value": 0
+      "value": 2,
+      "region": "SW Corner of New Jersey"
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "SW Corner of New Jersey"
+    },
+    {
+      "source": 3,
       "target": 4,
-      "value": 0
+      "value": 0,
+      "region": "SW Corner of New Jersey"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of New Jersey"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 2,
+      "region": "NW Corner of New Jersey"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of New Jersey"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "NW Corner of New Jersey"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of New Jersey"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "NW Corner of New Jersey"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of New Jersey"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 2,
+      "region": "SE Corner of New Jersey"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of New Jersey"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "SE Corner of New Jersey"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "SE Corner of New Jersey"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "SE Corner of New Jersey"
     }
   ],
-  "priceLinks": [
-    {
-      "source": 0,
-      "target": 1,
-      "value": 438
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 582
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 316
-    },
-    {
-      "source": 0,
-      "target": 4,
-      "value": 507
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 41
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "value": 0
-    },
-    {
-      "source": 5,
-      "target": 4,
-      "value": 0
-    }
-  ]
+  "priceLinks": []
 }

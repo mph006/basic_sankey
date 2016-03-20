@@ -1,0 +1,59 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Montana->SW_Corner_of_Montana->Meagher_County",
+  "nodes": [
+    {
+      "name": "59642"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "59642"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "59642"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "59642"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "59642"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "59642"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "59642"
+    }
+  ],
+  "priceLinks": []
+}
