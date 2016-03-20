@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Northeast->New_England->Rhode_Island->NW_Corner_of_Rhode_Island",
+  "nodes": [
+    {
+      "name": "Providence County"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Kent County"
+    },
+    {
+      "name": "Unknown County"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1,
+      "region": "Providence County"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 13,
+      "region": "Providence County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Providence County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Providence County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Providence County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 10,
+      "region": "Providence County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "Kent County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 5,
+      "region": "Kent County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Kent County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Kent County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Kent County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Kent County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
+    }
+  ],
+  "priceLinks": []
+}

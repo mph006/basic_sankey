@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic",
   "nodes": [
     {
-      "name": "New York"
+      "name": "Pennsylvania"
     },
     {
       "name": "Dropped_Out"
@@ -17,7 +17,7 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Pennsylvania"
+      "name": "New York"
     },
     {
       "name": "New Jersey"
@@ -27,109 +27,109 @@
     {
       "source": 0,
       "target": 1,
-      "value": 10,
-      "region": "New York"
+      "value": 158,
+      "region": "Pennsylvania"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 43,
-      "region": "New York"
+      "value": 1389,
+      "region": "Pennsylvania"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 16,
-      "region": "New York"
+      "value": 161,
+      "region": "Pennsylvania"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 27,
-      "region": "New York"
+      "value": 1228,
+      "region": "Pennsylvania"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 14,
-      "region": "New York"
+      "value": 186,
+      "region": "Pennsylvania"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 13,
-      "region": "New York"
+      "value": 1042,
+      "region": "Pennsylvania"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 13,
-      "region": "Pennsylvania"
+      "value": 184,
+      "region": "New York"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 37,
-      "region": "Pennsylvania"
+      "value": 1372,
+      "region": "New York"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 11,
-      "region": "Pennsylvania"
+      "value": 180,
+      "region": "New York"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 26,
-      "region": "Pennsylvania"
+      "value": 1192,
+      "region": "New York"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 10,
-      "region": "Pennsylvania"
+      "value": 143,
+      "region": "New York"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 16,
-      "region": "Pennsylvania"
+      "value": 1049,
+      "region": "New York"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
+      "value": 63,
       "region": "New Jersey"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 14,
+      "value": 461,
       "region": "New Jersey"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 2,
+      "value": 56,
       "region": "New Jersey"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 12,
+      "value": 405,
       "region": "New Jersey"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 7,
+      "value": 71,
       "region": "New Jersey"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 5,
+      "value": 334,
       "region": "New Jersey"
     }
   ],

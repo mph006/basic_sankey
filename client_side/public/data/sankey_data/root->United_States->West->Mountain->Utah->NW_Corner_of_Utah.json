@@ -18,80 +18,431 @@
     },
     {
       "name": "Utah County"
+    },
+    {
+      "name": "Weber County"
+    },
+    {
+      "name": "Cache County"
+    },
+    {
+      "name": "Box Elder County"
+    },
+    {
+      "name": "Davis County"
+    },
+    {
+      "name": "Tooele County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Juab County"
+    },
+    {
+      "name": "Millard County"
+    },
+    {
+      "name": "Morgan County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
+      "value": 5,
       "region": "Salt Lake County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
+      "value": 45,
       "region": "Salt Lake County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 9,
       "region": "Salt Lake County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 36,
       "region": "Salt Lake County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 5,
       "region": "Salt Lake County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 31,
       "region": "Salt Lake County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
+      "value": 2,
       "region": "Utah County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
+      "value": 14,
       "region": "Utah County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 0,
       "region": "Utah County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 14,
       "region": "Utah County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Utah County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 13,
       "region": "Utah County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 3,
+      "region": "Weber County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 11,
+      "region": "Weber County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Weber County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Weber County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Weber County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 10,
+      "region": "Weber County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 3,
+      "region": "Cache County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 11,
+      "region": "Cache County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Cache County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Cache County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Cache County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 9,
+      "region": "Cache County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 2,
+      "region": "Box Elder County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 10,
+      "region": "Box Elder County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Box Elder County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Box Elder County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Box Elder County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Box Elder County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 3,
+      "region": "Davis County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 6,
+      "region": "Davis County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Davis County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Davis County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Davis County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Davis County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 2,
+      "region": "Tooele County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 6,
+      "region": "Tooele County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Tooele County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Tooele County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tooele County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Tooele County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 6,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Juab County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 2,
+      "region": "Juab County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Juab County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Juab County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Juab County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Juab County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Millard County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 2,
+      "region": "Millard County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Millard County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Millard County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Millard County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Millard County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Morgan County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 1,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Morgan County"
     }
   ],
   "priceLinks": []

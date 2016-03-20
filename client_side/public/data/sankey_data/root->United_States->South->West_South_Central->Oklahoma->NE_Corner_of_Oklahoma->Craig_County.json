@@ -2,7 +2,10 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->NE_Corner_of_Oklahoma->Craig_County",
   "nodes": [
     {
-      "name": "74349"
+      "name": "74333"
+    },
+    {
+      "name": "74369"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +23,75 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 2,
       "value": 0,
-      "region": "74349"
+      "region": "74333"
     },
     {
       "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "74349"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "74349"
-    },
-    {
-      "source": 2,
       "target": 3,
       "value": 1,
-      "region": "74349"
+      "region": "74333"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 2,
       "value": 0,
-      "region": "74349"
+      "region": "74333"
     },
     {
       "source": 3,
       "target": 4,
       "value": 1,
-      "region": "74349"
+      "region": "74333"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "74333"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "74333"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "74369"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "74369"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "74369"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "74369"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "74369"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "74369"
     }
   ],
   "priceLinks": []

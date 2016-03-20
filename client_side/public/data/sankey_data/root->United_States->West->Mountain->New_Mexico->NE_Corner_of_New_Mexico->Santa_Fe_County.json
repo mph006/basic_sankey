@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->West->Mountain->New_Mexico->NE_Corner_of_New_Mexico->Santa_Fe_County",
   "nodes": [
     {
-      "name": "87056"
+      "name": "87507"
+    },
+    {
+      "name": "87508"
+    },
+    {
+      "name": "87535"
+    },
+    {
+      "name": "87540"
+    },
+    {
+      "name": "87567"
+    },
+    {
+      "name": "87592"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 4,
+      "target": 6,
       "value": 0,
-      "region": "87056"
+      "region": "87567"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 4,
+      "target": 7,
       "value": 1,
-      "region": "87056"
+      "region": "87567"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "87567"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "87567"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "87567"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "87567"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "87056"
+      "target": 6,
+      "value": 0,
+      "region": "87535"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 7,
+      "value": 1,
+      "region": "87535"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "87535"
+    },
+    {
+      "source": 7,
+      "target": 8,
       "value": 0,
-      "region": "87056"
+      "region": "87535"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "87535"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "87535"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "87507"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "87507"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "87507"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "87507"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "87507"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "87507"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "87508"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "87508"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "87508"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "87508"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "87508"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "87508"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "87056"
+      "target": 6,
+      "value": 1,
+      "region": "87540"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 7,
       "value": 0,
-      "region": "87056"
+      "region": "87540"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "87540"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "87540"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "87540"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "87540"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "87592"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "87592"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "87592"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "87592"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "87592"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "87592"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->South_Carolina->SE_Corner_of_South_Carolina->Dorchester_County",
+  "nodes": [
+    {
+      "name": "29420"
+    },
+    {
+      "name": "29437"
+    },
+    {
+      "name": "29448"
+    },
+    {
+      "name": "29472"
+    },
+    {
+      "name": "29477"
+    },
+    {
+      "name": "29483"
+    },
+    {
+      "name": "29484"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "29477"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "29477"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "29477"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "29477"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "29477"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "29477"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "29472"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "29472"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "29472"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "29472"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "29472"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "29472"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "29420"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "29420"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "29420"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "29420"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "29420"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "29420"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "29437"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "29437"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "29437"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "29437"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "29437"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "29437"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29484"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "29484"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "29484"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "29484"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "29484"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "29484"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "29448"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "29448"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "29448"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "29448"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "29448"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "29448"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "29483"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "29483"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "29483"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "29483"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "29483"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "29483"
+    }
+  ],
+  "priceLinks": []
+}

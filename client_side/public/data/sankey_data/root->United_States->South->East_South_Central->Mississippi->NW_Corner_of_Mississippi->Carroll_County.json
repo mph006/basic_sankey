@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Mississippi->NW_Corner_of_Mississippi->Carroll_County",
+  "nodes": [
+    {
+      "name": "38917"
+    },
+    {
+      "name": "38923"
+    },
+    {
+      "name": "38943"
+    },
+    {
+      "name": "38947"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "38947"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "38947"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "38947"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38947"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "38947"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38947"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "38917"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "38917"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "38917"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38917"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "38917"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38917"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "38923"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "38923"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "38923"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38923"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "38923"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38923"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "38943"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "38943"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "38943"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "38943"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "38943"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "38943"
+    }
+  ],
+  "priceLinks": []
+}

@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->West->Mountain->Montana->NE_Corner_of_Montana->Roosevelt_County",
   "nodes": [
     {
-      "name": "59213"
+      "name": "59201"
+    },
+    {
+      "name": "59212"
+    },
+    {
+      "name": "59226"
+    },
+    {
+      "name": "59255"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +29,147 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "59213"
+      "region": "59201"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
       "value": 1,
-      "region": "59213"
+      "region": "59201"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "59213"
+      "region": "59201"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59201"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "59201"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59201"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 4,
       "value": 1,
-      "region": "59213"
+      "region": "59226"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "59226"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "59226"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "59226"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "59226"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "59226"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "59212"
+    },
+    {
+      "source": 1,
+      "target": 5,
       "value": 1,
-      "region": "59213"
+      "region": "59212"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "59212"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59212"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "59212"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59212"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "59213"
+      "region": "59255"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "59255"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "59255"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59255"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "59255"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59255"
     }
   ],
   "priceLinks": []

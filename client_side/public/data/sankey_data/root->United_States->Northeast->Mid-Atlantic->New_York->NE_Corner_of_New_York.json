@@ -17,276 +17,900 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "St Lawrence County"
+    },
+    {
+      "name": "Essex County"
+    },
+    {
       "name": "Franklin County"
     },
     {
-      "name": "St Lawrence County"
+      "name": "Saratoga County"
+    },
+    {
+      "name": "Clinton County"
+    },
+    {
+      "name": "Warren County"
+    },
+    {
+      "name": "Madison County"
+    },
+    {
+      "name": "Washington County"
     },
     {
       "name": "Lewis County"
     },
     {
-      "name": "Rensselaer County"
+      "name": "Herkimer County"
+    },
+    {
+      "name": "Jefferson County"
     },
     {
       "name": "Unknown County"
     },
     {
-      "name": "Madison County"
+      "name": "Rensselaer County"
+    },
+    {
+      "name": "Schenectady County"
+    },
+    {
+      "name": "Montgomery County"
+    },
+    {
+      "name": "Fulton County"
+    },
+    {
+      "name": "Hamilton County"
+    },
+    {
+      "name": "Otsego County"
+    },
+    {
+      "name": "Schoharie County"
+    },
+    {
+      "name": "Albany County"
+    },
+    {
+      "name": "Oswego County"
+    },
+    {
+      "name": "St. Lawrence County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
+      "value": 6,
       "region": "Oneida County"
     },
     {
       "source": 0,
       "target": 2,
+      "value": 31,
+      "region": "Oneida County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 3,
       "region": "Oneida County"
     },
     {
       "source": 2,
+      "target": 3,
+      "value": 28,
+      "region": "Oneida County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Oneida County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 25,
+      "region": "Oneida County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 4,
+      "region": "St Lawrence County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 30,
+      "region": "St Lawrence County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "St Lawrence County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 27,
+      "region": "St Lawrence County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "St Lawrence County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 24,
+      "region": "St Lawrence County"
+    },
+    {
+      "source": 6,
       "target": 1,
       "value": 2,
-      "region": "Oneida County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Oneida County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Oneida County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "Oneida County"
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0,
-      "region": "Franklin County"
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 1,
-      "region": "Franklin County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Franklin County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Franklin County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Franklin County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "Franklin County"
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 1,
-      "region": "St Lawrence County"
+      "region": "Essex County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0,
-      "region": "St Lawrence County"
+      "value": 20,
+      "region": "Essex County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "St Lawrence County"
+      "value": 1,
+      "region": "Essex County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "St Lawrence County"
+      "value": 19,
+      "region": "Essex County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "St Lawrence County"
+      "value": 2,
+      "region": "Essex County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "St Lawrence County"
+      "value": 17,
+      "region": "Essex County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0,
-      "region": "Lewis County"
+      "value": 3,
+      "region": "Franklin County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1,
-      "region": "Lewis County"
+      "value": 12,
+      "region": "Franklin County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Lewis County"
+      "value": 3,
+      "region": "Franklin County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Lewis County"
+      "value": 9,
+      "region": "Franklin County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Lewis County"
+      "value": 2,
+      "region": "Franklin County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Lewis County"
+      "value": 7,
+      "region": "Franklin County"
     },
     {
       "source": 8,
       "target": 1,
       "value": 1,
-      "region": "Rensselaer County"
+      "region": "Saratoga County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0,
-      "region": "Rensselaer County"
+      "value": 14,
+      "region": "Saratoga County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Rensselaer County"
+      "value": 1,
+      "region": "Saratoga County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Rensselaer County"
+      "value": 13,
+      "region": "Saratoga County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Rensselaer County"
+      "value": 1,
+      "region": "Saratoga County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Rensselaer County"
+      "value": 12,
+      "region": "Saratoga County"
     },
     {
       "source": 9,
       "target": 1,
       "value": 1,
-      "region": "Unknown County"
+      "region": "Clinton County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 15,
+      "region": "Clinton County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 2,
+      "region": "Clinton County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 13,
+      "region": "Clinton County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 2,
+      "region": "Clinton County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 11,
+      "region": "Clinton County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0,
-      "region": "Madison County"
+      "value": 4,
+      "region": "Warren County"
     },
     {
       "source": 10,
       "target": 2,
+      "value": 13,
+      "region": "Warren County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Warren County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Warren County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Warren County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 10,
+      "region": "Warren County"
+    },
+    {
+      "source": 11,
+      "target": 1,
       "value": 1,
+      "region": "Madison County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 15,
       "region": "Madison County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 3,
       "region": "Madison County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 12,
       "region": "Madison County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Madison County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 11,
       "region": "Madison County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 16,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 15,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 14,
+      "region": "Washington County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 2,
+      "region": "Lewis County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 13,
+      "region": "Lewis County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Lewis County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Lewis County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Lewis County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Lewis County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Herkimer County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 9,
+      "region": "Herkimer County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Herkimer County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Herkimer County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Herkimer County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Herkimer County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 4,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 6,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 9,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Unknown County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 2,
+      "region": "Rensselaer County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 7,
+      "region": "Rensselaer County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Rensselaer County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Rensselaer County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Rensselaer County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Rensselaer County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Schenectady County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 8,
+      "region": "Schenectady County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Schenectady County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Schenectady County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Schenectady County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Schenectady County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 8,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Fulton County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 6,
+      "region": "Fulton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Fulton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Fulton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Fulton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Fulton County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Hamilton County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 6,
+      "region": "Hamilton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Hamilton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Hamilton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hamilton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Hamilton County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 1,
+      "region": "Otsego County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 4,
+      "region": "Otsego County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Otsego County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Otsego County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Otsego County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Otsego County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Schoharie County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 4,
+      "region": "Schoharie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Schoharie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Schoharie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Schoharie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Schoharie County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Albany County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 2,
+      "region": "Albany County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Albany County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Albany County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Albany County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Albany County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 0,
+      "region": "Oswego County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 1,
+      "region": "Oswego County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Oswego County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Oswego County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Oswego County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Oswego County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 0,
+      "region": "St. Lawrence County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 1,
+      "region": "St. Lawrence County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "St. Lawrence County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "St. Lawrence County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "St. Lawrence County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "St. Lawrence County"
     }
   ],
   "priceLinks": []

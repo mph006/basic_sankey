@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Georgia->NW_Corner_of_Georgia->Pickens_County",
+  "nodes": [
+    {
+      "name": "30143"
+    },
+    {
+      "name": "30148"
+    },
+    {
+      "name": "30151"
+    },
+    {
+      "name": "30175"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "30143"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "30143"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "30143"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "30143"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "30143"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "30143"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "30148"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "30148"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "30148"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "30148"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "30148"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "30148"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "30151"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "30151"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "30151"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "30151"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "30151"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "30151"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "30175"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "30175"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "30175"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "30175"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "30175"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "30175"
+    }
+  ],
+  "priceLinks": []
+}

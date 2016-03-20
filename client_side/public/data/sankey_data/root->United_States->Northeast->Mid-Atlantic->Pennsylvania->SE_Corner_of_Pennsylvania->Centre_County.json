@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->Pennsylvania->SE_Corner_of_Pennsylvania->Centre_County",
+  "nodes": [
+    {
+      "name": "16820"
+    },
+    {
+      "name": "16832"
+    },
+    {
+      "name": "16852"
+    },
+    {
+      "name": "16854"
+    },
+    {
+      "name": "16875"
+    },
+    {
+      "name": "16882"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "16875"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "16875"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16875"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "16875"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16875"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "16875"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "16882"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "16882"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16882"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "16882"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16882"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "16882"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "16820"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "16820"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16820"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "16820"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16820"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "16820"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "16832"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "16832"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "16832"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "16832"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16832"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "16832"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "16852"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "16852"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16852"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "16852"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16852"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "16852"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "16854"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "16854"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16854"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "16854"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16854"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "16854"
+    }
+  ],
+  "priceLinks": []
+}

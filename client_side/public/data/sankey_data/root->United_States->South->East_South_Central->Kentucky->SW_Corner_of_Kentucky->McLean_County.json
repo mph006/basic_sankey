@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->SW_Corner_of_Kentucky->McLean_County",
+  "nodes": [
+    {
+      "name": "42322"
+    },
+    {
+      "name": "42327"
+    },
+    {
+      "name": "42350"
+    },
+    {
+      "name": "42352"
+    },
+    {
+      "name": "42371"
+    },
+    {
+      "name": "42372"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "42327"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "42327"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42327"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "42327"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "42327"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "42327"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "42350"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "42350"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42350"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "42350"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "42350"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "42350"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "42372"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "42372"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42372"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "42372"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "42372"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "42372"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "42322"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "42322"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42322"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "42322"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "42322"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "42322"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "42352"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "42352"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42352"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "42352"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "42352"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "42352"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "42371"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "42371"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42371"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "42371"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "42371"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "42371"
+    }
+  ],
+  "priceLinks": []
+}

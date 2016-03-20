@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Puerto_Rico->NE_Corner_of_Puerto_Rico->Guaynabo",
+  "nodes": [
+    {
+      "name": "00968"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "00969"
+    },
+    {
+      "name": "00965"
+    },
+    {
+      "name": "00971"
+    },
+    {
+      "name": "00966"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1,
+      "region": "00968"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "00968"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00968"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "00968"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "00968"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "00968"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1,
+      "region": "00969"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0,
+      "region": "00969"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00969"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "00969"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "00969"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "00969"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "00965"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "00965"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00965"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "00965"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "00965"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "00965"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "00971"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0,
+      "region": "00971"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00971"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "00971"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "00971"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "00971"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "00966"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "00966"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00966"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "00966"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "00966"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "00966"
+    }
+  ],
+  "priceLinks": []
+}

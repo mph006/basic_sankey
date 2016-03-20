@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Oklahoma->SE_Corner_of_Oklahoma->Atoka_County",
+  "nodes": [
+    {
+      "name": "74525"
+    },
+    {
+      "name": "74533"
+    },
+    {
+      "name": "74542"
+    },
+    {
+      "name": "74555"
+    },
+    {
+      "name": "74569"
+    },
+    {
+      "name": "74576"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "74533"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "74533"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74533"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "74533"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74533"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "74533"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "74576"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "74576"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74576"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74576"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74576"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74576"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "74525"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "74525"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74525"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74525"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74525"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74525"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "74542"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "74542"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74542"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74542"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74542"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74542"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "74555"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "74555"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74555"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74555"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74555"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74555"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "74569"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "74569"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74569"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74569"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74569"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74569"
+    }
+  ],
+  "priceLinks": []
+}

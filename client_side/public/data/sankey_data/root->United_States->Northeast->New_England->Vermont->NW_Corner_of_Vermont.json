@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Northeast->New_England->Vermont->NW_Corner_of_Vermont",
   "nodes": [
     {
-      "name": "Addison County"
+      "name": "Washington County"
     },
     {
       "name": "Dropped_Out"
@@ -17,81 +17,354 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Washington County"
+      "name": "Chittenden County"
+    },
+    {
+      "name": "Addison County"
+    },
+    {
+      "name": "Franklin County"
+    },
+    {
+      "name": "Orange County"
+    },
+    {
+      "name": "Lamoille County"
+    },
+    {
+      "name": "Grand Isle County"
+    },
+    {
+      "name": "Orleans County"
+    },
+    {
+      "name": "Unknown County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Addison County"
+      "value": 5,
+      "region": "Washington County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Addison County"
+      "value": 17,
+      "region": "Washington County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Addison County"
+      "value": 3,
+      "region": "Washington County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Addison County"
+      "value": 14,
+      "region": "Washington County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Addison County"
+      "value": 4,
+      "region": "Washington County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Addison County"
+      "value": 10,
+      "region": "Washington County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 0,
-      "region": "Washington County"
+      "region": "Chittenden County"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 14,
+      "region": "Chittenden County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 1,
-      "region": "Washington County"
+      "region": "Chittenden County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 13,
+      "region": "Chittenden County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Chittenden County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 12,
+      "region": "Chittenden County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Addison County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 13,
+      "region": "Addison County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Washington County"
+      "region": "Addison County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 13,
+      "region": "Addison County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Addison County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 10,
+      "region": "Addison County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "Franklin County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 10,
+      "region": "Franklin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Franklin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Franklin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Franklin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Franklin County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1,
+      "region": "Orange County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 5,
+      "region": "Orange County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Orange County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Orange County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Orange County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Orange County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 2,
+      "region": "Lamoille County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 5,
+      "region": "Lamoille County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lamoille County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Lamoille County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lamoille County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Lamoille County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Grand Isle County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 5,
+      "region": "Grand Isle County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Grand Isle County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Grand Isle County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Grand Isle County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Grand Isle County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Orleans County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 2,
+      "region": "Orleans County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Orleans County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 1,
-      "region": "Washington County"
+      "region": "Orleans County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Orleans County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Orleans County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 1,
-      "region": "Washington County"
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "Washington County"
+      "region": "Unknown County"
     }
   ],
   "priceLinks": []

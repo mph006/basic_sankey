@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Mountain->Montana",
   "nodes": [
     {
-      "name": "NE Corner of Montana"
+      "name": "NW Corner of Montana"
     },
     {
       "name": "Dropped_Out"
@@ -17,159 +17,159 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "SW Corner of Montana"
+    },
+    {
       "name": "SE Corner of Montana"
     },
     {
-      "name": "NW Corner of Montana"
-    },
-    {
-      "name": "SW Corner of Montana"
+      "name": "NE Corner of Montana"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "NE Corner of Montana"
+      "value": 10,
+      "region": "NW Corner of Montana"
     },
     {
       "source": 0,
       "target": 2,
+      "value": 83,
+      "region": "NW Corner of Montana"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 5,
+      "region": "NW Corner of Montana"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 78,
+      "region": "NW Corner of Montana"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 13,
+      "region": "NW Corner of Montana"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 65,
+      "region": "NW Corner of Montana"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 9,
+      "region": "SW Corner of Montana"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 64,
+      "region": "SW Corner of Montana"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "SW Corner of Montana"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 61,
+      "region": "SW Corner of Montana"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 12,
+      "region": "SW Corner of Montana"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 49,
+      "region": "SW Corner of Montana"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 6,
+      "region": "SE Corner of Montana"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 59,
+      "region": "SE Corner of Montana"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 6,
+      "region": "SE Corner of Montana"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 53,
+      "region": "SE Corner of Montana"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "SE Corner of Montana"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 49,
+      "region": "SE Corner of Montana"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 7,
+      "region": "NE Corner of Montana"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 50,
       "region": "NE Corner of Montana"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 7,
       "region": "NE Corner of Montana"
     },
     {
       "source": 2,
       "target": 3,
+      "value": 43,
+      "region": "NE Corner of Montana"
+    },
+    {
+      "source": 3,
+      "target": 1,
       "value": 4,
       "region": "NE Corner of Montana"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 3,
+      "target": 4,
+      "value": 39,
       "region": "NE Corner of Montana"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "NE Corner of Montana"
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 0,
-      "region": "SE Corner of Montana"
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 3,
-      "region": "SE Corner of Montana"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 2,
-      "region": "SE Corner of Montana"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "SE Corner of Montana"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "SE Corner of Montana"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "SE Corner of Montana"
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 2,
-      "region": "NW Corner of Montana"
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 1,
-      "region": "NW Corner of Montana"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "NW Corner of Montana"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "NW Corner of Montana"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "NW Corner of Montana"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "NW Corner of Montana"
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0,
-      "region": "SW Corner of Montana"
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 2,
-      "region": "SW Corner of Montana"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "SW Corner of Montana"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "SW Corner of Montana"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "SW Corner of Montana"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "SW Corner of Montana"
     }
   ],
   "priceLinks": []

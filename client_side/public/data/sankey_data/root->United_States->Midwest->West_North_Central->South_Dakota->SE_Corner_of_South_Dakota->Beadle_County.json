@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->South_Dakota->SE_Corner_of_South_Dakota->Beadle_County",
+  "nodes": [
+    {
+      "name": "57324"
+    },
+    {
+      "name": "57348"
+    },
+    {
+      "name": "57350"
+    },
+    {
+      "name": "57379"
+    },
+    {
+      "name": "57386"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "57348"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "57348"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57348"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57348"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57348"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57348"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "57324"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "57324"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57324"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57324"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57324"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57324"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "57386"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "57386"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57386"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57386"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57386"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57386"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "57350"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "57350"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57350"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57350"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57350"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57350"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "57379"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "57379"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57379"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57379"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57379"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57379"
+    }
+  ],
+  "priceLinks": []
+}

@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->NW_Corner_of_Minnesota->Red_Lake_County",
   "nodes": [
     {
-      "name": "56750"
+      "name": "56715"
+    },
+    {
+      "name": "56742"
+    },
+    {
+      "name": "56748"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +25,112 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 3,
       "value": 0,
-      "region": "56750"
+      "region": "56742"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 4,
       "value": 1,
-      "region": "56750"
+      "region": "56742"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 3,
       "value": 0,
-      "region": "56750"
+      "region": "56742"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "56742"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "56742"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56742"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "56750"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "56750"
-    },
-    {
-      "source": 3,
-      "target": 4,
       "value": 0,
-      "region": "56750"
+      "region": "56748"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "56748"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "56748"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "56748"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "56748"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56748"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "56715"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "56715"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "56715"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "56715"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "56715"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "56715"
     }
   ],
   "priceLinks": []

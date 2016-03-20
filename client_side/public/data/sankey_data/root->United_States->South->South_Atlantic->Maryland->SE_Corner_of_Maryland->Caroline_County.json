@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Maryland->SE_Corner_of_Maryland->Caroline_County",
+  "nodes": [
+    {
+      "name": "21609"
+    },
+    {
+      "name": "21655"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "21609"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "21609"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "21609"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "21609"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "21609"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "21609"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "21655"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "21655"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "21655"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "21655"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "21655"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "21655"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Nebraska->SE_Corner_of_Nebraska->Saline_County",
+  "nodes": [
+    {
+      "name": "68333"
+    },
+    {
+      "name": "68341"
+    },
+    {
+      "name": "68445"
+    },
+    {
+      "name": "68453"
+    },
+    {
+      "name": "68465"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "68341"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "68341"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "68341"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68341"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "68341"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68341"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "68453"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "68453"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "68453"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68453"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "68453"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68453"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "68333"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "68333"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "68333"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68333"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "68333"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68333"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "68445"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "68445"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "68445"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68445"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "68445"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "68445"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "68465"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "68465"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "68465"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68465"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "68465"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "68465"
+    }
+  ],
+  "priceLinks": []
+}

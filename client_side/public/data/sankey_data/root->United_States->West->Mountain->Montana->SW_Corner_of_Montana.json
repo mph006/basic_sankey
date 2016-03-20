@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Mountain->Montana->SW_Corner_of_Montana",
   "nodes": [
     {
-      "name": "Gallatin County"
+      "name": "Lewis and Clark County"
     },
     {
       "name": "Dropped_Out"
@@ -17,56 +17,494 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Gallatin County"
+    },
+    {
+      "name": "Ravalli County"
+    },
+    {
+      "name": "Madison County"
+    },
+    {
+      "name": "Jefferson County"
+    },
+    {
+      "name": "Silver Bow County"
+    },
+    {
+      "name": "Beaverhead County"
+    },
+    {
+      "name": "Granite County"
+    },
+    {
+      "name": "Missoula County"
+    },
+    {
+      "name": "Broadwater County"
+    },
+    {
+      "name": "Powell County"
+    },
+    {
+      "name": "Deer Lodge County"
+    },
+    {
       "name": "Meagher County"
+    },
+    {
+      "name": "Park County"
+    },
+    {
+      "name": "Sweet Grass County"
+    },
+    {
+      "name": "Wheatland County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Gallatin County"
+      "value": 1,
+      "region": "Lewis and Clark County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Gallatin County"
+      "value": 7,
+      "region": "Lewis and Clark County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Gallatin County"
+      "value": 0,
+      "region": "Lewis and Clark County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Gallatin County"
+      "value": 7,
+      "region": "Lewis and Clark County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Gallatin County"
+      "value": 1,
+      "region": "Lewis and Clark County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Gallatin County"
+      "value": 6,
+      "region": "Lewis and Clark County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Meagher County"
+      "value": 2,
+      "region": "Gallatin County"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 5,
+      "region": "Gallatin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Gallatin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Gallatin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Gallatin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Gallatin County"
+    },
+    {
+      "source": 6,
+      "target": 1,
       "value": 1,
+      "region": "Ravalli County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 7,
+      "region": "Ravalli County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Ravalli County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Ravalli County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Ravalli County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Ravalli County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Madison County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 9,
+      "region": "Madison County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Madison County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Madison County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Madison County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Madison County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 4,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Silver Bow County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 6,
+      "region": "Silver Bow County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Silver Bow County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Silver Bow County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Silver Bow County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Silver Bow County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Beaverhead County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 5,
+      "region": "Beaverhead County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Beaverhead County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Beaverhead County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Beaverhead County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Beaverhead County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1,
+      "region": "Granite County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 1,
+      "region": "Granite County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Granite County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Granite County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Granite County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Granite County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Missoula County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 3,
+      "region": "Missoula County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Missoula County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Missoula County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Missoula County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Missoula County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1,
+      "region": "Broadwater County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 2,
+      "region": "Broadwater County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Broadwater County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Broadwater County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Broadwater County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Broadwater County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Powell County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 5,
+      "region": "Powell County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Powell County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Powell County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Powell County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Powell County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Deer Lodge County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 2,
+      "region": "Deer Lodge County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Deer Lodge County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Deer Lodge County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Deer Lodge County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Deer Lodge County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Meagher County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 3,
       "region": "Meagher County"
     },
     {
@@ -78,20 +516,128 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 3,
       "region": "Meagher County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Meagher County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 2,
       "region": "Meagher County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 4,
+      "region": "Park County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Park County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Park County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Park County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Sweet Grass County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 1,
+      "region": "Sweet Grass County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sweet Grass County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Sweet Grass County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Sweet Grass County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Sweet Grass County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 1,
+      "region": "Wheatland County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 0,
+      "region": "Wheatland County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wheatland County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Wheatland County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Wheatland County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Wheatland County"
     }
   ],
   "priceLinks": []

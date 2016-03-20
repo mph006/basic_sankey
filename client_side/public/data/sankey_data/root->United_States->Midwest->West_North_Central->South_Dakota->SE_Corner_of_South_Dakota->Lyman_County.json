@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->South_Dakota->SE_Corner_of_South_Dakota->Lyman_County",
+  "nodes": [
+    {
+      "name": "57365"
+    },
+    {
+      "name": "57544"
+    },
+    {
+      "name": "57548"
+    },
+    {
+      "name": "57568"
+    },
+    {
+      "name": "57569"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "57544"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "57544"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57544"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57544"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57544"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57544"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "57365"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "57365"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57365"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "57365"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57365"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "57365"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "57548"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "57548"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57548"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57548"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57548"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57548"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "57568"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "57568"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57568"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57568"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57568"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57568"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "57569"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "57569"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57569"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "57569"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57569"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "57569"
+    }
+  ],
+  "priceLinks": []
+}

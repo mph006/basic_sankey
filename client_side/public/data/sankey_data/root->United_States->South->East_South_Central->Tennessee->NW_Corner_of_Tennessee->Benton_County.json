@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Tennessee->NW_Corner_of_Tennessee->Benton_County",
+  "nodes": [
+    {
+      "name": "38221"
+    },
+    {
+      "name": "38320"
+    },
+    {
+      "name": "38333"
+    },
+    {
+      "name": "38341"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "38320"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "38320"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "38320"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38320"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "38320"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38320"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "38341"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "38341"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "38341"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38341"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "38341"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38341"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "38221"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "38221"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "38221"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38221"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "38221"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38221"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "38333"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "38333"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "38333"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38333"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "38333"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38333"
+    }
+  ],
+  "priceLinks": []
+}

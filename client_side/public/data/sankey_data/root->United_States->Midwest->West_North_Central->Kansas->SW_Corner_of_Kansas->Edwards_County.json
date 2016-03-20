@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->SW_Corner_of_Kansas->Edwards_County",
   "nodes": [
     {
+      "name": "67547"
+    },
+    {
       "name": "67552"
+    },
+    {
+      "name": "67563"
     },
     {
       "name": "Dropped_Out"
@@ -19,38 +25,110 @@
   ],
   "countLinks": [
     {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "67563"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "67563"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "67563"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "67563"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "67563"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "67563"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 3,
+      "value": 1,
+      "region": "67547"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "67547"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "67547"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "67547"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "67547"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "67547"
+    },
+    {
+      "source": 1,
+      "target": 3,
       "value": 1,
       "region": "67552"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 4,
       "value": 0,
       "region": "67552"
     },
     {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "67552"
-    },
-    {
-      "source": 2,
+      "source": 4,
       "target": 3,
       "value": 0,
       "region": "67552"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 4,
+      "target": 5,
       "value": 0,
       "region": "67552"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "67552"
+    },
+    {
+      "source": 5,
+      "target": 6,
       "value": 0,
       "region": "67552"
     }

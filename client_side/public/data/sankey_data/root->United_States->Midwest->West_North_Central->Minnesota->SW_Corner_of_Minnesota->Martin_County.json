@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SW_Corner_of_Minnesota->Martin_County",
+  "nodes": [
+    {
+      "name": "56039"
+    },
+    {
+      "name": "56075"
+    },
+    {
+      "name": "56121"
+    },
+    {
+      "name": "56176"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "56039"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "56039"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "56039"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56039"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "56039"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56039"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "56075"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "56075"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "56075"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56075"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "56075"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56075"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "56121"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "56121"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "56121"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56121"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "56121"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56121"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "56176"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "56176"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "56176"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56176"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "56176"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56176"
+    }
+  ],
+  "priceLinks": []
+}

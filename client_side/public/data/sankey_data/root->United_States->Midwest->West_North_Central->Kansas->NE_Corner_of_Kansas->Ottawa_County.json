@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->NE_Corner_of_Kansas->Ottawa_County",
   "nodes": [
     {
-      "name": "67422"
+      "name": "67436"
+    },
+    {
+      "name": "67467"
+    },
+    {
+      "name": "67484"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +26,111 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 3,
       "value": 0,
-      "region": "67422"
+      "region": "67436"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 4,
       "value": 1,
-      "region": "67422"
+      "region": "67436"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 3,
       "value": 0,
-      "region": "67422"
+      "region": "67436"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "67436"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "67436"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "67436"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "67467"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "67467"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "67467"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "67467"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "67467"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "67467"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "67422"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "67422"
-    },
-    {
-      "source": 3,
-      "target": 4,
       "value": 0,
-      "region": "67422"
+      "region": "67484"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "67484"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "67484"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "67484"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "67484"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "67484"
     }
   ],
   "priceLinks": []

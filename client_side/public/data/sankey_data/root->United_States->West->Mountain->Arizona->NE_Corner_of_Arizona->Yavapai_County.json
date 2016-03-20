@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Arizona->NE_Corner_of_Arizona->Yavapai_County",
+  "nodes": [
+    {
+      "name": "86335"
+    },
+    {
+      "name": "86339"
+    },
+    {
+      "name": "86341"
+    },
+    {
+      "name": "86342"
+    },
+    {
+      "name": "86351"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "86335"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "86335"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "86335"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "86335"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "86335"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "86335"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "86342"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "86342"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "86342"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "86342"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "86342"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "86342"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "86339"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "86339"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "86339"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "86339"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "86339"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "86339"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "86341"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "86341"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "86341"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "86341"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "86341"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "86341"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "86351"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "86351"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "86351"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "86351"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "86351"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "86351"
+    }
+  ],
+  "priceLinks": []
+}

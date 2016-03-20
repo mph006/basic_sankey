@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->South_Carolina->NE_Corner_of_South_Carolina->Lancaster_County",
+  "nodes": [
+    {
+      "name": "29058"
+    },
+    {
+      "name": "29067"
+    },
+    {
+      "name": "29720"
+    },
+    {
+      "name": "29744"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "29067"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "29067"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "29067"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "29067"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "29067"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "29067"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "29058"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "29058"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "29058"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "29058"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "29058"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29058"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "29720"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "29720"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "29720"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "29720"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "29720"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "29720"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "29744"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "29744"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "29744"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "29744"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "29744"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29744"
+    }
+  ],
+  "priceLinks": []
+}

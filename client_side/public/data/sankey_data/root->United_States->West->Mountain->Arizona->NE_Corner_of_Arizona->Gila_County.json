@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Arizona->NE_Corner_of_Arizona->Gila_County",
+  "nodes": [
+    {
+      "name": "85541"
+    },
+    {
+      "name": "85544"
+    },
+    {
+      "name": "85547"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "85547"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "85547"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "85547"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "85547"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "85547"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "85547"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "85541"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "85541"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "85541"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "85541"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "85541"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "85541"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "85544"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "85544"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "85544"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "85544"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "85544"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "85544"
+    }
+  ],
+  "priceLinks": []
+}

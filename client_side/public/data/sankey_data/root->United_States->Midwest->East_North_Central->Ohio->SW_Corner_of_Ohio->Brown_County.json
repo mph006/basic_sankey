@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->SW_Corner_of_Ohio->Brown_County",
   "nodes": [
     {
+      "name": "45101"
+    },
+    {
+      "name": "45115"
+    },
+    {
       "name": "45119"
+    },
+    {
+      "name": "45121"
+    },
+    {
+      "name": "45167"
+    },
+    {
+      "name": "45168"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 4,
+      "target": 6,
       "value": 0,
-      "region": "45119"
+      "region": "45167"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "45167"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "45167"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45167"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "45167"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "45167"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
+      "value": 0,
+      "region": "45101"
+    },
+    {
+      "source": 0,
+      "target": 7,
       "value": 1,
+      "region": "45101"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "45101"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45101"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "45101"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "45101"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
       "region": "45119"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 7,
       "value": 1,
       "region": "45119"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 7,
+      "target": 6,
       "value": 0,
       "region": "45119"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45119"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "45119"
+    },
+    {
+      "source": 8,
+      "target": 9,
       "value": 0,
       "region": "45119"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 5,
+      "target": 6,
       "value": 0,
-      "region": "45119"
+      "region": "45168"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "45168"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "45168"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45168"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "45168"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "45168"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "45115"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "45115"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "45115"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45115"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "45115"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "45115"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "45121"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "45121"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "45121"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45121"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "45121"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "45121"
     }
   ],
   "priceLinks": []

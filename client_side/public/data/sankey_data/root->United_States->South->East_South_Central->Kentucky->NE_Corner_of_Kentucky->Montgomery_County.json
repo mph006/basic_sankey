@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->NE_Corner_of_Kentucky->Montgomery_County",
+  "nodes": [
+    {
+      "name": "40337"
+    },
+    {
+      "name": "40353"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "40353"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "40353"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "40353"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "40353"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "40353"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "40353"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "40337"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "40337"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "40337"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "40337"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "40337"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "40337"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->SE_Corner_of_Michigan->Manistee_County",
+  "nodes": [
+    {
+      "name": "49614"
+    },
+    {
+      "name": "49626"
+    },
+    {
+      "name": "49634"
+    },
+    {
+      "name": "49645"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "49614"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "49614"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "49614"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "49614"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "49614"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "49614"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "49626"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "49626"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "49626"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "49626"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "49626"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "49626"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "49634"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "49634"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "49634"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "49634"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "49634"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "49634"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "49645"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "49645"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "49645"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "49645"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "49645"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "49645"
+    }
+  ],
+  "priceLinks": []
+}

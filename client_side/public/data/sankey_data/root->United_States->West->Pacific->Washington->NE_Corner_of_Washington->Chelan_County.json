@@ -1,0 +1,371 @@
+{
+  "keyPath": "root->United_States->West->Pacific->Washington->NE_Corner_of_Washington->Chelan_County",
+  "nodes": [
+    {
+      "name": "98801"
+    },
+    {
+      "name": "98815"
+    },
+    {
+      "name": "98816"
+    },
+    {
+      "name": "98817"
+    },
+    {
+      "name": "98822"
+    },
+    {
+      "name": "98828"
+    },
+    {
+      "name": "98831"
+    },
+    {
+      "name": "98847"
+    },
+    {
+      "name": "98852"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 9,
+      "value": 0,
+      "region": "98801"
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 1,
+      "region": "98801"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "98801"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "98801"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "98801"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "98801"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 0,
+      "region": "98822"
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "value": 1,
+      "region": "98822"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "98822"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "98822"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "98822"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "98822"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 0,
+      "region": "98815"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "value": 1,
+      "region": "98815"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "98815"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "98815"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "98815"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "98815"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 0,
+      "region": "98816"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "value": 1,
+      "region": "98816"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "98816"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "98816"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "98816"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "98816"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 0,
+      "region": "98817"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "value": 1,
+      "region": "98817"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "98817"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "98817"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "98817"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "98817"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 0,
+      "region": "98828"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 1,
+      "region": "98828"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "98828"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "98828"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "98828"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "98828"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 0,
+      "region": "98831"
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 1,
+      "region": "98831"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "98831"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "98831"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "98831"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "98831"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 0,
+      "region": "98847"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "value": 1,
+      "region": "98847"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "98847"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "98847"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "98847"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "98847"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "98852"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "value": 1,
+      "region": "98852"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "98852"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "98852"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "98852"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "98852"
+    }
+  ],
+  "priceLinks": []
+}

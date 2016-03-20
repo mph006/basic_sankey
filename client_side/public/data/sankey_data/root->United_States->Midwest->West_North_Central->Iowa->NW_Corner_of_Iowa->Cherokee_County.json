@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->NW_Corner_of_Iowa->Cherokee_County",
   "nodes": [
     {
-      "name": "51037"
+      "name": "51029"
+    },
+    {
+      "name": "51035"
+    },
+    {
+      "name": "51049"
+    },
+    {
+      "name": "51061"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +29,147 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "51037"
+      "region": "51029"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
       "value": 1,
-      "region": "51037"
+      "region": "51029"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "51037"
+      "region": "51029"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "51029"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "51029"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "51029"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "51035"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "51035"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "51035"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "51035"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "51035"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "51035"
     },
     {
       "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "51037"
+      "target": 4,
+      "value": 0,
+      "region": "51049"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 2,
+      "target": 5,
       "value": 1,
-      "region": "51037"
+      "region": "51049"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "51049"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "51049"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "51049"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "51049"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "51037"
+      "region": "51061"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "51061"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "51061"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "51061"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "51061"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "51061"
     }
   ],
   "priceLinks": []

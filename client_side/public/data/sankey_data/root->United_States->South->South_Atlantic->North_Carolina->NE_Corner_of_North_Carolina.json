@@ -17,7 +17,13 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Dare County"
+      "name": "Durham County"
+    },
+    {
+      "name": "Currituck County"
+    },
+    {
+      "name": "Harnett County"
     },
     {
       "name": "Pitt County"
@@ -26,152 +32,329 @@
       "name": "Guilford County"
     },
     {
+      "name": "Alamance County"
+    },
+    {
+      "name": "Rockingham County"
+    },
+    {
+      "name": "Wilson County"
+    },
+    {
+      "name": "Edgecombe County"
+    },
+    {
+      "name": "Northampton County"
+    },
+    {
+      "name": "Dare County"
+    },
+    {
       "name": "Martin County"
     },
     {
-      "name": "Currituck County"
+      "name": "Chatham County"
     },
     {
-      "name": "Caswell County"
+      "name": "Wayne County"
     },
     {
       "name": "Orange County"
     },
     {
+      "name": "Beaufort County"
+    },
+    {
+      "name": "Nash County"
+    },
+    {
+      "name": "Randolph County"
+    },
+    {
       "name": "Halifax County"
+    },
+    {
+      "name": "Franklin County"
+    },
+    {
+      "name": "Johnston County"
+    },
+    {
+      "name": "Lee County"
+    },
+    {
+      "name": "Warren County"
+    },
+    {
+      "name": "Hertford County"
+    },
+    {
+      "name": "Lenoir County"
+    },
+    {
+      "name": "Person County"
+    },
+    {
+      "name": "Caswell County"
+    },
+    {
+      "name": "Vance County"
+    },
+    {
+      "name": "Granville County"
+    },
+    {
+      "name": "Moore County"
+    },
+    {
+      "name": "Bertie County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Perquimans County"
+    },
+    {
+      "name": "Gates County"
+    },
+    {
+      "name": "Pamlico County"
+    },
+    {
+      "name": "Greene County"
+    },
+    {
+      "name": "Pasquotank County"
+    },
+    {
+      "name": "Hyde County"
+    },
+    {
+      "name": "Chowan County"
+    },
+    {
+      "name": "Washington County"
+    },
+    {
+      "name": "Tyrrell County"
+    },
+    {
+      "name": "Craven County"
+    },
+    {
+      "name": "Cumberland County"
+    },
+    {
+      "name": "Camden County"
+    },
+    {
+      "name": "Sampson County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
+      "value": 3,
       "region": "Wake County"
     },
     {
       "source": 0,
       "target": 2,
+      "value": 36,
+      "region": "Wake County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "Wake County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 32,
+      "region": "Wake County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 7,
+      "region": "Wake County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 25,
+      "region": "Wake County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "Durham County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 11,
+      "region": "Durham County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Durham County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Durham County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Durham County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 10,
+      "region": "Durham County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 3,
+      "region": "Currituck County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 8,
+      "region": "Currituck County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Currituck County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Currituck County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Currituck County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Currituck County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Harnett County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 9,
+      "region": "Harnett County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Harnett County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Harnett County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Harnett County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Harnett County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1,
+      "region": "Pitt County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 8,
+      "region": "Pitt County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pitt County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Pitt County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pitt County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Pitt County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Guilford County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 10,
+      "region": "Guilford County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 2,
-      "region": "Wake County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "Wake County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Wake County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "Wake County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "Wake County"
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 1,
-      "region": "Dare County"
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 0,
-      "region": "Dare County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Dare County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "Dare County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Dare County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "Dare County"
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 1,
-      "region": "Pitt County"
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 1,
-      "region": "Pitt County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Pitt County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Pitt County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Pitt County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "Pitt County"
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0,
-      "region": "Guilford County"
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 1,
-      "region": "Guilford County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
       "region": "Guilford County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 8,
       "region": "Guilford County"
     },
     {
@@ -183,163 +366,487 @@
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 8,
       "region": "Guilford County"
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0,
-      "region": "Martin County"
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 1,
-      "region": "Martin County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Martin County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Martin County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Martin County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "Martin County"
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 0,
-      "region": "Currituck County"
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 1,
-      "region": "Currituck County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Currituck County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Currituck County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Currituck County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "Currituck County"
     },
     {
       "source": 10,
       "target": 1,
       "value": 0,
-      "region": "Caswell County"
+      "region": "Alamance County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 1,
-      "region": "Caswell County"
+      "value": 9,
+      "region": "Alamance County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Caswell County"
+      "value": 1,
+      "region": "Alamance County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Caswell County"
+      "value": 8,
+      "region": "Alamance County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 1,
-      "region": "Caswell County"
+      "region": "Alamance County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Caswell County"
+      "value": 7,
+      "region": "Alamance County"
     },
     {
       "source": 11,
       "target": 1,
       "value": 0,
-      "region": "Orange County"
+      "region": "Rockingham County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 1,
-      "region": "Orange County"
+      "value": 7,
+      "region": "Rockingham County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Orange County"
+      "value": 1,
+      "region": "Rockingham County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Orange County"
+      "value": 6,
+      "region": "Rockingham County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 1,
-      "region": "Orange County"
+      "region": "Rockingham County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Orange County"
+      "value": 5,
+      "region": "Rockingham County"
     },
     {
       "source": 12,
       "target": 1,
-      "value": 0,
-      "region": "Halifax County"
+      "value": 1,
+      "region": "Wilson County"
     },
     {
       "source": 12,
       "target": 2,
+      "value": 7,
+      "region": "Wilson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wilson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Wilson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Wilson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Wilson County"
+    },
+    {
+      "source": 13,
+      "target": 1,
       "value": 1,
+      "region": "Edgecombe County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 5,
+      "region": "Edgecombe County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Edgecombe County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Edgecombe County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Edgecombe County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Edgecombe County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 1,
+      "region": "Northampton County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 8,
+      "region": "Northampton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Northampton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Northampton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Northampton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Northampton County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Dare County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 8,
+      "region": "Dare County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Dare County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Dare County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Dare County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Dare County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Martin County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 6,
+      "region": "Martin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Martin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Martin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Martin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Martin County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Chatham County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 7,
+      "region": "Chatham County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Chatham County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Chatham County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Chatham County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Chatham County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 6,
+      "region": "Wayne County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Wayne County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Wayne County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Wayne County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 1,
+      "region": "Orange County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 4,
+      "region": "Orange County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Orange County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Orange County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Orange County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Orange County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Beaufort County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 7,
+      "region": "Beaufort County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Beaufort County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Beaufort County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Beaufort County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Beaufort County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Nash County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 5,
+      "region": "Nash County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Nash County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Nash County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Nash County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Nash County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 1,
+      "region": "Randolph County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 4,
+      "region": "Randolph County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Randolph County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Randolph County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Randolph County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Randolph County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Halifax County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 5,
       "region": "Halifax County"
     },
     {
@@ -351,7 +858,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 5,
       "region": "Halifax County"
     },
     {
@@ -363,8 +870,944 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 4,
       "region": "Halifax County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Franklin County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 4,
+      "region": "Franklin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Franklin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Franklin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Franklin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Franklin County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 0,
+      "region": "Johnston County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 7,
+      "region": "Johnston County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Johnston County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Johnston County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Johnston County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Johnston County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 4,
+      "region": "Lee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Lee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Lee County"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 0,
+      "region": "Warren County"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 5,
+      "region": "Warren County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Warren County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Warren County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Warren County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Warren County"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 0,
+      "region": "Hertford County"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 5,
+      "region": "Hertford County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hertford County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Hertford County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Hertford County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Hertford County"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "value": 0,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 29,
+      "target": 2,
+      "value": 5,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "value": 0,
+      "region": "Person County"
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "value": 4,
+      "region": "Person County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Person County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Person County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Person County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Person County"
+    },
+    {
+      "source": 31,
+      "target": 1,
+      "value": 0,
+      "region": "Caswell County"
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "value": 3,
+      "region": "Caswell County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Caswell County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Caswell County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Caswell County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Caswell County"
+    },
+    {
+      "source": 32,
+      "target": 1,
+      "value": 0,
+      "region": "Vance County"
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "value": 3,
+      "region": "Vance County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Vance County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Vance County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Vance County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Vance County"
+    },
+    {
+      "source": 33,
+      "target": 1,
+      "value": 2,
+      "region": "Granville County"
+    },
+    {
+      "source": 33,
+      "target": 2,
+      "value": 2,
+      "region": "Granville County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Granville County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Granville County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Granville County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Granville County"
+    },
+    {
+      "source": 34,
+      "target": 1,
+      "value": 0,
+      "region": "Moore County"
+    },
+    {
+      "source": 34,
+      "target": 2,
+      "value": 4,
+      "region": "Moore County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Moore County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Moore County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Moore County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Moore County"
+    },
+    {
+      "source": 35,
+      "target": 1,
+      "value": 0,
+      "region": "Bertie County"
+    },
+    {
+      "source": 35,
+      "target": 2,
+      "value": 3,
+      "region": "Bertie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Bertie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Bertie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Bertie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Bertie County"
+    },
+    {
+      "source": 36,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 36,
+      "target": 2,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 37,
+      "target": 1,
+      "value": 0,
+      "region": "Perquimans County"
+    },
+    {
+      "source": 37,
+      "target": 2,
+      "value": 2,
+      "region": "Perquimans County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Perquimans County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Perquimans County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Perquimans County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Perquimans County"
+    },
+    {
+      "source": 38,
+      "target": 1,
+      "value": 0,
+      "region": "Gates County"
+    },
+    {
+      "source": 38,
+      "target": 2,
+      "value": 3,
+      "region": "Gates County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Gates County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Gates County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Gates County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Gates County"
+    },
+    {
+      "source": 39,
+      "target": 1,
+      "value": 0,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 39,
+      "target": 2,
+      "value": 1,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 40,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 40,
+      "target": 2,
+      "value": 2,
+      "region": "Greene County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Greene County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Greene County"
+    },
+    {
+      "source": 41,
+      "target": 1,
+      "value": 0,
+      "region": "Pasquotank County"
+    },
+    {
+      "source": 41,
+      "target": 2,
+      "value": 2,
+      "region": "Pasquotank County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pasquotank County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Pasquotank County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pasquotank County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Pasquotank County"
+    },
+    {
+      "source": 42,
+      "target": 1,
+      "value": 0,
+      "region": "Hyde County"
+    },
+    {
+      "source": 42,
+      "target": 2,
+      "value": 2,
+      "region": "Hyde County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Hyde County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Hyde County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hyde County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Hyde County"
+    },
+    {
+      "source": 43,
+      "target": 1,
+      "value": 0,
+      "region": "Chowan County"
+    },
+    {
+      "source": 43,
+      "target": 2,
+      "value": 1,
+      "region": "Chowan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Chowan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Chowan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Chowan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Chowan County"
+    },
+    {
+      "source": 44,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 44,
+      "target": 2,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 45,
+      "target": 1,
+      "value": 0,
+      "region": "Tyrrell County"
+    },
+    {
+      "source": 45,
+      "target": 2,
+      "value": 1,
+      "region": "Tyrrell County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Tyrrell County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Tyrrell County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tyrrell County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Tyrrell County"
+    },
+    {
+      "source": 46,
+      "target": 1,
+      "value": 0,
+      "region": "Craven County"
+    },
+    {
+      "source": 46,
+      "target": 2,
+      "value": 1,
+      "region": "Craven County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Craven County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Craven County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Craven County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Craven County"
+    },
+    {
+      "source": 47,
+      "target": 1,
+      "value": 0,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 47,
+      "target": 2,
+      "value": 1,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 48,
+      "target": 1,
+      "value": 0,
+      "region": "Camden County"
+    },
+    {
+      "source": 48,
+      "target": 2,
+      "value": 1,
+      "region": "Camden County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Camden County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Camden County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Camden County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Camden County"
+    },
+    {
+      "source": 49,
+      "target": 1,
+      "value": 0,
+      "region": "Sampson County"
+    },
+    {
+      "source": 49,
+      "target": 2,
+      "value": 1,
+      "region": "Sampson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sampson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Sampson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Sampson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Sampson County"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->NW_Corner_of_Wisconsin->Pierce_County",
+  "nodes": [
+    {
+      "name": "54010"
+    },
+    {
+      "name": "54011"
+    },
+    {
+      "name": "54021"
+    },
+    {
+      "name": "54022"
+    },
+    {
+      "name": "54767"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "54022"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "54022"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54022"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54022"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54022"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54022"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "54767"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "54767"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54767"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54767"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54767"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54767"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "54010"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "54010"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54010"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54010"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54010"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54010"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "54011"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "54011"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54011"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54011"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54011"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54011"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "54021"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "54021"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54021"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54021"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54021"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54021"
+    }
+  ],
+  "priceLinks": []
+}

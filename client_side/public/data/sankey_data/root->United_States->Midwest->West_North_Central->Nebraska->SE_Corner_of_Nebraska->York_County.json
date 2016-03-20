@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Nebraska->SE_Corner_of_Nebraska->York_County",
+  "nodes": [
+    {
+      "name": "68316"
+    },
+    {
+      "name": "68319"
+    },
+    {
+      "name": "68371"
+    },
+    {
+      "name": "68401"
+    },
+    {
+      "name": "68460"
+    },
+    {
+      "name": "68467"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "68460"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "68460"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "68460"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68460"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "68460"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "68460"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "68401"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "68401"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "68401"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "68401"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "68401"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "68401"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "68316"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "68316"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "68316"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68316"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "68316"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "68316"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "68371"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "68371"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "68371"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68371"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "68371"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "68371"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "68319"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "68319"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "68319"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68319"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "68319"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "68319"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "68467"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "68467"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "68467"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68467"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "68467"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "68467"
+    }
+  ],
+  "priceLinks": []
+}

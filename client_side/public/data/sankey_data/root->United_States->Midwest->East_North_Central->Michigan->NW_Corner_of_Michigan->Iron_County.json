@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->NW_Corner_of_Michigan->Iron_County",
+  "nodes": [
+    {
+      "name": "49902"
+    },
+    {
+      "name": "49903"
+    },
+    {
+      "name": "49915"
+    },
+    {
+      "name": "49920"
+    },
+    {
+      "name": "49927"
+    },
+    {
+      "name": "49935"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "49902"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "49902"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49902"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49902"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49902"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "49902"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "49915"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "49915"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49915"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49915"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49915"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "49915"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "49920"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "49920"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49920"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49920"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "49920"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "49920"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "49927"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "49927"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49927"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49927"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "49927"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "49927"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "49903"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "49903"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49903"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49903"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49903"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "49903"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "49935"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "49935"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49935"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49935"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49935"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "49935"
+    }
+  ],
+  "priceLinks": []
+}

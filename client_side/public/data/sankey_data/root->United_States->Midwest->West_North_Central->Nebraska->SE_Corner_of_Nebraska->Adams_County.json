@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Nebraska->SE_Corner_of_Nebraska->Adams_County",
   "nodes": [
     {
+      "name": "68902"
+    },
+    {
       "name": "68950"
+    },
+    {
+      "name": "68955"
+    },
+    {
+      "name": "68956"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +28,148 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 3,
+      "target": 4,
       "value": 0,
-      "region": "68950"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "68950"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "68950"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "68950"
+      "region": "68956"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "68950"
+      "target": 5,
+      "value": 1,
+      "region": "68956"
     },
     {
-      "source": 3,
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "68956"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "68956"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "68956"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68956"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "68902"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "68902"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "68902"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "68902"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "68902"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68902"
+    },
+    {
+      "source": 1,
       "target": 4,
       "value": 1,
       "region": "68950"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "68950"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "68950"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "68950"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "68950"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "68950"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "68955"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "68955"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "68955"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "68955"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "68955"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68955"
     }
   ],
   "priceLinks": []

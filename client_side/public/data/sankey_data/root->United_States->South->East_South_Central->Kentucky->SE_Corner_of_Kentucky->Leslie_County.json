@@ -2,7 +2,28 @@
   "keyPath": "root->United_States->South->East_South_Central->Kentucky->SE_Corner_of_Kentucky->Leslie_County",
   "nodes": [
     {
-      "name": "40803"
+      "name": "40827"
+    },
+    {
+      "name": "40840"
+    },
+    {
+      "name": "40979"
+    },
+    {
+      "name": "41714"
+    },
+    {
+      "name": "41749"
+    },
+    {
+      "name": "41762"
+    },
+    {
+      "name": "41766"
+    },
+    {
+      "name": "41777"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +41,291 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 1,
-      "region": "40803"
+      "target": 8,
+      "value": 0,
+      "region": "40827"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 9,
+      "value": 1,
+      "region": "40827"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 1,
+      "region": "40827"
+    },
+    {
+      "source": 9,
+      "target": 10,
       "value": 0,
-      "region": "40803"
+      "region": "40827"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "40827"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "40827"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 0,
+      "region": "40840"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 1,
+      "region": "40840"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "40840"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40840"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "40840"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "40840"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "41749"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 1,
+      "region": "41749"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "41749"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "41749"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "41749"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "41749"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 8,
       "value": 0,
-      "region": "40803"
+      "region": "40979"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 9,
+      "value": 1,
+      "region": "40979"
+    },
+    {
+      "source": 9,
+      "target": 8,
       "value": 0,
-      "region": "40803"
+      "region": "40979"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40979"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "40979"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "40979"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "40803"
+      "target": 8,
+      "value": 1,
+      "region": "41714"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 9,
       "value": 0,
-      "region": "40803"
+      "region": "41714"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "41714"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "41714"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "41714"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "41714"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "41762"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 1,
+      "region": "41762"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "41762"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "41762"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "41762"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "41762"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 0,
+      "region": "41766"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 1,
+      "region": "41766"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "41766"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "41766"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "41766"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "41766"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "41777"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 1,
+      "region": "41777"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "41777"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "41777"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "41777"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "41777"
     }
   ],
   "priceLinks": []

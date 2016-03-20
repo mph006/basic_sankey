@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->NE_Corner_of_Kansas->Pottawatomie_County",
+  "nodes": [
+    {
+      "name": "66407"
+    },
+    {
+      "name": "66426"
+    },
+    {
+      "name": "66432"
+    },
+    {
+      "name": "66536"
+    },
+    {
+      "name": "66549"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "66407"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "66407"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "66407"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "66407"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66407"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "66407"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "66432"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "66432"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66432"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66432"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66432"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66432"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "66426"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "66426"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66426"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66426"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66426"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66426"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "66536"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "66536"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66536"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66536"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66536"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66536"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "66549"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "66549"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66549"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66549"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66549"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66549"
+    }
+  ],
+  "priceLinks": []
+}

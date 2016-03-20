@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Louisiana->NW_Corner_of_Louisiana->Avoyelles_Parish",
+  "nodes": [
+    {
+      "name": "71320"
+    },
+    {
+      "name": "71323"
+    },
+    {
+      "name": "71331"
+    },
+    {
+      "name": "71351"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "71331"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "71331"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "71331"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "71331"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "71331"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "71331"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "71320"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "71320"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "71320"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "71320"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "71320"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "71320"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "71323"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "71323"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "71323"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "71323"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "71323"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "71323"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "71351"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "71351"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "71351"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "71351"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "71351"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "71351"
+    }
+  ],
+  "priceLinks": []
+}

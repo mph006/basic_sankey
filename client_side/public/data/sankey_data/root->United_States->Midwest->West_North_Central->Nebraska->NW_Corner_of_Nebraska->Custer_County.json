@@ -1,0 +1,59 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Nebraska->NW_Corner_of_Nebraska->Custer_County",
+  "nodes": [
+    {
+      "name": "68813"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "68813"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "68813"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "68813"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "68813"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "68813"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "68813"
+    }
+  ],
+  "priceLinks": []
+}

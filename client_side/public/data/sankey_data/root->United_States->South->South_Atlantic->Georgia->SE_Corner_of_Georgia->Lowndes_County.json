@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Georgia->SE_Corner_of_Georgia->Lowndes_County",
+  "nodes": [
+    {
+      "name": "31636"
+    },
+    {
+      "name": "31641"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "31636"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "31636"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "31636"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "31636"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "31636"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "31636"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "31641"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "31641"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "31641"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "31641"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "31641"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "31641"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Utah->NE_Corner_of_Utah->Rich_County",
+  "nodes": [
+    {
+      "name": "84028"
+    },
+    {
+      "name": "84038"
+    },
+    {
+      "name": "84064"
+    },
+    {
+      "name": "84086"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "84038"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "84038"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "84038"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "84038"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "84038"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "84038"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "84064"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "84064"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "84064"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "84064"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "84064"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "84064"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "84028"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "84028"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "84028"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "84028"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "84028"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "84028"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "84086"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "84086"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "84086"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "84086"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "84086"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "84086"
+    }
+  ],
+  "priceLinks": []
+}

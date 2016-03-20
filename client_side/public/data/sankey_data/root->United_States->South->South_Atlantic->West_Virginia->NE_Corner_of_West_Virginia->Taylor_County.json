@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->NE_Corner_of_West_Virginia->Taylor_County",
+  "nodes": [
+    {
+      "name": "26347"
+    },
+    {
+      "name": "26354"
+    },
+    {
+      "name": "26424"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "26347"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "26347"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "26347"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "26347"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "26347"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "26347"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "26354"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "26354"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "26354"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "26354"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "26354"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "26354"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "26424"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "26424"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "26424"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "26424"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "26424"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "26424"
+    }
+  ],
+  "priceLinks": []
+}

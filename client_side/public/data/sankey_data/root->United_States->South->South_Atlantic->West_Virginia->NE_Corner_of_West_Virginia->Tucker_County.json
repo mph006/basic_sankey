@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->NE_Corner_of_West_Virginia->Tucker_County",
+  "nodes": [
+    {
+      "name": "26269"
+    },
+    {
+      "name": "26271"
+    },
+    {
+      "name": "26283"
+    },
+    {
+      "name": "26287"
+    },
+    {
+      "name": "26289"
+    },
+    {
+      "name": "26292"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "26271"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "26271"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26271"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26271"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "26271"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "26271"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "26283"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "26283"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26283"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26283"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "26283"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "26283"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "26289"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "26289"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "26289"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "26289"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "26289"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "26289"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "26269"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "26269"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26269"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26269"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "26269"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "26269"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "26287"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "26287"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26287"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26287"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "26287"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "26287"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "26292"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "26292"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26292"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26292"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "26292"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "26292"
+    }
+  ],
+  "priceLinks": []
+}

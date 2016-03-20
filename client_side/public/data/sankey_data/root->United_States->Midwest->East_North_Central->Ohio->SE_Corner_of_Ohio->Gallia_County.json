@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->SE_Corner_of_Ohio->Gallia_County",
+  "nodes": [
+    {
+      "name": "45614"
+    },
+    {
+      "name": "45620"
+    },
+    {
+      "name": "45623"
+    },
+    {
+      "name": "45643"
+    },
+    {
+      "name": "45658"
+    },
+    {
+      "name": "45674"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "45614"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "45614"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "45614"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45614"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "45614"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "45614"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "45658"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "45658"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "45658"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45658"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "45658"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "45658"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "45674"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "45674"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "45674"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45674"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "45674"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "45674"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "45620"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "45620"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "45620"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45620"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "45620"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "45620"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "45623"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "45623"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "45623"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45623"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "45623"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "45623"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "45643"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "45643"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "45643"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45643"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "45643"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "45643"
+    }
+  ],
+  "priceLinks": []
+}

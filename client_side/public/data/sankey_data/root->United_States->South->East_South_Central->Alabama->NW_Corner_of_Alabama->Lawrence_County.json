@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->South->East_South_Central->Alabama->NW_Corner_of_Alabama->Lawrence_County",
   "nodes": [
     {
-      "name": "35650"
+      "name": "35619"
+    },
+    {
+      "name": "35643"
+    },
+    {
+      "name": "35651"
+    },
+    {
+      "name": "35673"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +29,147 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "35650"
+      "region": "35619"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
       "value": 1,
-      "region": "35650"
+      "region": "35619"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "35650"
+      "region": "35619"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "35619"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "35619"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "35619"
     },
     {
       "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "35650"
+      "target": 4,
+      "value": 0,
+      "region": "35651"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 2,
+      "target": 5,
       "value": 1,
-      "region": "35650"
+      "region": "35651"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "35651"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "35651"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "35651"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "35651"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "35650"
+      "region": "35673"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "35673"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "35673"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "35673"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "35673"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "35673"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "35643"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "35643"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "35643"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "35643"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "35643"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "35643"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Puerto_Rico->NE_Corner_of_Puerto_Rico->Bayam�_n",
+  "nodes": [
+    {
+      "name": "00959"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "00956"
+    },
+    {
+      "name": "00957"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1,
+      "region": "00959"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "00959"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00959"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "00959"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "00959"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "00959"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1,
+      "region": "00956"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 0,
+      "region": "00956"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00956"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "00956"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "00956"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "00956"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "00957"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "00957"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00957"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "00957"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "00957"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "00957"
+    }
+  ],
+  "priceLinks": []
+}

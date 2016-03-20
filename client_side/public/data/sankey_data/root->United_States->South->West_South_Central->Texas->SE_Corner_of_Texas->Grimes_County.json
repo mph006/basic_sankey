@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->SE_Corner_of_Texas->Grimes_County",
+  "nodes": [
+    {
+      "name": "77363"
+    },
+    {
+      "name": "77830"
+    },
+    {
+      "name": "77831"
+    },
+    {
+      "name": "77861"
+    },
+    {
+      "name": "77869"
+    },
+    {
+      "name": "77873"
+    },
+    {
+      "name": "77875"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "77830"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "77830"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "77830"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "77830"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "77830"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "77830"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "77873"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "77873"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "77873"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "77873"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "77873"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "77873"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "77831"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "77831"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "77831"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "77831"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "77831"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "77831"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "77869"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "77869"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "77869"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "77869"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "77869"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "77869"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "77875"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "77875"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "77875"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "77875"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "77875"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "77875"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "77363"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "77363"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "77363"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "77363"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "77363"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "77363"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "77861"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "77861"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "77861"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "77861"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "77861"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "77861"
+    }
+  ],
+  "priceLinks": []
+}

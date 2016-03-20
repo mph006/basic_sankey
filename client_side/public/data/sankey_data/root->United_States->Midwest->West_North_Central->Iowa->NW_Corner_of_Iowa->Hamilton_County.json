@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->NW_Corner_of_Iowa->Hamilton_County",
+  "nodes": [
+    {
+      "name": "50034"
+    },
+    {
+      "name": "50075"
+    },
+    {
+      "name": "50130"
+    },
+    {
+      "name": "50132"
+    },
+    {
+      "name": "50231"
+    },
+    {
+      "name": "50249"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "50034"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "50034"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "50034"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "50034"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "50034"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "50034"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "50130"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "50130"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "50130"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "50130"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "50130"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "50130"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "50132"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "50132"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "50132"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "50132"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "50132"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "50132"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "50075"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "50075"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "50075"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "50075"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "50075"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "50075"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "50231"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "50231"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "50231"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "50231"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "50231"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "50231"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "50249"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "50249"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "50249"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "50249"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "50249"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "50249"
+    }
+  ],
+  "priceLinks": []
+}

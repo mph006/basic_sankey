@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->SE_Corner_of_Wisconsin->Ozaukee_County",
   "nodes": [
     {
+      "name": "53004"
+    },
+    {
+      "name": "53024"
+    },
+    {
       "name": "53074"
+    },
+    {
+      "name": "53092"
+    },
+    {
+      "name": "53097"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +32,183 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "53074"
+      "region": "53004"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
       "value": 1,
+      "region": "53004"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "53004"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "53004"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53004"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "53004"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
       "region": "53074"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 6,
       "value": 1,
       "region": "53074"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "53074"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53074"
+    },
+    {
+      "source": 7,
+      "target": 5,
       "value": 0,
       "region": "53074"
     },
     {
-      "source": 3,
-      "target": 4,
-      "value": 0,
+      "source": 7,
+      "target": 8,
+      "value": 1,
       "region": "53074"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "53092"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "53092"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53092"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53092"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53092"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53092"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "53024"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "53024"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53024"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53024"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53024"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53024"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "53097"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "53097"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53097"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53097"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53097"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53097"
     }
   ],
   "priceLinks": []

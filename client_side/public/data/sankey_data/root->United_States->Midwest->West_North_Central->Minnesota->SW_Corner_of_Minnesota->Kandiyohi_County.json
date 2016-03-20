@@ -2,7 +2,31 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SW_Corner_of_Minnesota->Kandiyohi_County",
   "nodes": [
     {
+      "name": "56201"
+    },
+    {
+      "name": "56216"
+    },
+    {
+      "name": "56251"
+    },
+    {
       "name": "56253"
+    },
+    {
+      "name": "56273"
+    },
+    {
+      "name": "56281"
+    },
+    {
+      "name": "56282"
+    },
+    {
+      "name": "56288"
+    },
+    {
+      "name": "56289"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +43,328 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 3,
+      "target": 9,
       "value": 0,
-      "region": "56253"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "56253"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "56253"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
       "region": "56253"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 10,
       "value": 1,
       "region": "56253"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 10,
+      "target": 9,
       "value": 0,
       "region": "56253"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56253"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56253"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56253"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 0,
+      "region": "56281"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 1,
+      "region": "56281"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56281"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56281"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56281"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56281"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 0,
+      "region": "56273"
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "value": 1,
+      "region": "56273"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56273"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56273"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "56273"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "56273"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 0,
+      "region": "56282"
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 1,
+      "region": "56282"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56282"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56282"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56282"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56282"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "56289"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "value": 1,
+      "region": "56289"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56289"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56289"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56289"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56289"
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 0,
+      "region": "56201"
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 1,
+      "region": "56201"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56201"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56201"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "56201"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "56201"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 0,
+      "region": "56216"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "value": 1,
+      "region": "56216"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56216"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56216"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56216"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56216"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 0,
+      "region": "56251"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "value": 1,
+      "region": "56251"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56251"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56251"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56251"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56251"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 0,
+      "region": "56288"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "value": 1,
+      "region": "56288"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56288"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56288"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "56288"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "56288"
     }
   ],
   "priceLinks": []

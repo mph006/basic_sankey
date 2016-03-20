@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->U.S._Virgin_Islands->SE_Corner_of_U.S._Virgin_Islands->Unknown_County",
+  "nodes": [
+    {
+      "name": "00850"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "00823"
+    },
+    {
+      "name": "00820"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "00850"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "00850"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00850"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "00850"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "00850"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "00850"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "00823"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "00823"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00823"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "00823"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "00823"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "00823"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "00820"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "00820"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "00820"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "00820"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "00820"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "00820"
+    }
+  ],
+  "priceLinks": []
+}

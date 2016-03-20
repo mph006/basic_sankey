@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Tennessee->NE_Corner_of_Tennessee->Grainger_County",
+  "nodes": [
+    {
+      "name": "37708"
+    },
+    {
+      "name": "37709"
+    },
+    {
+      "name": "37848"
+    },
+    {
+      "name": "37861"
+    },
+    {
+      "name": "37888"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "37848"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "37848"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "37848"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "37848"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "37848"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "37848"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "37861"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "37861"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "37861"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "37861"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "37861"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "37861"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "37888"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "37888"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "37888"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "37888"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "37888"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "37888"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "37708"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "37708"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "37708"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "37708"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "37708"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "37708"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "37709"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "37709"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "37709"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "37709"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "37709"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "37709"
+    }
+  ],
+  "priceLinks": []
+}

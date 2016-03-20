@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->NW_Corner_of_Ohio",
   "nodes": [
     {
-      "name": "Logan County"
+      "name": "Lucas County"
     },
     {
       "name": "Dropped_Out"
@@ -17,182 +17,827 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Marion County"
+      "name": "Wood County"
     },
     {
-      "name": "Allen County"
+      "name": "Putnam County"
     },
     {
-      "name": "Williams County"
-    },
-    {
-      "name": "Mercer County"
-    },
-    {
-      "name": "Lucas County"
+      "name": "Unknown County"
     },
     {
       "name": "Seneca County"
     },
     {
+      "name": "Ottawa County"
+    },
+    {
+      "name": "Allen County"
+    },
+    {
+      "name": "Van Wert County"
+    },
+    {
+      "name": "Auglaize County"
+    },
+    {
+      "name": "Henry County"
+    },
+    {
+      "name": "Paulding County"
+    },
+    {
+      "name": "Hancock County"
+    },
+    {
       "name": "Wyandot County"
+    },
+    {
+      "name": "Crawford County"
+    },
+    {
+      "name": "Shelby County"
+    },
+    {
+      "name": "Logan County"
+    },
+    {
+      "name": "Fulton County"
+    },
+    {
+      "name": "Defiance County"
+    },
+    {
+      "name": "Williams County"
+    },
+    {
+      "name": "Marion County"
+    },
+    {
+      "name": "Mercer County"
+    },
+    {
+      "name": "Hardin County"
+    },
+    {
+      "name": "Union County"
+    },
+    {
+      "name": "Morrow County"
+    },
+    {
+      "name": "Sandusky County"
+    },
+    {
+      "name": "Delaware County"
+    },
+    {
+      "name": "Huron County"
+    },
+    {
+      "name": "Darke County"
+    },
+    {
+      "name": "Erie County"
+    },
+    {
+      "name": "Champaign County"
+    },
+    {
+      "name": "Licking County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Logan County"
+      "value": 5,
+      "region": "Lucas County"
     },
     {
       "source": 0,
       "target": 2,
+      "value": 24,
+      "region": "Lucas County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Lucas County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 22,
+      "region": "Lucas County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 6,
+      "region": "Lucas County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 16,
+      "region": "Lucas County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2,
+      "region": "Wood County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 19,
+      "region": "Wood County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "Wood County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 15,
+      "region": "Wood County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Wood County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 13,
+      "region": "Wood County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Putnam County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 12,
+      "region": "Putnam County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Putnam County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Putnam County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Putnam County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Putnam County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 9,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Unknown County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Seneca County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 9,
+      "region": "Seneca County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Seneca County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Seneca County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Seneca County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Seneca County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 7,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Allen County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 7,
+      "region": "Allen County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Allen County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Allen County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Allen County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Allen County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1,
+      "region": "Van Wert County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 6,
+      "region": "Van Wert County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Van Wert County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Van Wert County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Van Wert County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Van Wert County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1,
+      "region": "Auglaize County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 8,
+      "region": "Auglaize County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Auglaize County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Auglaize County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Auglaize County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Auglaize County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 3,
+      "region": "Henry County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 5,
+      "region": "Henry County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Henry County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Henry County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Henry County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Henry County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Paulding County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 6,
+      "region": "Paulding County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Paulding County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Paulding County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Paulding County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Paulding County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 2,
+      "region": "Hancock County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 6,
+      "region": "Hancock County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Hancock County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Hancock County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Hancock County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Hancock County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Wyandot County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 6,
+      "region": "Wyandot County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Wyandot County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Wyandot County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Wyandot County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Wyandot County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 2,
+      "region": "Crawford County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 4,
+      "region": "Crawford County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Crawford County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Crawford County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Crawford County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Crawford County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Shelby County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 10,
+      "region": "Shelby County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Shelby County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Shelby County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Shelby County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Shelby County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Logan County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 7,
+      "region": "Logan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 2,
       "region": "Logan County"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "Logan County"
-    },
-    {
-      "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 5,
       "region": "Logan County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Logan County"
-    },
-    {
-      "source": 3,
-      "target": 4,
       "value": 0,
       "region": "Logan County"
     },
     {
-      "source": 5,
-      "target": 1,
-      "value": 0,
-      "region": "Marion County"
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Logan County"
     },
     {
-      "source": 5,
-      "target": 2,
+      "source": 20,
+      "target": 1,
       "value": 1,
-      "region": "Marion County"
+      "region": "Fulton County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 6,
+      "region": "Fulton County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Marion County"
+      "value": 0,
+      "region": "Fulton County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Marion County"
+      "value": 6,
+      "region": "Fulton County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Marion County"
+      "region": "Fulton County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Marion County"
+      "value": 6,
+      "region": "Fulton County"
     },
     {
-      "source": 6,
+      "source": 21,
       "target": 1,
       "value": 1,
-      "region": "Allen County"
+      "region": "Defiance County"
     },
     {
-      "source": 6,
+      "source": 21,
       "target": 2,
-      "value": 0,
-      "region": "Allen County"
+      "value": 5,
+      "region": "Defiance County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Allen County"
+      "region": "Defiance County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Allen County"
+      "value": 5,
+      "region": "Defiance County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Allen County"
+      "region": "Defiance County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Allen County"
+      "value": 5,
+      "region": "Defiance County"
     },
     {
-      "source": 7,
+      "source": 22,
       "target": 1,
       "value": 0,
       "region": "Williams County"
     },
     {
-      "source": 7,
+      "source": 22,
       "target": 2,
-      "value": 1,
+      "value": 6,
       "region": "Williams County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Williams County"
-    },
-    {
-      "source": 2,
-      "target": 3,
       "value": 1,
       "region": "Williams County"
     },
     {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Williams County"
+    },
+    {
       "source": 3,
       "target": 1,
-      "value": 1,
+      "value": 0,
       "region": "Williams County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 5,
       "region": "Williams County"
     },
     {
-      "source": 8,
+      "source": 23,
+      "target": 1,
+      "value": 2,
+      "region": "Marion County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 5,
+      "region": "Marion County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Marion County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Marion County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Marion County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Marion County"
+    },
+    {
+      "source": 24,
       "target": 1,
       "value": 0,
       "region": "Mercer County"
     },
     {
-      "source": 8,
+      "source": 24,
       "target": 2,
-      "value": 1,
+      "value": 7,
       "region": "Mercer County"
     },
     {
@@ -204,128 +849,380 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 7,
       "region": "Mercer County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
+      "value": 2,
       "region": "Mercer County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 5,
       "region": "Mercer County"
     },
     {
-      "source": 9,
+      "source": 25,
       "target": 1,
-      "value": 0,
-      "region": "Lucas County"
+      "value": 2,
+      "region": "Hardin County"
     },
     {
-      "source": 9,
+      "source": 25,
       "target": 2,
+      "value": 5,
+      "region": "Hardin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Hardin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Hardin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
       "value": 1,
-      "region": "Lucas County"
+      "region": "Hardin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Hardin County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 0,
+      "region": "Union County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 5,
+      "region": "Union County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Lucas County"
+      "region": "Union County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Union County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Union County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Union County"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 1,
+      "region": "Morrow County"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 5,
+      "region": "Morrow County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Morrow County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Morrow County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Morrow County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Morrow County"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 0,
+      "region": "Sandusky County"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 7,
+      "region": "Sandusky County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sandusky County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Sandusky County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Sandusky County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Sandusky County"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "value": 0,
+      "region": "Delaware County"
+    },
+    {
+      "source": 29,
+      "target": 2,
+      "value": 5,
+      "region": "Delaware County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Delaware County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Delaware County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Delaware County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Delaware County"
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "value": 0,
+      "region": "Huron County"
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "value": 2,
+      "region": "Huron County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Huron County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Huron County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Huron County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Huron County"
+    },
+    {
+      "source": 31,
+      "target": 1,
+      "value": 0,
+      "region": "Darke County"
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "value": 3,
+      "region": "Darke County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Darke County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Darke County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Darke County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Darke County"
+    },
+    {
+      "source": 32,
+      "target": 1,
+      "value": 0,
+      "region": "Erie County"
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "value": 3,
+      "region": "Erie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Erie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Erie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Erie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Erie County"
+    },
+    {
+      "source": 33,
+      "target": 1,
+      "value": 0,
+      "region": "Champaign County"
+    },
+    {
+      "source": 33,
+      "target": 2,
+      "value": 3,
+      "region": "Champaign County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Champaign County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Champaign County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Champaign County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Champaign County"
+    },
+    {
+      "source": 34,
+      "target": 1,
+      "value": 0,
+      "region": "Licking County"
+    },
+    {
+      "source": 34,
+      "target": 2,
+      "value": 1,
+      "region": "Licking County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Licking County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 1,
-      "region": "Lucas County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "Lucas County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "Lucas County"
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 0,
-      "region": "Seneca County"
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 1,
-      "region": "Seneca County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "Seneca County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "Seneca County"
+      "region": "Licking County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Seneca County"
+      "region": "Licking County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Seneca County"
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 0,
-      "region": "Wyandot County"
-    },
-    {
-      "source": 11,
-      "target": 2,
       "value": 1,
-      "region": "Wyandot County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "Wyandot County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "Wyandot County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Wyandot County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "Wyandot County"
+      "region": "Licking County"
     }
   ],
   "priceLinks": []

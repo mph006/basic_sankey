@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->NW_Corner_of_Illinois->Cass_County",
+  "nodes": [
+    {
+      "name": "62612"
+    },
+    {
+      "name": "62618"
+    },
+    {
+      "name": "62622"
+    },
+    {
+      "name": "62627"
+    },
+    {
+      "name": "62691"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "62612"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "62612"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62612"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "62612"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62612"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "62612"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "62622"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "62622"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62622"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62622"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62622"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62622"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "62627"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "62627"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62627"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62627"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "62627"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "62627"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "62691"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "62691"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62691"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62691"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62691"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62691"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "62618"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "62618"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62618"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62618"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62618"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62618"
+    }
+  ],
+  "priceLinks": []
+}

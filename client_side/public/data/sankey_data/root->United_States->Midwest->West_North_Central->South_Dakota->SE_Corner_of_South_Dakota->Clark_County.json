@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->South_Dakota->SE_Corner_of_South_Dakota->Clark_County",
   "nodes": [
     {
+      "name": "57217"
+    },
+    {
+      "name": "57236"
+    },
+    {
+      "name": "57258"
+    },
+    {
       "name": "57271"
+    },
+    {
+      "name": "57278"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 5,
       "value": 0,
-      "region": "57271"
+      "region": "57236"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 6,
       "value": 1,
-      "region": "57271"
+      "region": "57236"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 6,
+      "target": 5,
       "value": 0,
-      "region": "57271"
+      "region": "57236"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 6,
+      "target": 7,
       "value": 1,
+      "region": "57236"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57236"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57236"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
       "region": "57271"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 6,
       "value": 1,
       "region": "57271"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "57271"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57271"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "57271"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "57271"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "57217"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "57217"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57217"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57217"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57217"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57217"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "57258"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "57258"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57258"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57258"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57258"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57258"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "57278"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "57278"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57278"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57278"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57278"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57278"
     }
   ],
   "priceLinks": []

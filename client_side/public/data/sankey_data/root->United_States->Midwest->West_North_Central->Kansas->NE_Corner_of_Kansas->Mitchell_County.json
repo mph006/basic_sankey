@@ -1,0 +1,59 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->NE_Corner_of_Kansas->Mitchell_County",
+  "nodes": [
+    {
+      "name": "67420"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "67420"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "67420"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "67420"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "67420"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "67420"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "67420"
+    }
+  ],
+  "priceLinks": []
+}

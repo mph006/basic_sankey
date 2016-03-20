@@ -2,6 +2,21 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->NW_Corner_of_Ohio->Williams_County",
   "nodes": [
     {
+      "name": "43501"
+    },
+    {
+      "name": "43505"
+    },
+    {
+      "name": "43518"
+    },
+    {
+      "name": "43531"
+    },
+    {
+      "name": "43543"
+    },
+    {
       "name": "43554"
     },
     {
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 6,
       "value": 0,
-      "region": "43554"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "43554"
+      "region": "43518"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 7,
+      "value": 1,
+      "region": "43518"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "43518"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "43518"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "43518"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "43518"
+    },
+    {
+      "source": 5,
+      "target": 6,
       "value": 0,
       "region": "43554"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 5,
+      "target": 7,
       "value": 1,
       "region": "43554"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "43554"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 7,
+      "target": 6,
       "value": 0,
       "region": "43554"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "43554"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "43554"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "43554"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "43501"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "43501"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "43501"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "43501"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "43501"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "43501"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "43505"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "43505"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "43505"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "43505"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "43505"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "43505"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "43531"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "43531"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "43531"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "43531"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "43531"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "43531"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "43543"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "43543"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "43543"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "43543"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "43543"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "43543"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Pacific->Washington->NW_Corner_of_Washington",
   "nodes": [
     {
-      "name": "Kitsap County"
+      "name": "King County"
     },
     {
       "name": "Dropped_Out"
@@ -17,26 +17,164 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "King County"
+      "name": "Snohomish County"
     },
     {
       "name": "Whatcom County"
     },
     {
-      "name": "Snohomish County"
+      "name": "Kitsap County"
+    },
+    {
+      "name": "Clallam County"
+    },
+    {
+      "name": "Skagit County"
+    },
+    {
+      "name": "Jefferson County"
+    },
+    {
+      "name": "Pierce County"
+    },
+    {
+      "name": "Mason County"
+    },
+    {
+      "name": "Island County"
+    },
+    {
+      "name": "San Juan County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Grays Harbor County"
+    },
+    {
+      "name": "Kittitas County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Kitsap County"
+      "value": 9,
+      "region": "King County"
     },
     {
       "source": 0,
       "target": 2,
+      "value": 67,
+      "region": "King County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 14,
+      "region": "King County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 53,
+      "region": "King County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 6,
+      "region": "King County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 47,
+      "region": "King County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2,
+      "region": "Snohomish County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 21,
+      "region": "Snohomish County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Snohomish County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 18,
+      "region": "Snohomish County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "Snohomish County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 14,
+      "region": "Snohomish County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Whatcom County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 15,
+      "region": "Whatcom County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 1,
+      "region": "Whatcom County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 14,
+      "region": "Whatcom County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Whatcom County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 14,
+      "region": "Whatcom County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 2,
+      "region": "Kitsap County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 12,
       "region": "Kitsap County"
     },
     {
@@ -48,7 +186,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 12,
       "region": "Kitsap County"
     },
     {
@@ -60,116 +198,368 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 11,
       "region": "Kitsap County"
     },
     {
-      "source": 5,
+      "source": 8,
       "target": 1,
-      "value": 0,
-      "region": "King County"
+      "value": 2,
+      "region": "Clallam County"
     },
     {
-      "source": 5,
+      "source": 8,
+      "target": 2,
+      "value": 5,
+      "region": "Clallam County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Clallam County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Clallam County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Clallam County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Clallam County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Skagit County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 7,
+      "region": "Skagit County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Skagit County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Skagit County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Skagit County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Skagit County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 7,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1,
+      "region": "Pierce County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 5,
+      "region": "Pierce County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Pierce County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Pierce County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Pierce County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Pierce County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1,
+      "region": "Mason County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 5,
+      "region": "Mason County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Mason County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Mason County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Mason County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Mason County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Island County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 7,
+      "region": "Island County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Island County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Island County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Island County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Island County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 3,
+      "region": "San Juan County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 4,
+      "region": "San Juan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "San Juan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "San Juan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "San Juan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "San Juan County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Grays Harbor County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 3,
+      "region": "Grays Harbor County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Grays Harbor County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Grays Harbor County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Grays Harbor County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Grays Harbor County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Kittitas County"
+    },
+    {
+      "source": 17,
       "target": 2,
       "value": 2,
-      "region": "King County"
+      "region": "Kittitas County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "King County"
+      "value": 0,
+      "region": "Kittitas County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "King County"
+      "value": 2,
+      "region": "Kittitas County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "King County"
+      "value": 1,
+      "region": "Kittitas County"
     },
     {
       "source": 3,
       "target": 4,
       "value": 1,
-      "region": "King County"
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 0,
-      "region": "Whatcom County"
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 1,
-      "region": "Whatcom County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Whatcom County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Whatcom County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Whatcom County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "Whatcom County"
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0,
-      "region": "Snohomish County"
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 1,
-      "region": "Snohomish County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Snohomish County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Snohomish County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "Snohomish County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "Snohomish County"
+      "region": "Kittitas County"
     }
   ],
   "priceLinks": []

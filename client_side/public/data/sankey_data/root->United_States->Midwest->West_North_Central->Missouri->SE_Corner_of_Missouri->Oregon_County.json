@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SE_Corner_of_Missouri->Oregon_County",
+  "nodes": [
+    {
+      "name": "65606"
+    },
+    {
+      "name": "65690"
+    },
+    {
+      "name": "65778"
+    },
+    {
+      "name": "65791"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "65791"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "65791"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65791"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65791"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65791"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65791"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "65606"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "65606"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65606"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65606"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65606"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65606"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "65690"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "65690"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65690"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "65690"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65690"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "65690"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "65778"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "65778"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65778"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65778"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65778"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65778"
+    }
+  ],
+  "priceLinks": []
+}

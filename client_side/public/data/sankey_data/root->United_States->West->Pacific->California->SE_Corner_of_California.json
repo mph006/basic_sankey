@@ -20,312 +20,468 @@
       "name": "San Diego County"
     },
     {
+      "name": "Orange County"
+    },
+    {
       "name": "San Bernardino County"
+    },
+    {
+      "name": "Riverside County"
+    },
+    {
+      "name": "Kern County"
+    },
+    {
+      "name": "Ventura County"
     },
     {
       "name": "Unknown County"
     },
     {
-      "name": "Imperial County"
-    },
-    {
-      "name": "Orange County"
-    },
-    {
       "name": "Tulare County"
     },
     {
-      "name": "Kern County"
+      "name": "Imperial County"
+    },
+    {
+      "name": "Inyo County"
+    },
+    {
+      "name": "Fresno County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 2,
+      "value": 29,
       "region": "Los Angeles County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 7,
+      "value": 338,
       "region": "Los Angeles County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 3,
+      "value": 44,
       "region": "Los Angeles County"
     },
     {
       "source": 2,
       "target": 3,
+      "value": 294,
+      "region": "Los Angeles County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 40,
+      "region": "Los Angeles County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 254,
+      "region": "Los Angeles County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 16,
+      "region": "San Diego County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 116,
+      "region": "San Diego County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 17,
+      "region": "San Diego County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 99,
+      "region": "San Diego County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 15,
+      "region": "San Diego County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 84,
+      "region": "San Diego County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 9,
+      "region": "Orange County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 89,
+      "region": "Orange County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 11,
+      "region": "Orange County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 78,
+      "region": "Orange County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 11,
+      "region": "Orange County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 67,
+      "region": "Orange County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 8,
+      "region": "San Bernardino County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 59,
+      "region": "San Bernardino County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 4,
-      "region": "Los Angeles County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 3,
-      "region": "Los Angeles County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "Los Angeles County"
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 3,
-      "region": "San Diego County"
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 3,
-      "region": "San Diego County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 2,
-      "region": "San Diego County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "San Diego County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "San Diego County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "San Diego County"
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 2,
-      "region": "San Bernardino County"
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 1,
-      "region": "San Bernardino County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
       "region": "San Bernardino County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 55,
       "region": "San Bernardino County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
+      "value": 5,
       "region": "San Bernardino County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 50,
       "region": "San Bernardino County"
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0,
-      "region": "Unknown County"
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 2,
-      "region": "Unknown County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Unknown County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 2,
-      "region": "Unknown County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 2,
-      "region": "Unknown County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "Unknown County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0,
-      "region": "Imperial County"
+      "value": 9,
+      "region": "Riverside County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 2,
-      "region": "Imperial County"
+      "value": 65,
+      "region": "Riverside County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Imperial County"
+      "value": 8,
+      "region": "Riverside County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
-      "region": "Imperial County"
+      "value": 57,
+      "region": "Riverside County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Imperial County"
+      "value": 6,
+      "region": "Riverside County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Imperial County"
+      "value": 51,
+      "region": "Riverside County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0,
-      "region": "Orange County"
+      "value": 3,
+      "region": "Kern County"
     },
     {
       "source": 9,
       "target": 2,
+      "value": 29,
+      "region": "Kern County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 5,
+      "region": "Kern County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 24,
+      "region": "Kern County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Kern County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 23,
+      "region": "Kern County"
+    },
+    {
+      "source": 10,
+      "target": 1,
       "value": 2,
-      "region": "Orange County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "Orange County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Orange County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Orange County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "Orange County"
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 1,
-      "region": "Tulare County"
+      "region": "Ventura County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 1,
-      "region": "Tulare County"
+      "value": 25,
+      "region": "Ventura County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Tulare County"
+      "value": 2,
+      "region": "Ventura County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Tulare County"
+      "value": 23,
+      "region": "Ventura County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 1,
-      "region": "Tulare County"
+      "region": "Ventura County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Tulare County"
+      "value": 22,
+      "region": "Ventura County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0,
-      "region": "Kern County"
+      "value": 2,
+      "region": "Unknown County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 1,
-      "region": "Kern County"
+      "value": 23,
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Kern County"
+      "value": 2,
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Kern County"
+      "value": 21,
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Kern County"
+      "value": 5,
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 16,
+      "region": "Unknown County"
+    },
+    {
+      "source": 12,
+      "target": 1,
       "value": 1,
-      "region": "Kern County"
+      "region": "Tulare County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 15,
+      "region": "Tulare County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Tulare County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 14,
+      "region": "Tulare County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Tulare County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 13,
+      "region": "Tulare County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Imperial County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 14,
+      "region": "Imperial County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Imperial County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 13,
+      "region": "Imperial County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Imperial County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 12,
+      "region": "Imperial County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Inyo County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 11,
+      "region": "Inyo County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Inyo County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Inyo County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Inyo County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Inyo County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Fresno County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 3,
+      "region": "Fresno County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Fresno County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Fresno County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Fresno County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Fresno County"
     }
   ],
   "priceLinks": []

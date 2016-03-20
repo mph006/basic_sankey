@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->NE_Corner_of_Texas->Comanche_County",
+  "nodes": [
+    {
+      "name": "76442"
+    },
+    {
+      "name": "76444"
+    },
+    {
+      "name": "76452"
+    },
+    {
+      "name": "76468"
+    },
+    {
+      "name": "76474"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "76444"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "76444"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "76444"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "76444"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "76444"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "76444"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "76442"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "76442"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "76442"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "76442"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "76442"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "76442"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "76452"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "76452"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "76452"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "76452"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "76452"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "76452"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "76468"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "76468"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "76468"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "76468"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "76468"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "76468"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "76474"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "76474"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "76474"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "76474"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "76474"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "76474"
+    }
+  ],
+  "priceLinks": []
+}

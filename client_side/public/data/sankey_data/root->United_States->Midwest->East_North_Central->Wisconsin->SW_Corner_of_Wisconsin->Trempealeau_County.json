@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->SW_Corner_of_Wisconsin->Trempealeau_County",
   "nodes": [
     {
+      "name": "54612"
+    },
+    {
+      "name": "54627"
+    },
+    {
       "name": "54630"
+    },
+    {
+      "name": "54661"
+    },
+    {
+      "name": "54758"
+    },
+    {
+      "name": "54760"
+    },
+    {
+      "name": "54770"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +37,256 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "54630"
+    },
+    {
+      "source": 2,
+      "target": 8,
       "value": 1,
       "region": "54630"
     },
     {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "54630"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54630"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "54630"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "54630"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "54758"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "54758"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "54758"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54758"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "54758"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "54758"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "54760"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "54760"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "54760"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54760"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "54760"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "54760"
+    },
+    {
       "source": 0,
-      "target": 2,
+      "target": 7,
       "value": 0,
-      "region": "54630"
+      "region": "54612"
     },
     {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "54630"
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "54612"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "54630"
+      "region": "54612"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54612"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "54612"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "54612"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "54627"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "54627"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "54627"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54627"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "54627"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "54627"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 7,
       "value": 0,
-      "region": "54630"
+      "region": "54661"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 8,
+      "value": 1,
+      "region": "54661"
+    },
+    {
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "54630"
+      "region": "54661"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54661"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "54661"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "54661"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "54770"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "54770"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "54770"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54770"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "54770"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "54770"
     }
   ],
   "priceLinks": []

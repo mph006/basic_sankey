@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->NW_Corner_of_Missouri->Pettis_County",
+  "nodes": [
+    {
+      "name": "65301"
+    },
+    {
+      "name": "65302"
+    },
+    {
+      "name": "65332"
+    },
+    {
+      "name": "65333"
+    },
+    {
+      "name": "65337"
+    },
+    {
+      "name": "65350"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "65337"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "65337"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65337"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "65337"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65337"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "65337"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "65333"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "65333"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "65333"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "65333"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65333"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "65333"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "65301"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "65301"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65301"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65301"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "65301"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "65301"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "65302"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "65302"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65302"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65302"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65302"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65302"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "65332"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "65332"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65332"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65332"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65332"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65332"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "65350"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "65350"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65350"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65350"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65350"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65350"
+    }
+  ],
+  "priceLinks": []
+}

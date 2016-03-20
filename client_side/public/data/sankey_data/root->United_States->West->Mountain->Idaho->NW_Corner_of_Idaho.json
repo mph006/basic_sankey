@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Mountain->Idaho->NW_Corner_of_Idaho",
   "nodes": [
     {
-      "name": "Clearwater County"
+      "name": "Bonner County"
     },
     {
       "name": "Dropped_Out"
@@ -17,7 +17,37 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Kootenai County"
+    },
+    {
+      "name": "Latah County"
+    },
+    {
+      "name": "Shoshone County"
+    },
+    {
+      "name": "Idaho County"
+    },
+    {
       "name": "Lewis County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Benewah County"
+    },
+    {
+      "name": "Boundary County"
+    },
+    {
+      "name": "Clearwater County"
+    },
+    {
+      "name": "Whitman County"
+    },
+    {
+      "name": "Nez Perce County"
     }
   ],
   "countLinks": [
@@ -25,48 +55,192 @@
       "source": 0,
       "target": 1,
       "value": 0,
-      "region": "Clearwater County"
+      "region": "Bonner County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Clearwater County"
+      "value": 13,
+      "region": "Bonner County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Clearwater County"
+      "region": "Bonner County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Clearwater County"
+      "value": 12,
+      "region": "Bonner County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Clearwater County"
+      "value": 1,
+      "region": "Bonner County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Clearwater County"
+      "value": 11,
+      "region": "Bonner County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1,
-      "region": "Lewis County"
+      "value": 0,
+      "region": "Kootenai County"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 10,
+      "region": "Kootenai County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 0,
+      "region": "Kootenai County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Kootenai County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Kootenai County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 9,
+      "region": "Kootenai County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 2,
+      "region": "Latah County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 5,
+      "region": "Latah County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Latah County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Latah County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Latah County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Latah County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 2,
+      "region": "Shoshone County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 5,
+      "region": "Shoshone County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Shoshone County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Shoshone County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Shoshone County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Shoshone County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 4,
+      "region": "Idaho County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 2,
+      "region": "Idaho County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Idaho County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Idaho County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Idaho County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Idaho County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Lewis County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 3,
       "region": "Lewis County"
     },
     {
@@ -78,7 +252,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 3,
       "region": "Lewis County"
     },
     {
@@ -90,8 +264,224 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 3,
       "region": "Lewis County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Benewah County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 4,
+      "region": "Benewah County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Benewah County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Benewah County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Benewah County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Benewah County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Boundary County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 3,
+      "region": "Boundary County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Boundary County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Boundary County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Boundary County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Boundary County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 4,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Whitman County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 1,
+      "region": "Whitman County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Whitman County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Whitman County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Whitman County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Whitman County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 1,
+      "region": "Nez Perce County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 1,
+      "region": "Nez Perce County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Nez Perce County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Nez Perce County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Nez Perce County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Nez Perce County"
     }
   ],
   "priceLinks": []

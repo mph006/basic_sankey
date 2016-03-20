@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->South->East_South_Central->Kentucky->NE_Corner_of_Kentucky->Owen_County",
   "nodes": [
     {
+      "name": "40355"
+    },
+    {
       "name": "40359"
+    },
+    {
+      "name": "40363"
     },
     {
       "name": "Dropped_Out"
@@ -19,39 +25,111 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "40363"
+    },
+    {
+      "source": 2,
+      "target": 4,
       "value": 0,
-      "region": "40359"
+      "region": "40363"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "40363"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "40363"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "40363"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "40363"
     },
     {
       "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "40359"
+      "target": 3,
+      "value": 0,
+      "region": "40355"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 0,
+      "target": 4,
       "value": 1,
-      "region": "40359"
+      "region": "40355"
     },
     {
-      "source": 2,
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "40355"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "40355"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "40355"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "40355"
+    },
+    {
+      "source": 1,
       "target": 3,
       "value": 0,
       "region": "40359"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "40359"
+    },
+    {
+      "source": 4,
+      "target": 3,
       "value": 0,
       "region": "40359"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "40359"
+    },
+    {
+      "source": 5,
+      "target": 3,
       "value": 0,
+      "region": "40359"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
       "region": "40359"
     }
   ],

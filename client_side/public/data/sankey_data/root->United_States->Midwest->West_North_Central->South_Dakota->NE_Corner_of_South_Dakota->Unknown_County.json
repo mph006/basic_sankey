@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->South_Dakota->NE_Corner_of_South_Dakota->Unknown_County",
+  "nodes": [
+    {
+      "name": "57411"
+    },
+    {
+      "name": "57462"
+    },
+    {
+      "name": "57841"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "57411"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "57411"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "57411"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "57411"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "57411"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "57411"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "57462"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "57462"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "57462"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "57462"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "57462"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "57462"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "57841"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "57841"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "57841"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "57841"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "57841"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "57841"
+    }
+  ],
+  "priceLinks": []
+}

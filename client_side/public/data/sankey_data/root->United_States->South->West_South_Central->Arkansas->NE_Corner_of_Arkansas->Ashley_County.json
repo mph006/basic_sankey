@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Ashley_County",
+  "nodes": [
+    {
+      "name": "71642"
+    },
+    {
+      "name": "71658"
+    },
+    {
+      "name": "71661"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "71661"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "71661"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "71661"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "71661"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "71661"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "71661"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "71642"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "71642"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "71642"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "71642"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "71642"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "71642"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "71658"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "71658"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "71658"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "71658"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "71658"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "71658"
+    }
+  ],
+  "priceLinks": []
+}

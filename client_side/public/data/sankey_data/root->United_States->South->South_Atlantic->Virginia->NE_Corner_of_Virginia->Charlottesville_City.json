@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->South->South_Atlantic->Virginia->NE_Corner_of_Virginia->Charlottesville_City",
   "nodes": [
     {
+      "name": "22904"
+    },
+    {
+      "name": "22905"
+    },
+    {
+      "name": "22906"
+    },
+    {
       "name": "22907"
+    },
+    {
+      "name": "22908"
+    },
+    {
+      "name": "22909"
+    },
+    {
+      "name": "22910"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +37,256 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "22905"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 0,
+      "region": "22905"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "22905"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "22905"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "22905"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "22905"
+    },
+    {
+      "source": 3,
+      "target": 7,
       "value": 1,
       "region": "22907"
     },
     {
+      "source": 3,
+      "target": 8,
+      "value": 0,
+      "region": "22907"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "22907"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "22907"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "22907"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "22907"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "22910"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "22910"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "22910"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "22910"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "22910"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "22910"
+    },
+    {
       "source": 0,
-      "target": 2,
+      "target": 7,
       "value": 0,
-      "region": "22907"
+      "region": "22904"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "22904"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "22904"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "22904"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "22904"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "22904"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 7,
       "value": 0,
-      "region": "22907"
+      "region": "22906"
     },
     {
       "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "22907"
+      "target": 8,
+      "value": 1,
+      "region": "22906"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "22907"
+      "region": "22906"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "22906"
+    },
+    {
+      "source": 9,
+      "target": 7,
       "value": 0,
-      "region": "22907"
+      "region": "22906"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "22906"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "22908"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "22908"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "22908"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "22908"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "22908"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "22908"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "22909"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "22909"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "22909"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "22909"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "22909"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "22909"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->NE_Corner_of_Missouri->Jefferson_County",
   "nodes": [
     {
-      "name": "63052"
+      "name": "63010"
+    },
+    {
+      "name": "63016"
+    },
+    {
+      "name": "63049"
+    },
+    {
+      "name": "63051"
+    },
+    {
+      "name": "63057"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +32,183 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "63052"
+      "region": "63010"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
       "value": 1,
-      "region": "63052"
+      "region": "63010"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "63010"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "63010"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "63010"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "63010"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "63016"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "63016"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "63016"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "63016"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "63016"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "63016"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "63052"
+      "target": 5,
+      "value": 0,
+      "region": "63049"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 6,
+      "value": 1,
+      "region": "63049"
+    },
+    {
+      "source": 6,
+      "target": 5,
       "value": 0,
-      "region": "63052"
+      "region": "63049"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "63049"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "63049"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "63049"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "63052"
+      "region": "63051"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 6,
+      "value": 1,
+      "region": "63051"
+    },
+    {
+      "source": 6,
+      "target": 5,
       "value": 0,
-      "region": "63052"
+      "region": "63051"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "63051"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "63051"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "63051"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "63057"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "63057"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "63057"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "63057"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "63057"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "63057"
     }
   ],
   "priceLinks": []

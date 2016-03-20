@@ -15,19 +15,31 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Sweetwater County"
+    },
+    {
+      "name": "Uinta County"
+    },
+    {
+      "name": "Sublette County"
+    },
+    {
+      "name": "Fremont County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
+      "value": 2,
       "region": "Lincoln County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
+      "value": 8,
       "region": "Lincoln County"
     },
     {
@@ -39,7 +51,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 8,
       "region": "Lincoln County"
     },
     {
@@ -51,8 +63,152 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 8,
       "region": "Lincoln County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1,
+      "region": "Sweetwater County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 7,
+      "region": "Sweetwater County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Sweetwater County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Sweetwater County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Sweetwater County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Sweetwater County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Uinta County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 5,
+      "region": "Uinta County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Uinta County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Uinta County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Uinta County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Uinta County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Sublette County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 4,
+      "region": "Sublette County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sublette County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Sublette County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Sublette County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Sublette County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Fremont County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 3,
+      "region": "Fremont County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Fremont County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Fremont County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Fremont County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Fremont County"
     }
   ],
   "priceLinks": []

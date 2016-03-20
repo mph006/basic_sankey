@@ -1,0 +1,371 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->Pennsylvania->NW_Corner_of_Pennsylvania->Butler_County",
+  "nodes": [
+    {
+      "name": "16020"
+    },
+    {
+      "name": "16022"
+    },
+    {
+      "name": "16030"
+    },
+    {
+      "name": "16035"
+    },
+    {
+      "name": "16040"
+    },
+    {
+      "name": "16048"
+    },
+    {
+      "name": "16050"
+    },
+    {
+      "name": "16057"
+    },
+    {
+      "name": "16061"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 9,
+      "value": 0,
+      "region": "16020"
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 1,
+      "region": "16020"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "16020"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "16020"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "16020"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "16020"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 0,
+      "region": "16057"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "value": 1,
+      "region": "16057"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 1,
+      "region": "16057"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "16057"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "16057"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "16057"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 0,
+      "region": "16022"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "value": 1,
+      "region": "16022"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "16022"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "16022"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "16022"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "16022"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 0,
+      "region": "16040"
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "value": 1,
+      "region": "16040"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "16040"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "16040"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "16040"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "16040"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "16061"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "value": 1,
+      "region": "16061"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "16061"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "16061"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "16061"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "16061"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 0,
+      "region": "16030"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "value": 1,
+      "region": "16030"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "16030"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "16030"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "16030"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "16030"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 0,
+      "region": "16035"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "value": 1,
+      "region": "16035"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 1,
+      "region": "16035"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "16035"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "16035"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "16035"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 0,
+      "region": "16048"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 1,
+      "region": "16048"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "16048"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "16048"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "16048"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "16048"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 0,
+      "region": "16050"
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 1,
+      "region": "16050"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "16050"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "16050"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "16050"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "16050"
+    }
+  ],
+  "priceLinks": []
+}

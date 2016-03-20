@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SW_Corner_of_Minnesota->Freeborn_County",
+  "nodes": [
+    {
+      "name": "56020"
+    },
+    {
+      "name": "56032"
+    },
+    {
+      "name": "56042"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "56020"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "56020"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "56020"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "56020"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "56020"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56020"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "56042"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "56042"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "56042"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "56042"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "56042"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56042"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "56032"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "56032"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "56032"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "56032"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "56032"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56032"
+    }
+  ],
+  "priceLinks": []
+}

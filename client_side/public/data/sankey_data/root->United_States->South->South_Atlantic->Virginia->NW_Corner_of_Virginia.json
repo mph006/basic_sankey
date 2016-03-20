@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->South_Atlantic->Virginia->NW_Corner_of_Virginia",
   "nodes": [
     {
-      "name": "Bath County"
+      "name": "Highland County"
     },
     {
       "name": "Dropped_Out"
@@ -17,7 +17,10 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Highland County"
+      "name": "Bath County"
+    },
+    {
+      "name": "Augusta County"
     }
   ],
   "countLinks": [
@@ -25,73 +28,109 @@
       "source": 0,
       "target": 1,
       "value": 0,
-      "region": "Bath County"
+      "region": "Highland County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Bath County"
+      "value": 3,
+      "region": "Highland County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Bath County"
+      "region": "Highland County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Bath County"
+      "value": 3,
+      "region": "Highland County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Bath County"
+      "region": "Highland County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Bath County"
+      "value": 3,
+      "region": "Highland County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 1,
-      "region": "Highland County"
+      "region": "Bath County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0,
-      "region": "Highland County"
+      "value": 1,
+      "region": "Bath County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Highland County"
+      "region": "Bath County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Highland County"
+      "value": 1,
+      "region": "Bath County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Highland County"
+      "region": "Bath County"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 1,
+      "region": "Bath County"
+    },
+    {
+      "source": 6,
+      "target": 1,
       "value": 0,
-      "region": "Highland County"
+      "region": "Augusta County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "Augusta County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Augusta County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Augusta County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Augusta County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Augusta County"
     }
   ],
   "priceLinks": []

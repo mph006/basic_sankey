@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->NE_Corner_of_Oklahoma->Okfuskee_County",
   "nodes": [
     {
+      "name": "74829"
+    },
+    {
       "name": "74833"
+    },
+    {
+      "name": "74859"
+    },
+    {
+      "name": "74860"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +29,147 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 4,
+      "value": 0,
+      "region": "74829"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "74829"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "74829"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "74829"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "74829"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "74829"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "74833"
+    },
+    {
+      "source": 1,
+      "target": 5,
       "value": 1,
       "region": "74833"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 5,
+      "target": 4,
       "value": 0,
+      "region": "74833"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "74833"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "74833"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
       "region": "74833"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "74833"
+      "region": "74859"
     },
     {
       "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "74833"
+      "target": 5,
+      "value": 1,
+      "region": "74859"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "74833"
+      "region": "74859"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "74859"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "74859"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74859"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "74833"
+      "region": "74860"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "74860"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "74860"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "74860"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "74860"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74860"
     }
   ],
   "priceLinks": []

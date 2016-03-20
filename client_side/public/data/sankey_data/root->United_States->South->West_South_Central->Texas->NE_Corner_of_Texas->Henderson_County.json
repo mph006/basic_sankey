@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->NE_Corner_of_Texas->Henderson_County",
+  "nodes": [
+    {
+      "name": "75124"
+    },
+    {
+      "name": "75148"
+    },
+    {
+      "name": "75156"
+    },
+    {
+      "name": "75756"
+    },
+    {
+      "name": "75758"
+    },
+    {
+      "name": "75770"
+    },
+    {
+      "name": "75778"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "75124"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "75124"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "75124"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "75124"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "75124"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "75124"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "75756"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "75756"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "75756"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "75756"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "75756"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "75756"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "75778"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "75778"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "75778"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "75778"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "75778"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "75778"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "75156"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "75156"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "75156"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "75156"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "75156"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "75156"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "75758"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "75758"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "75758"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "75758"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "75758"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "75758"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "75148"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "75148"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "75148"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "75148"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "75148"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "75148"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "75770"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "75770"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "75770"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "75770"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "75770"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "75770"
+    }
+  ],
+  "priceLinks": []
+}

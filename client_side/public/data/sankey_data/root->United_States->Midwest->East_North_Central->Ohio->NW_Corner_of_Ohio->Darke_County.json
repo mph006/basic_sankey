@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->NW_Corner_of_Ohio->Darke_County",
+  "nodes": [
+    {
+      "name": "45351"
+    },
+    {
+      "name": "45388"
+    },
+    {
+      "name": "45390"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "45351"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "45351"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "45351"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "45351"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "45351"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "45351"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "45388"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "45388"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "45388"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "45388"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "45388"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "45388"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "45390"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "45390"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "45390"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "45390"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "45390"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "45390"
+    }
+  ],
+  "priceLinks": []
+}

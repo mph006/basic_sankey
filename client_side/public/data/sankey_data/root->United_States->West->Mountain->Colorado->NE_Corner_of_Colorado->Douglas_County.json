@@ -2,7 +2,28 @@
   "keyPath": "root->United_States->West->Mountain->Colorado->NE_Corner_of_Colorado->Douglas_County",
   "nodes": [
     {
-      "name": "80109"
+      "name": "80108"
+    },
+    {
+      "name": "80118"
+    },
+    {
+      "name": "80124"
+    },
+    {
+      "name": "80126"
+    },
+    {
+      "name": "80130"
+    },
+    {
+      "name": "80134"
+    },
+    {
+      "name": "80135"
+    },
+    {
+      "name": "80138"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +40,292 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 3,
+      "target": 8,
       "value": 0,
-      "region": "80109"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "80109"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "80109"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "80109"
+      "region": "80126"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "80109"
+      "target": 9,
+      "value": 1,
+      "region": "80126"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 9,
+      "target": 8,
       "value": 0,
-      "region": "80109"
+      "region": "80126"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "80126"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "80126"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "80126"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "80130"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 0,
+      "region": "80130"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "80130"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "80130"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "80130"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "80130"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "80134"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 1,
+      "region": "80134"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "80134"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "80134"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "80134"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "80134"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "80108"
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 0,
+      "region": "80108"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "80108"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "80108"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "80108"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "80108"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 0,
+      "region": "80118"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 1,
+      "region": "80118"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 1,
+      "region": "80118"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "80118"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "80118"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "80118"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 0,
+      "region": "80124"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 1,
+      "region": "80124"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "80124"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "80124"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "80124"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "80124"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "80135"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 0,
+      "region": "80135"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "80135"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "80135"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "80135"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "80135"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "80138"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 1,
+      "region": "80138"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "80138"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "80138"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "80138"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "80138"
     }
   ],
   "priceLinks": []

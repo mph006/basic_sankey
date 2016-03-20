@@ -2,6 +2,18 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->NE_Corner_of_Oklahoma->Pawnee_County",
   "nodes": [
     {
+      "name": "74020"
+    },
+    {
+      "name": "74034"
+    },
+    {
+      "name": "74038"
+    },
+    {
+      "name": "74045"
+    },
+    {
       "name": "74058"
     },
     {
@@ -20,38 +32,182 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "74058"
+      "region": "74020"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
+      "value": 1,
+      "region": "74020"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74020"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74020"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74020"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74020"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "74038"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "74038"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74038"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74038"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74038"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74038"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "74045"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "74045"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74045"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74045"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "74045"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "74045"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "74034"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "74034"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74034"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74034"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74034"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74034"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "74058"
+    },
+    {
+      "source": 4,
+      "target": 6,
       "value": 1,
       "region": "74058"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74058"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 1,
       "region": "74058"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 7,
+      "target": 5,
       "value": 0,
       "region": "74058"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "74058"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
+      "source": 7,
+      "target": 8,
+      "value": 1,
       "region": "74058"
     }
   ],

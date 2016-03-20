@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->NE_Corner_of_Oklahoma",
   "nodes": [
     {
-      "name": "Tulsa County"
+      "name": "Oklahoma County"
     },
     {
       "name": "Dropped_Out"
@@ -17,380 +17,1178 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Tulsa County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Garfield County"
+    },
+    {
+      "name": "Payne County"
+    },
+    {
+      "name": "Sequoyah County"
+    },
+    {
+      "name": "Osage County"
+    },
+    {
+      "name": "Creek County"
+    },
+    {
+      "name": "Grant County"
+    },
+    {
+      "name": "Blaine County"
+    },
+    {
+      "name": "Lincoln County"
+    },
+    {
+      "name": "Kingfisher County"
+    },
+    {
+      "name": "Canadian County"
+    },
+    {
+      "name": "Adair County"
+    },
+    {
+      "name": "Kay County"
+    },
+    {
+      "name": "Logan County"
+    },
+    {
+      "name": "Washington County"
+    },
+    {
+      "name": "Muskogee County"
+    },
+    {
+      "name": "Okmulgee County"
+    },
+    {
       "name": "Pawnee County"
     },
     {
       "name": "Mayes County"
     },
     {
-      "name": "Creek County"
+      "name": "Delaware County"
     },
     {
-      "name": "Garfield County"
+      "name": "Noble County"
+    },
+    {
+      "name": "Rogers County"
+    },
+    {
+      "name": "McIntosh County"
+    },
+    {
+      "name": "Cherokee County"
+    },
+    {
+      "name": "Nowata County"
+    },
+    {
+      "name": "Alfalfa County"
+    },
+    {
+      "name": "Ottawa County"
+    },
+    {
+      "name": "Okfuskee County"
+    },
+    {
+      "name": "Major County"
+    },
+    {
+      "name": "Wagoner County"
+    },
+    {
+      "name": "Woods County"
     },
     {
       "name": "Craig County"
     },
     {
-      "name": "Lincoln County"
+      "name": "Pottawatomie County"
     },
     {
-      "name": "Delaware County"
-    },
-    {
-      "name": "Oklahoma County"
-    },
-    {
-      "name": "Okfuskee County"
+      "name": "Dewey County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Tulsa County"
+      "value": 6,
+      "region": "Oklahoma County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 3,
-      "region": "Tulsa County"
+      "value": 54,
+      "region": "Oklahoma County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Tulsa County"
+      "value": 6,
+      "region": "Oklahoma County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 3,
-      "region": "Tulsa County"
+      "value": 48,
+      "region": "Oklahoma County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 3,
-      "region": "Tulsa County"
+      "value": 7,
+      "region": "Oklahoma County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Tulsa County"
+      "value": 41,
+      "region": "Oklahoma County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Pawnee County"
+      "value": 6,
+      "region": "Tulsa County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Pawnee County"
+      "value": 39,
+      "region": "Tulsa County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Pawnee County"
+      "value": 4,
+      "region": "Tulsa County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Pawnee County"
+      "value": 35,
+      "region": "Tulsa County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Pawnee County"
+      "value": 5,
+      "region": "Tulsa County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Pawnee County"
+      "value": 30,
+      "region": "Tulsa County"
     },
     {
       "source": 6,
       "target": 1,
       "value": 1,
-      "region": "Mayes County"
+      "region": "Unknown County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0,
-      "region": "Mayes County"
+      "value": 10,
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Mayes County"
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Mayes County"
+      "value": 10,
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Mayes County"
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Mayes County"
+      "value": 10,
+      "region": "Unknown County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0,
-      "region": "Creek County"
+      "value": 1,
+      "region": "Garfield County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1,
-      "region": "Creek County"
+      "value": 10,
+      "region": "Garfield County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Creek County"
+      "region": "Garfield County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Creek County"
+      "value": 9,
+      "region": "Garfield County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Creek County"
+      "region": "Garfield County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Creek County"
+      "value": 9,
+      "region": "Garfield County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 1,
-      "region": "Garfield County"
+      "value": 2,
+      "region": "Payne County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0,
-      "region": "Garfield County"
+      "value": 8,
+      "region": "Payne County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Garfield County"
+      "value": 1,
+      "region": "Payne County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Garfield County"
+      "value": 7,
+      "region": "Payne County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Garfield County"
+      "value": 2,
+      "region": "Payne County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Garfield County"
+      "value": 5,
+      "region": "Payne County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0,
-      "region": "Craig County"
+      "value": 1,
+      "region": "Sequoyah County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 1,
-      "region": "Craig County"
+      "value": 6,
+      "region": "Sequoyah County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Craig County"
+      "region": "Sequoyah County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Craig County"
+      "value": 6,
+      "region": "Sequoyah County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Craig County"
+      "value": 1,
+      "region": "Sequoyah County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Craig County"
+      "value": 5,
+      "region": "Sequoyah County"
     },
     {
       "source": 10,
       "target": 1,
       "value": 0,
-      "region": "Lincoln County"
+      "region": "Osage County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 1,
-      "region": "Lincoln County"
+      "value": 9,
+      "region": "Osage County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Lincoln County"
+      "value": 1,
+      "region": "Osage County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Lincoln County"
+      "value": 8,
+      "region": "Osage County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Lincoln County"
+      "value": 0,
+      "region": "Osage County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Lincoln County"
+      "value": 8,
+      "region": "Osage County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0,
-      "region": "Delaware County"
+      "value": 1,
+      "region": "Creek County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 1,
-      "region": "Delaware County"
+      "value": 7,
+      "region": "Creek County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Delaware County"
+      "value": 1,
+      "region": "Creek County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Delaware County"
+      "value": 6,
+      "region": "Creek County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Delaware County"
+      "value": 0,
+      "region": "Creek County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Delaware County"
+      "value": 6,
+      "region": "Creek County"
     },
     {
       "source": 12,
       "target": 1,
-      "value": 0,
-      "region": "Oklahoma County"
+      "value": 1,
+      "region": "Grant County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 1,
-      "region": "Oklahoma County"
+      "value": 6,
+      "region": "Grant County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Oklahoma County"
+      "value": 3,
+      "region": "Grant County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Oklahoma County"
+      "value": 3,
+      "region": "Grant County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Oklahoma County"
+      "value": 0,
+      "region": "Grant County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Oklahoma County"
+      "value": 3,
+      "region": "Grant County"
     },
     {
       "source": 13,
       "target": 1,
-      "value": 1,
-      "region": "Okfuskee County"
+      "value": 0,
+      "region": "Blaine County"
     },
     {
       "source": 13,
       "target": 2,
+      "value": 6,
+      "region": "Blaine County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Blaine County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Blaine County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Blaine County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Blaine County"
+    },
+    {
+      "source": 14,
+      "target": 1,
       "value": 0,
-      "region": "Okfuskee County"
+      "region": "Lincoln County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 6,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 1,
+      "region": "Kingfisher County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 6,
+      "region": "Kingfisher County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Kingfisher County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Kingfisher County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Kingfisher County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Kingfisher County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 2,
+      "region": "Canadian County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 4,
+      "region": "Canadian County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Canadian County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Canadian County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Canadian County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Canadian County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Adair County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 5,
+      "region": "Adair County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Adair County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Adair County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Adair County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Adair County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 1,
+      "region": "Kay County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 4,
+      "region": "Kay County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Kay County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Kay County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Kay County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Kay County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Logan County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 8,
+      "region": "Logan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Logan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Logan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Logan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Logan County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 2,
+      "region": "Washington County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 3,
+      "region": "Washington County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Washington County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 2,
+      "region": "Muskogee County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 5,
+      "region": "Muskogee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Muskogee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Muskogee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Muskogee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Muskogee County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Okmulgee County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 5,
+      "region": "Okmulgee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Okmulgee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Okmulgee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Okmulgee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Okmulgee County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Pawnee County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 5,
+      "region": "Pawnee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pawnee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Pawnee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Pawnee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Pawnee County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 2,
+      "region": "Mayes County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 3,
+      "region": "Mayes County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Mayes County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Mayes County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Mayes County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Mayes County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 1,
+      "region": "Delaware County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 4,
+      "region": "Delaware County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Delaware County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Delaware County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Delaware County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Delaware County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 1,
+      "region": "Noble County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 3,
+      "region": "Noble County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Noble County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Noble County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Noble County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Noble County"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 0,
+      "region": "Rogers County"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 3,
+      "region": "Rogers County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Rogers County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Rogers County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Rogers County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Rogers County"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 0,
+      "region": "McIntosh County"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 5,
+      "region": "McIntosh County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "McIntosh County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "McIntosh County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "McIntosh County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "McIntosh County"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "value": 1,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 29,
+      "target": 2,
+      "value": 4,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "value": 0,
+      "region": "Nowata County"
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "value": 4,
+      "region": "Nowata County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Nowata County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Nowata County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Nowata County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Nowata County"
+    },
+    {
+      "source": 31,
+      "target": 1,
+      "value": 0,
+      "region": "Alfalfa County"
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "value": 5,
+      "region": "Alfalfa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Alfalfa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Alfalfa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Alfalfa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Alfalfa County"
+    },
+    {
+      "source": 32,
+      "target": 1,
+      "value": 0,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "value": 4,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Ottawa County"
+    },
+    {
+      "source": 33,
+      "target": 1,
+      "value": 0,
+      "region": "Okfuskee County"
+    },
+    {
+      "source": 33,
+      "target": 2,
+      "value": 4,
+      "region": "Okfuskee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
       "region": "Okfuskee County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 3,
       "region": "Okfuskee County"
     },
     {
@@ -402,8 +1200,224 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 3,
       "region": "Okfuskee County"
+    },
+    {
+      "source": 34,
+      "target": 1,
+      "value": 1,
+      "region": "Major County"
+    },
+    {
+      "source": 34,
+      "target": 2,
+      "value": 3,
+      "region": "Major County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Major County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Major County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Major County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Major County"
+    },
+    {
+      "source": 35,
+      "target": 1,
+      "value": 0,
+      "region": "Wagoner County"
+    },
+    {
+      "source": 35,
+      "target": 2,
+      "value": 3,
+      "region": "Wagoner County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wagoner County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Wagoner County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Wagoner County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Wagoner County"
+    },
+    {
+      "source": 36,
+      "target": 1,
+      "value": 0,
+      "region": "Woods County"
+    },
+    {
+      "source": 36,
+      "target": 2,
+      "value": 2,
+      "region": "Woods County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Woods County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Woods County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Woods County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Woods County"
+    },
+    {
+      "source": 37,
+      "target": 1,
+      "value": 0,
+      "region": "Craig County"
+    },
+    {
+      "source": 37,
+      "target": 2,
+      "value": 2,
+      "region": "Craig County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Craig County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Craig County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Craig County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Craig County"
+    },
+    {
+      "source": 38,
+      "target": 1,
+      "value": 0,
+      "region": "Pottawatomie County"
+    },
+    {
+      "source": 38,
+      "target": 2,
+      "value": 1,
+      "region": "Pottawatomie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pottawatomie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Pottawatomie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pottawatomie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Pottawatomie County"
+    },
+    {
+      "source": 39,
+      "target": 1,
+      "value": 0,
+      "region": "Dewey County"
+    },
+    {
+      "source": 39,
+      "target": 2,
+      "value": 1,
+      "region": "Dewey County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Dewey County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Dewey County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Dewey County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Dewey County"
     }
   ],
   "priceLinks": []

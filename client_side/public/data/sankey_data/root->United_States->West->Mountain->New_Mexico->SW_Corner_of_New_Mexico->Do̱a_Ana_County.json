@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->West->Mountain->New_Mexico->SW_Corner_of_New_Mexico->Do̱a_Ana_County",
+  "nodes": [
+    {
+      "name": "88004"
+    },
+    {
+      "name": "88046"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "88046"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "88046"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "88046"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "88046"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "88046"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "88046"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "88004"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "88004"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "88004"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "88004"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "88004"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "88004"
+    }
+  ],
+  "priceLinks": []
+}

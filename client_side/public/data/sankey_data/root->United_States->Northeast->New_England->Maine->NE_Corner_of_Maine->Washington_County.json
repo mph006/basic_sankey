@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Northeast->New_England->Maine->NE_Corner_of_Maine->Washington_County",
+  "nodes": [
+    {
+      "name": "04424"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "04490"
+    },
+    {
+      "name": "04413"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "04424"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "04424"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04424"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04424"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04424"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04424"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "04490"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "04490"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04490"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04490"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04490"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04490"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "04413"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "04413"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04413"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04413"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04413"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04413"
+    }
+  ],
+  "priceLinks": []
+}

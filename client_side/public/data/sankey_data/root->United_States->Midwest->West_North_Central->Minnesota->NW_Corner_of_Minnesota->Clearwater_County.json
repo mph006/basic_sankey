@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->NW_Corner_of_Minnesota->Clearwater_County",
+  "nodes": [
+    {
+      "name": "56621"
+    },
+    {
+      "name": "56634"
+    },
+    {
+      "name": "56652"
+    },
+    {
+      "name": "56676"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "56621"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "56621"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "56621"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56621"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "56621"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "56621"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "56634"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "56634"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "56634"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56634"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "56634"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56634"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "56652"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "56652"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "56652"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56652"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "56652"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "56652"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "56676"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "56676"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "56676"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56676"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "56676"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56676"
+    }
+  ],
+  "priceLinks": []
+}

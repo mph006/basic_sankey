@@ -2,6 +2,18 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas->NE_Corner_of_Texas->Wood_County",
   "nodes": [
     {
+      "name": "75410"
+    },
+    {
+      "name": "75494"
+    },
+    {
+      "name": "75497"
+    },
+    {
+      "name": "75765"
+    },
+    {
       "name": "75783"
     },
     {
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 4,
+      "target": 5,
       "value": 0,
       "region": "75783"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 4,
+      "target": 6,
       "value": 1,
       "region": "75783"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "75783"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 1,
       "region": "75783"
     },
     {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "75783"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "75783"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "75410"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "75410"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "75410"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "75410"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "75410"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "75410"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "75494"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "75494"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "75494"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75494"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "75494"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "75494"
+    },
+    {
       "source": 2,
-      "target": 3,
+      "target": 5,
+      "value": 1,
+      "region": "75497"
+    },
+    {
+      "source": 2,
+      "target": 6,
       "value": 0,
-      "region": "75783"
+      "region": "75497"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "75497"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "75497"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "75497"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "75497"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "75783"
+      "region": "75765"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 6,
+      "value": 1,
+      "region": "75765"
+    },
+    {
+      "source": 6,
+      "target": 5,
       "value": 0,
-      "region": "75783"
+      "region": "75765"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75765"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "75765"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "75765"
     }
   ],
   "priceLinks": []

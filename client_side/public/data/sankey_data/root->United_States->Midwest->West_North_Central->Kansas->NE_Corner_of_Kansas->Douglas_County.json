@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->NE_Corner_of_Kansas->Douglas_County",
   "nodes": [
     {
+      "name": "66006"
+    },
+    {
+      "name": "66044"
+    },
+    {
+      "name": "66046"
+    },
+    {
       "name": "66047"
+    },
+    {
+      "name": "66049"
+    },
+    {
+      "name": "66050"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "66047"
+    },
+    {
+      "source": 3,
+      "target": 7,
       "value": 1,
       "region": "66047"
     },
     {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "66047"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66047"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66047"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "66047"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "66050"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "66050"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "66050"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66050"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66050"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "66050"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "66049"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "66049"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "66049"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "66049"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66049"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "66049"
+    },
+    {
       "source": 0,
-      "target": 2,
+      "target": 6,
       "value": 0,
-      "region": "66047"
+      "region": "66006"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "66006"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "66006"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66006"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66006"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "66006"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "66044"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "66044"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "66044"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66044"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66044"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "66044"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 6,
       "value": 0,
-      "region": "66047"
+      "region": "66046"
     },
     {
       "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "66047"
+      "target": 7,
+      "value": 1,
+      "region": "66046"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "66047"
+      "region": "66046"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66046"
+    },
+    {
+      "source": 8,
+      "target": 6,
       "value": 0,
-      "region": "66047"
+      "region": "66046"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "66046"
     }
   ],
   "priceLinks": []

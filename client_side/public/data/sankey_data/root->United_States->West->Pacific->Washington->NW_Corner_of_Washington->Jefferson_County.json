@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->West->Pacific->Washington->NW_Corner_of_Washington->Jefferson_County",
+  "nodes": [
+    {
+      "name": "98320"
+    },
+    {
+      "name": "98325"
+    },
+    {
+      "name": "98331"
+    },
+    {
+      "name": "98339"
+    },
+    {
+      "name": "98358"
+    },
+    {
+      "name": "98365"
+    },
+    {
+      "name": "98376"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "98320"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "98320"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "98320"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "98320"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "98320"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "98320"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "98325"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "98325"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "98325"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "98325"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "98325"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "98325"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "98358"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "98358"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "98358"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "98358"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "98358"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "98358"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "98376"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "98376"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "98376"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "98376"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "98376"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "98376"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "98331"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "98331"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "98331"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "98331"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "98331"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "98331"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "98339"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "98339"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "98339"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "98339"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "98339"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "98339"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "98365"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "98365"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "98365"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "98365"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "98365"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "98365"
+    }
+  ],
+  "priceLinks": []
+}

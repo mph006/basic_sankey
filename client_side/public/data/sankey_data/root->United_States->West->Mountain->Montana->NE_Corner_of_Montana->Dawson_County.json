@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->West->Mountain->Montana->NE_Corner_of_Montana->Dawson_County",
   "nodes": [
     {
-      "name": "59259"
+      "name": "59315"
+    },
+    {
+      "name": "59330"
+    },
+    {
+      "name": "59339"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +26,111 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 3,
       "value": 0,
-      "region": "59259"
+      "region": "59315"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 4,
       "value": 1,
-      "region": "59259"
+      "region": "59315"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 3,
       "value": 0,
-      "region": "59259"
+      "region": "59315"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "59315"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "59315"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59315"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "59330"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "59330"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "59330"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "59330"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "59330"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59330"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "59259"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "59259"
-    },
-    {
-      "source": 3,
-      "target": 4,
       "value": 0,
-      "region": "59259"
+      "region": "59339"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "59339"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "59339"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "59339"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "59339"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59339"
     }
   ],
   "priceLinks": []

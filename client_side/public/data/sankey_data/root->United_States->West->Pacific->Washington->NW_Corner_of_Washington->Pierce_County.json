@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->West->Pacific->Washington->NW_Corner_of_Washington->Pierce_County",
+  "nodes": [
+    {
+      "name": "98329"
+    },
+    {
+      "name": "98332"
+    },
+    {
+      "name": "98335"
+    },
+    {
+      "name": "98394"
+    },
+    {
+      "name": "98422"
+    },
+    {
+      "name": "98442"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "98442"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "98442"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "98442"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "98442"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "98442"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "98442"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "98332"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "98332"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "98332"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "98332"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "98332"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "98332"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "98422"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "98422"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "98422"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "98422"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "98422"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "98422"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "98329"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "98329"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "98329"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "98329"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "98329"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "98329"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "98335"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "98335"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "98335"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "98335"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "98335"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "98335"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "98394"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "98394"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "98394"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "98394"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "98394"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "98394"
+    }
+  ],
+  "priceLinks": []
+}

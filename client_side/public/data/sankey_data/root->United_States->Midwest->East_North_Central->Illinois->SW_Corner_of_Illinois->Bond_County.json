@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->SW_Corner_of_Illinois->Bond_County",
+  "nodes": [
+    {
+      "name": "62086"
+    },
+    {
+      "name": "62273"
+    },
+    {
+      "name": "62275"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "62273"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "62273"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "62273"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "62273"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "62273"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "62273"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "62275"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "62275"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "62275"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "62275"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "62275"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "62275"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "62086"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "62086"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "62086"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "62086"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "62086"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "62086"
+    }
+  ],
+  "priceLinks": []
+}

@@ -2,7 +2,10 @@
   "keyPath": "root->United_States->South->South_Atlantic->South_Carolina->NW_Corner_of_South_Carolina->Unknown_County",
   "nodes": [
     {
-      "name": "29066"
+      "name": "29106"
+    },
+    {
+      "name": "29535"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +23,75 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 2,
       "value": 0,
-      "region": "29066"
+      "region": "29106"
     },
     {
       "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "29066"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "29066"
-    },
-    {
-      "source": 2,
       "target": 3,
       "value": 1,
-      "region": "29066"
+      "region": "29106"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 2,
       "value": 0,
-      "region": "29066"
+      "region": "29106"
     },
     {
       "source": 3,
       "target": 4,
       "value": 1,
-      "region": "29066"
+      "region": "29106"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "29106"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "29106"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "29535"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "29535"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "29535"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "29535"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "29535"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "29535"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->South->East_South_Central->Alabama->NE_Corner_of_Alabama->St_Clair_County",
   "nodes": [
     {
+      "name": "35125"
+    },
+    {
+      "name": "35128"
+    },
+    {
+      "name": "35131"
+    },
+    {
       "name": "35146"
+    },
+    {
+      "name": "35953"
+    },
+    {
+      "name": "35987"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "35146"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "35146"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "35146"
-    },
-    {
-      "source": 2,
-      "target": 3,
+      "source": 3,
+      "target": 6,
       "value": 0,
       "region": "35146"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 7,
+      "value": 1,
+      "region": "35146"
+    },
+    {
+      "source": 7,
+      "target": 6,
       "value": 0,
       "region": "35146"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "35146"
+    },
+    {
+      "source": 8,
+      "target": 6,
       "value": 0,
       "region": "35146"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "35146"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "35953"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "35953"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "35953"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "35953"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "35953"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "35953"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "35987"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "35987"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "35987"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "35987"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "35987"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "35987"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "35125"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "35125"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "35125"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "35125"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "35125"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "35125"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "35128"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "35128"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "35128"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "35128"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "35128"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "35128"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "35131"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "35131"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "35131"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "35131"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "35131"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "35131"
     }
   ],
   "priceLinks": []

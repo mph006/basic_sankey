@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->Pennsylvania->NW_Corner_of_Pennsylvania->Potter_County",
+  "nodes": [
+    {
+      "name": "16720"
+    },
+    {
+      "name": "16746"
+    },
+    {
+      "name": "16923"
+    },
+    {
+      "name": "16927"
+    },
+    {
+      "name": "16937"
+    },
+    {
+      "name": "16948"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "16720"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "16720"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16720"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "16720"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16720"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "16720"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "16927"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "16927"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16927"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "16927"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16927"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "16927"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "16746"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "16746"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16746"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "16746"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16746"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "16746"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "16923"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "16923"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16923"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "16923"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16923"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "16923"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "16937"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "16937"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16937"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "16937"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16937"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "16937"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "16948"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "16948"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "16948"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "16948"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "16948"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "16948"
+    }
+  ],
+  "priceLinks": []
+}

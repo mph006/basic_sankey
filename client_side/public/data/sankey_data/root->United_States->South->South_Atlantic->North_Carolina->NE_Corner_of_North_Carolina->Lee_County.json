@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->North_Carolina->NE_Corner_of_North_Carolina->Lee_County",
+  "nodes": [
+    {
+      "name": "27237"
+    },
+    {
+      "name": "27330"
+    },
+    {
+      "name": "27331"
+    },
+    {
+      "name": "27332"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "27237"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "27237"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "27237"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "27237"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "27237"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "27237"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "27331"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "27331"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "27331"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "27331"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "27331"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "27331"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "27330"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "27330"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "27330"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "27330"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "27330"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "27330"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "27332"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "27332"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "27332"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "27332"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "27332"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "27332"
+    }
+  ],
+  "priceLinks": []
+}

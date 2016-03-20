@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->NW_Corner_of_Illinois->Sangamon_County",
   "nodes": [
     {
+      "name": "62561"
+    },
+    {
       "name": "62625"
+    },
+    {
+      "name": "62701"
+    },
+    {
+      "name": "62702"
+    },
+    {
+      "name": "62706"
+    },
+    {
+      "name": "62716"
+    },
+    {
+      "name": "62761"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +38,255 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 7,
       "value": 0,
-      "region": "62625"
+      "region": "62561"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 8,
+      "value": 1,
+      "region": "62561"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "62561"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62561"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "62561"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "62561"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "62625"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "62625"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "62625"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62625"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "62625"
+    },
+    {
+      "source": 9,
+      "target": 10,
       "value": 1,
       "region": "62625"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 7,
       "value": 0,
-      "region": "62625"
+      "region": "62701"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 8,
       "value": 1,
-      "region": "62625"
+      "region": "62701"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "62625"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "62625"
+      "region": "62701"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62701"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "62701"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "62701"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "62702"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "62702"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "62702"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62702"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "62702"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "62702"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "62706"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "62706"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "62706"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62706"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "62706"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "62706"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "62716"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "62716"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "62716"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62716"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "62716"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "62716"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "62761"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "62761"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "62761"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62761"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "62761"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "62761"
     }
   ],
   "priceLinks": []

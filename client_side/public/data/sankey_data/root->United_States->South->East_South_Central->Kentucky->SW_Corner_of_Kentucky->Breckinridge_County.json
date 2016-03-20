@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->SW_Corner_of_Kentucky->Breckinridge_County",
+  "nodes": [
+    {
+      "name": "40115"
+    },
+    {
+      "name": "40143"
+    },
+    {
+      "name": "40144"
+    },
+    {
+      "name": "40145"
+    },
+    {
+      "name": "40152"
+    },
+    {
+      "name": "40178"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "40143"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "40143"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "40143"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "40143"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "40143"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "40143"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "40145"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "40145"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "40145"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40145"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "40145"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "40145"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "40152"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "40152"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "40152"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "40152"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "40152"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "40152"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "40115"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "40115"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "40115"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40115"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "40115"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "40115"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "40144"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "40144"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "40144"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40144"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "40144"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "40144"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "40178"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "40178"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "40178"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40178"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "40178"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "40178"
+    }
+  ],
+  "priceLinks": []
+}

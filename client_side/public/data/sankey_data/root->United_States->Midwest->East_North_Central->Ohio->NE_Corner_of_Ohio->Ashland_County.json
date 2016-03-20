@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->NE_Corner_of_Ohio->Ashland_County",
   "nodes": [
     {
+      "name": "44805"
+    },
+    {
+      "name": "44838"
+    },
+    {
       "name": "44842"
+    },
+    {
+      "name": "44859"
+    },
+    {
+      "name": "44874"
+    },
+    {
+      "name": "44880"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "44842"
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "44838"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "44838"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "44838"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "44838"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "44838"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "44838"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "44859"
+    },
+    {
+      "source": 3,
+      "target": 7,
       "value": 1,
+      "region": "44859"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "44859"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "44859"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "44859"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "44859"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
       "region": "44842"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 7,
       "value": 1,
       "region": "44842"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 7,
+      "target": 6,
       "value": 0,
       "region": "44842"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "44842"
+    },
+    {
+      "source": 8,
+      "target": 6,
       "value": 0,
       "region": "44842"
     },
     {
-      "source": 3,
-      "target": 4,
-      "value": 0,
+      "source": 8,
+      "target": 9,
+      "value": 1,
       "region": "44842"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "44880"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "44880"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "44880"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "44880"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "44880"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "44880"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "44805"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "44805"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "44805"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "44805"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "44805"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "44805"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "44874"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "44874"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "44874"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "44874"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "44874"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "44874"
     }
   ],
   "priceLinks": []

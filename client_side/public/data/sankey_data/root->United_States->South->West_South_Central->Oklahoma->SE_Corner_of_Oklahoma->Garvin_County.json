@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->SE_Corner_of_Oklahoma->Garvin_County",
   "nodes": [
     {
-      "name": "74872"
+      "name": "73052"
+    },
+    {
+      "name": "73057"
+    },
+    {
+      "name": "73075"
+    },
+    {
+      "name": "73433"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +28,148 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "74872"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "74872"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "74872"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "74872"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "74872"
-    },
-    {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "74872"
+      "region": "73433"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "73433"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "73433"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "73433"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "73433"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "73433"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "73057"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "73057"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "73057"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "73057"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "73057"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "73057"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "73052"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "73052"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "73052"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "73052"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "73052"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "73052"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "73075"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "73075"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "73075"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "73075"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "73075"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "73075"
     }
   ],
   "priceLinks": []

@@ -2,6 +2,18 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->NE_Corner_of_Wisconsin->Oconto_County",
   "nodes": [
     {
+      "name": "54101"
+    },
+    {
+      "name": "54141"
+    },
+    {
+      "name": "54149"
+    },
+    {
+      "name": "54153"
+    },
+    {
       "name": "54154"
     },
     {
@@ -20,37 +32,181 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "54154"
+      "region": "54101"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
       "value": 1,
-      "region": "54154"
+      "region": "54101"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54101"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54101"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54101"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54101"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "54141"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "54141"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54141"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54141"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54141"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54141"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "54153"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "54153"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54153"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54153"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54153"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54153"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 5,
+      "value": 0,
+      "region": "54149"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "54149"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54149"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54149"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54149"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54149"
+    },
+    {
+      "source": 4,
+      "target": 5,
       "value": 0,
       "region": "54154"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 4,
+      "target": 6,
       "value": 1,
       "region": "54154"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "54154"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54154"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54154"
+    },
+    {
+      "source": 7,
+      "target": 8,
       "value": 1,
       "region": "54154"
     }

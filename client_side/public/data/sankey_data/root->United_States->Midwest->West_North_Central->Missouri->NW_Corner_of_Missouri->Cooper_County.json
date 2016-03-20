@@ -2,6 +2,15 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->NW_Corner_of_Missouri->Cooper_County",
   "nodes": [
     {
+      "name": "65068"
+    },
+    {
+      "name": "65233"
+    },
+    {
+      "name": "65322"
+    },
+    {
       "name": "65348"
     },
     {
@@ -19,38 +28,146 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 4,
       "value": 0,
-      "region": "65348"
+      "region": "65233"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 5,
       "value": 1,
-      "region": "65348"
+      "region": "65233"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65233"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65233"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "65233"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "65233"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "65348"
+      "region": "65322"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 5,
       "value": 1,
-      "region": "65348"
+      "region": "65322"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "65348"
+      "region": "65322"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65322"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65322"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65322"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "65068"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "65068"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "65068"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "65068"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65068"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "65068"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 0,
+      "region": "65348"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "65348"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65348"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65348"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65348"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 1,
       "region": "65348"
     }

@@ -17,6 +17,12 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "NW Corner of Puerto Rico"
+    },
+    {
+      "name": "SE Corner of Puerto Rico"
+    },
+    {
       "name": "SW Corner of Puerto Rico"
     }
   ],
@@ -24,73 +30,145 @@
     {
       "source": 0,
       "target": 1,
-      "value": 0,
+      "value": 11,
       "region": "NE Corner of Puerto Rico"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
+      "value": 53,
       "region": "NE Corner of Puerto Rico"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 5,
       "region": "NE Corner of Puerto Rico"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
+      "value": 48,
       "region": "NE Corner of Puerto Rico"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 6,
       "region": "NE Corner of Puerto Rico"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 2,
+      "value": 42,
       "region": "NE Corner of Puerto Rico"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1,
-      "region": "SW Corner of Puerto Rico"
+      "value": 4,
+      "region": "NW Corner of Puerto Rico"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 19,
+      "region": "NW Corner of Puerto Rico"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "NW Corner of Puerto Rico"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 16,
+      "region": "NW Corner of Puerto Rico"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "NW Corner of Puerto Rico"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 14,
+      "region": "NW Corner of Puerto Rico"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 5,
+      "region": "SE Corner of Puerto Rico"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 20,
+      "region": "SE Corner of Puerto Rico"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 1,
+      "region": "SE Corner of Puerto Rico"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 19,
+      "region": "SE Corner of Puerto Rico"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "SE Corner of Puerto Rico"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 16,
+      "region": "SE Corner of Puerto Rico"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 3,
+      "region": "SW Corner of Puerto Rico"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 20,
       "region": "SW Corner of Puerto Rico"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "SW Corner of Puerto Rico"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 17,
       "region": "SW Corner of Puerto Rico"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "SW Corner of Puerto Rico"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 14,
       "region": "SW Corner of Puerto Rico"
     }
   ],

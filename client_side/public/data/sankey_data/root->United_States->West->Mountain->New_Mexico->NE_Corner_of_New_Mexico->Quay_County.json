@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->West->Mountain->New_Mexico->NE_Corner_of_New_Mexico->Quay_County",
+  "nodes": [
+    {
+      "name": "88121"
+    },
+    {
+      "name": "88401"
+    },
+    {
+      "name": "88411"
+    },
+    {
+      "name": "88426"
+    },
+    {
+      "name": "88427"
+    },
+    {
+      "name": "88434"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "88121"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "88121"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "88121"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "88121"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "88121"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "88121"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "88401"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "88401"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "88401"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "88401"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "88401"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "88401"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "88426"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "88426"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "88426"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "88426"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "88426"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "88426"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "88427"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "88427"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "88427"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "88427"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "88427"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "88427"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "88411"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "88411"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "88411"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "88411"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "88411"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "88411"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "88434"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "88434"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "88434"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "88434"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "88434"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "88434"
+    }
+  ],
+  "priceLinks": []
+}

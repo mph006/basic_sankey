@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->NE_Corner_of_Kentucky->Grant_County",
+  "nodes": [
+    {
+      "name": "41010"
+    },
+    {
+      "name": "41030"
+    },
+    {
+      "name": "41035"
+    },
+    {
+      "name": "41052"
+    },
+    {
+      "name": "41054"
+    },
+    {
+      "name": "41097"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "41052"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "41052"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "41052"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "41052"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "41052"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "41052"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "41035"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "41035"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "41035"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "41035"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "41035"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "41035"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "41097"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "41097"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "41097"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "41097"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "41097"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "41097"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "41010"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "41010"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "41010"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "41010"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "41010"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "41010"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "41030"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "41030"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "41030"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "41030"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "41030"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "41030"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "41054"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "41054"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "41054"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "41054"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "41054"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "41054"
+    }
+  ],
+  "priceLinks": []
+}

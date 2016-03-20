@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Louisiana->SE_Corner_of_Louisiana->St._Mary_Parish",
+  "nodes": [
+    {
+      "name": "70381"
+    },
+    {
+      "name": "70392"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "70381"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "70381"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "70381"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "70381"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "70381"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "70381"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1,
+      "region": "70392"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "70392"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "70392"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "70392"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "70392"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "70392"
+    }
+  ],
+  "priceLinks": []
+}

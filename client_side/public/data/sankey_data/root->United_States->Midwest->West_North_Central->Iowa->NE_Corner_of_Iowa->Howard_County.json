@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->NE_Corner_of_Iowa->Howard_County",
+  "nodes": [
+    {
+      "name": "50466"
+    },
+    {
+      "name": "50628"
+    },
+    {
+      "name": "52136"
+    },
+    {
+      "name": "52155"
+    },
+    {
+      "name": "52163"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "52163"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "52163"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52163"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52163"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52163"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52163"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "52136"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "52136"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "52136"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "52136"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52136"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "52136"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "50466"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "50466"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "50466"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "50466"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "50466"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "50466"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "50628"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "50628"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "50628"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "50628"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "50628"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "50628"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "52155"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "52155"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52155"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52155"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52155"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52155"
+    }
+  ],
+  "priceLinks": []
+}

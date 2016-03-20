@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->Northeast->New_England->Vermont->NE_Corner_of_Vermont->Essex_County",
+  "nodes": [
+    {
+      "name": "05904"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "05837"
+    },
+    {
+      "name": "05901"
+    },
+    {
+      "name": "05905"
+    },
+    {
+      "name": "05824"
+    },
+    {
+      "name": "05907"
+    },
+    {
+      "name": "05840"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "05904"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "05904"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05904"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05904"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05904"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05904"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "05837"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "05837"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05837"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05837"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05837"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05837"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "05901"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "05901"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05901"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05901"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "05901"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "05901"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "05905"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "05905"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05905"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05905"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05905"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05905"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "05824"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "05824"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05824"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05824"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05824"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05824"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "05907"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1,
+      "region": "05907"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05907"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05907"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05907"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05907"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "05840"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 1,
+      "region": "05840"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05840"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05840"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "05840"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "05840"
+    }
+  ],
+  "priceLinks": []
+}

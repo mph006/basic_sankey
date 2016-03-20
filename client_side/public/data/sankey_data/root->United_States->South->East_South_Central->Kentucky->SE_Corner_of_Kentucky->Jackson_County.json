@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->SE_Corner_of_Kentucky->Jackson_County",
+  "nodes": [
+    {
+      "name": "40402"
+    },
+    {
+      "name": "40447"
+    },
+    {
+      "name": "40481"
+    },
+    {
+      "name": "40486"
+    },
+    {
+      "name": "40488"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "40402"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "40402"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "40402"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "40402"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "40402"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40402"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "40488"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "40488"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "40488"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "40488"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "40488"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40488"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "40481"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "40481"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "40481"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "40481"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "40481"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "40481"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "40447"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "40447"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "40447"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "40447"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "40447"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "40447"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "40486"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "40486"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "40486"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "40486"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "40486"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40486"
+    }
+  ],
+  "priceLinks": []
+}

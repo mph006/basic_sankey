@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->South_Atlantic->South_Carolina->SW_Corner_of_South_Carolina",
   "nodes": [
     {
-      "name": "Hampton County"
+      "name": "Aiken County"
     },
     {
       "name": "Dropped_Out"
@@ -17,81 +17,393 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Aiken County"
+      "name": "Hampton County"
+    },
+    {
+      "name": "Barnwell County"
+    },
+    {
+      "name": "Jasper County"
+    },
+    {
+      "name": "Bamberg County"
+    },
+    {
+      "name": "Allendale County"
+    },
+    {
+      "name": "Orangeburg County"
+    },
+    {
+      "name": "McCormick County"
+    },
+    {
+      "name": "Edgefield County"
+    },
+    {
+      "name": "Unknown County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Hampton County"
+      "value": 1,
+      "region": "Aiken County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Hampton County"
+      "value": 12,
+      "region": "Aiken County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Hampton County"
+      "value": 2,
+      "region": "Aiken County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Hampton County"
+      "value": 10,
+      "region": "Aiken County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Hampton County"
+      "value": 0,
+      "region": "Aiken County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Hampton County"
+      "value": 10,
+      "region": "Aiken County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 0,
-      "region": "Aiken County"
+      "region": "Hampton County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Aiken County"
+      "value": 10,
+      "region": "Hampton County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Aiken County"
+      "region": "Hampton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Hampton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Hampton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Hampton County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Barnwell County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 4,
+      "region": "Barnwell County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Barnwell County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Barnwell County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Barnwell County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Barnwell County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Jasper County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 5,
+      "region": "Jasper County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Jasper County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Jasper County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Jasper County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Jasper County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Bamberg County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 3,
+      "region": "Bamberg County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Bamberg County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Bamberg County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Bamberg County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Bamberg County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Allendale County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 4,
+      "region": "Allendale County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Allendale County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Allendale County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Allendale County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Allendale County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "Orangeburg County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 2,
+      "region": "Orangeburg County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Orangeburg County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Orangeburg County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Orangeburg County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Orangeburg County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "McCormick County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 1,
+      "region": "McCormick County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "McCormick County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 1,
-      "region": "Aiken County"
+      "region": "McCormick County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Aiken County"
+      "value": 0,
+      "region": "McCormick County"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 1,
+      "region": "McCormick County"
+    },
+    {
+      "source": 12,
+      "target": 1,
       "value": 0,
-      "region": "Aiken County"
+      "region": "Edgefield County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 1,
+      "region": "Edgefield County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Edgefield County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Edgefield County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Edgefield County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Edgefield County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
     }
   ],
   "priceLinks": []

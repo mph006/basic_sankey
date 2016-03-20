@@ -2,6 +2,12 @@
   "keyPath": "root->United_States->South->East_South_Central->Alabama->NE_Corner_of_Alabama->Chambers_County",
   "nodes": [
     {
+      "name": "36854"
+    },
+    {
+      "name": "36862"
+    },
+    {
       "name": "36863"
     },
     {
@@ -20,21 +26,75 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 1,
-      "region": "36863"
+      "target": 3,
+      "value": 0,
+      "region": "36854"
     },
     {
       "source": 0,
-      "target": 2,
-      "value": 0,
-      "region": "36863"
+      "target": 4,
+      "value": 1,
+      "region": "36854"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "36854"
+    },
+    {
+      "source": 4,
+      "target": 5,
       "value": 0,
-      "region": "36863"
+      "region": "36854"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "36854"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "36854"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "36862"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "36862"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "36862"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "36862"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "36862"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "36862"
     },
     {
       "source": 2,
@@ -43,15 +103,33 @@
       "region": "36863"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "36863"
+    },
+    {
+      "source": 4,
+      "target": 3,
       "value": 0,
       "region": "36863"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "36863"
+    },
+    {
+      "source": 5,
+      "target": 3,
       "value": 0,
+      "region": "36863"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
       "region": "36863"
     }
   ],

@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Northeast->New_England->Massachusetts->NW_Corner_of_Massachusetts->Unknown_County",
   "nodes": [
     {
-      "name": "01114"
+      "name": "01393"
     },
     {
       "name": "Dropped_Out"
@@ -15,6 +15,15 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "01231"
+    },
+    {
+      "name": "01114"
+    },
+    {
+      "name": "01634"
     }
   ],
   "countLinks": [
@@ -22,10 +31,82 @@
       "source": 0,
       "target": 1,
       "value": 0,
-      "region": "01114"
+      "region": "01393"
     },
     {
       "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "01393"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "01393"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "01393"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "01393"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "01393"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "01231"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "01231"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "01231"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "01231"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "01231"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "01231"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "01114"
+    },
+    {
+      "source": 6,
       "target": 2,
       "value": 1,
       "region": "01114"
@@ -33,13 +114,13 @@
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "01114"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 0,
       "region": "01114"
     },
     {
@@ -51,8 +132,44 @@
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 0,
       "region": "01114"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "01634"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "01634"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "01634"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "01634"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "01634"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "01634"
     }
   ],
   "priceLinks": []

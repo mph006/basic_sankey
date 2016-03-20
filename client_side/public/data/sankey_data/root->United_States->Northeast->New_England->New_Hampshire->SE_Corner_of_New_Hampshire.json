@@ -17,84 +17,99 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Strafford County"
+      "name": "Carroll County"
     },
     {
       "name": "Belknap County"
+    },
+    {
+      "name": "Strafford County"
+    },
+    {
+      "name": "Hillsborough County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Merrimack County"
+    },
+    {
+      "name": "Grafton County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
+      "value": 8,
       "region": "Rockingham County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
+      "value": 26,
       "region": "Rockingham County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "Rockingham County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 23,
       "region": "Rockingham County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
+      "value": 3,
       "region": "Rockingham County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 20,
       "region": "Rockingham County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Strafford County"
+      "value": 3,
+      "region": "Carroll County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 2,
-      "region": "Strafford County"
+      "value": 11,
+      "region": "Carroll County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Strafford County"
+      "value": 1,
+      "region": "Carroll County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
-      "region": "Strafford County"
+      "value": 10,
+      "region": "Carroll County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Strafford County"
+      "value": 1,
+      "region": "Carroll County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 2,
-      "region": "Strafford County"
+      "value": 9,
+      "region": "Carroll County"
     },
     {
       "source": 6,
@@ -105,32 +120,212 @@
     {
       "source": 6,
       "target": 2,
-      "value": 1,
+      "value": 11,
       "region": "Belknap County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Belknap County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 10,
       "region": "Belknap County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "Belknap County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 7,
       "region": "Belknap County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "Strafford County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 11,
+      "region": "Strafford County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Strafford County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Strafford County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Strafford County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 10,
+      "region": "Strafford County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 10,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 8,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Unknown County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Merrimack County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 8,
+      "region": "Merrimack County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Merrimack County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Merrimack County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Merrimack County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Merrimack County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Grafton County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 1,
+      "region": "Grafton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Grafton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Grafton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Grafton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Grafton County"
     }
   ],
   "priceLinks": []

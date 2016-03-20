@@ -2,7 +2,10 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->NE_Corner_of_Ohio->Erie_County",
   "nodes": [
     {
-      "name": "44839"
+      "name": "44814"
+    },
+    {
+      "name": "44846"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +23,75 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 2,
       "value": 0,
-      "region": "44839"
+      "region": "44814"
     },
     {
       "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "44839"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "44839"
-    },
-    {
-      "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "44839"
+      "value": 1,
+      "region": "44814"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 2,
       "value": 0,
-      "region": "44839"
+      "region": "44814"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 1,
+      "region": "44814"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "44814"
+    },
+    {
+      "source": 4,
+      "target": 5,
       "value": 0,
-      "region": "44839"
+      "region": "44814"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "44846"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "44846"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "44846"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "44846"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "44846"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "44846"
     }
   ],
   "priceLinks": []

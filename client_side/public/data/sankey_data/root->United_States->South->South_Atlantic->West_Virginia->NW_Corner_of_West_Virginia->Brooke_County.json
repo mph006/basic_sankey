@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->NW_Corner_of_West_Virginia->Brooke_County",
+  "nodes": [
+    {
+      "name": "26030"
+    },
+    {
+      "name": "26032"
+    },
+    {
+      "name": "26035"
+    },
+    {
+      "name": "26037"
+    },
+    {
+      "name": "26058"
+    },
+    {
+      "name": "26070"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "26032"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "26032"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26032"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "26032"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "26032"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "26032"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "26037"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "26037"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26037"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26037"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "26037"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "26037"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "26058"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "26058"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26058"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26058"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "26058"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "26058"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "26030"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "26030"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26030"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26030"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "26030"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "26030"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "26035"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "26035"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26035"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26035"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "26035"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "26035"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "26070"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "26070"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "26070"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26070"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "26070"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "26070"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Virginia->SW_Corner_of_Virginia->Alleghany_County",
+  "nodes": [
+    {
+      "name": "24448"
+    },
+    {
+      "name": "24457"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "24448"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "24448"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "24448"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "24448"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "24448"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "24448"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "24457"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "24457"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "24457"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "24457"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "24457"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "24457"
+    }
+  ],
+  "priceLinks": []
+}

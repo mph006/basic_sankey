@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Louisiana->NW_Corner_of_Louisiana->Winn_Parish",
+  "nodes": [
+    {
+      "name": "71404"
+    },
+    {
+      "name": "71410"
+    },
+    {
+      "name": "71422"
+    },
+    {
+      "name": "71440"
+    },
+    {
+      "name": "71473"
+    },
+    {
+      "name": "71483"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "71483"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "71483"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71483"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71483"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "71483"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "71483"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "71404"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "71404"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71404"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71404"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "71404"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "71404"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "71410"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "71410"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71410"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71410"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "71410"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "71410"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "71422"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "71422"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71422"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "71422"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "71422"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "71422"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "71440"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "71440"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71440"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71440"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "71440"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "71440"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "71473"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "71473"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71473"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "71473"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "71473"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "71473"
+    }
+  ],
+  "priceLinks": []
+}

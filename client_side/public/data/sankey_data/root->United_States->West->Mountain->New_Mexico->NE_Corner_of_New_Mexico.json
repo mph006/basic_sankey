@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Mountain->New_Mexico->NE_Corner_of_New_Mexico",
   "nodes": [
     {
-      "name": "Mora County"
+      "name": "San Miguel County"
     },
     {
       "name": "Dropped_Out"
@@ -20,68 +20,101 @@
       "name": "Taos County"
     },
     {
+      "name": "Mora County"
+    },
+    {
+      "name": "Quay County"
+    },
+    {
+      "name": "Union County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
       "name": "Santa Fe County"
+    },
+    {
+      "name": "Colfax County"
+    },
+    {
+      "name": "Guadalupe County"
+    },
+    {
+      "name": "Torrance County"
+    },
+    {
+      "name": "Rio Arriba County"
+    },
+    {
+      "name": "De Baca County"
+    },
+    {
+      "name": "Harding County"
+    },
+    {
+      "name": "Curry County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Mora County"
+      "value": 1,
+      "region": "San Miguel County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Mora County"
+      "value": 13,
+      "region": "San Miguel County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Mora County"
+      "value": 0,
+      "region": "San Miguel County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Mora County"
+      "value": 13,
+      "region": "San Miguel County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Mora County"
+      "value": 2,
+      "region": "San Miguel County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Mora County"
+      "value": 11,
+      "region": "San Miguel County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "Taos County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
+      "value": 15,
       "region": "Taos County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 4,
       "region": "Taos County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 11,
       "region": "Taos County"
     },
     {
@@ -93,19 +126,163 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 10,
       "region": "Taos County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Santa Fe County"
+      "value": 2,
+      "region": "Mora County"
     },
     {
       "source": 6,
       "target": 2,
+      "value": 8,
+      "region": "Mora County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Mora County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Mora County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Mora County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Mora County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Quay County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 6,
+      "region": "Quay County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 1,
+      "region": "Quay County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Quay County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Quay County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Quay County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Union County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 4,
+      "region": "Union County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Union County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Union County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Union County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Union County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "Santa Fe County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 5,
       "region": "Santa Fe County"
     },
     {
@@ -117,7 +294,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 4,
       "region": "Santa Fe County"
     },
     {
@@ -129,8 +306,260 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 4,
       "region": "Santa Fe County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Colfax County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 4,
+      "region": "Colfax County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Colfax County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Colfax County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Colfax County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Colfax County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Guadalupe County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 3,
+      "region": "Guadalupe County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Guadalupe County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Guadalupe County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Guadalupe County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Guadalupe County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Torrance County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 5,
+      "region": "Torrance County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Torrance County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Torrance County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Torrance County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Torrance County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Rio Arriba County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 3,
+      "region": "Rio Arriba County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Rio Arriba County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Rio Arriba County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Rio Arriba County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Rio Arriba County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "De Baca County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 1,
+      "region": "De Baca County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "De Baca County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "De Baca County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "De Baca County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "De Baca County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Harding County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 2,
+      "region": "Harding County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Harding County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Harding County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Harding County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Harding County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 2,
+      "region": "Curry County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 0,
+      "region": "Curry County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Curry County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Curry County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Curry County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Curry County"
     }
   ],
   "priceLinks": []

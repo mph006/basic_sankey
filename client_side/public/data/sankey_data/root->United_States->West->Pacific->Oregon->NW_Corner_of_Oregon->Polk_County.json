@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->West->Pacific->Oregon->NW_Corner_of_Oregon->Polk_County",
   "nodes": [
     {
-      "name": "97344"
+      "name": "97304"
+    },
+    {
+      "name": "97347"
+    },
+    {
+      "name": "97361"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +26,111 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 3,
       "value": 0,
-      "region": "97344"
+      "region": "97304"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 4,
       "value": 1,
-      "region": "97344"
+      "region": "97304"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 3,
       "value": 0,
-      "region": "97344"
+      "region": "97304"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "97304"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "97304"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "97304"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "97347"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "97347"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "97347"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "97347"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "97347"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "97347"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "97344"
-    },
-    {
-      "source": 3,
-      "target": 1,
       "value": 0,
-      "region": "97344"
+      "region": "97361"
     },
     {
-      "source": 3,
+      "source": 2,
       "target": 4,
       "value": 1,
-      "region": "97344"
+      "region": "97361"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "97361"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "97361"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "97361"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "97361"
     }
   ],
   "priceLinks": []

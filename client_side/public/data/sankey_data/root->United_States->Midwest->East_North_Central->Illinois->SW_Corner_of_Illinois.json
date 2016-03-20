@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->SW_Corner_of_Illinois",
   "nodes": [
     {
-      "name": "Pike County"
+      "name": "Sangamon County"
     },
     {
       "name": "Dropped_Out"
@@ -29,45 +29,90 @@
       "name": "Randolph County"
     },
     {
+      "name": "Pike County"
+    },
+    {
+      "name": "Greene County"
+    },
+    {
+      "name": "Calhoun County"
+    },
+    {
+      "name": "Monroe County"
+    },
+    {
+      "name": "Washington County"
+    },
+    {
+      "name": "Clinton County"
+    },
+    {
       "name": "Jersey County"
+    },
+    {
+      "name": "Montgomery County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Bond County"
+    },
+    {
+      "name": "Scott County"
+    },
+    {
+      "name": "St. Clair County"
+    },
+    {
+      "name": "Morgan County"
+    },
+    {
+      "name": "Jackson County"
+    },
+    {
+      "name": "Perry County"
+    },
+    {
+      "name": "Christian County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Pike County"
+      "value": 5,
+      "region": "Sangamon County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
-      "region": "Pike County"
+      "value": 24,
+      "region": "Sangamon County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Pike County"
+      "value": 5,
+      "region": "Sangamon County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
-      "region": "Pike County"
+      "value": 19,
+      "region": "Sangamon County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Pike County"
+      "value": 2,
+      "region": "Sangamon County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Pike County"
+      "value": 17,
+      "region": "Sangamon County"
     },
     {
       "source": 5,
@@ -78,43 +123,43 @@
     {
       "source": 5,
       "target": 2,
-      "value": 1,
+      "value": 17,
       "region": "St Clair County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 3,
       "region": "St Clair County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 14,
       "region": "St Clair County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "St Clair County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 11,
       "region": "St Clair County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
+      "value": 2,
       "region": "Madison County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 2,
+      "value": 13,
       "region": "Madison County"
     },
     {
@@ -126,31 +171,31 @@
     {
       "source": 2,
       "target": 3,
-      "value": 2,
+      "value": 13,
       "region": "Madison County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
+      "value": 0,
       "region": "Madison County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 13,
       "region": "Madison County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1,
+      "value": 2,
       "region": "Macoupin County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0,
+      "value": 15,
       "region": "Macoupin County"
     },
     {
@@ -162,31 +207,31 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 15,
       "region": "Macoupin County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "Macoupin County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 12,
       "region": "Macoupin County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Randolph County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 1,
+      "value": 7,
       "region": "Randolph County"
     },
     {
@@ -198,31 +243,247 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 7,
       "region": "Randolph County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
+      "value": 0,
       "region": "Randolph County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 7,
       "region": "Randolph County"
     },
     {
       "source": 9,
       "target": 1,
       "value": 0,
-      "region": "Jersey County"
+      "region": "Pike County"
     },
     {
       "source": 9,
       "target": 2,
+      "value": 10,
+      "region": "Pike County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pike County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Pike County"
+    },
+    {
+      "source": 3,
+      "target": 1,
       "value": 1,
+      "region": "Pike County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 9,
+      "region": "Pike County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 8,
+      "region": "Greene County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Greene County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Greene County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Greene County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 5,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Monroe County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 7,
+      "region": "Monroe County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Monroe County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Monroe County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Monroe County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Monroe County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 3,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Washington County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 2,
+      "region": "Clinton County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 4,
+      "region": "Clinton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Clinton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Clinton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Clinton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Clinton County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Jersey County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 6,
       "region": "Jersey County"
     },
     {
@@ -234,20 +495,344 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 6,
       "region": "Jersey County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Jersey County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 5,
       "region": "Jersey County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 8,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Bond County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 3,
+      "region": "Bond County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Bond County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Bond County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Bond County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Bond County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Scott County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 2,
+      "region": "Scott County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Scott County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Scott County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Scott County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Scott County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 1,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 3,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 2,
+      "region": "Morgan County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 3,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Morgan County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 1,
+      "region": "Jackson County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 1,
+      "region": "Jackson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Jackson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Jackson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Jackson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Jackson County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Perry County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 2,
+      "region": "Perry County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Perry County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Perry County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Perry County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Perry County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Christian County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 1,
+      "region": "Christian County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Christian County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Christian County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Christian County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Christian County"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Tennessee->NE_Corner_of_Tennessee->Putnam_County",
+  "nodes": [
+    {
+      "name": "38501"
+    },
+    {
+      "name": "38503"
+    },
+    {
+      "name": "38505"
+    },
+    {
+      "name": "38574"
+    },
+    {
+      "name": "38582"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "38501"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "38501"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "38501"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38501"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38501"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38501"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "38503"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "38503"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "38503"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38503"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38503"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38503"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "38582"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "38582"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "38582"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38582"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38582"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38582"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "38505"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "38505"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "38505"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "38505"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38505"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "38505"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "38574"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "38574"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "38574"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38574"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38574"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38574"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Georgia->SW_Corner_of_Georgia->Colquitt_County",
+  "nodes": [
+    {
+      "name": "31722"
+    },
+    {
+      "name": "31744"
+    },
+    {
+      "name": "31753"
+    },
+    {
+      "name": "31771"
+    },
+    {
+      "name": "31776"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "31753"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "31753"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "31753"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "31753"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "31753"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "31753"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "31776"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "31776"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "31776"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "31776"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "31776"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "31776"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "31722"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "31722"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "31722"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "31722"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "31722"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "31722"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "31744"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "31744"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "31744"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "31744"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "31744"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "31744"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "31771"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "31771"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "31771"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "31771"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "31771"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "31771"
+    }
+  ],
+  "priceLinks": []
+}

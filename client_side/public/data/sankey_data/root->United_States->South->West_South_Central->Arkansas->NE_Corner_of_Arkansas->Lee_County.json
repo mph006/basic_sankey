@@ -2,10 +2,16 @@
   "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Lee_County",
   "nodes": [
     {
+      "name": "72311"
+    },
+    {
       "name": "72341"
     },
     {
-      "name": "72360"
+      "name": "72352"
+    },
+    {
+      "name": "72368"
     },
     {
       "name": "Dropped_Out"
@@ -22,76 +28,148 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 2,
-      "value": 0,
-      "region": "72341"
-    },
-    {
-      "source": 0,
-      "target": 3,
-      "value": 1,
-      "region": "72341"
-    },
-    {
-      "source": 3,
-      "target": 2,
-      "value": 0,
-      "region": "72341"
-    },
-    {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "72341"
+      "value": 0,
+      "region": "72368"
     },
     {
-      "source": 4,
-      "target": 2,
-      "value": 1,
-      "region": "72341"
-    },
-    {
-      "source": 4,
+      "source": 3,
       "target": 5,
+      "value": 1,
+      "region": "72368"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72368"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72368"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "72368"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72368"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "72311"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "72311"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72311"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72311"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72311"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72311"
+    },
+    {
+      "source": 1,
+      "target": 4,
       "value": 0,
       "region": "72341"
     },
     {
       "source": 1,
-      "target": 2,
-      "value": 0,
-      "region": "72360"
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "value": 1,
-      "region": "72360"
-    },
-    {
-      "source": 3,
-      "target": 2,
-      "value": 0,
-      "region": "72360"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "72360"
-    },
-    {
-      "source": 4,
-      "target": 2,
-      "value": 0,
-      "region": "72360"
-    },
-    {
-      "source": 4,
       "target": 5,
       "value": 1,
-      "region": "72360"
+      "region": "72341"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72341"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72341"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "72341"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72341"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "72352"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "72352"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72352"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "72352"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72352"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72352"
     }
   ],
   "priceLinks": []

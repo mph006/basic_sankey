@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->NW_Corner_of_Wisconsin->Bayfield_County",
+  "nodes": [
+    {
+      "name": "54814"
+    },
+    {
+      "name": "54839"
+    },
+    {
+      "name": "54844"
+    },
+    {
+      "name": "54856"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "54839"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "54839"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "54839"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "54839"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "54839"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "54839"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "54814"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "54814"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "54814"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "54814"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "54814"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54814"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "54844"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "54844"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "54844"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "54844"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "54844"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54844"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "54856"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "54856"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "54856"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "54856"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "54856"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "54856"
+    }
+  ],
+  "priceLinks": []
+}

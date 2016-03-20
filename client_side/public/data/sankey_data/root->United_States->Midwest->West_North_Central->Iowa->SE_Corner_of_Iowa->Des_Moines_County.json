@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->SE_Corner_of_Iowa->Des_Moines_County",
+  "nodes": [
+    {
+      "name": "52601"
+    },
+    {
+      "name": "52637"
+    },
+    {
+      "name": "52650"
+    },
+    {
+      "name": "52655"
+    },
+    {
+      "name": "52660"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "52637"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "52637"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52637"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52637"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52637"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52637"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "52601"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "52601"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52601"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52601"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52601"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52601"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "52650"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "52650"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52650"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52650"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52650"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52650"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "52655"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "52655"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52655"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52655"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52655"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52655"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "52660"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "52660"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52660"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52660"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52660"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52660"
+    }
+  ],
+  "priceLinks": []
+}

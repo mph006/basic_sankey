@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Indiana->NE_Corner_of_Indiana->Howard_County",
   "nodes": [
     {
+      "name": "46901"
+    },
+    {
+      "name": "46902"
+    },
+    {
       "name": "46904"
+    },
+    {
+      "name": "46936"
+    },
+    {
+      "name": "46937"
+    },
+    {
+      "name": "46965"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +35,219 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 6,
       "value": 0,
-      "region": "46904"
+      "region": "46901"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 7,
       "value": 1,
+      "region": "46901"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "46901"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46901"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46901"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "46901"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "46965"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "46965"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "46965"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46965"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46965"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "46965"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "46902"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "46902"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "46902"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46902"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46902"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "46902"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
       "region": "46904"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 7,
       "value": 1,
       "region": "46904"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 7,
+      "target": 6,
       "value": 0,
       "region": "46904"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46904"
+    },
+    {
+      "source": 8,
+      "target": 6,
       "value": 0,
       "region": "46904"
     },
     {
-      "source": 3,
-      "target": 4,
-      "value": 0,
+      "source": 8,
+      "target": 9,
+      "value": 1,
       "region": "46904"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "46936"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "46936"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "46936"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46936"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46936"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "46936"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "46937"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "46937"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "46937"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "46937"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46937"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "46937"
     }
   ],
   "priceLinks": []

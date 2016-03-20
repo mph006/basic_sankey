@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Oklahoma->NE_Corner_of_Oklahoma->McIntosh_County",
+  "nodes": [
+    {
+      "name": "74426"
+    },
+    {
+      "name": "74428"
+    },
+    {
+      "name": "74438"
+    },
+    {
+      "name": "74459"
+    },
+    {
+      "name": "74461"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "74461"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "74461"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74461"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74461"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74461"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74461"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "74426"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "74426"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74426"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74426"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74426"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74426"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "74428"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "74428"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74428"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74428"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74428"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74428"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "74438"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "74438"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74438"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74438"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74438"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74438"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "74459"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "74459"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "74459"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "74459"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74459"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "74459"
+    }
+  ],
+  "priceLinks": []
+}

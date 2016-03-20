@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->NW_Corner_of_Iowa->Sac_County",
   "nodes": [
     {
-      "name": "51053"
+      "name": "50583"
+    },
+    {
+      "name": "51450"
+    },
+    {
+      "name": "51466"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +25,112 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "51053"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "51053"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "51053"
-    },
-    {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "51053"
-    },
-    {
-      "source": 3,
-      "target": 1,
       "value": 0,
-      "region": "51053"
+      "region": "51466"
     },
     {
-      "source": 3,
+      "source": 2,
       "target": 4,
       "value": 1,
-      "region": "51053"
+      "region": "51466"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "51466"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "51466"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "51466"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "51466"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "50583"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "50583"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "50583"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "50583"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "50583"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "50583"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "51450"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "51450"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "51450"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "51450"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "51450"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "51450"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Mountain->Arizona->NW_Corner_of_Arizona",
   "nodes": [
     {
-      "name": "Yavapai County"
+      "name": "Mohave County"
     },
     {
       "name": "Dropped_Out"
@@ -17,81 +17,159 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Mohave County"
+      "name": "Yavapai County"
+    },
+    {
+      "name": "Coconino County"
+    },
+    {
+      "name": "Unknown County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Yavapai County"
+      "value": 2,
+      "region": "Mohave County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Yavapai County"
+      "value": 20,
+      "region": "Mohave County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Yavapai County"
+      "value": 1,
+      "region": "Mohave County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Yavapai County"
+      "value": 19,
+      "region": "Mohave County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Yavapai County"
+      "value": 3,
+      "region": "Mohave County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Yavapai County"
+      "value": 16,
+      "region": "Mohave County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1,
-      "region": "Mohave County"
+      "value": 2,
+      "region": "Yavapai County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0,
-      "region": "Mohave County"
+      "value": 18,
+      "region": "Yavapai County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Mohave County"
+      "value": 2,
+      "region": "Yavapai County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Mohave County"
+      "value": 16,
+      "region": "Yavapai County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Yavapai County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 15,
+      "region": "Yavapai County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 2,
+      "region": "Coconino County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 6,
+      "region": "Coconino County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Coconino County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Coconino County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Mohave County"
+      "region": "Coconino County"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 5,
+      "region": "Coconino County"
+    },
+    {
+      "source": 7,
+      "target": 1,
       "value": 0,
-      "region": "Mohave County"
+      "region": "Unknown County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Unknown County"
     }
   ],
   "priceLinks": []

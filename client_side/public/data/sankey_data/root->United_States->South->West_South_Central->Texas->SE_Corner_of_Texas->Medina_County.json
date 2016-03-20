@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas->SE_Corner_of_Texas->Medina_County",
   "nodes": [
     {
+      "name": "78009"
+    },
+    {
       "name": "78039"
+    },
+    {
+      "name": "78056"
+    },
+    {
+      "name": "78059"
+    },
+    {
+      "name": "78850"
+    },
+    {
+      "name": "78861"
+    },
+    {
+      "name": "78886"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +37,256 @@
   ],
   "countLinks": [
     {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "78861"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "78861"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "78861"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "78861"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "78861"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "78861"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 7,
+      "value": 0,
+      "region": "78009"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "78009"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "78009"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "78009"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "78009"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "78009"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "78886"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "78886"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "78886"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "78886"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "78886"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "78886"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "78850"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "78850"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "78850"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "78850"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "78850"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "78850"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "78039"
+    },
+    {
+      "source": 1,
+      "target": 8,
       "value": 0,
       "region": "78039"
     },
     {
-      "source": 0,
-      "target": 2,
-      "value": 1,
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "78039"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "78039"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "78039"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
       "region": "78039"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 7,
       "value": 0,
-      "region": "78039"
+      "region": "78056"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 8,
       "value": 1,
-      "region": "78039"
+      "region": "78056"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "78039"
+      "region": "78056"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "78056"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "78056"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "78056"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 7,
+      "value": 0,
+      "region": "78059"
+    },
+    {
+      "source": 3,
+      "target": 8,
       "value": 1,
-      "region": "78039"
+      "region": "78059"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "78059"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "78059"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "78059"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "78059"
     }
   ],
   "priceLinks": []

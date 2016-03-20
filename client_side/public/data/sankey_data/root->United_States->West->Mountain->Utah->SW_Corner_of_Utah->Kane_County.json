@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Utah->SW_Corner_of_Utah->Kane_County",
+  "nodes": [
+    {
+      "name": "84710"
+    },
+    {
+      "name": "84729"
+    },
+    {
+      "name": "84741"
+    },
+    {
+      "name": "84755"
+    },
+    {
+      "name": "84762"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "84710"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "84710"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84710"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "84710"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "84710"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84710"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "84741"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "84741"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84741"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "84741"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "84741"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84741"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "84729"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "84729"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84729"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "84729"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "84729"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "84729"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "84755"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "84755"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84755"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "84755"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "84755"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "84755"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "84762"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "84762"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84762"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "84762"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "84762"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "84762"
+    }
+  ],
+  "priceLinks": []
+}

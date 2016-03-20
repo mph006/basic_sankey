@@ -1,4 +1,7 @@
-var fs = require('fs');
+// var fs = require('fs');
+// errno: -24,
+//code: 'EMFILE',
+var fs = require('graceful-fs')
 var csv = require("fast-csv");
 // var d3 = require('d3');
 var fetchNest = require('./fetchNest.js').fetchNest;

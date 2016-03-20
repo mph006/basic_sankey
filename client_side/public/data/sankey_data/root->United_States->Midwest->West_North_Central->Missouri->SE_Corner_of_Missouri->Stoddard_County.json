@@ -2,7 +2,28 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SE_Corner_of_Missouri->Stoddard_County",
   "nodes": [
     {
-      "name": "63833"
+      "name": "63735"
+    },
+    {
+      "name": "63738"
+    },
+    {
+      "name": "63822"
+    },
+    {
+      "name": "63825"
+    },
+    {
+      "name": "63841"
+    },
+    {
+      "name": "63850"
+    },
+    {
+      "name": "63936"
+    },
+    {
+      "name": "63960"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +40,292 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 8,
+      "value": 0,
+      "region": "63822"
+    },
+    {
+      "source": 2,
+      "target": 9,
       "value": 1,
-      "region": "63833"
+      "region": "63822"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "63822"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "63822"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "63822"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "63822"
     },
     {
       "source": 0,
-      "target": 2,
-      "value": 0,
-      "region": "63833"
+      "target": 8,
+      "value": 1,
+      "region": "63735"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 0,
+      "target": 9,
       "value": 0,
-      "region": "63833"
+      "region": "63735"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 9,
+      "target": 8,
       "value": 0,
-      "region": "63833"
+      "region": "63735"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "63735"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "63735"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "63735"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "63841"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 1,
+      "region": "63841"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "63841"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "63841"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "63841"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "63841"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 0,
+      "region": "63738"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 1,
+      "region": "63738"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "63738"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "63738"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "63738"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "63738"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 8,
       "value": 0,
-      "region": "63833"
+      "region": "63825"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 9,
+      "value": 1,
+      "region": "63825"
+    },
+    {
+      "source": 9,
+      "target": 8,
       "value": 0,
-      "region": "63833"
+      "region": "63825"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "63825"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "63825"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "63825"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "63850"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 1,
+      "region": "63850"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "63850"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "63850"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "63850"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "63850"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 0,
+      "region": "63936"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 1,
+      "region": "63936"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 1,
+      "region": "63936"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "63936"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "63936"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "63936"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "63960"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 1,
+      "region": "63960"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "63960"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "63960"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "63960"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "63960"
     }
   ],
   "priceLinks": []

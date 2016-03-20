@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Nebraska->NW_Corner_of_Nebraska->Grant_County",
+  "nodes": [
+    {
+      "name": "69333"
+    },
+    {
+      "name": "69366"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "69333"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "69333"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "69333"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "69333"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "69333"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "69333"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "69366"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "69366"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "69366"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "69366"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "69366"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "69366"
+    }
+  ],
+  "priceLinks": []
+}

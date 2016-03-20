@@ -2,10 +2,22 @@
   "keyPath": "root->United_States->South->South_Atlantic->Georgia->NW_Corner_of_Georgia->Hall_County",
   "nodes": [
     {
+      "name": "30501"
+    },
+    {
+      "name": "30502"
+    },
+    {
       "name": "30503"
     },
     {
-      "name": "30543"
+      "name": "30542"
+    },
+    {
+      "name": "30554"
+    },
+    {
+      "name": "30566"
     },
     {
       "name": "Dropped_Out"
@@ -23,75 +35,219 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
       "value": 0,
-      "region": "30503"
+      "region": "30501"
     },
     {
       "source": 0,
-      "target": 3,
+      "target": 7,
       "value": 1,
-      "region": "30503"
+      "region": "30501"
     },
     {
-      "source": 3,
-      "target": 2,
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "30501"
+    },
+    {
+      "source": 7,
+      "target": 8,
       "value": 1,
-      "region": "30503"
+      "region": "30501"
     },
     {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "30503"
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "30501"
     },
     {
-      "source": 4,
-      "target": 2,
+      "source": 8,
+      "target": 9,
       "value": 0,
-      "region": "30503"
-    },
-    {
-      "source": 4,
-      "target": 5,
-      "value": 0,
-      "region": "30503"
+      "region": "30501"
     },
     {
       "source": 1,
-      "target": 2,
+      "target": 6,
       "value": 0,
-      "region": "30543"
+      "region": "30502"
     },
     {
       "source": 1,
-      "target": 3,
+      "target": 7,
       "value": 1,
-      "region": "30543"
+      "region": "30502"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "30502"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30502"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "30502"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "30502"
     },
     {
       "source": 3,
-      "target": 2,
-      "value": 1,
-      "region": "30543"
+      "target": 6,
+      "value": 0,
+      "region": "30542"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 7,
+      "value": 1,
+      "region": "30542"
+    },
+    {
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "30543"
+      "region": "30542"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30542"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "30542"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "30542"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "30503"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "30503"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "30503"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30503"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "30503"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "30503"
     },
     {
       "source": 4,
-      "target": 2,
+      "target": 6,
       "value": 0,
-      "region": "30543"
+      "region": "30554"
     },
     {
       "source": 4,
-      "target": 5,
+      "target": 7,
+      "value": 1,
+      "region": "30554"
+    },
+    {
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "30543"
+      "region": "30554"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30554"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "30554"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "30554"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "30566"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "30566"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "30566"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30566"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "30566"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "30566"
     }
   ],
   "priceLinks": []

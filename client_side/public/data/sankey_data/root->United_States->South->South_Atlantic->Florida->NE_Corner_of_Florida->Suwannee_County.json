@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Florida->NE_Corner_of_Florida->Suwannee_County",
+  "nodes": [
+    {
+      "name": "32008"
+    },
+    {
+      "name": "32060"
+    },
+    {
+      "name": "32062"
+    },
+    {
+      "name": "32064"
+    },
+    {
+      "name": "32071"
+    },
+    {
+      "name": "32094"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "32064"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "32064"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "32064"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "32064"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "32064"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "32064"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "32008"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "32008"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "32008"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "32008"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "32008"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "32008"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "32062"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "32062"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "32062"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "32062"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "32062"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "32062"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "32071"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "32071"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "32071"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "32071"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "32071"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "32071"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "32060"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "32060"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "32060"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "32060"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "32060"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "32060"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "32094"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "32094"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "32094"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "32094"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "32094"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "32094"
+    }
+  ],
+  "priceLinks": []
+}

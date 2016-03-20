@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SE_Corner_of_Minnesota->Isanti_County",
+  "nodes": [
+    {
+      "name": "55006"
+    },
+    {
+      "name": "55017"
+    },
+    {
+      "name": "55029"
+    },
+    {
+      "name": "55080"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "55029"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "55029"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "55029"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "55029"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "55029"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "55029"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "55006"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "55006"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "55006"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "55006"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "55006"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "55006"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "55017"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "55017"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "55017"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "55017"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "55017"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "55017"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "55080"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "55080"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "55080"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "55080"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "55080"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "55080"
+    }
+  ],
+  "priceLinks": []
+}

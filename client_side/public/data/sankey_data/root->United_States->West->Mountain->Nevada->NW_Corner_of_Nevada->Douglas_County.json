@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Nevada->NW_Corner_of_Nevada->Douglas_County",
+  "nodes": [
+    {
+      "name": "89410"
+    },
+    {
+      "name": "89411"
+    },
+    {
+      "name": "89449"
+    },
+    {
+      "name": "89460"
+    },
+    {
+      "name": "89705"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "89410"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "89410"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "89410"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "89410"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "89410"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "89410"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "89460"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "89460"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "89460"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "89460"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "89460"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "89460"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "89411"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "89411"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "89411"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "89411"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "89411"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "89411"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "89449"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "89449"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "89449"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "89449"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "89449"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "89449"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "89705"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "89705"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "89705"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "89705"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "89705"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "89705"
+    }
+  ],
+  "priceLinks": []
+}

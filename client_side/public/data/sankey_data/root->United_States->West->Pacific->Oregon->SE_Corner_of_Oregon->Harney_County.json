@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->West->Pacific->Oregon->SE_Corner_of_Oregon->Harney_County",
+  "nodes": [
+    {
+      "name": "97710"
+    },
+    {
+      "name": "97721"
+    },
+    {
+      "name": "97722"
+    },
+    {
+      "name": "97732"
+    },
+    {
+      "name": "97736"
+    },
+    {
+      "name": "97738"
+    },
+    {
+      "name": "97758"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "97721"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "97721"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "97721"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "97721"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "97721"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "97721"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "97710"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "97710"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "97710"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "97710"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "97710"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "97710"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "97722"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "97722"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "97722"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "97722"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "97722"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "97722"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "97732"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "97732"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "97732"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "97732"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "97732"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "97732"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "97736"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "97736"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "97736"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "97736"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "97736"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "97736"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "97738"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "97738"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "97738"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "97738"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "97738"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "97738"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "97758"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "97758"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "97758"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "97758"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "97758"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "97758"
+    }
+  ],
+  "priceLinks": []
+}

@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Northeast->New_England->Massachusetts",
   "nodes": [
     {
-      "name": "SE Corner of Massachusetts"
+      "name": "NE Corner of Massachusetts"
     },
     {
       "name": "Dropped_Out"
@@ -17,120 +17,159 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "NE Corner of Massachusetts"
+      "name": "NW Corner of Massachusetts"
     },
     {
-      "name": "NW Corner of Massachusetts"
+      "name": "SE Corner of Massachusetts"
+    },
+    {
+      "name": "SW Corner of Massachusetts"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 3,
-      "region": "SE Corner of Massachusetts"
+      "value": 29,
+      "region": "NE Corner of Massachusetts"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 4,
-      "region": "SE Corner of Massachusetts"
+      "value": 210,
+      "region": "NE Corner of Massachusetts"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 2,
-      "region": "SE Corner of Massachusetts"
+      "value": 26,
+      "region": "NE Corner of Massachusetts"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
-      "region": "SE Corner of Massachusetts"
+      "value": 184,
+      "region": "NE Corner of Massachusetts"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "SE Corner of Massachusetts"
+      "value": 26,
+      "region": "NE Corner of Massachusetts"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "SE Corner of Massachusetts"
+      "value": 158,
+      "region": "NE Corner of Massachusetts"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1,
-      "region": "NE Corner of Massachusetts"
+      "value": 27,
+      "region": "NW Corner of Massachusetts"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 5,
-      "region": "NE Corner of Massachusetts"
+      "value": 124,
+      "region": "NW Corner of Massachusetts"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 2,
-      "region": "NE Corner of Massachusetts"
+      "value": 16,
+      "region": "NW Corner of Massachusetts"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 3,
-      "region": "NE Corner of Massachusetts"
+      "value": 108,
+      "region": "NW Corner of Massachusetts"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 2,
-      "region": "NE Corner of Massachusetts"
+      "value": 17,
+      "region": "NW Corner of Massachusetts"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "NE Corner of Massachusetts"
+      "value": 91,
+      "region": "NW Corner of Massachusetts"
     },
     {
       "source": 6,
+      "target": 1,
+      "value": 13,
+      "region": "SE Corner of Massachusetts"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 115,
+      "region": "SE Corner of Massachusetts"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 14,
+      "region": "SE Corner of Massachusetts"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 101,
+      "region": "SE Corner of Massachusetts"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 15,
+      "region": "SE Corner of Massachusetts"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 86,
+      "region": "SE Corner of Massachusetts"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "SW Corner of Massachusetts"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 4,
+      "region": "SW Corner of Massachusetts"
+    },
+    {
+      "source": 2,
       "target": 1,
       "value": 0,
-      "region": "NW Corner of Massachusetts"
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 6,
-      "region": "NW Corner of Massachusetts"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "NW Corner of Massachusetts"
+      "region": "SW Corner of Massachusetts"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 5,
-      "region": "NW Corner of Massachusetts"
+      "value": 4,
+      "region": "SW Corner of Massachusetts"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 2,
-      "region": "NW Corner of Massachusetts"
+      "value": 1,
+      "region": "SW Corner of Massachusetts"
     },
     {
       "source": 3,
       "target": 4,
       "value": 3,
-      "region": "NW Corner of Massachusetts"
+      "region": "SW Corner of Massachusetts"
     }
   ],
   "priceLinks": []

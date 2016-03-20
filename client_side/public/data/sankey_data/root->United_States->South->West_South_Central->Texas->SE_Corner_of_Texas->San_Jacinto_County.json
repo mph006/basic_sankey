@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->SE_Corner_of_Texas->San_Jacinto_County",
+  "nodes": [
+    {
+      "name": "77359"
+    },
+    {
+      "name": "77371"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "77359"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "77359"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "77359"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "77359"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "77359"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "77359"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "77371"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "77371"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "77371"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "77371"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "77371"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "77371"
+    }
+  ],
+  "priceLinks": []
+}

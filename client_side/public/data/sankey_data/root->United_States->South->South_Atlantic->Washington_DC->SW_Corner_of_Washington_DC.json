@@ -15,44 +15,83 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Unknown County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
+      "value": 13,
       "region": "District of Columbia"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 3,
+      "value": 132,
       "region": "District of Columbia"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 16,
       "region": "District of Columbia"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
+      "value": 116,
       "region": "District of Columbia"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 2,
+      "value": 14,
       "region": "District of Columbia"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 102,
       "region": "District of Columbia"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Unknown County"
     }
   ],
   "priceLinks": []

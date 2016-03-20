@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SE_Corner_of_Minnesota->Rice_County",
+  "nodes": [
+    {
+      "name": "55021"
+    },
+    {
+      "name": "55046"
+    },
+    {
+      "name": "55053"
+    },
+    {
+      "name": "55057"
+    },
+    {
+      "name": "55087"
+    },
+    {
+      "name": "55088"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "55021"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "55021"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "55021"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "55021"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "55021"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "55021"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "55053"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "55053"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "55053"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "55053"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "55053"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "55053"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "55087"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "55087"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "55087"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "55087"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "55087"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "55087"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "55046"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "55046"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "55046"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "55046"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "55046"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "55046"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "55057"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "55057"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "55057"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "55057"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "55057"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "55057"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "55088"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "55088"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "55088"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "55088"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "55088"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "55088"
+    }
+  ],
+  "priceLinks": []
+}

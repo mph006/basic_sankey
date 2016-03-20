@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Northeast->New_England->Rhode_Island->SE_Corner_of_Rhode_Island",
+  "nodes": [
+    {
+      "name": "Newport County"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Washington County"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2,
+      "region": "Newport County"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 4,
+      "region": "Newport County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Newport County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Newport County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Newport County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Newport County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Washington County"
+    }
+  ],
+  "priceLinks": []
+}

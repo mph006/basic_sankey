@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->SE_Corner_of_Illinois->Clark_County",
+  "nodes": [
+    {
+      "name": "62420"
+    },
+    {
+      "name": "62423"
+    },
+    {
+      "name": "62441"
+    },
+    {
+      "name": "62442"
+    },
+    {
+      "name": "62477"
+    },
+    {
+      "name": "62478"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "62423"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "62423"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "62423"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62423"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "62423"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62423"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "62477"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "62477"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "62477"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62477"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "62477"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62477"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "62478"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "62478"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "62478"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "62478"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "62478"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "62478"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "62420"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "62420"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "62420"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62420"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "62420"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "62420"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "62441"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "62441"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "62441"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62441"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "62441"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62441"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "62442"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "62442"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "62442"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62442"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "62442"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "62442"
+    }
+  ],
+  "priceLinks": []
+}

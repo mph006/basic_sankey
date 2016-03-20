@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->SW_Corner_of_Ohio->Darke_County",
+  "nodes": [
+    {
+      "name": "45304"
+    },
+    {
+      "name": "45308"
+    },
+    {
+      "name": "45331"
+    },
+    {
+      "name": "45346"
+    },
+    {
+      "name": "45352"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "45308"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "45308"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45308"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45308"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45308"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45308"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "45331"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "45331"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45331"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "45331"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45331"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45331"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "45352"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "45352"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45352"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "45352"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45352"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45352"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "45304"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "45304"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45304"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45304"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45304"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45304"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "45346"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "45346"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45346"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45346"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "45346"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45346"
+    }
+  ],
+  "priceLinks": []
+}

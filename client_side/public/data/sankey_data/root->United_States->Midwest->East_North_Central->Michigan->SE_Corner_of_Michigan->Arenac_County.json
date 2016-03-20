@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->SE_Corner_of_Michigan->Arenac_County",
+  "nodes": [
+    {
+      "name": "48610"
+    },
+    {
+      "name": "48658"
+    },
+    {
+      "name": "48703"
+    },
+    {
+      "name": "48749"
+    },
+    {
+      "name": "48765"
+    },
+    {
+      "name": "48766"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "48766"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "48766"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "48766"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "48766"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "48766"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "48766"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "48765"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "48765"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "48765"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "48765"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "48765"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "48765"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "48610"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "48610"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "48610"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "48610"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "48610"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "48610"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "48749"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "48749"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "48749"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "48749"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "48749"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "48749"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "48658"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "48658"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "48658"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "48658"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "48658"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "48658"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "48703"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "48703"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "48703"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "48703"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "48703"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "48703"
+    }
+  ],
+  "priceLinks": []
+}

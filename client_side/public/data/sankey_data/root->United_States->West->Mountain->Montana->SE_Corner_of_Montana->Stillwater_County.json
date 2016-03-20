@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Montana->SE_Corner_of_Montana->Stillwater_County",
+  "nodes": [
+    {
+      "name": "59019"
+    },
+    {
+      "name": "59057"
+    },
+    {
+      "name": "59061"
+    },
+    {
+      "name": "59063"
+    },
+    {
+      "name": "59067"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "59057"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "59057"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59057"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "59057"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59057"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "59057"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "59019"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "59019"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59019"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59019"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59019"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "59019"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "59061"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "59061"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59061"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59061"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59061"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "59061"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "59063"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "59063"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59063"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59063"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59063"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "59063"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "59067"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "59067"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59067"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59067"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59067"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "59067"
+    }
+  ],
+  "priceLinks": []
+}

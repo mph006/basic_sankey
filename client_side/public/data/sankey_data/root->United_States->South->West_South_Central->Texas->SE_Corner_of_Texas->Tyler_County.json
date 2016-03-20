@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->SE_Corner_of_Texas->Tyler_County",
+  "nodes": [
+    {
+      "name": "75938"
+    },
+    {
+      "name": "75979"
+    },
+    {
+      "name": "75990"
+    },
+    {
+      "name": "77616"
+    },
+    {
+      "name": "77660"
+    },
+    {
+      "name": "77664"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "75979"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "75979"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "75979"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "75979"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "75979"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "75979"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "75938"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "75938"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "75938"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "75938"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "75938"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "75938"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "75990"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "75990"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "75990"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "75990"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "75990"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "75990"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "77616"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "77616"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "77616"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "77616"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "77616"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "77616"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "77660"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "77660"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "77660"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "77660"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "77660"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "77660"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "77664"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "77664"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "77664"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "77664"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "77664"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "77664"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Montana->NW_Corner_of_Montana->Toole_County",
+  "nodes": [
+    {
+      "name": "59435"
+    },
+    {
+      "name": "59454"
+    },
+    {
+      "name": "59482"
+    },
+    {
+      "name": "59484"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "59482"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "59482"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "59482"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59482"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "59482"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "59482"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "59435"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "59435"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "59435"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59435"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "59435"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59435"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "59454"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "59454"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "59454"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59454"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "59454"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59454"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "59484"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "59484"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "59484"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "59484"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "59484"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59484"
+    }
+  ],
+  "priceLinks": []
+}

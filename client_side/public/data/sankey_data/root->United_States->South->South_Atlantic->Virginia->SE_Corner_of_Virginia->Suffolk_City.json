@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->South->South_Atlantic->Virginia->SE_Corner_of_Virginia->Suffolk_City",
   "nodes": [
     {
+      "name": "23432"
+    },
+    {
+      "name": "23433"
+    },
+    {
+      "name": "23434"
+    },
+    {
       "name": "23436"
+    },
+    {
+      "name": "23438"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "23436"
-    },
-    {
-      "source": 0,
-      "target": 2,
+      "source": 4,
+      "target": 5,
       "value": 1,
-      "region": "23436"
+      "region": "23438"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 6,
       "value": 0,
-      "region": "23436"
+      "region": "23438"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "23438"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "23438"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "23438"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "23438"
+    },
+    {
+      "source": 3,
+      "target": 5,
       "value": 1,
       "region": "23436"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 1,
+      "target": 6,
+      "value": 0,
       "region": "23436"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "23436"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "23436"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "23436"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "23436"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "23432"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "23432"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "23432"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "23432"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "23432"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "23432"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "23433"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "23433"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "23433"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "23433"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "23433"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "23433"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "23434"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "23434"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "23434"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "23434"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "23434"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "23434"
     }
   ],
   "priceLinks": []

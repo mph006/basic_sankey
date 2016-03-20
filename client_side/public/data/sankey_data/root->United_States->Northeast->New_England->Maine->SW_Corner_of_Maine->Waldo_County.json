@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->Northeast->New_England->Maine->SW_Corner_of_Maine->Waldo_County",
+  "nodes": [
+    {
+      "name": "04915"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "04951"
+    },
+    {
+      "name": "04972"
+    },
+    {
+      "name": "04941"
+    },
+    {
+      "name": "04921"
+    },
+    {
+      "name": "04922"
+    },
+    {
+      "name": "04973"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1,
+      "region": "04915"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "04915"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04915"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "04915"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04915"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04915"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "04951"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "04951"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04951"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04951"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04951"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04951"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "04972"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "04972"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04972"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04972"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04972"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04972"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "04941"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "04941"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "04941"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "04941"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04941"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04941"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "04921"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "04921"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04921"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04921"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04921"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04921"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "04922"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1,
+      "region": "04922"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04922"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04922"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04922"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04922"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "04973"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 1,
+      "region": "04973"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04973"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04973"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04973"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04973"
+    }
+  ],
+  "priceLinks": []
+}

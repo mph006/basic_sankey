@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->South->East_South_Central->Mississippi->NW_Corner_of_Mississippi->Tallahatchie_County",
   "nodes": [
     {
+      "name": "38920"
+    },
+    {
+      "name": "38921"
+    },
+    {
+      "name": "38928"
+    },
+    {
+      "name": "38950"
+    },
+    {
       "name": "38957"
+    },
+    {
+      "name": "38958"
+    },
+    {
+      "name": "38962"
     },
     {
       "name": "Dropped_Out"
@@ -19,39 +37,255 @@
   ],
   "countLinks": [
     {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "38928"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "38928"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "38928"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38928"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "38928"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "38928"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "38962"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "38962"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "38962"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38962"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "38962"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "38962"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "38921"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "38921"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "38921"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "38921"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "38921"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "38921"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 7,
+      "value": 0,
+      "region": "38920"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "38920"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "38920"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38920"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "38920"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "38920"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "38958"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "38958"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "38958"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "38958"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "38958"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "38958"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "38950"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "38950"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "38950"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38950"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "38950"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "38950"
+    },
+    {
+      "source": 4,
+      "target": 7,
       "value": 0,
       "region": "38957"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 4,
+      "target": 8,
       "value": 1,
       "region": "38957"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "38957"
+    },
+    {
+      "source": 8,
+      "target": 9,
       "value": 1,
       "region": "38957"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 9,
+      "target": 7,
       "value": 0,
       "region": "38957"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "38957"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
+      "source": 9,
+      "target": 10,
+      "value": 1,
       "region": "38957"
     }
   ],

@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Virginia->SE_Corner_of_Virginia->Chesapeake_City",
+  "nodes": [
+    {
+      "name": "23320"
+    },
+    {
+      "name": "23321"
+    },
+    {
+      "name": "23323"
+    },
+    {
+      "name": "23324"
+    },
+    {
+      "name": "23325"
+    },
+    {
+      "name": "23327"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "23321"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "23321"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "23321"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "23321"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "23321"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "23321"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "23320"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "23320"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "23320"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "23320"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "23320"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "23320"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "23323"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "23323"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "23323"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "23323"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "23323"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "23323"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "23324"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "23324"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "23324"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "23324"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "23324"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "23324"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "23325"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "23325"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "23325"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "23325"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "23325"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "23325"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "23327"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "23327"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "23327"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "23327"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "23327"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "23327"
+    }
+  ],
+  "priceLinks": []
+}

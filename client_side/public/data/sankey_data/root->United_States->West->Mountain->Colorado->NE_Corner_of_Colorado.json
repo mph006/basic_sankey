@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Mountain->Colorado->NE_Corner_of_Colorado",
   "nodes": [
     {
-      "name": "Arapahoe County"
+      "name": "Weld County"
     },
     {
       "name": "Dropped_Out"
@@ -17,251 +17,407 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Denver County"
+    },
+    {
+      "name": "Arapahoe County"
+    },
+    {
+      "name": "Jefferson County"
+    },
+    {
+      "name": "Boulder County"
+    },
+    {
       "name": "Larimer County"
     },
     {
-      "name": "Weld County"
+      "name": "Adams County"
     },
     {
-      "name": "Yuma County"
-    },
-    {
-      "name": "Denver County"
+      "name": "Unknown County"
     },
     {
       "name": "Logan County"
     },
     {
       "name": "Douglas County"
+    },
+    {
+      "name": "Lincoln County"
+    },
+    {
+      "name": "Morgan County"
+    },
+    {
+      "name": "Sedgwick County"
+    },
+    {
+      "name": "Kit Carson County"
+    },
+    {
+      "name": "Yuma County"
+    },
+    {
+      "name": "El Paso County"
+    },
+    {
+      "name": "Elbert County"
+    },
+    {
+      "name": "Washington County"
+    },
+    {
+      "name": "Phillips County"
+    },
+    {
+      "name": "Gilpin County"
+    },
+    {
+      "name": "Clear Creek County"
+    },
+    {
+      "name": "Broomfield County"
+    },
+    {
+      "name": "Park County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Arapahoe County"
+      "value": 6,
+      "region": "Weld County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
-      "region": "Arapahoe County"
+      "value": 27,
+      "region": "Weld County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Arapahoe County"
+      "value": 5,
+      "region": "Weld County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Arapahoe County"
+      "value": 22,
+      "region": "Weld County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Arapahoe County"
+      "value": 3,
+      "region": "Weld County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Arapahoe County"
+      "value": 19,
+      "region": "Weld County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1,
-      "region": "Larimer County"
+      "value": 6,
+      "region": "Denver County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0,
-      "region": "Larimer County"
+      "value": 32,
+      "region": "Denver County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Larimer County"
+      "value": 3,
+      "region": "Denver County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Larimer County"
+      "value": 29,
+      "region": "Denver County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Larimer County"
+      "value": 4,
+      "region": "Denver County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Larimer County"
+      "value": 25,
+      "region": "Denver County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Weld County"
+      "value": 4,
+      "region": "Arapahoe County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1,
-      "region": "Weld County"
+      "value": 22,
+      "region": "Arapahoe County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Weld County"
+      "value": 3,
+      "region": "Arapahoe County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Weld County"
+      "value": 19,
+      "region": "Arapahoe County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Weld County"
+      "value": 1,
+      "region": "Arapahoe County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Weld County"
+      "value": 18,
+      "region": "Arapahoe County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1,
-      "region": "Yuma County"
+      "value": 3,
+      "region": "Jefferson County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0,
-      "region": "Yuma County"
+      "value": 21,
+      "region": "Jefferson County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Yuma County"
+      "value": 2,
+      "region": "Jefferson County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Yuma County"
+      "value": 19,
+      "region": "Jefferson County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Yuma County"
+      "value": 2,
+      "region": "Jefferson County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Yuma County"
+      "value": 17,
+      "region": "Jefferson County"
     },
     {
       "source": 8,
       "target": 1,
       "value": 1,
-      "region": "Denver County"
+      "region": "Boulder County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 0,
-      "region": "Denver County"
+      "value": 13,
+      "region": "Boulder County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Denver County"
+      "value": 5,
+      "region": "Boulder County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Denver County"
+      "value": 8,
+      "region": "Boulder County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Denver County"
+      "value": 2,
+      "region": "Boulder County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Denver County"
+      "value": 6,
+      "region": "Boulder County"
     },
     {
       "source": 9,
       "target": 1,
       "value": 0,
-      "region": "Logan County"
+      "region": "Larimer County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 1,
-      "region": "Logan County"
+      "value": 12,
+      "region": "Larimer County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Logan County"
+      "value": 2,
+      "region": "Larimer County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Logan County"
+      "value": 10,
+      "region": "Larimer County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Logan County"
+      "value": 4,
+      "region": "Larimer County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Logan County"
+      "value": 6,
+      "region": "Larimer County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0,
-      "region": "Douglas County"
+      "value": 2,
+      "region": "Adams County"
     },
     {
       "source": 10,
       "target": 2,
+      "value": 14,
+      "region": "Adams County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 6,
+      "region": "Adams County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Adams County"
+    },
+    {
+      "source": 3,
+      "target": 1,
       "value": 1,
+      "region": "Adams County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Adams County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 8,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Unknown County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 2,
+      "region": "Logan County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 4,
+      "region": "Logan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Logan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Logan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Logan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Logan County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 3,
+      "region": "Douglas County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 5,
       "region": "Douglas County"
     },
     {
@@ -273,7 +429,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 4,
       "region": "Douglas County"
     },
     {
@@ -285,8 +441,476 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 4,
       "region": "Douglas County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 2,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 1,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 1,
+      "region": "Morgan County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 5,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Morgan County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Sedgwick County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 2,
+      "region": "Sedgwick County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sedgwick County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Sedgwick County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Sedgwick County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Sedgwick County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Kit Carson County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 5,
+      "region": "Kit Carson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Kit Carson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Kit Carson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Kit Carson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Kit Carson County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 1,
+      "region": "Yuma County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 5,
+      "region": "Yuma County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Yuma County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Yuma County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Yuma County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Yuma County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "El Paso County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 4,
+      "region": "El Paso County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "El Paso County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "El Paso County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "El Paso County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "El Paso County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 1,
+      "region": "Elbert County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 2,
+      "region": "Elbert County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Elbert County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Elbert County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Elbert County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Elbert County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 3,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Washington County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Phillips County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 2,
+      "region": "Phillips County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Phillips County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Phillips County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Phillips County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Phillips County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 1,
+      "region": "Gilpin County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 0,
+      "region": "Gilpin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Gilpin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Gilpin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Gilpin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Gilpin County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 1,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 0,
+      "region": "Broomfield County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 2,
+      "region": "Broomfield County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Broomfield County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Broomfield County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Broomfield County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Broomfield County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 1,
+      "region": "Park County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Park County"
     }
   ],
   "priceLinks": []

@@ -2,10 +2,13 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Indiana->SW_Corner_of_Indiana->Daviess_County",
   "nodes": [
     {
-      "name": "47529"
+      "name": "47501"
     },
     {
-      "name": "47562"
+      "name": "47519"
+    },
+    {
+      "name": "47529"
     },
     {
       "name": "Dropped_Out"
@@ -22,76 +25,112 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 2,
-      "value": 0,
-      "region": "47529"
-    },
-    {
-      "source": 0,
+      "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "47529"
-    },
-    {
-      "source": 3,
-      "target": 2,
       "value": 0,
       "region": "47529"
     },
     {
-      "source": 3,
+      "source": 2,
       "target": 4,
       "value": 1,
       "region": "47529"
     },
     {
       "source": 4,
-      "target": 2,
-      "value": 1,
+      "target": 3,
+      "value": 0,
       "region": "47529"
     },
     {
       "source": 4,
       "target": 5,
+      "value": 1,
+      "region": "47529"
+    },
+    {
+      "source": 5,
+      "target": 3,
       "value": 0,
       "region": "47529"
     },
     {
-      "source": 1,
-      "target": 2,
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "47529"
+    },
+    {
+      "source": 0,
+      "target": 3,
       "value": 0,
-      "region": "47562"
+      "region": "47501"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "47501"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "47501"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "47501"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "47501"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "47501"
     },
     {
       "source": 1,
       "target": 3,
-      "value": 1,
-      "region": "47562"
-    },
-    {
-      "source": 3,
-      "target": 2,
       "value": 0,
-      "region": "47562"
+      "region": "47519"
     },
     {
-      "source": 3,
+      "source": 1,
       "target": 4,
       "value": 1,
-      "region": "47562"
+      "region": "47519"
     },
     {
       "source": 4,
-      "target": 2,
-      "value": 1,
-      "region": "47562"
+      "target": 3,
+      "value": 0,
+      "region": "47519"
     },
     {
       "source": 4,
       "target": 5,
+      "value": 1,
+      "region": "47519"
+    },
+    {
+      "source": 5,
+      "target": 3,
       "value": 0,
-      "region": "47562"
+      "region": "47519"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "47519"
     }
   ],
   "priceLinks": []

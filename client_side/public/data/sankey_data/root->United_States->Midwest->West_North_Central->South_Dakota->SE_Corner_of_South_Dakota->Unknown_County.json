@@ -1,0 +1,527 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->South_Dakota->SE_Corner_of_South_Dakota->Unknown_County",
+  "nodes": [
+    {
+      "name": "57044"
+    },
+    {
+      "name": "57074"
+    },
+    {
+      "name": "57115"
+    },
+    {
+      "name": "57202"
+    },
+    {
+      "name": "57211"
+    },
+    {
+      "name": "57230"
+    },
+    {
+      "name": "57244"
+    },
+    {
+      "name": "57526"
+    },
+    {
+      "name": "57542"
+    },
+    {
+      "name": "57578"
+    },
+    {
+      "name": "57673"
+    },
+    {
+      "name": "57840"
+    },
+    {
+      "name": "57949"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 13,
+      "value": 0,
+      "region": "57074"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "value": 1,
+      "region": "57074"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57074"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1,
+      "region": "57074"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57074"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 1,
+      "region": "57074"
+    },
+    {
+      "source": 6,
+      "target": 13,
+      "value": 0,
+      "region": "57244"
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "value": 1,
+      "region": "57244"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57244"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1,
+      "region": "57244"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57244"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 1,
+      "region": "57244"
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "value": 0,
+      "region": "57840"
+    },
+    {
+      "source": 11,
+      "target": 14,
+      "value": 1,
+      "region": "57840"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57840"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1,
+      "region": "57840"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57840"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 1,
+      "region": "57840"
+    },
+    {
+      "source": 0,
+      "target": 13,
+      "value": 0,
+      "region": "57044"
+    },
+    {
+      "source": 0,
+      "target": 14,
+      "value": 1,
+      "region": "57044"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57044"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1,
+      "region": "57044"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57044"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 1,
+      "region": "57044"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "57949"
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "value": 0,
+      "region": "57949"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57949"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 0,
+      "region": "57949"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57949"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 0,
+      "region": "57949"
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "value": 0,
+      "region": "57211"
+    },
+    {
+      "source": 4,
+      "target": 14,
+      "value": 1,
+      "region": "57211"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57211"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1,
+      "region": "57211"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 1,
+      "region": "57211"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 0,
+      "region": "57211"
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "value": 0,
+      "region": "57230"
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "value": 1,
+      "region": "57230"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 1,
+      "region": "57230"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 0,
+      "region": "57230"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57230"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 0,
+      "region": "57230"
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "value": 1,
+      "region": "57578"
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "value": 0,
+      "region": "57578"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57578"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 0,
+      "region": "57578"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57578"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 0,
+      "region": "57578"
+    },
+    {
+      "source": 3,
+      "target": 13,
+      "value": 0,
+      "region": "57202"
+    },
+    {
+      "source": 3,
+      "target": 14,
+      "value": 1,
+      "region": "57202"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57202"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1,
+      "region": "57202"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57202"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 1,
+      "region": "57202"
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "value": 0,
+      "region": "57526"
+    },
+    {
+      "source": 7,
+      "target": 14,
+      "value": 1,
+      "region": "57526"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57526"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1,
+      "region": "57526"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57526"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 1,
+      "region": "57526"
+    },
+    {
+      "source": 8,
+      "target": 13,
+      "value": 1,
+      "region": "57542"
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "value": 0,
+      "region": "57542"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57542"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 0,
+      "region": "57542"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57542"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 0,
+      "region": "57542"
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "value": 0,
+      "region": "57673"
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "value": 1,
+      "region": "57673"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 0,
+      "region": "57673"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1,
+      "region": "57673"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57673"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 1,
+      "region": "57673"
+    },
+    {
+      "source": 2,
+      "target": 13,
+      "value": 0,
+      "region": "57115"
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "value": 1,
+      "region": "57115"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 1,
+      "region": "57115"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 0,
+      "region": "57115"
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 0,
+      "region": "57115"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 0,
+      "region": "57115"
+    }
+  ],
+  "priceLinks": []
+}

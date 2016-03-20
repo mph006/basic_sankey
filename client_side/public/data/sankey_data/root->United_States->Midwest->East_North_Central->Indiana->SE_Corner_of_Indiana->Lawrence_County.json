@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Indiana->SE_Corner_of_Indiana->Lawrence_County",
+  "nodes": [
+    {
+      "name": "47430"
+    },
+    {
+      "name": "47467"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "47430"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "47430"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "47430"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "47430"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "47430"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "47430"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1,
+      "region": "47467"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "47467"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "47467"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "47467"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "47467"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "47467"
+    }
+  ],
+  "priceLinks": []
+}

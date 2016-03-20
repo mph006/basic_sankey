@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->SW_Corner_of_Oklahoma",
   "nodes": [
     {
-      "name": "Beckham County"
+      "name": "Kiowa County"
     },
     {
       "name": "Dropped_Out"
@@ -15,31 +15,235 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Washita County"
+    },
+    {
+      "name": "Jackson County"
+    },
+    {
+      "name": "Harmon County"
+    },
+    {
+      "name": "Tillman County"
+    },
+    {
+      "name": "Beckham County"
+    },
+    {
+      "name": "Greer County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Comanche County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Beckham County"
+      "value": 2,
+      "region": "Kiowa County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Beckham County"
+      "value": 5,
+      "region": "Kiowa County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
+      "region": "Kiowa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Kiowa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Kiowa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Kiowa County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1,
+      "region": "Washita County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 3,
+      "region": "Washita County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Washita County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Washita County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Washita County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Washita County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Jackson County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 5,
+      "region": "Jackson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Jackson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Jackson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Jackson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Jackson County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Harmon County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 3,
+      "region": "Harmon County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Harmon County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Harmon County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Harmon County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Harmon County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Tillman County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 4,
+      "region": "Tillman County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Tillman County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Tillman County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tillman County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Tillman County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Beckham County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 2,
+      "region": "Beckham County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
       "region": "Beckham County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 2,
       "region": "Beckham County"
     },
     {
@@ -51,8 +255,116 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 2,
       "region": "Beckham County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Greer County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 2,
+      "region": "Greer County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Greer County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Greer County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Greer County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Greer County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Comanche County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 1,
+      "region": "Comanche County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Comanche County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Comanche County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Comanche County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Comanche County"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Colorado->NW_Corner_of_Colorado->Lake_County",
+  "nodes": [
+    {
+      "name": "80429"
+    },
+    {
+      "name": "80461"
+    },
+    {
+      "name": "81228"
+    },
+    {
+      "name": "81251"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "81251"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "81251"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "81251"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "81251"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "81251"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "81251"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "80429"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "80429"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "80429"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "80429"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "80429"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "80429"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "80461"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "80461"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "80461"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "80461"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "80461"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "80461"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "81228"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "81228"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "81228"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "81228"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "81228"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "81228"
+    }
+  ],
+  "priceLinks": []
+}

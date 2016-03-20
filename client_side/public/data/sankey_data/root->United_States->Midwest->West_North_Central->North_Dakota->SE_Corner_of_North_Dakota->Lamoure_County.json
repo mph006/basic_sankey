@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->North_Dakota->SE_Corner_of_North_Dakota->Lamoure_County",
+  "nodes": [
+    {
+      "name": "58415"
+    },
+    {
+      "name": "58431"
+    },
+    {
+      "name": "58458"
+    },
+    {
+      "name": "58490"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "58415"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "58415"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58415"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58415"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58415"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58415"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "58490"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "58490"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "58490"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "58490"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58490"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "58490"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "58431"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "58431"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58431"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58431"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58431"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58431"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "58458"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "58458"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58458"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58458"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58458"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58458"
+    }
+  ],
+  "priceLinks": []
+}

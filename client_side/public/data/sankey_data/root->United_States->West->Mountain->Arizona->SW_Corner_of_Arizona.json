@@ -17,56 +17,143 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Yuma County"
+    },
+    {
+      "name": "La Paz County"
+    },
+    {
       "name": "Unknown County"
+    },
+    {
+      "name": "Pima County"
+    },
+    {
+      "name": "Pinal County"
+    },
+    {
+      "name": "Yavapai County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
+      "value": 9,
       "region": "Maricopa County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 5,
+      "value": 88,
       "region": "Maricopa County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 6,
       "region": "Maricopa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 82,
+      "region": "Maricopa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 17,
+      "region": "Maricopa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 65,
+      "region": "Maricopa County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2,
+      "region": "Yuma County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 7,
+      "region": "Yuma County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Yuma County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 4,
-      "region": "Maricopa County"
+      "region": "Yuma County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 2,
-      "region": "Maricopa County"
+      "value": 0,
+      "region": "Yuma County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 2,
-      "region": "Maricopa County"
+      "value": 4,
+      "region": "Yuma County"
     },
     {
-      "source": 5,
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "La Paz County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 7,
+      "region": "La Paz County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "La Paz County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "La Paz County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "La Paz County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "La Paz County"
+    },
+    {
+      "source": 7,
       "target": 1,
       "value": 0,
       "region": "Unknown County"
     },
     {
-      "source": 5,
+      "source": 7,
       "target": 2,
-      "value": 1,
+      "value": 3,
       "region": "Unknown County"
     },
     {
@@ -78,20 +165,128 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 3,
       "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 2,
       "region": "Unknown County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Pima County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 2,
+      "region": "Pima County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pima County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Pima County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pima County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Pima County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Pinal County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1,
+      "region": "Pinal County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pinal County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Pinal County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pinal County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Pinal County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Yavapai County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 1,
+      "region": "Yavapai County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Yavapai County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Yavapai County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Yavapai County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Yavapai County"
     }
   ],
   "priceLinks": []

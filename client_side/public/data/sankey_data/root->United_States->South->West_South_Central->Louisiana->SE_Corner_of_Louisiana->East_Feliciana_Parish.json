@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Louisiana->SE_Corner_of_Louisiana->East_Feliciana_Parish",
+  "nodes": [
+    {
+      "name": "70722"
+    },
+    {
+      "name": "70730"
+    },
+    {
+      "name": "70748"
+    },
+    {
+      "name": "70761"
+    },
+    {
+      "name": "70777"
+    },
+    {
+      "name": "70789"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "70761"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "70761"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70761"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70761"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70761"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70761"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "70722"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "70722"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70722"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70722"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70722"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70722"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "70777"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "70777"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "70777"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "70777"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70777"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "70777"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "70730"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "70730"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70730"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70730"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "70730"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "70730"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "70748"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "70748"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70748"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70748"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70748"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70748"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "70789"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "70789"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70789"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "70789"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70789"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "70789"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->NE_Corner_of_Kansas->Riley_County",
+  "nodes": [
+    {
+      "name": "66502"
+    },
+    {
+      "name": "66503"
+    },
+    {
+      "name": "66505"
+    },
+    {
+      "name": "66506"
+    },
+    {
+      "name": "66531"
+    },
+    {
+      "name": "66554"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "66554"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "66554"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "66554"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66554"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66554"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "66554"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "66503"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "66503"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "66503"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "66503"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66503"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "66503"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "66506"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "66506"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "66506"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66506"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66506"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "66506"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "66502"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "66502"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "66502"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66502"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66502"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "66502"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "66505"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "66505"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "66505"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "66505"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66505"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "66505"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "66531"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "66531"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "66531"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "66531"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "66531"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "66531"
+    }
+  ],
+  "priceLinks": []
+}

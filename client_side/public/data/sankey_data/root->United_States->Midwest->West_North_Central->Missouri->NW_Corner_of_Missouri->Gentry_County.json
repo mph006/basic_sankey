@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->NW_Corner_of_Missouri->Gentry_County",
+  "nodes": [
+    {
+      "name": "64402"
+    },
+    {
+      "name": "64438"
+    },
+    {
+      "name": "64453"
+    },
+    {
+      "name": "64489"
+    },
+    {
+      "name": "64657"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "64438"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "64438"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "64438"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "64438"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64438"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "64438"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "64453"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "64453"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "64453"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "64453"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64453"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "64453"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "64402"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "64402"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "64402"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "64402"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64402"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "64402"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "64489"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "64489"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "64489"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "64489"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64489"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "64489"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "64657"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "64657"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "64657"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "64657"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64657"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "64657"
+    }
+  ],
+  "priceLinks": []
+}

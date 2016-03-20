@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->North_Carolina->NE_Corner_of_North_Carolina->Beaufort_County",
+  "nodes": [
+    {
+      "name": "27806"
+    },
+    {
+      "name": "27808"
+    },
+    {
+      "name": "27810"
+    },
+    {
+      "name": "27817"
+    },
+    {
+      "name": "27821"
+    },
+    {
+      "name": "27860"
+    },
+    {
+      "name": "27889"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "27806"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "27806"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "27806"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "27806"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "27806"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "27806"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "27817"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "27817"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "27817"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "27817"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "27817"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "27817"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "27808"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "27808"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "27808"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "27808"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "27808"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "27808"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "27810"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "27810"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "27810"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "27810"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "27810"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "27810"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "27821"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "27821"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "27821"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "27821"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "27821"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "27821"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "27860"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "27860"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "27860"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "27860"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "27860"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "27860"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "27889"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "27889"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "27889"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "27889"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "27889"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "27889"
+    }
+  ],
+  "priceLinks": []
+}

@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->North_Dakota->SW_Corner_of_North_Dakota->Dunn_County",
   "nodes": [
     {
+      "name": "58636"
+    },
+    {
+      "name": "58640"
+    },
+    {
       "name": "58642"
+    },
+    {
+      "name": "58644"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +28,148 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "58642"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "58642"
-    },
-    {
       "source": 2,
-      "target": 1,
+      "target": 4,
       "value": 0,
       "region": "58642"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 5,
       "value": 1,
       "region": "58642"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
       "region": "58642"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58642"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58642"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58642"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "58636"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "58636"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58636"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58636"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58636"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58636"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "58640"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "58640"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58640"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58640"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58640"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58640"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 0,
+      "region": "58644"
+    },
+    {
+      "source": 3,
+      "target": 5,
       "value": 1,
-      "region": "58642"
+      "region": "58644"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58644"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58644"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58644"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58644"
     }
   ],
   "priceLinks": []

@@ -2,6 +2,15 @@
   "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->NW_Corner_of_West_Virginia->Gilmer_County",
   "nodes": [
     {
+      "name": "26137"
+    },
+    {
+      "name": "26351"
+    },
+    {
+      "name": "26384"
+    },
+    {
       "name": "26443"
     },
     {
@@ -20,37 +29,145 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "26443"
+      "region": "26137"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
       "value": 1,
-      "region": "26443"
+      "region": "26137"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "26137"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "26137"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "26137"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "26137"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "26351"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "26351"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "26351"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "26351"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "26351"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "26351"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "26443"
+      "target": 4,
+      "value": 0,
+      "region": "26384"
     },
     {
       "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "26443"
+      "target": 5,
+      "value": 1,
+      "region": "26384"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "26443"
+      "region": "26384"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "26384"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "26384"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "26384"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 0,
+      "region": "26443"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "26443"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "26443"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "26443"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "26443"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 0,
       "region": "26443"
     }

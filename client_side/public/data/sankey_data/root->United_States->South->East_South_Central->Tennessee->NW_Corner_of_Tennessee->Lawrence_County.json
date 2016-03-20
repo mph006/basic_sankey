@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Tennessee->NW_Corner_of_Tennessee->Lawrence_County",
+  "nodes": [
+    {
+      "name": "38456"
+    },
+    {
+      "name": "38457"
+    },
+    {
+      "name": "38464"
+    },
+    {
+      "name": "38481"
+    },
+    {
+      "name": "38483"
+    },
+    {
+      "name": "38486"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "38456"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "38456"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38456"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38456"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38456"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38456"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38486"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "38486"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38486"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "38486"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38486"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "38486"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "38457"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "38457"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38457"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38457"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "38457"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "38457"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "38464"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "38464"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38464"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38464"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38464"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38464"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "38481"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "38481"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38481"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "38481"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38481"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "38481"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "38483"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "38483"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "38483"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "38483"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38483"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "38483"
+    }
+  ],
+  "priceLinks": []
+}

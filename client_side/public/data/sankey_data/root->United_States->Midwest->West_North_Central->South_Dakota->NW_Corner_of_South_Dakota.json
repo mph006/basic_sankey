@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->South_Dakota->NW_Corner_of_South_Dakota",
   "nodes": [
     {
-      "name": "Harding County"
+      "name": "Corson County"
     },
     {
       "name": "Dropped_Out"
@@ -17,56 +17,179 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Perkins County"
+    },
+    {
+      "name": "Harding County"
+    },
+    {
       "name": "Dewey County"
+    },
+    {
+      "name": "Walworth County"
+    },
+    {
+      "name": "Campbell County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Harding County"
+      "value": 1,
+      "region": "Corson County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Harding County"
+      "value": 5,
+      "region": "Corson County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Harding County"
+      "region": "Corson County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Harding County"
+      "value": 4,
+      "region": "Corson County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Harding County"
+      "region": "Corson County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Harding County"
+      "value": 4,
+      "region": "Corson County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Dewey County"
+      "value": 1,
+      "region": "Unknown County"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Perkins County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 4,
+      "region": "Perkins County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Perkins County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Perkins County"
+    },
+    {
+      "source": 3,
+      "target": 1,
       "value": 1,
+      "region": "Perkins County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Perkins County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Harding County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 2,
+      "region": "Harding County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Harding County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Harding County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Harding County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Harding County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Dewey County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 3,
       "region": "Dewey County"
     },
     {
@@ -78,7 +201,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 2,
       "region": "Dewey County"
     },
     {
@@ -90,8 +213,80 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 2,
       "region": "Dewey County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Walworth County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 2,
+      "region": "Walworth County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Walworth County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Walworth County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Walworth County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Walworth County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Campbell County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 1,
+      "region": "Campbell County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Campbell County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Campbell County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Campbell County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Campbell County"
     }
   ],
   "priceLinks": []

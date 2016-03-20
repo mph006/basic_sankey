@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SE_Corner_of_Missouri->Phelps_County",
+  "nodes": [
+    {
+      "name": "65401"
+    },
+    {
+      "name": "65402"
+    },
+    {
+      "name": "65409"
+    },
+    {
+      "name": "65436"
+    },
+    {
+      "name": "65461"
+    },
+    {
+      "name": "65462"
+    },
+    {
+      "name": "65550"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "65436"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "65436"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "65436"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65436"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "65436"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "65436"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "65402"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "65402"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "65402"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65402"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "65402"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "65402"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "65401"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 0,
+      "region": "65401"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "65401"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "65401"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "65401"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "65401"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "65409"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "65409"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "65409"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65409"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "65409"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "65409"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "65461"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "65461"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "65461"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "65461"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "65461"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "65461"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "65462"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "65462"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "65462"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65462"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "65462"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "65462"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65550"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 0,
+      "region": "65550"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "65550"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "65550"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "65550"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "65550"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->NW_Corner_of_Wisconsin->Price_County",
+  "nodes": [
+    {
+      "name": "54513"
+    },
+    {
+      "name": "54515"
+    },
+    {
+      "name": "54524"
+    },
+    {
+      "name": "54552"
+    },
+    {
+      "name": "54555"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "54513"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "54513"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "54513"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "54513"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54513"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "54513"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "54515"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "54515"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "54515"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "54515"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54515"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "54515"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "54524"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "54524"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54524"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "54524"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54524"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "54524"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "54552"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "54552"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54552"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54552"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54552"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54552"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "54555"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "54555"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54555"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54555"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54555"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54555"
+    }
+  ],
+  "priceLinks": []
+}

@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->South->East_South_Central->Tennessee->NW_Corner_of_Tennessee->Chester_County",
   "nodes": [
     {
-      "name": "38352"
+      "name": "38332"
+    },
+    {
+      "name": "38340"
+    },
+    {
+      "name": "38347"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +26,111 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 3,
       "value": 0,
-      "region": "38352"
+      "region": "38332"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 4,
       "value": 1,
-      "region": "38352"
+      "region": "38332"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "38332"
+    },
+    {
+      "source": 4,
+      "target": 5,
       "value": 1,
-      "region": "38352"
+      "region": "38332"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "38332"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "38332"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "38340"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "38340"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "38340"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "38340"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "38340"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38340"
     },
     {
       "source": 2,
       "target": 3,
       "value": 0,
-      "region": "38352"
+      "region": "38347"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "38352"
-    },
-    {
-      "source": 3,
+      "source": 2,
       "target": 4,
+      "value": 1,
+      "region": "38347"
+    },
+    {
+      "source": 4,
+      "target": 3,
       "value": 0,
-      "region": "38352"
+      "region": "38347"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "38347"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "38347"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38347"
     }
   ],
   "priceLinks": []

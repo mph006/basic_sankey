@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Northeast->New_England->Massachusetts->NE_Corner_of_Massachusetts",
   "nodes": [
     {
-      "name": "Unknown County"
+      "name": "Middlesex County"
     },
     {
       "name": "Dropped_Out"
@@ -17,159 +17,276 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Norfolk County"
+      "name": "Suffolk County"
     },
     {
       "name": "Essex County"
     },
     {
-      "name": "Middlesex County"
+      "name": "Unknown County"
+    },
+    {
+      "name": "Norfolk County"
+    },
+    {
+      "name": "Worcester County"
+    },
+    {
+      "name": "Plymouth County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 10,
+      "region": "Middlesex County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
-      "region": "Unknown County"
+      "value": 63,
+      "region": "Middlesex County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Unknown County"
+      "value": 8,
+      "region": "Middlesex County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Unknown County"
+      "value": 55,
+      "region": "Middlesex County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 10,
+      "region": "Middlesex County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Unknown County"
+      "value": 45,
+      "region": "Middlesex County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Norfolk County"
+      "value": 4,
+      "region": "Suffolk County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 2,
-      "region": "Norfolk County"
+      "value": 36,
+      "region": "Suffolk County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Norfolk County"
+      "value": 7,
+      "region": "Suffolk County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Norfolk County"
+      "value": 29,
+      "region": "Suffolk County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Norfolk County"
+      "value": 4,
+      "region": "Suffolk County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Norfolk County"
+      "value": 25,
+      "region": "Suffolk County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1,
+      "value": 3,
       "region": "Essex County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0,
+      "value": 35,
       "region": "Essex County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "Essex County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 32,
       "region": "Essex County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 5,
       "region": "Essex County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 27,
       "region": "Essex County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0,
-      "region": "Middlesex County"
+      "value": 6,
+      "region": "Unknown County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1,
-      "region": "Middlesex County"
+      "value": 29,
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Middlesex County"
+      "value": 3,
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 3,
+      "value": 26,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 22,
+      "region": "Unknown County"
+    },
+    {
+      "source": 8,
+      "target": 1,
       "value": 1,
-      "region": "Middlesex County"
+      "region": "Norfolk County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 24,
+      "region": "Norfolk County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Norfolk County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 23,
+      "region": "Norfolk County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Norfolk County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 21,
+      "region": "Norfolk County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 2,
+      "region": "Worcester County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 15,
+      "region": "Worcester County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "Worcester County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 11,
+      "region": "Worcester County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Worcester County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 11,
+      "region": "Worcester County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 3,
+      "region": "Plymouth County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 8,
+      "region": "Plymouth County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Plymouth County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Plymouth County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 1,
-      "region": "Middlesex County"
+      "region": "Plymouth County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Middlesex County"
+      "value": 7,
+      "region": "Plymouth County"
     }
   ],
   "priceLinks": []

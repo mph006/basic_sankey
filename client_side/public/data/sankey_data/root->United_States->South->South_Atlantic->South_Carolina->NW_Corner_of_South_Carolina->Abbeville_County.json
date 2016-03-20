@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->South_Carolina->NW_Corner_of_South_Carolina->Abbeville_County",
+  "nodes": [
+    {
+      "name": "29628"
+    },
+    {
+      "name": "29638"
+    },
+    {
+      "name": "29639"
+    },
+    {
+      "name": "29659"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "29638"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "29638"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "29638"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "29638"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "29638"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "29638"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "29628"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "29628"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "29628"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "29628"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "29628"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29628"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "29639"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "29639"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "29639"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "29639"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "29639"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "29639"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "29659"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "29659"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "29659"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "29659"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "29659"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29659"
+    }
+  ],
+  "priceLinks": []
+}

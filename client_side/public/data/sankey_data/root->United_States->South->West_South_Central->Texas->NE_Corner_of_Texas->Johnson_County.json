@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->NE_Corner_of_Texas->Johnson_County",
+  "nodes": [
+    {
+      "name": "76028"
+    },
+    {
+      "name": "76031"
+    },
+    {
+      "name": "76033"
+    },
+    {
+      "name": "76058"
+    },
+    {
+      "name": "76059"
+    },
+    {
+      "name": "76061"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "76031"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "76031"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "76031"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "76031"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "76031"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "76031"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "76059"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "76059"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "76059"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "76059"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "76059"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "76059"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "76061"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "76061"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "76061"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "76061"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "76061"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "76061"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "76028"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "76028"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "76028"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "76028"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "76028"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "76028"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "76033"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "76033"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "76033"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "76033"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "76033"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "76033"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "76058"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "76058"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "76058"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "76058"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "76058"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "76058"
+    }
+  ],
+  "priceLinks": []
+}

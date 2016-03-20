@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->South->West_South_Central->Louisiana->SE_Corner_of_Louisiana->St_Mary_Parish",
   "nodes": [
     {
+      "name": "70342"
+    },
+    {
+      "name": "70380"
+    },
+    {
       "name": "70522"
+    },
+    {
+      "name": "70523"
+    },
+    {
+      "name": "70538"
+    },
+    {
+      "name": "70540"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "70522"
+    },
+    {
+      "source": 2,
+      "target": 7,
       "value": 1,
       "region": "70522"
     },
     {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70522"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70522"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70522"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70522"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "70380"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "70380"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70380"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "70380"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70380"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "70380"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "70523"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "70523"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70523"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70523"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70523"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70523"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "70538"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "70538"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70538"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70538"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70538"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70538"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "70540"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "70540"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "70540"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "70540"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70540"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "70540"
+    },
+    {
       "source": 0,
-      "target": 2,
+      "target": 6,
       "value": 0,
-      "region": "70522"
+      "region": "70342"
     },
     {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "70522"
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "70342"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "70522"
+      "region": "70342"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "70522"
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70342"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "70342"
+    },
+    {
+      "source": 8,
+      "target": 9,
       "value": 0,
-      "region": "70522"
+      "region": "70342"
     }
   ],
   "priceLinks": []

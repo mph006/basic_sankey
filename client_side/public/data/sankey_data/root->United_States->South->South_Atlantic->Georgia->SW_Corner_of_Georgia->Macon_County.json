@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Georgia->SW_Corner_of_Georgia->Macon_County",
+  "nodes": [
+    {
+      "name": "31057"
+    },
+    {
+      "name": "31063"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "31057"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "31057"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "31057"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "31057"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "31057"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "31057"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "31063"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "31063"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "31063"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "31063"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "31063"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "31063"
+    }
+  ],
+  "priceLinks": []
+}

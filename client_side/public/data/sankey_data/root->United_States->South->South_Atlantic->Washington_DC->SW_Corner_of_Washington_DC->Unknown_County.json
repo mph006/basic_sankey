@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Washington_DC->SW_Corner_of_Washington_DC->Unknown_County",
+  "nodes": [
+    {
+      "name": "20231"
+    },
+    {
+      "name": "20332"
+    },
+    {
+      "name": "20337"
+    },
+    {
+      "name": "20338"
+    },
+    {
+      "name": "20550"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "20231"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "20231"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "20231"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "20231"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "20231"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "20231"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "20332"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "20332"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "20332"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "20332"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "20332"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "20332"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "20337"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "20337"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "20337"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "20337"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "20337"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "20337"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "20338"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "20338"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "20338"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "20338"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "20338"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "20338"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "20550"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "20550"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "20550"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "20550"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "20550"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "20550"
+    }
+  ],
+  "priceLinks": []
+}

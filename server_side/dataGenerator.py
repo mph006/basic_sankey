@@ -50,12 +50,20 @@ with open('./data/counties.csv', 'rU') as csvfile:
             countyDict[row[0]] =row[6]
 
 def fetchPath(passedInt):
-    responseList = []
-    for x in range(0,passedInt):
-        responseList.append("N")
-    while(len(responseList)<3):
-        responseList.insert(0,"Y")
-    return responseList
+    if passedInt ==8:
+        return ["N","N","N"]
+    elif passedInt ==7:
+        return ["Y","N","N"]
+    elif passedInt ==6:
+        return ["Y","Y","N"]
+    else:
+        return ["Y","Y","Y"]
+    # responseList = []
+    # for x in range(0,passedInt):
+    #     responseList.append("N")
+    # while(len(responseList)<3):
+    #     responseList.insert(0,"Y")
+    # return responseList
 
 #pretty much the same as this data set...http://dev.maxmind.com/geoip/legacy/codes/state_latlon/
 def calculateQuadrantBounds():
@@ -100,7 +108,7 @@ for x in range(0,int(sys.argv[1])):
     duration = randint(500,300000)
     basket_price = randint(5,250)
     state = stateDict[zipData[2]][1]
-    path = fetchPath(randint(0,3))
+    path = fetchPath(randint(0,8))
     region_name = stateDict[zipData[2]][15]
     region_code = stateDict[zipData[2]][13]
     country = "United States"

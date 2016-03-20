@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Wyoming->NW_Corner_of_Wyoming->Fremont_County",
+  "nodes": [
+    {
+      "name": "82501"
+    },
+    {
+      "name": "82512"
+    },
+    {
+      "name": "82513"
+    },
+    {
+      "name": "82516"
+    },
+    {
+      "name": "82523"
+    },
+    {
+      "name": "82642"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "82501"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "82501"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "82501"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "82501"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "82501"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "82501"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "82642"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "82642"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "82642"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "82642"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "82642"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "82642"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "82512"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "82512"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "82512"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "82512"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "82512"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "82512"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "82513"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "82513"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "82513"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "82513"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "82513"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "82513"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "82516"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "82516"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "82516"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "82516"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "82516"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "82516"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "82523"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "82523"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "82523"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "82523"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "82523"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "82523"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->West->Pacific->Washington->SW_Corner_of_Washington->Mason_County",
+  "nodes": [
+    {
+      "name": "98560"
+    },
+    {
+      "name": "98584"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "98560"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "98560"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "98560"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "98560"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "98560"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "98560"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "98584"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "98584"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "98584"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "98584"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "98584"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "98584"
+    }
+  ],
+  "priceLinks": []
+}

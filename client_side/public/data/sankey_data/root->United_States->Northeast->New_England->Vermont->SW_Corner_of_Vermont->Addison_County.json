@@ -15,6 +15,9 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "05760"
     }
   ],
   "countLinks": [
@@ -45,14 +48,50 @@
     {
       "source": 3,
       "target": 1,
-      "value": 1,
+      "value": 0,
       "region": "05778"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 1,
       "region": "05778"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "05760"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "05760"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "05760"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "05760"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05760"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "05760"
     }
   ],
   "priceLinks": []

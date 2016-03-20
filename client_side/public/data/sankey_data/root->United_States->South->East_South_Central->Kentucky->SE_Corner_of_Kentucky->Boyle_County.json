@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->South->East_South_Central->Kentucky->SE_Corner_of_Kentucky->Boyle_County",
   "nodes": [
     {
+      "name": "40423"
+    },
+    {
+      "name": "40440"
+    },
+    {
       "name": "40452"
+    },
+    {
+      "name": "40464"
+    },
+    {
+      "name": "40468"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 3,
+      "target": 5,
       "value": 0,
-      "region": "40452"
+      "region": "40464"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "40464"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "40464"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "40464"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "40464"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40464"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
+      "value": 0,
+      "region": "40423"
+    },
+    {
+      "source": 0,
+      "target": 6,
       "value": 1,
+      "region": "40423"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "40423"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "40423"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "40423"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "40423"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "40440"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "40440"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "40440"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "40440"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "40440"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40440"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
       "region": "40452"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "40452"
-    },
-    {
-      "source": 2,
-      "target": 3,
+      "target": 6,
       "value": 1,
       "region": "40452"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "40452"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 6,
+      "target": 7,
       "value": 1,
       "region": "40452"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "40452"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40452"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "40468"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "40468"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "40468"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "40468"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "40468"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "40468"
     }
   ],
   "priceLinks": []

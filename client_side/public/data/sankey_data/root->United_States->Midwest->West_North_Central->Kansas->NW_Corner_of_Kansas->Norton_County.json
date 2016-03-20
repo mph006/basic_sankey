@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->NW_Corner_of_Kansas->Norton_County",
+  "nodes": [
+    {
+      "name": "67622"
+    },
+    {
+      "name": "67629"
+    },
+    {
+      "name": "67645"
+    },
+    {
+      "name": "67654"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "67645"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "67645"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "67645"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "67645"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "67645"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "67645"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "67622"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "67622"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "67622"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "67622"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "67622"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "67622"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "67654"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "67654"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "67654"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "67654"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "67654"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "67654"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "67629"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "67629"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "67629"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "67629"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "67629"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "67629"
+    }
+  ],
+  "priceLinks": []
+}

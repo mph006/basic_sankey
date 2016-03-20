@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Virginia->SE_Corner_of_Virginia->York_County",
+  "nodes": [
+    {
+      "name": "23690"
+    },
+    {
+      "name": "23692"
+    },
+    {
+      "name": "23693"
+    },
+    {
+      "name": "23694"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "23693"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "23693"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "23693"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "23693"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "23693"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "23693"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "23690"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "23690"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "23690"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "23690"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "23690"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "23690"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "23692"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "23692"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "23692"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "23692"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "23692"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "23692"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "23694"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "23694"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "23694"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "23694"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "23694"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "23694"
+    }
+  ],
+  "priceLinks": []
+}

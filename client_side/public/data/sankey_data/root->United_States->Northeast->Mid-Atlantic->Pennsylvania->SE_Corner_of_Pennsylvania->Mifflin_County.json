@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->Pennsylvania->SE_Corner_of_Pennsylvania->Mifflin_County",
+  "nodes": [
+    {
+      "name": "17009"
+    },
+    {
+      "name": "17063"
+    },
+    {
+      "name": "17084"
+    },
+    {
+      "name": "17099"
+    },
+    {
+      "name": "17841"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "17099"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "17099"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "17099"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "17099"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "17099"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "17099"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "17063"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "17063"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "17063"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "17063"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "17063"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "17063"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "17841"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "17841"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "17841"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "17841"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "17841"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "17841"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "17009"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "17009"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "17009"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "17009"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "17009"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "17009"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "17084"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "17084"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "17084"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "17084"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "17084"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "17084"
+    }
+  ],
+  "priceLinks": []
+}

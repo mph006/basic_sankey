@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Alabama->NW_Corner_of_Alabama->Fayette_County",
+  "nodes": [
+    {
+      "name": "35542"
+    },
+    {
+      "name": "35545"
+    },
+    {
+      "name": "35546"
+    },
+    {
+      "name": "35554"
+    },
+    {
+      "name": "35555"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "35554"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "35554"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "35554"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "35554"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "35554"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "35554"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "35542"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "35542"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "35542"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "35542"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "35542"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "35542"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "35545"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "35545"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "35545"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "35545"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "35545"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "35545"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "35546"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "35546"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "35546"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "35546"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "35546"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "35546"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "35555"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "35555"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "35555"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "35555"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "35555"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "35555"
+    }
+  ],
+  "priceLinks": []
+}

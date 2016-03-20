@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas->SE_Corner_of_Texas->Lavaca_County",
   "nodes": [
     {
+      "name": "77964"
+    },
+    {
+      "name": "77975"
+    },
+    {
       "name": "77984"
+    },
+    {
+      "name": "77986"
+    },
+    {
+      "name": "77987"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 3,
+      "target": 5,
       "value": 0,
-      "region": "77984"
+      "region": "77986"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "77986"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "77986"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "77986"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "77986"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "77986"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
+      "value": 0,
+      "region": "77964"
+    },
+    {
+      "source": 0,
+      "target": 6,
       "value": 1,
+      "region": "77964"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "77964"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "77964"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "77964"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "77964"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "77975"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "77975"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "77975"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "77975"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "77975"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "77975"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
       "region": "77984"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 6,
       "value": 1,
       "region": "77984"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "77984"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 0,
       "region": "77984"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 7,
+      "target": 5,
       "value": 0,
       "region": "77984"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 7,
+      "target": 8,
       "value": 0,
       "region": "77984"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "77987"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "77987"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "77987"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "77987"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "77987"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "77987"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SW_Corner_of_Minnesota->Lyon_County",
+  "nodes": [
+    {
+      "name": "56115"
+    },
+    {
+      "name": "56157"
+    },
+    {
+      "name": "56239"
+    },
+    {
+      "name": "56264"
+    },
+    {
+      "name": "56291"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "56157"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "56157"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "56157"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56157"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56157"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56157"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "56239"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "56239"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "56239"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56239"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56239"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56239"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "56291"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "56291"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "56291"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "56291"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56291"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "56291"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "56115"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "56115"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "56115"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "56115"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56115"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "56115"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "56264"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "56264"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "56264"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56264"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56264"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56264"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Montana->SE_Corner_of_Montana->Musselshell_County",
+  "nodes": [
+    {
+      "name": "59072"
+    },
+    {
+      "name": "59073"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "59073"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "59073"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "59073"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "59073"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "59073"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "59073"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "59072"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "59072"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "59072"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "59072"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "59072"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "59072"
+    }
+  ],
+  "priceLinks": []
+}

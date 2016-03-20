@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Alabama->NW_Corner_of_Alabama->Bibb_County",
+  "nodes": [
+    {
+      "name": "35035"
+    },
+    {
+      "name": "35042"
+    },
+    {
+      "name": "35074"
+    },
+    {
+      "name": "35188"
+    },
+    {
+      "name": "36792"
+    },
+    {
+      "name": "36793"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "35188"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "35188"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "35188"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "35188"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "35188"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "35188"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "36792"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "36792"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "36792"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "36792"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "36792"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "36792"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "35042"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "35042"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "35042"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "35042"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "35042"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "35042"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "35074"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "35074"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "35074"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "35074"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "35074"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "35074"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "35035"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "35035"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "35035"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "35035"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "35035"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "35035"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "36793"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "36793"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "36793"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36793"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "36793"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "36793"
+    }
+  ],
+  "priceLinks": []
+}

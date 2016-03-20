@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->North_Dakota->SW_Corner_of_North_Dakota",
   "nodes": [
     {
-      "name": "Sheridan County"
+      "name": "Burleigh County"
     },
     {
       "name": "Dropped_Out"
@@ -17,56 +17,251 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Stark County"
+    },
+    {
+      "name": "Morton County"
+    },
+    {
+      "name": "Mercer County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
       "name": "Dunn County"
+    },
+    {
+      "name": "Grant County"
+    },
+    {
+      "name": "Golden Valley County"
+    },
+    {
+      "name": "Bowman County"
+    },
+    {
+      "name": "Sioux County"
+    },
+    {
+      "name": "Slope County"
+    },
+    {
+      "name": "Adams County"
+    },
+    {
+      "name": "Emmons County"
+    },
+    {
+      "name": "Billings County"
+    },
+    {
+      "name": "McKenzie County"
+    },
+    {
+      "name": "McLean County"
+    },
+    {
+      "name": "Perkins County"
+    },
+    {
+      "name": "Sheridan County"
+    },
+    {
+      "name": "Hettinger County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Sheridan County"
+      "value": 2,
+      "region": "Burleigh County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
-      "region": "Sheridan County"
+      "value": 7,
+      "region": "Burleigh County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Sheridan County"
+      "value": 1,
+      "region": "Burleigh County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Sheridan County"
+      "value": 6,
+      "region": "Burleigh County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Sheridan County"
+      "value": 2,
+      "region": "Burleigh County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Sheridan County"
+      "value": 4,
+      "region": "Burleigh County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 0,
-      "region": "Dunn County"
+      "region": "Stark County"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 6,
+      "region": "Stark County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Stark County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Stark County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Stark County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Stark County"
+    },
+    {
+      "source": 6,
+      "target": 1,
       "value": 1,
+      "region": "Morton County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 4,
+      "region": "Morton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Morton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Morton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Morton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Morton County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "Mercer County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 3,
+      "region": "Mercer County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Mercer County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Mercer County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Mercer County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Mercer County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Dunn County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 4,
       "region": "Dunn County"
     },
     {
@@ -78,7 +273,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 4,
       "region": "Dunn County"
     },
     {
@@ -90,8 +285,476 @@
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 4,
       "region": "Dunn County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Grant County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 4,
+      "region": "Grant County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Grant County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Grant County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Grant County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Grant County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Golden Valley County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 3,
+      "region": "Golden Valley County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Golden Valley County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Golden Valley County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Golden Valley County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Golden Valley County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Bowman County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 3,
+      "region": "Bowman County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Bowman County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Bowman County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Bowman County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Bowman County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Sioux County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 1,
+      "region": "Sioux County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sioux County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Sioux County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Sioux County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Sioux County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Slope County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 2,
+      "region": "Slope County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Slope County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Slope County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Slope County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Slope County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Adams County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 1,
+      "region": "Adams County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Adams County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Adams County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Adams County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Adams County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Emmons County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 1,
+      "region": "Emmons County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Emmons County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Emmons County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Emmons County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Emmons County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 1,
+      "region": "Billings County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 1,
+      "region": "Billings County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Billings County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Billings County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Billings County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Billings County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 1,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 0,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "McLean County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 2,
+      "region": "McLean County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "McLean County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "McLean County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "McLean County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "McLean County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 1,
+      "region": "Perkins County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 0,
+      "region": "Perkins County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Perkins County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Perkins County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Perkins County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Perkins County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Sheridan County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 1,
+      "region": "Sheridan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sheridan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Sheridan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Sheridan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Sheridan County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Hettinger County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 1,
+      "region": "Hettinger County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Hettinger County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Hettinger County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hettinger County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Hettinger County"
     }
   ],
   "priceLinks": []

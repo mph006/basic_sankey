@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Newton_County",
+  "nodes": [
+    {
+      "name": "72628"
+    },
+    {
+      "name": "72655"
+    },
+    {
+      "name": "72666"
+    },
+    {
+      "name": "72670"
+    },
+    {
+      "name": "72683"
+    },
+    {
+      "name": "72685"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "72666"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "72666"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72666"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72666"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "72666"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "72666"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "72628"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "72628"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72628"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72628"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "72628"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72628"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "72655"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "72655"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72655"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72655"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "72655"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "72655"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "72670"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "72670"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "72670"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72670"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "72670"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72670"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "72683"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "72683"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72683"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72683"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "72683"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72683"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "72685"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "72685"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72685"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72685"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "72685"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "72685"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->St_Francis_County",
+  "nodes": [
+    {
+      "name": "72326"
+    },
+    {
+      "name": "72335"
+    },
+    {
+      "name": "72340"
+    },
+    {
+      "name": "72359"
+    },
+    {
+      "name": "72394"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "72340"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "72340"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "72340"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72340"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "72340"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72340"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "72326"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "72326"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "72326"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72326"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "72326"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72326"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "72359"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "72359"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "72359"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72359"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "72359"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72359"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "72394"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "72394"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "72394"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72394"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "72394"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72394"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "72335"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "72335"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "72335"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72335"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "72335"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72335"
+    }
+  ],
+  "priceLinks": []
+}

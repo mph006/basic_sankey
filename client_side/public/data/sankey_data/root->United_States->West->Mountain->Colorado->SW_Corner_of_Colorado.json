@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Mountain->Colorado->SW_Corner_of_Colorado",
   "nodes": [
     {
-      "name": "Gunnison County"
+      "name": "Montrose County"
     },
     {
       "name": "Dropped_Out"
@@ -17,120 +17,822 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Montezuma County"
+    },
+    {
+      "name": "Gunnison County"
+    },
+    {
+      "name": "Archuleta County"
+    },
+    {
       "name": "Delta County"
     },
     {
-      "name": "Montezuma County"
+      "name": "Fremont County"
+    },
+    {
+      "name": "Park County"
+    },
+    {
+      "name": "Alamosa County"
+    },
+    {
+      "name": "La Plata County"
+    },
+    {
+      "name": "San Miguel County"
+    },
+    {
+      "name": "Saguache County"
+    },
+    {
+      "name": "Dolores County"
+    },
+    {
+      "name": "Conejos County"
+    },
+    {
+      "name": "Chaffee County"
+    },
+    {
+      "name": "Ouray County"
+    },
+    {
+      "name": "Mesa County"
+    },
+    {
+      "name": "San Juan County"
+    },
+    {
+      "name": "Hinsdale County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Costilla County"
+    },
+    {
+      "name": "Rio Grande County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Gunnison County"
+      "value": 1,
+      "region": "Montrose County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Gunnison County"
+      "value": 6,
+      "region": "Montrose County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Gunnison County"
+      "region": "Montrose County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Gunnison County"
+      "value": 6,
+      "region": "Montrose County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 1,
-      "region": "Gunnison County"
+      "region": "Montrose County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Gunnison County"
+      "value": 5,
+      "region": "Montrose County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 1,
-      "region": "Delta County"
+      "region": "Montezuma County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0,
-      "region": "Delta County"
+      "value": 5,
+      "region": "Montezuma County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Delta County"
+      "region": "Montezuma County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Delta County"
+      "value": 5,
+      "region": "Montezuma County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Delta County"
+      "value": 3,
+      "region": "Montezuma County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Delta County"
+      "value": 2,
+      "region": "Montezuma County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Montezuma County"
+      "value": 1,
+      "region": "Gunnison County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1,
-      "region": "Montezuma County"
+      "value": 7,
+      "region": "Gunnison County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Montezuma County"
+      "region": "Gunnison County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Gunnison County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Gunnison County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Gunnison County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Archuleta County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 4,
+      "region": "Archuleta County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Archuleta County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Archuleta County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Archuleta County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Archuleta County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Delta County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 5,
+      "region": "Delta County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Delta County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Delta County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Delta County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Delta County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Fremont County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 2,
+      "region": "Fremont County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Fremont County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Fremont County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Fremont County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Fremont County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 2,
+      "region": "Park County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Park County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 1,
-      "region": "Montezuma County"
+      "region": "Park County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Park County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Alamosa County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 3,
+      "region": "Alamosa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Alamosa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Alamosa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Alamosa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Alamosa County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "La Plata County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 5,
+      "region": "La Plata County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "La Plata County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "La Plata County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "La Plata County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "La Plata County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "San Miguel County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 3,
+      "region": "San Miguel County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "San Miguel County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "San Miguel County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "San Miguel County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "San Miguel County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Saguache County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 3,
+      "region": "Saguache County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Saguache County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Saguache County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 1,
-      "region": "Montezuma County"
+      "region": "Saguache County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Saguache County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Dolores County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 1,
+      "region": "Dolores County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Dolores County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Dolores County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Dolores County"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "Montezuma County"
+      "region": "Dolores County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Conejos County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 2,
+      "region": "Conejos County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Conejos County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Conejos County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Conejos County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Conejos County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 1,
+      "region": "Chaffee County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 2,
+      "region": "Chaffee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Chaffee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Chaffee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Chaffee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Chaffee County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Ouray County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 2,
+      "region": "Ouray County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Ouray County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Ouray County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Ouray County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Ouray County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Mesa County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 1,
+      "region": "Mesa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Mesa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Mesa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Mesa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Mesa County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "San Juan County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 1,
+      "region": "San Juan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "San Juan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "San Juan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "San Juan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "San Juan County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Hinsdale County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 1,
+      "region": "Hinsdale County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Hinsdale County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Hinsdale County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hinsdale County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Hinsdale County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Costilla County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 1,
+      "region": "Costilla County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Costilla County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Costilla County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Costilla County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Costilla County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Rio Grande County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 1,
+      "region": "Rio Grande County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Rio Grande County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Rio Grande County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Rio Grande County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Rio Grande County"
     }
   ],
   "priceLinks": []

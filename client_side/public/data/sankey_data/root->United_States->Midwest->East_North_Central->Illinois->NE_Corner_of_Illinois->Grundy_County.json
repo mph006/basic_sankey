@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->NE_Corner_of_Illinois->Grundy_County",
   "nodes": [
     {
+      "name": "60407"
+    },
+    {
+      "name": "60424"
+    },
+    {
+      "name": "60437"
+    },
+    {
+      "name": "60444"
+    },
+    {
+      "name": "60447"
+    },
+    {
       "name": "60474"
+    },
+    {
+      "name": "60479"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +38,255 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 7,
+      "value": 0,
+      "region": "60407"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "60407"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "60407"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "60407"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "60407"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "60407"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "60444"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "60444"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "60444"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "60444"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "60444"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "60444"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "60424"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "60424"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "60424"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "60424"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "60424"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "60424"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "60437"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 0,
+      "region": "60437"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "60437"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "60437"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "60437"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "60437"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "60447"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "60447"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "60447"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "60447"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "60447"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "60447"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "60474"
+    },
+    {
+      "source": 5,
+      "target": 8,
       "value": 1,
       "region": "60474"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 8,
+      "target": 7,
       "value": 0,
       "region": "60474"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "60474"
+    },
+    {
+      "source": 9,
+      "target": 7,
       "value": 0,
       "region": "60474"
     },
     {
-      "source": 2,
-      "target": 3,
-      "value": 0,
+      "source": 9,
+      "target": 10,
+      "value": 1,
       "region": "60474"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 6,
+      "target": 7,
       "value": 0,
-      "region": "60474"
+      "region": "60479"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "60479"
+    },
+    {
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "60474"
+      "region": "60479"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "60479"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "60479"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "60479"
     }
   ],
   "priceLinks": []

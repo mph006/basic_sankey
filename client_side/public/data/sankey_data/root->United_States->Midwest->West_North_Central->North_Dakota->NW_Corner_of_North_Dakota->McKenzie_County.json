@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->North_Dakota->NW_Corner_of_North_Dakota->McKenzie_County",
+  "nodes": [
+    {
+      "name": "58831"
+    },
+    {
+      "name": "58835"
+    },
+    {
+      "name": "58838"
+    },
+    {
+      "name": "58854"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "58831"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "58831"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58831"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58831"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58831"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58831"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "58835"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "58835"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58835"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58835"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58835"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58835"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "58838"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "58838"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58838"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58838"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "58838"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "58838"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "58854"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "58854"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "58854"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58854"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "58854"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "58854"
+    }
+  ],
+  "priceLinks": []
+}

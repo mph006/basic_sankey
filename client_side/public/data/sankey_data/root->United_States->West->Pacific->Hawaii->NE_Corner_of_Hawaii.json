@@ -1,0 +1,59 @@
+{
+  "keyPath": "root->United_States->West->Pacific->Hawaii->NE_Corner_of_Hawaii",
+  "nodes": [
+    {
+      "name": "Kauai County"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "Kauai County"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3,
+      "region": "Kauai County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Kauai County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Kauai County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Kauai County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Kauai County"
+    }
+  ],
+  "priceLinks": []
+}

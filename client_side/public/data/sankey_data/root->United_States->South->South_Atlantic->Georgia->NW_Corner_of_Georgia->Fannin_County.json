@@ -2,6 +2,15 @@
   "keyPath": "root->United_States->South->South_Atlantic->Georgia->NW_Corner_of_Georgia->Fannin_County",
   "nodes": [
     {
+      "name": "30541"
+    },
+    {
+      "name": "30555"
+    },
+    {
+      "name": "30559"
+    },
+    {
       "name": "30560"
     },
     {
@@ -19,40 +28,148 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 1,
-      "region": "30560"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0,
-      "region": "30560"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "30560"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "30560"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "30560"
-    },
-    {
       "source": 3,
       "target": 4,
       "value": 0,
       "region": "30560"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "30560"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "30560"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "30560"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "30560"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "30560"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "30555"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "30555"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "30555"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "30555"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "30555"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "30555"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "30559"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "30559"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "30559"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "30559"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "30559"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "30559"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "30541"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "30541"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "30541"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "30541"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "30541"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "30541"
     }
   ],
   "priceLinks": []

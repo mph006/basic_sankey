@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->South_Atlantic",
   "nodes": [
     {
-      "name": "Virginia"
+      "name": "Florida"
     },
     {
       "name": "Dropped_Out"
@@ -17,16 +17,16 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Florida"
+      "name": "Virginia"
     },
     {
       "name": "North Carolina"
     },
     {
-      "name": "West Virginia"
+      "name": "Georgia"
     },
     {
-      "name": "Georgia"
+      "name": "West Virginia"
     },
     {
       "name": "Maryland"
@@ -35,375 +35,414 @@
       "name": "South Carolina"
     },
     {
-      "name": "Delaware"
+      "name": "Washington DC"
     },
     {
       "name": "Puerto Rico"
     },
     {
-      "name": "Washington DC"
+      "name": "Delaware"
+    },
+    {
+      "name": "U.S. Virgin Islands"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 9,
-      "region": "Virginia"
+      "value": 118,
+      "region": "Florida"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 20,
-      "region": "Virginia"
+      "value": 903,
+      "region": "Florida"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 4,
-      "region": "Virginia"
+      "value": 101,
+      "region": "Florida"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 16,
-      "region": "Virginia"
+      "value": 802,
+      "region": "Florida"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 5,
-      "region": "Virginia"
+      "value": 139,
+      "region": "Florida"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 11,
-      "region": "Virginia"
+      "value": 663,
+      "region": "Florida"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 6,
-      "region": "Florida"
+      "value": 101,
+      "region": "Virginia"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 23,
-      "region": "Florida"
+      "value": 780,
+      "region": "Virginia"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 9,
-      "region": "Florida"
+      "value": 99,
+      "region": "Virginia"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 14,
-      "region": "Florida"
+      "value": 681,
+      "region": "Virginia"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 8,
-      "region": "Florida"
+      "value": 108,
+      "region": "Virginia"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 6,
-      "region": "Florida"
+      "value": 573,
+      "region": "Virginia"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 5,
+      "value": 73,
       "region": "North Carolina"
     },
     {
       "source": 6,
       "target": 2,
+      "value": 660,
+      "region": "North Carolina"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 73,
+      "region": "North Carolina"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 587,
+      "region": "North Carolina"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 75,
+      "region": "North Carolina"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 512,
+      "region": "North Carolina"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 80,
+      "region": "Georgia"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 595,
+      "region": "Georgia"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 83,
+      "region": "Georgia"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 512,
+      "region": "Georgia"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 66,
+      "region": "Georgia"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 446,
+      "region": "Georgia"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 80,
+      "region": "West Virginia"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 580,
+      "region": "West Virginia"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 77,
+      "region": "West Virginia"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 503,
+      "region": "West Virginia"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 75,
+      "region": "West Virginia"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 428,
+      "region": "West Virginia"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 40,
+      "region": "Maryland"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 391,
+      "region": "Maryland"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 47,
+      "region": "Maryland"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 344,
+      "region": "Maryland"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 60,
+      "region": "Maryland"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 284,
+      "region": "Maryland"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 35,
+      "region": "South Carolina"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 358,
+      "region": "South Carolina"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 43,
+      "region": "South Carolina"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 315,
+      "region": "South Carolina"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 55,
+      "region": "South Carolina"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 260,
+      "region": "South Carolina"
+    },
+    {
+      "source": 11,
+      "target": 1,
       "value": 19,
-      "region": "North Carolina"
+      "region": "Washington DC"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 164,
+      "region": "Washington DC"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 3,
-      "region": "North Carolina"
+      "value": 20,
+      "region": "Washington DC"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 16,
-      "region": "North Carolina"
+      "value": 144,
+      "region": "Washington DC"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 9,
-      "region": "North Carolina"
+      "value": 22,
+      "region": "Washington DC"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 122,
+      "region": "Washington DC"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 23,
+      "region": "Puerto Rico"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 112,
+      "region": "Puerto Rico"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 12,
+      "region": "Puerto Rico"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 100,
+      "region": "Puerto Rico"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 14,
+      "region": "Puerto Rico"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 86,
+      "region": "Puerto Rico"
+    },
+    {
+      "source": 13,
+      "target": 1,
       "value": 7,
-      "region": "North Carolina"
+      "region": "Delaware"
     },
     {
-      "source": 7,
-      "target": 1,
-      "value": 3,
-      "region": "West Virginia"
-    },
-    {
-      "source": 7,
+      "source": 13,
       "target": 2,
-      "value": 21,
-      "region": "West Virginia"
+      "value": 72,
+      "region": "Delaware"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 6,
-      "region": "West Virginia"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 15,
-      "region": "West Virginia"
-    },
-    {
-      "source": 3,
       "target": 1,
       "value": 7,
-      "region": "West Virginia"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 8,
-      "region": "West Virginia"
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 8,
-      "region": "Georgia"
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 15,
-      "region": "Georgia"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 9,
-      "region": "Georgia"
+      "region": "Delaware"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 6,
-      "region": "Georgia"
+      "value": 65,
+      "region": "Delaware"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 4,
-      "region": "Georgia"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 2,
-      "region": "Georgia"
-    },
-    {
-      "source": 9,
-      "target": 1,
-      "value": 9,
-      "region": "Maryland"
-    },
-    {
-      "source": 9,
-      "target": 2,
-      "value": 8,
-      "region": "Maryland"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "Maryland"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 7,
-      "region": "Maryland"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 4,
-      "region": "Maryland"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 3,
-      "region": "Maryland"
-    },
-    {
-      "source": 10,
-      "target": 1,
-      "value": 3,
-      "region": "South Carolina"
-    },
-    {
-      "source": 10,
-      "target": 2,
-      "value": 10,
-      "region": "South Carolina"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "South Carolina"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 9,
-      "region": "South Carolina"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 4,
-      "region": "South Carolina"
-    },
-    {
-      "source": 3,
-      "target": 4,
       "value": 5,
-      "region": "South Carolina"
-    },
-    {
-      "source": 11,
-      "target": 1,
-      "value": 2,
-      "region": "Delaware"
-    },
-    {
-      "source": 11,
-      "target": 2,
-      "value": 3,
-      "region": "Delaware"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 2,
-      "region": "Delaware"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Delaware"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
       "region": "Delaware"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 60,
       "region": "Delaware"
     },
     {
-      "source": 12,
+      "source": 14,
       "target": 1,
       "value": 1,
-      "region": "Puerto Rico"
+      "region": "U.S. Virgin Islands"
     },
     {
-      "source": 12,
+      "source": 14,
       "target": 2,
-      "value": 3,
-      "region": "Puerto Rico"
+      "value": 8,
+      "region": "U.S. Virgin Islands"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Puerto Rico"
+      "region": "U.S. Virgin Islands"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 3,
-      "region": "Puerto Rico"
+      "value": 8,
+      "region": "U.S. Virgin Islands"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Puerto Rico"
+      "value": 2,
+      "region": "U.S. Virgin Islands"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 3,
-      "region": "Puerto Rico"
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "value": 0,
-      "region": "Washington DC"
-    },
-    {
-      "source": 13,
-      "target": 2,
-      "value": 4,
-      "region": "Washington DC"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 2,
-      "region": "Washington DC"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 2,
-      "region": "Washington DC"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 2,
-      "region": "Washington DC"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "Washington DC"
+      "value": 6,
+      "region": "U.S. Virgin Islands"
     }
   ],
   "priceLinks": []

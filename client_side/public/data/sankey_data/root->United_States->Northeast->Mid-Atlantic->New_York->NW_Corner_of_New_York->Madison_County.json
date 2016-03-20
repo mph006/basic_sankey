@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_York->NW_Corner_of_New_York->Madison_County",
+  "nodes": [
+    {
+      "name": "13030"
+    },
+    {
+      "name": "13037"
+    },
+    {
+      "name": "13082"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "13030"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "13030"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "13030"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "13030"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "13030"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "13030"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "13037"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "13037"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "13037"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "13037"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "13037"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "13037"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "13082"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "13082"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "13082"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "13082"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "13082"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "13082"
+    }
+  ],
+  "priceLinks": []
+}

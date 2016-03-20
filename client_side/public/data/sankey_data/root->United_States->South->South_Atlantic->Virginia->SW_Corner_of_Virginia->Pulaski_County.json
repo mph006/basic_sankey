@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->South->South_Atlantic->Virginia->SW_Corner_of_Virginia->Pulaski_County",
   "nodes": [
     {
-      "name": "24126"
+      "name": "24058"
+    },
+    {
+      "name": "24084"
+    },
+    {
+      "name": "24111"
+    },
+    {
+      "name": "24129"
+    },
+    {
+      "name": "24132"
+    },
+    {
+      "name": "24301"
+    },
+    {
+      "name": "24324"
     },
     {
       "name": "24347"
@@ -22,76 +40,292 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 2,
+      "source": 5,
+      "target": 8,
       "value": 0,
-      "region": "24126"
+      "region": "24301"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 1,
+      "region": "24301"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "24301"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "24301"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "24301"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "24301"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 0,
+      "region": "24324"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 1,
+      "region": "24324"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "24324"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "24324"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "24324"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "24324"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "24347"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 1,
+      "region": "24347"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "24347"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "24347"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "24347"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "24347"
     },
     {
       "source": 0,
-      "target": 3,
-      "value": 1,
-      "region": "24126"
-    },
-    {
-      "source": 3,
-      "target": 2,
+      "target": 8,
       "value": 0,
-      "region": "24126"
+      "region": "24058"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 0,
+      "target": 9,
       "value": 1,
-      "region": "24126"
+      "region": "24058"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "24058"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "24058"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "24058"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "24058"
     },
     {
       "source": 4,
-      "target": 2,
+      "target": 8,
       "value": 0,
-      "region": "24126"
+      "region": "24132"
     },
     {
       "source": 4,
-      "target": 5,
+      "target": 9,
       "value": 1,
-      "region": "24126"
+      "region": "24132"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "24132"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "24132"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "24132"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "24132"
     },
     {
       "source": 1,
-      "target": 2,
+      "target": 8,
       "value": 0,
-      "region": "24347"
+      "region": "24084"
     },
     {
       "source": 1,
-      "target": 3,
+      "target": 9,
       "value": 1,
-      "region": "24347"
+      "region": "24084"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "24084"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "24084"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "24084"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "24084"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 0,
+      "region": "24111"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 1,
+      "region": "24111"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 1,
+      "region": "24111"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "24111"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "24111"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "24111"
     },
     {
       "source": 3,
-      "target": 2,
+      "target": 8,
       "value": 0,
-      "region": "24347"
+      "region": "24129"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 9,
       "value": 1,
-      "region": "24347"
+      "region": "24129"
     },
     {
-      "source": 4,
-      "target": 2,
+      "source": 9,
+      "target": 8,
+      "value": 1,
+      "region": "24129"
+    },
+    {
+      "source": 9,
+      "target": 10,
       "value": 0,
-      "region": "24347"
+      "region": "24129"
     },
     {
-      "source": 4,
-      "target": 5,
-      "value": 1,
-      "region": "24347"
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "24129"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "24129"
     }
   ],
   "priceLinks": []

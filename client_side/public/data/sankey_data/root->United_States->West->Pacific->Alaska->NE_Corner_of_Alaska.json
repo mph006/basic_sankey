@@ -15,6 +15,24 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Fairbanks North Star Borough"
+    },
+    {
+      "name": "Southeast Fairbanks Census Area"
+    },
+    {
+      "name": "Matanuska-Susitna Borough"
+    },
+    {
+      "name": "Denali Borough"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "North Slope Borough"
     }
   ],
   "countLinks": [
@@ -27,32 +45,248 @@
     {
       "source": 0,
       "target": 2,
-      "value": 1,
+      "value": 11,
       "region": "Yukon-Koyukuk Census Area"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 3,
       "region": "Yukon-Koyukuk Census Area"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 8,
       "region": "Yukon-Koyukuk Census Area"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Yukon-Koyukuk Census Area"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 7,
       "region": "Yukon-Koyukuk Census Area"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2,
+      "region": "Fairbanks North Star Borough"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 7,
+      "region": "Fairbanks North Star Borough"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Fairbanks North Star Borough"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Fairbanks North Star Borough"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Fairbanks North Star Borough"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Fairbanks North Star Borough"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Southeast Fairbanks Census Area"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 5,
+      "region": "Southeast Fairbanks Census Area"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Southeast Fairbanks Census Area"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Southeast Fairbanks Census Area"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Southeast Fairbanks Census Area"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Southeast Fairbanks Census Area"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Matanuska-Susitna Borough"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 7,
+      "region": "Matanuska-Susitna Borough"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Matanuska-Susitna Borough"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Matanuska-Susitna Borough"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Matanuska-Susitna Borough"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Matanuska-Susitna Borough"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Denali Borough"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 3,
+      "region": "Denali Borough"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Denali Borough"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Denali Borough"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Denali Borough"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Denali Borough"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "North Slope Borough"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 1,
+      "region": "North Slope Borough"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "North Slope Borough"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "North Slope Borough"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "North Slope Borough"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "North Slope Borough"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Mississippi->NE_Corner_of_Mississippi->Calhoun_County",
+  "nodes": [
+    {
+      "name": "38839"
+    },
+    {
+      "name": "38913"
+    },
+    {
+      "name": "38914"
+    },
+    {
+      "name": "38915"
+    },
+    {
+      "name": "38916"
+    },
+    {
+      "name": "38951"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "38839"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "38839"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38839"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38839"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38839"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38839"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "38913"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "38913"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38913"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38913"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38913"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38913"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "38915"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "38915"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38915"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "38915"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38915"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "38915"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "38914"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "38914"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38914"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "38914"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38914"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "38914"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "38916"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "38916"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38916"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38916"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38916"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38916"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "38951"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "38951"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "38951"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38951"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "38951"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "38951"
+    }
+  ],
+  "priceLinks": []
+}

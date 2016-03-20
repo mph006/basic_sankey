@@ -2,7 +2,28 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->NE_Corner_of_Michigan->Cheboygan_County",
   "nodes": [
     {
+      "name": "49705"
+    },
+    {
+      "name": "49717"
+    },
+    {
+      "name": "49721"
+    },
+    {
+      "name": "49749"
+    },
+    {
       "name": "49761"
+    },
+    {
+      "name": "49791"
+    },
+    {
+      "name": "49792"
+    },
+    {
+      "name": "49799"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +40,292 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 8,
       "value": 0,
-      "region": "49761"
+      "region": "49717"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 9,
       "value": 1,
-      "region": "49761"
+      "region": "49717"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "49717"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "49717"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "49717"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "49717"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 8,
       "value": 0,
-      "region": "49761"
+      "region": "49721"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 9,
       "value": 1,
-      "region": "49761"
+      "region": "49721"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "49721"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "49721"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "49721"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "49721"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "49791"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 1,
+      "region": "49791"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "49791"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "49791"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "49791"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "49791"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 0,
+      "region": "49705"
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 1,
+      "region": "49705"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "49705"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "49705"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "49705"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "49705"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 8,
+      "value": 0,
+      "region": "49749"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 1,
+      "region": "49749"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "49749"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "49749"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "49749"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "49749"
+    },
+    {
+      "source": 4,
+      "target": 8,
       "value": 0,
       "region": "49761"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 4,
+      "target": 9,
       "value": 1,
       "region": "49761"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "49761"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "49761"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "49761"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "49761"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "49792"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 0,
+      "region": "49792"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "49792"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "49792"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "49792"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "49792"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49799"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 0,
+      "region": "49799"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "49799"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "49799"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "49799"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "49799"
     }
   ],
   "priceLinks": []

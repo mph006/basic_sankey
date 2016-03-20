@@ -2,6 +2,9 @@
   "keyPath": "root->United_States->West->Mountain->Montana->NE_Corner_of_Montana->McCone_County",
   "nodes": [
     {
+      "name": "59214"
+    },
+    {
       "name": "59215"
     },
     {
@@ -19,40 +22,76 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "59215"
-    },
-    {
-      "source": 0,
+      "source": 1,
       "target": 2,
-      "value": 1,
-      "region": "59215"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "59215"
-    },
-    {
-      "source": 2,
-      "target": 3,
       "value": 0,
+      "region": "59215"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
       "region": "59215"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 2,
       "value": 0,
       "region": "59215"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 1,
+      "region": "59215"
+    },
+    {
+      "source": 4,
+      "target": 2,
       "value": 0,
       "region": "59215"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "59215"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "59214"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "59214"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "59214"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "59214"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "59214"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "59214"
     }
   ],
   "priceLinks": []

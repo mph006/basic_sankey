@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->NE_Corner_of_Oklahoma->Lincoln_County",
   "nodes": [
     {
-      "name": "74026"
+      "name": "74079"
+    },
+    {
+      "name": "74824"
+    },
+    {
+      "name": "74832"
+    },
+    {
+      "name": "74834"
+    },
+    {
+      "name": "74869"
+    },
+    {
+      "name": "74881"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 4,
+      "target": 6,
       "value": 0,
-      "region": "74026"
+      "region": "74869"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "74869"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74869"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74869"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74869"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74869"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "74881"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "74881"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74881"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74881"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74881"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74881"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
+      "value": 0,
+      "region": "74079"
+    },
+    {
+      "source": 0,
+      "target": 7,
       "value": 1,
-      "region": "74026"
+      "region": "74079"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "74079"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "74079"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74079"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "74079"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 6,
       "value": 0,
-      "region": "74026"
+      "region": "74832"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 7,
       "value": 1,
-      "region": "74026"
+      "region": "74832"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "74026"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "74026"
+      "region": "74832"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74832"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74832"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74832"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "74824"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "74824"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74824"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74824"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74824"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74824"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "74834"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "74834"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "74834"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74834"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "74834"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "74834"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Georgia->NE_Corner_of_Georgia->Oglethorpe_County",
+  "nodes": [
+    {
+      "name": "30627"
+    },
+    {
+      "name": "30671"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "30627"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "30627"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "30627"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "30627"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "30627"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "30627"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1,
+      "region": "30671"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "30671"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "30671"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "30671"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "30671"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "30671"
+    }
+  ],
+  "priceLinks": []
+}

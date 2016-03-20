@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->SE_Corner_of_Kentucky->Taylor_County",
+  "nodes": [
+    {
+      "name": "42733"
+    },
+    {
+      "name": "42758"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "42758"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "42758"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "42758"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "42758"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "42758"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "42758"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "42733"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "42733"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "42733"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "42733"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "42733"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "42733"
+    }
+  ],
+  "priceLinks": []
+}

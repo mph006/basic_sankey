@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->NE_Corner_of_Wisconsin",
   "nodes": [
     {
-      "name": "Forest County"
+      "name": "Shawano County"
     },
     {
       "name": "Dropped_Out"
@@ -17,95 +17,269 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Door County"
+    },
+    {
       "name": "Vilas County"
     },
     {
+      "name": "Marathon County"
+    },
+    {
+      "name": "Marinette County"
+    },
+    {
+      "name": "Oneida County"
+    },
+    {
       "name": "Oconto County"
+    },
+    {
+      "name": "Langlade County"
+    },
+    {
+      "name": "Lincoln County"
+    },
+    {
+      "name": "Forest County"
+    },
+    {
+      "name": "Florence County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Menominee County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Forest County"
+      "value": 0,
+      "region": "Shawano County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
-      "region": "Forest County"
+      "value": 11,
+      "region": "Shawano County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Forest County"
+      "value": 1,
+      "region": "Shawano County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Forest County"
+      "value": 10,
+      "region": "Shawano County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Forest County"
+      "value": 1,
+      "region": "Shawano County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Forest County"
+      "value": 9,
+      "region": "Shawano County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 0,
-      "region": "Vilas County"
+      "region": "Door County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Vilas County"
+      "value": 10,
+      "region": "Door County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Vilas County"
+      "value": 1,
+      "region": "Door County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Vilas County"
+      "value": 9,
+      "region": "Door County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Vilas County"
+      "value": 0,
+      "region": "Door County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Vilas County"
+      "value": 9,
+      "region": "Door County"
     },
     {
       "source": 6,
       "target": 1,
       "value": 0,
-      "region": "Oconto County"
+      "region": "Vilas County"
     },
     {
       "source": 6,
       "target": 2,
+      "value": 6,
+      "region": "Vilas County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 1,
+      "region": "Vilas County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Vilas County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Vilas County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Vilas County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Marathon County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 9,
+      "region": "Marathon County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Marathon County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Marathon County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Marathon County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 9,
+      "region": "Marathon County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 2,
+      "region": "Marinette County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 8,
+      "region": "Marinette County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Marinette County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Marinette County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Marinette County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Marinette County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 3,
+      "region": "Oneida County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 5,
+      "region": "Oneida County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Oneida County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Oneida County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Oneida County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Oneida County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Oconto County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 5,
       "region": "Oconto County"
     },
     {
@@ -117,7 +291,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 5,
       "region": "Oconto County"
     },
     {
@@ -129,8 +303,224 @@
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 5,
       "region": "Oconto County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Langlade County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 5,
+      "region": "Langlade County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Langlade County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Langlade County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Langlade County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Langlade County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 4,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1,
+      "region": "Forest County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 3,
+      "region": "Forest County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Forest County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Forest County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Forest County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Forest County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Florence County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 2,
+      "region": "Florence County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Florence County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Florence County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Florence County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Florence County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Menominee County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 1,
+      "region": "Menominee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Menominee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Menominee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Menominee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Menominee County"
     }
   ],
   "priceLinks": []

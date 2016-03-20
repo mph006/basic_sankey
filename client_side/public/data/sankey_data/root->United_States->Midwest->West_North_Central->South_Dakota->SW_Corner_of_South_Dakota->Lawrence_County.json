@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->South_Dakota->SW_Corner_of_South_Dakota->Lawrence_County",
+  "nodes": [
+    {
+      "name": "57759"
+    },
+    {
+      "name": "57779"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "57779"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "57779"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "57779"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "57779"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "57779"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "57779"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "57759"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "57759"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "57759"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "57759"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "57759"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "57759"
+    }
+  ],
+  "priceLinks": []
+}

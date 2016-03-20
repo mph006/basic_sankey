@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas->NE_Corner_of_Texas->Hopkins_County",
   "nodes": [
     {
+      "name": "75433"
+    },
+    {
+      "name": "75478"
+    },
+    {
       "name": "75481"
+    },
+    {
+      "name": "75482"
+    },
+    {
+      "name": "75483"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 5,
       "value": 0,
-      "region": "75481"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
       "region": "75481"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 6,
       "value": 1,
       "region": "75481"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "75481"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75481"
+    },
+    {
+      "source": 7,
+      "target": 5,
       "value": 0,
       "region": "75481"
     },
     {
-      "source": 3,
-      "target": 4,
-      "value": 0,
+      "source": 7,
+      "target": 8,
+      "value": 1,
       "region": "75481"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "75433"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "75433"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "75433"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75433"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "75433"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "75433"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "75478"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "75478"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "75478"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "75478"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "75478"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "75478"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "75482"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "75482"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "75482"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75482"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "75482"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "75482"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "75483"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "75483"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "75483"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75483"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "75483"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "75483"
     }
   ],
   "priceLinks": []

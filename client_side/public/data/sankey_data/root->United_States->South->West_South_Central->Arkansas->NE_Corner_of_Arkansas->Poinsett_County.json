@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Poinsett_County",
   "nodes": [
     {
+      "name": "72354"
+    },
+    {
+      "name": "72365"
+    },
+    {
+      "name": "72377"
+    },
+    {
+      "name": "72429"
+    },
+    {
+      "name": "72432"
+    },
+    {
       "name": "72475"
+    },
+    {
+      "name": "72479"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +37,256 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "72377"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "72377"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "72377"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72377"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "72377"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "72377"
+    },
+    {
+      "source": 5,
+      "target": 7,
       "value": 0,
       "region": "72475"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 5,
+      "target": 8,
       "value": 1,
       "region": "72475"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "72475"
+    },
+    {
+      "source": 8,
+      "target": 9,
       "value": 1,
       "region": "72475"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 9,
+      "target": 7,
       "value": 0,
       "region": "72475"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
+      "source": 9,
+      "target": 10,
+      "value": 1,
       "region": "72475"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 0,
+      "target": 7,
       "value": 0,
-      "region": "72475"
+      "region": "72354"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "72354"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "72354"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "72354"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "72354"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "72354"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "72365"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "72365"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "72365"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "72365"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "72365"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "72365"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "72429"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "72429"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "72429"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72429"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "72429"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "72429"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "72432"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "72432"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "72432"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "72432"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "72432"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "72432"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72479"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "72479"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "72479"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "72479"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "72479"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "72479"
     }
   ],
   "priceLinks": []

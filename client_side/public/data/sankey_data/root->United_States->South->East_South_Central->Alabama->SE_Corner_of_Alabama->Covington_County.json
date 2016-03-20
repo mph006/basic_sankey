@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Alabama->SE_Corner_of_Alabama->Covington_County",
+  "nodes": [
+    {
+      "name": "36038"
+    },
+    {
+      "name": "36442"
+    },
+    {
+      "name": "36455"
+    },
+    {
+      "name": "36467"
+    },
+    {
+      "name": "36474"
+    },
+    {
+      "name": "36476"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "36038"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "36038"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "36038"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36038"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "36038"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "36038"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "36467"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "36467"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "36467"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36467"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "36467"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "36467"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "36474"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "36474"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "36474"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36474"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "36474"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "36474"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "36442"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "36442"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "36442"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "36442"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "36442"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "36442"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "36455"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "36455"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "36455"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36455"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "36455"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "36455"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "36476"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "36476"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "36476"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36476"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "36476"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "36476"
+    }
+  ],
+  "priceLinks": []
+}

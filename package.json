@@ -1,0 +1,26 @@
+{
+  "name": "basic_sankey",
+  "version": "1.0.0",
+  "description": "Basic Sankey Diagram + Hierarchy Inspiration from: http://bl.ocks.org/d3noob/c9b90689c1438f57d649 http://bl.ocks.org/Neilos/584b9a5d44d5fe00f779 http://bl.ocks.org/d3noob/5028304",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mph006/basic_sankey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mph006/basic_sankey/issues"
+  },
+  "homepage": "https://github.com/mph006/basic_sankey#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "d3": "^3.5.16",
+    "express": "^4.13.4",
+    "fast-csv": "^1.0.0",
+    "graceful-fs": "^4.1.3"
+  }
+}

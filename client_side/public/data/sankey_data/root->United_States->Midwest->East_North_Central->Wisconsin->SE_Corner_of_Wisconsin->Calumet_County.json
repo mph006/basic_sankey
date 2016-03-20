@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->SE_Corner_of_Wisconsin->Calumet_County",
+  "nodes": [
+    {
+      "name": "53014"
+    },
+    {
+      "name": "53061"
+    },
+    {
+      "name": "53062"
+    },
+    {
+      "name": "53088"
+    },
+    {
+      "name": "54123"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "53088"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "53088"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53088"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53088"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53088"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53088"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "53061"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "53061"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "53061"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "53061"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53061"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "53061"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "54123"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "54123"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54123"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54123"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54123"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54123"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "53014"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "53014"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53014"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "53014"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53014"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "53014"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "53062"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "53062"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53062"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53062"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "53062"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "53062"
+    }
+  ],
+  "priceLinks": []
+}

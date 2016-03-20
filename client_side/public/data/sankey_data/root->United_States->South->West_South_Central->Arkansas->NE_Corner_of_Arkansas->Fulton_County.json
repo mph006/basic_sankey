@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Fulton_County",
+  "nodes": [
+    {
+      "name": "72515"
+    },
+    {
+      "name": "72520"
+    },
+    {
+      "name": "72576"
+    },
+    {
+      "name": "72583"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "72583"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "72583"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72583"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "72583"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72583"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72583"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "72515"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "72515"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72515"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72515"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72515"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72515"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "72520"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "72520"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72520"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72520"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72520"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72520"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "72576"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "72576"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72576"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72576"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72576"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72576"
+    }
+  ],
+  "priceLinks": []
+}

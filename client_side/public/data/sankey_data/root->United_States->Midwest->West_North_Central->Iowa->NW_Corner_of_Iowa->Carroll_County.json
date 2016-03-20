@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->NW_Corner_of_Iowa->Carroll_County",
+  "nodes": [
+    {
+      "name": "51401"
+    },
+    {
+      "name": "51443"
+    },
+    {
+      "name": "51444"
+    },
+    {
+      "name": "51451"
+    },
+    {
+      "name": "51452"
+    },
+    {
+      "name": "51459"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "51443"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "51443"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51443"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51443"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "51443"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "51443"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "51401"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "51401"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51401"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51401"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51401"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51401"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "51444"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "51444"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51444"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51444"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51444"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51444"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "51451"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "51451"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "51451"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "51451"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51451"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "51451"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "51452"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "51452"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51452"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51452"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51452"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51452"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "51459"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "51459"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51459"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51459"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51459"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51459"
+    }
+  ],
+  "priceLinks": []
+}

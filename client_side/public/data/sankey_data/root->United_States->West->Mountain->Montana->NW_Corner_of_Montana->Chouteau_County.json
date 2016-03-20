@@ -2,7 +2,10 @@
   "keyPath": "root->United_States->West->Mountain->Montana->NW_Corner_of_Montana->Chouteau_County",
   "nodes": [
     {
-      "name": "59450"
+      "name": "59420"
+    },
+    {
+      "name": "59520"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +22,76 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "59520"
+    },
+    {
+      "source": 1,
+      "target": 3,
       "value": 1,
-      "region": "59450"
+      "region": "59520"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "59520"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "59520"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "59520"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "59520"
     },
     {
       "source": 0,
       "target": 2,
       "value": 0,
-      "region": "59450"
+      "region": "59420"
     },
     {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "59450"
-    },
-    {
-      "source": 2,
+      "source": 0,
       "target": 3,
-      "value": 0,
-      "region": "59450"
+      "value": 1,
+      "region": "59420"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 2,
       "value": 0,
-      "region": "59450"
+      "region": "59420"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 1,
+      "region": "59420"
+    },
+    {
+      "source": 4,
+      "target": 2,
       "value": 0,
-      "region": "59450"
+      "region": "59420"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "59420"
     }
   ],
   "priceLinks": []

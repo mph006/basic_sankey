@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->East_South_Central->Alabama->SW_Corner_of_Alabama",
   "nodes": [
     {
-      "name": "Baldwin County"
+      "name": "Mobile County"
     },
     {
       "name": "Dropped_Out"
@@ -15,31 +15,118 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Baldwin County"
+    },
+    {
+      "name": "Washington County"
+    },
+    {
+      "name": "Marengo County"
+    },
+    {
+      "name": "Wilcox County"
+    },
+    {
+      "name": "Monroe County"
+    },
+    {
+      "name": "Clarke County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Dallas County"
+    },
+    {
+      "name": "Choctaw County"
+    },
+    {
+      "name": "Escambia County"
+    },
+    {
+      "name": "Conecuh County"
+    },
+    {
+      "name": "Sumter County"
+    },
+    {
+      "name": "Butler County"
+    },
+    {
+      "name": "Hale County"
+    },
+    {
+      "name": "Perry County"
+    },
+    {
+      "name": "Covington County"
+    },
+    {
+      "name": "Lowndes County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Baldwin County"
+      "value": 3,
+      "region": "Mobile County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
+      "value": 39,
+      "region": "Mobile County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 9,
+      "region": "Mobile County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 30,
+      "region": "Mobile County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Mobile County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 27,
+      "region": "Mobile County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1,
+      "region": "Baldwin County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 16,
       "region": "Baldwin County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 2,
       "region": "Baldwin County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 14,
       "region": "Baldwin County"
     },
     {
@@ -51,8 +138,584 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 14,
       "region": "Baldwin County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Washington County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 10,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Washington County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Marengo County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 9,
+      "region": "Marengo County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Marengo County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Marengo County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Marengo County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Marengo County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Wilcox County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 10,
+      "region": "Wilcox County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Wilcox County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Wilcox County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Wilcox County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Wilcox County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Monroe County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 6,
+      "region": "Monroe County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Monroe County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Monroe County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Monroe County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Monroe County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "Clarke County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 7,
+      "region": "Clarke County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Clarke County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Clarke County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Clarke County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Clarke County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1,
+      "region": "Dallas County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 4,
+      "region": "Dallas County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Dallas County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Dallas County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Dallas County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Dallas County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1,
+      "region": "Choctaw County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 6,
+      "region": "Choctaw County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Choctaw County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Choctaw County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Choctaw County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Choctaw County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Escambia County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 3,
+      "region": "Escambia County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Escambia County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Escambia County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Escambia County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Escambia County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 1,
+      "region": "Conecuh County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 4,
+      "region": "Conecuh County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Conecuh County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Conecuh County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Conecuh County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Conecuh County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 2,
+      "region": "Sumter County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 2,
+      "region": "Sumter County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Sumter County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Sumter County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Sumter County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Sumter County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Butler County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 3,
+      "region": "Butler County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Butler County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Butler County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Butler County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Butler County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Hale County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 1,
+      "region": "Hale County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hale County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Hale County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hale County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Hale County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Perry County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 1,
+      "region": "Perry County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Perry County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Perry County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Perry County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Perry County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 1,
+      "region": "Covington County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 0,
+      "region": "Covington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Covington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Covington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Covington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Covington County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 1,
+      "region": "Lowndes County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 0,
+      "region": "Lowndes County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lowndes County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Lowndes County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lowndes County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Lowndes County"
     }
   ],
   "priceLinks": []

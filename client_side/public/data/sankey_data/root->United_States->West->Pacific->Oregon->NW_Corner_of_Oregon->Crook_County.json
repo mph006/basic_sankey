@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->West->Pacific->Oregon->NW_Corner_of_Oregon->Crook_County",
+  "nodes": [
+    {
+      "name": "97753"
+    },
+    {
+      "name": "97754"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "97754"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "97754"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "97754"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "97754"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "97754"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "97754"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "97753"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "97753"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "97753"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "97753"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "97753"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "97753"
+    }
+  ],
+  "priceLinks": []
+}

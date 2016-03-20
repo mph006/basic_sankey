@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SE_Corner_of_Missouri->Pulaski_County",
+  "nodes": [
+    {
+      "name": "65457"
+    },
+    {
+      "name": "65459"
+    },
+    {
+      "name": "65473"
+    },
+    {
+      "name": "65534"
+    },
+    {
+      "name": "65556"
+    },
+    {
+      "name": "65583"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "65459"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "65459"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65459"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "65459"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65459"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "65459"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "65457"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "65457"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "65457"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "65457"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65457"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "65457"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "65473"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "65473"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65473"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65473"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65473"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65473"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "65534"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "65534"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65534"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65534"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65534"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65534"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "65556"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "65556"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65556"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65556"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65556"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65556"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "65583"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "65583"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "65583"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65583"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "65583"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "65583"
+    }
+  ],
+  "priceLinks": []
+}

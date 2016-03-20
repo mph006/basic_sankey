@@ -2,7 +2,28 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->NW_Corner_of_Illinois->Jo_Daviess_County",
   "nodes": [
     {
+      "name": "61001"
+    },
+    {
+      "name": "61028"
+    },
+    {
       "name": "61036"
+    },
+    {
+      "name": "61041"
+    },
+    {
+      "name": "61059"
+    },
+    {
+      "name": "61075"
+    },
+    {
+      "name": "61085"
+    },
+    {
+      "name": "61087"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +40,292 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 8,
       "value": 0,
-      "region": "61036"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
       "region": "61036"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 9,
       "value": 1,
       "region": "61036"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 9,
+      "target": 8,
       "value": 0,
       "region": "61036"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "61036"
+    },
+    {
+      "source": 10,
+      "target": 8,
       "value": 0,
       "region": "61036"
     },
     {
-      "source": 3,
-      "target": 4,
-      "value": 0,
+      "source": 10,
+      "target": 11,
+      "value": 1,
       "region": "61036"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 0,
+      "region": "61028"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 1,
+      "region": "61028"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "61028"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "61028"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "61028"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "61028"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 0,
+      "region": "61001"
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 1,
+      "region": "61001"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "61001"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "61001"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "61001"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "61001"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "61087"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 1,
+      "region": "61087"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "61087"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "61087"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "61087"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "61087"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 0,
+      "region": "61041"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 1,
+      "region": "61041"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "61041"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "61041"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "61041"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "61041"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "61059"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 1,
+      "region": "61059"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "61059"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "61059"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "61059"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "61059"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "61075"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 1,
+      "region": "61075"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "61075"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "61075"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "61075"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "61075"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 0,
+      "region": "61085"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 1,
+      "region": "61085"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "61085"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "61085"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "61085"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "61085"
     }
   ],
   "priceLinks": []

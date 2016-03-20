@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->SE_Corner_of_Kentucky->McCreary_County",
+  "nodes": [
+    {
+      "name": "42634"
+    },
+    {
+      "name": "42635"
+    },
+    {
+      "name": "42638"
+    },
+    {
+      "name": "42647"
+    },
+    {
+      "name": "42649"
+    },
+    {
+      "name": "42653"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "42635"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "42635"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42635"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "42635"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "42635"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "42635"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "42649"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "42649"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42649"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "42649"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "42649"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "42649"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "42647"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "42647"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42647"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "42647"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "42647"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "42647"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "42653"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "42653"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42653"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "42653"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "42653"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "42653"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "42634"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "42634"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "42634"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "42634"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "42634"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "42634"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "42638"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "42638"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "42638"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "42638"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "42638"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "42638"
+    }
+  ],
+  "priceLinks": []
+}

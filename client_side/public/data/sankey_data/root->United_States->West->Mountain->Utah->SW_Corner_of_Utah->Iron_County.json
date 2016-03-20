@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Utah->SW_Corner_of_Utah->Iron_County",
+  "nodes": [
+    {
+      "name": "84714"
+    },
+    {
+      "name": "84742"
+    },
+    {
+      "name": "84756"
+    },
+    {
+      "name": "84760"
+    },
+    {
+      "name": "84761"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "84742"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "84742"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84742"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "84742"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "84742"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "84742"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "84760"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "84760"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84760"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "84760"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "84760"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84760"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "84761"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "84761"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84761"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "84761"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "84761"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "84761"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "84714"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "84714"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84714"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "84714"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "84714"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84714"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "84756"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "84756"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "84756"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "84756"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "84756"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "84756"
+    }
+  ],
+  "priceLinks": []
+}

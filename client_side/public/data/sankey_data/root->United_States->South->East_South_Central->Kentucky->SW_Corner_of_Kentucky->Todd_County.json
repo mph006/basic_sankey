@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->SW_Corner_of_Kentucky->Todd_County",
+  "nodes": [
+    {
+      "name": "42216"
+    },
+    {
+      "name": "42220"
+    },
+    {
+      "name": "42234"
+    },
+    {
+      "name": "42286"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "42234"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "42234"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "42234"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "42234"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "42234"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "42234"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "42286"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "42286"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "42286"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "42286"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "42286"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "42286"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "42216"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "42216"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "42216"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "42216"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "42216"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "42216"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "42220"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "42220"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "42220"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "42220"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "42220"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "42220"
+    }
+  ],
+  "priceLinks": []
+}

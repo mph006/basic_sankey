@@ -17,6 +17,9 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "SW Corner of Delaware"
+    },
+    {
       "name": "SE Corner of Delaware"
     }
   ],
@@ -24,49 +27,85 @@
     {
       "source": 0,
       "target": 1,
-      "value": 2,
+      "value": 4,
       "region": "NW Corner of Delaware"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
+      "value": 48,
       "region": "NW Corner of Delaware"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 4,
       "region": "NW Corner of Delaware"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 44,
       "region": "NW Corner of Delaware"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 4,
       "region": "NW Corner of Delaware"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 40,
       "region": "NW Corner of Delaware"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "SE Corner of Delaware"
+      "value": 1,
+      "region": "SW Corner of Delaware"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
+      "value": 17,
+      "region": "SW Corner of Delaware"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "SW Corner of Delaware"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 15,
+      "region": "SW Corner of Delaware"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of Delaware"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 15,
+      "region": "SW Corner of Delaware"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 2,
+      "region": "SE Corner of Delaware"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 7,
       "region": "SE Corner of Delaware"
     },
     {
@@ -78,19 +117,19 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 6,
       "region": "SE Corner of Delaware"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "SE Corner of Delaware"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 5,
       "region": "SE Corner of Delaware"
     }
   ],

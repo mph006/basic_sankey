@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->SE_Corner_of_Kansas->Bourbon_County",
+  "nodes": [
+    {
+      "name": "66701"
+    },
+    {
+      "name": "66738"
+    },
+    {
+      "name": "66741"
+    },
+    {
+      "name": "66754"
+    },
+    {
+      "name": "66779"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "66754"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "66754"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66754"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66754"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "66754"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "66754"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "66741"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "66741"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66741"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66741"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66741"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66741"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "66701"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "66701"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66701"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66701"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66701"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66701"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "66738"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "66738"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66738"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66738"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66738"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66738"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "66779"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "66779"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "66779"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "66779"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66779"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "66779"
+    }
+  ],
+  "priceLinks": []
+}

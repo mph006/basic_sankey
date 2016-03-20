@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Tennessee->NE_Corner_of_Tennessee->Bradley_County",
+  "nodes": [
+    {
+      "name": "37310"
+    },
+    {
+      "name": "37311"
+    },
+    {
+      "name": "37312"
+    },
+    {
+      "name": "37320"
+    },
+    {
+      "name": "37323"
+    },
+    {
+      "name": "37364"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "37310"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "37310"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "37310"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "37310"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "37310"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "37310"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "37312"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "37312"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "37312"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "37312"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "37312"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "37312"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "37320"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "37320"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "37320"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "37320"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "37320"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "37320"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "37323"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "37323"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "37323"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "37323"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "37323"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "37323"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "37364"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "37364"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "37364"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "37364"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "37364"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "37364"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "37311"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "37311"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "37311"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "37311"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "37311"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "37311"
+    }
+  ],
+  "priceLinks": []
+}

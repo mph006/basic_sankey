@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Colorado->NW_Corner_of_Colorado->Moffat_County",
+  "nodes": [
+    {
+      "name": "81610"
+    },
+    {
+      "name": "81625"
+    },
+    {
+      "name": "81626"
+    },
+    {
+      "name": "81633"
+    },
+    {
+      "name": "81653"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "81653"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "81653"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "81653"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "81653"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "81653"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "81653"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "81610"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "81610"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "81610"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "81610"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "81610"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "81610"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "81625"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "81625"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "81625"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "81625"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "81625"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "81625"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "81626"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "81626"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "81626"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "81626"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "81626"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "81626"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "81633"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "81633"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "81633"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "81633"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "81633"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "81633"
+    }
+  ],
+  "priceLinks": []
+}

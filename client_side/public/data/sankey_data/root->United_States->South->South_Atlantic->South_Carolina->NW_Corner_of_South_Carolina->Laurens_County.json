@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->South_Carolina->NW_Corner_of_South_Carolina->Laurens_County",
+  "nodes": [
+    {
+      "name": "29325"
+    },
+    {
+      "name": "29360"
+    },
+    {
+      "name": "29384"
+    },
+    {
+      "name": "29645"
+    },
+    {
+      "name": "29692"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "29692"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "29692"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "29692"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29692"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "29692"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "29692"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "29325"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "29325"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "29325"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29325"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "29325"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "29325"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "29360"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "29360"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "29360"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "29360"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "29360"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "29360"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "29384"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "29384"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "29384"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "29384"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "29384"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "29384"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "29645"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "29645"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "29645"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29645"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "29645"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "29645"
+    }
+  ],
+  "priceLinks": []
+}

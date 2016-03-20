@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->West->Mountain->New_Mexico->SW_Corner_of_New_Mexico->Otero_County",
+  "nodes": [
+    {
+      "name": "88330"
+    },
+    {
+      "name": "88342"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "88330"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "88330"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "88330"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "88330"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "88330"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "88330"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "88342"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "88342"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "88342"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "88342"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "88342"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "88342"
+    }
+  ],
+  "priceLinks": []
+}

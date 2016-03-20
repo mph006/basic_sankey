@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SW_Corner_of_Minnesota->Unknown_County",
+  "nodes": [
+    {
+      "name": "56064"
+    },
+    {
+      "name": "56126"
+    },
+    {
+      "name": "56130"
+    },
+    {
+      "name": "56246"
+    },
+    {
+      "name": "56286"
+    },
+    {
+      "name": "56432"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56432"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "56432"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56432"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "56432"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56432"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "56432"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "56286"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "56286"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56286"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56286"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "56286"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "56286"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "56126"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "56126"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56126"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56126"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56126"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56126"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "56130"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "56130"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56130"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56130"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56130"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56130"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "56064"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "56064"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56064"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56064"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56064"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56064"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "56246"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "56246"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56246"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56246"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56246"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56246"
+    }
+  ],
+  "priceLinks": []
+}

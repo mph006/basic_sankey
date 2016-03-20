@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->SE_Corner_of_Texas->Bee_County",
+  "nodes": [
+    {
+      "name": "78125"
+    },
+    {
+      "name": "78142"
+    },
+    {
+      "name": "78162"
+    },
+    {
+      "name": "78389"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "78125"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "78125"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "78125"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "78125"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "78125"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "78125"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "78142"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "78142"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "78142"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "78142"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "78142"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "78142"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "78162"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "78162"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "78162"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "78162"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "78162"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "78162"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "78389"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "78389"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "78389"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "78389"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "78389"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "78389"
+    }
+  ],
+  "priceLinks": []
+}

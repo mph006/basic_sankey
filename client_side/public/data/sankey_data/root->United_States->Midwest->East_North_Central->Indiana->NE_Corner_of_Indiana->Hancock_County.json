@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Indiana->NE_Corner_of_Indiana->Hancock_County",
   "nodes": [
     {
+      "name": "46040"
+    },
+    {
       "name": "46055"
+    },
+    {
+      "name": "46154"
+    },
+    {
+      "name": "46186"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +28,148 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 4,
       "value": 0,
       "region": "46055"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 5,
       "value": 1,
       "region": "46055"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
       "region": "46055"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 5,
+      "target": 6,
       "value": 1,
       "region": "46055"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "46055"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 1,
       "region": "46055"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "46040"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "46040"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "46040"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "46040"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "46040"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "46040"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "46154"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "46154"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "46154"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "46154"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "46154"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "46154"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "46055"
+      "region": "46186"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "46186"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "46186"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "46186"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "46186"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "46186"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->SE_Corner_of_West_Virginia",
   "nodes": [
     {
-      "name": "Pocahontas County"
+      "name": "Randolph County"
     },
     {
       "name": "Dropped_Out"
@@ -15,19 +15,100 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Pendleton County"
+    },
+    {
+      "name": "Pocahontas County"
+    },
+    {
+      "name": "Upshur County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Pocahontas County"
+      "value": 2,
+      "region": "Randolph County"
     },
     {
       "source": 0,
       "target": 2,
+      "value": 10,
+      "region": "Randolph County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Randolph County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Randolph County"
+    },
+    {
+      "source": 3,
+      "target": 1,
       "value": 1,
+      "region": "Randolph County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 9,
+      "region": "Randolph County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "Pendleton County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 7,
+      "region": "Pendleton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pendleton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Pendleton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pendleton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Pendleton County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 2,
+      "region": "Pocahontas County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 6,
       "region": "Pocahontas County"
     },
     {
@@ -39,7 +120,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 5,
       "region": "Pocahontas County"
     },
     {
@@ -51,8 +132,44 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 5,
       "region": "Pocahontas County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Upshur County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "Upshur County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Upshur County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Upshur County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Upshur County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Upshur County"
     }
   ],
   "priceLinks": []

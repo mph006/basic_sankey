@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->SE_Corner_of_Iowa->Washington_County",
+  "nodes": [
+    {
+      "name": "52247"
+    },
+    {
+      "name": "52248"
+    },
+    {
+      "name": "52327"
+    },
+    {
+      "name": "52621"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "52247"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "52247"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "52247"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "52247"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "52247"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "52247"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "52327"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "52327"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "52327"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "52327"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "52327"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "52327"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "52248"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "52248"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "52248"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "52248"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "52248"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "52248"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "52621"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "52621"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "52621"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "52621"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "52621"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52621"
+    }
+  ],
+  "priceLinks": []
+}

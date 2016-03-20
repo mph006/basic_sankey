@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->NE_Corner_of_Kentucky->Boyd_County",
+  "nodes": [
+    {
+      "name": "41101"
+    },
+    {
+      "name": "41105"
+    },
+    {
+      "name": "41114"
+    },
+    {
+      "name": "41129"
+    },
+    {
+      "name": "41168"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "41114"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "41114"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "41114"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "41114"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "41114"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "41114"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "41129"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "41129"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "41129"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "41129"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "41129"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "41129"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "41168"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "41168"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "41168"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "41168"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "41168"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "41168"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "41101"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "41101"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "41101"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "41101"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "41101"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "41101"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "41105"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "41105"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "41105"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "41105"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "41105"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "41105"
+    }
+  ],
+  "priceLinks": []
+}

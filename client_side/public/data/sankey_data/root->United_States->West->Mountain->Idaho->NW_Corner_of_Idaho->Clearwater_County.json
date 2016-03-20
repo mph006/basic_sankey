@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->West->Mountain->Idaho->NW_Corner_of_Idaho->Clearwater_County",
   "nodes": [
     {
+      "name": "83520"
+    },
+    {
       "name": "83546"
+    },
+    {
+      "name": "83553"
+    },
+    {
+      "name": "83827"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +29,147 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "83546"
+      "region": "83520"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
       "value": 1,
-      "region": "83546"
+      "region": "83520"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83520"
+    },
+    {
+      "source": 5,
+      "target": 6,
       "value": 1,
-      "region": "83546"
+      "region": "83520"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 6,
+      "target": 4,
       "value": 0,
-      "region": "83546"
+      "region": "83520"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "83546"
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83520"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
+      "region": "83827"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "83827"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83827"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "83827"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83827"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83827"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
       "region": "83546"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "83546"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83546"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "83546"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "83546"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "83546"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "83553"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "83553"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83553"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "83553"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83553"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83553"
     }
   ],
   "priceLinks": []

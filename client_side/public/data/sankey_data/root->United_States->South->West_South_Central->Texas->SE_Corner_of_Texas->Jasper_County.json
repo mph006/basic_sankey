@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas->SE_Corner_of_Texas->Jasper_County",
   "nodes": [
     {
+      "name": "75931"
+    },
+    {
       "name": "75951"
+    },
+    {
+      "name": "75956"
+    },
+    {
+      "name": "77615"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +28,148 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 4,
       "value": 0,
       "region": "75951"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "75951"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "75951"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "75951"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "75951"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 1,
       "region": "75951"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "75951"
+      "target": 4,
+      "value": 0,
+      "region": "75956"
     },
     {
       "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "75951"
+      "target": 5,
+      "value": 1,
+      "region": "75956"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "75951"
+      "region": "75956"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "75956"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "75956"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75956"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "75931"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "75931"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "75931"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "75931"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "75931"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75931"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "75951"
+      "region": "77615"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "77615"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "77615"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "77615"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "77615"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "77615"
     }
   ],
   "priceLinks": []

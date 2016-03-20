@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas->NW_Corner_of_Texas->Ochiltree_County",
   "nodes": [
     {
+      "name": "79033"
+    },
+    {
       "name": "79070"
+    },
+    {
+      "name": "79093"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +25,112 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 3,
       "value": 0,
       "region": "79070"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 4,
       "value": 1,
       "region": "79070"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 3,
       "value": 0,
       "region": "79070"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "79070"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "79070"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "79070"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "79033"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "79033"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "79033"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "79033"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "79033"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "79033"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "79070"
-    },
-    {
-      "source": 3,
-      "target": 1,
       "value": 0,
-      "region": "79070"
+      "region": "79093"
     },
     {
-      "source": 3,
+      "source": 2,
       "target": 4,
       "value": 1,
-      "region": "79070"
+      "region": "79093"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "79093"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "79093"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "79093"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "79093"
     }
   ],
   "priceLinks": []

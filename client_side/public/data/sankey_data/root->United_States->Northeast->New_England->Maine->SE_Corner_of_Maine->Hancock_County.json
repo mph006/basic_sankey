@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Northeast->New_England->Maine->SE_Corner_of_Maine->Hancock_County",
   "nodes": [
     {
-      "name": "04669"
+      "name": "04612"
     },
     {
       "name": "Dropped_Out"
@@ -15,6 +15,93 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "04669"
+    },
+    {
+      "name": "04672"
+    },
+    {
+      "name": "04662"
+    },
+    {
+      "name": "04616"
+    },
+    {
+      "name": "04676"
+    },
+    {
+      "name": "04644"
+    },
+    {
+      "name": "04613"
+    },
+    {
+      "name": "04677"
+    },
+    {
+      "name": "04416"
+    },
+    {
+      "name": "04683"
+    },
+    {
+      "name": "04614"
+    },
+    {
+      "name": "04679"
+    },
+    {
+      "name": "04609"
+    },
+    {
+      "name": "04629"
+    },
+    {
+      "name": "04646"
+    },
+    {
+      "name": "04640"
+    },
+    {
+      "name": "04650"
+    },
+    {
+      "name": "04684"
+    },
+    {
+      "name": "04476"
+    },
+    {
+      "name": "04627"
+    },
+    {
+      "name": "04681"
+    },
+    {
+      "name": "04472"
+    },
+    {
+      "name": "04429"
+    },
+    {
+      "name": "04685"
+    },
+    {
+      "name": "04421"
+    },
+    {
+      "name": "04605"
+    },
+    {
+      "name": "04431"
+    },
+    {
+      "name": "04420"
+    },
+    {
+      "name": "04664"
     }
   ],
   "countLinks": [
@@ -22,10 +109,46 @@
       "source": 0,
       "target": 1,
       "value": 0,
-      "region": "04669"
+      "region": "04612"
     },
     {
       "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "04612"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04612"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04612"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04612"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04612"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "04669"
+    },
+    {
+      "source": 5,
       "target": 2,
       "value": 1,
       "region": "04669"
@@ -53,6 +176,1014 @@
       "target": 4,
       "value": 1,
       "region": "04669"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "04672"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "04672"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "04672"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "04672"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04672"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04672"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "04662"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 0,
+      "region": "04662"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04662"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "04662"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04662"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04662"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "04616"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "04616"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04616"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04616"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04616"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04616"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "04676"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1,
+      "region": "04676"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04676"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04676"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "04676"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04676"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "04644"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 1,
+      "region": "04644"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04644"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04644"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04644"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04644"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "04613"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 1,
+      "region": "04613"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04613"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04613"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04613"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04613"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "04677"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 1,
+      "region": "04677"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04677"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04677"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04677"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04677"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "04416"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 1,
+      "region": "04416"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04416"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04416"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04416"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04416"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "04683"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 1,
+      "region": "04683"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04683"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04683"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04683"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04683"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "04614"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 1,
+      "region": "04614"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04614"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04614"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04614"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04614"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "04679"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 1,
+      "region": "04679"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04679"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04679"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "04679"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04679"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "04609"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 1,
+      "region": "04609"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04609"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04609"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04609"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04609"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 1,
+      "region": "04629"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 0,
+      "region": "04629"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04629"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "04629"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04629"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04629"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "04646"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 1,
+      "region": "04646"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "04646"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "04646"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04646"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04646"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "04640"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 1,
+      "region": "04640"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04640"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04640"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "04640"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04640"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "04650"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 1,
+      "region": "04650"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04650"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04650"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04650"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04650"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "04684"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 1,
+      "region": "04684"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04684"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04684"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04684"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04684"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "04476"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 1,
+      "region": "04476"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04476"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04476"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "04476"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04476"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "04627"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 1,
+      "region": "04627"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04627"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04627"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04627"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04627"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 1,
+      "region": "04681"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 0,
+      "region": "04681"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04681"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "04681"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04681"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04681"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 0,
+      "region": "04472"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 1,
+      "region": "04472"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "04472"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "04472"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04472"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04472"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 0,
+      "region": "04429"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 1,
+      "region": "04429"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04429"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04429"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04429"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04429"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 0,
+      "region": "04685"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 1,
+      "region": "04685"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04685"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04685"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04685"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04685"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "value": 0,
+      "region": "04421"
+    },
+    {
+      "source": 29,
+      "target": 2,
+      "value": 1,
+      "region": "04421"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04421"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04421"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04421"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04421"
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "value": 0,
+      "region": "04605"
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "value": 1,
+      "region": "04605"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04605"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04605"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04605"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04605"
+    },
+    {
+      "source": 31,
+      "target": 1,
+      "value": 0,
+      "region": "04431"
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "value": 1,
+      "region": "04431"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04431"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04431"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04431"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "04431"
+    },
+    {
+      "source": 32,
+      "target": 1,
+      "value": 0,
+      "region": "04420"
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "value": 1,
+      "region": "04420"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04420"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "04420"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "04420"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04420"
+    },
+    {
+      "source": 33,
+      "target": 1,
+      "value": 1,
+      "region": "04664"
+    },
+    {
+      "source": 33,
+      "target": 2,
+      "value": 0,
+      "region": "04664"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "04664"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "04664"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "04664"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "04664"
     }
   ],
   "priceLinks": []

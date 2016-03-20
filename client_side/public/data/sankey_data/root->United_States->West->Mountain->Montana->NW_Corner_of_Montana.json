@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Mountain->Montana->NW_Corner_of_Montana",
   "nodes": [
     {
-      "name": "Teton County"
+      "name": "Flathead County"
     },
     {
       "name": "Dropped_Out"
@@ -17,10 +17,55 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Flathead County"
+      "name": "Cascade County"
+    },
+    {
+      "name": "Lake County"
+    },
+    {
+      "name": "Missoula County"
+    },
+    {
+      "name": "Sanders County"
+    },
+    {
+      "name": "Lincoln County"
+    },
+    {
+      "name": "Mineral County"
+    },
+    {
+      "name": "Toole County"
+    },
+    {
+      "name": "Hill County"
+    },
+    {
+      "name": "Pondera County"
     },
     {
       "name": "Chouteau County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Liberty County"
+    },
+    {
+      "name": "Powell County"
+    },
+    {
+      "name": "Teton County"
+    },
+    {
+      "name": "Glacier County"
+    },
+    {
+      "name": "Judith Basin County"
+    },
+    {
+      "name": "Lewis and Clark County"
     }
   ],
   "countLinks": [
@@ -28,84 +73,372 @@
       "source": 0,
       "target": 1,
       "value": 1,
-      "region": "Teton County"
+      "region": "Flathead County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
-      "region": "Teton County"
+      "value": 14,
+      "region": "Flathead County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Teton County"
+      "region": "Flathead County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Teton County"
+      "value": 14,
+      "region": "Flathead County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Teton County"
+      "value": 1,
+      "region": "Flathead County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Teton County"
+      "value": 13,
+      "region": "Flathead County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 0,
-      "region": "Flathead County"
+      "region": "Cascade County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Flathead County"
+      "value": 10,
+      "region": "Cascade County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Flathead County"
+      "region": "Cascade County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Flathead County"
+      "value": 10,
+      "region": "Cascade County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Flathead County"
+      "value": 0,
+      "region": "Cascade County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Flathead County"
+      "value": 10,
+      "region": "Cascade County"
     },
     {
       "source": 6,
       "target": 1,
       "value": 1,
-      "region": "Chouteau County"
+      "region": "Lake County"
     },
     {
       "source": 6,
       "target": 2,
+      "value": 9,
+      "region": "Lake County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 0,
+      "region": "Lake County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Lake County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Lake County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Lake County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 3,
+      "region": "Missoula County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 7,
+      "region": "Missoula County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Missoula County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Missoula County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Missoula County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Missoula County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Sanders County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 6,
+      "region": "Sanders County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sanders County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Sanders County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Sanders County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Sanders County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 5,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Lincoln County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Mineral County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 6,
+      "region": "Mineral County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Mineral County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Mineral County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Mineral County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Mineral County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Toole County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 4,
+      "region": "Toole County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Toole County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Toole County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Toole County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Toole County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1,
+      "region": "Hill County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 2,
+      "region": "Hill County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hill County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Hill County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Hill County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Hill County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1,
+      "region": "Pondera County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 4,
+      "region": "Pondera County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pondera County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Pondera County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Pondera County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Pondera County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Chouteau County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 2,
       "region": "Chouteau County"
     },
     {
@@ -117,7 +450,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 2,
       "region": "Chouteau County"
     },
     {
@@ -129,8 +462,260 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 2,
       "region": "Chouteau County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Liberty County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 2,
+      "region": "Liberty County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Liberty County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Liberty County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Liberty County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Liberty County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 1,
+      "region": "Powell County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 1,
+      "region": "Powell County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Powell County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Powell County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Powell County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Powell County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Teton County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 2,
+      "region": "Teton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Teton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Teton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Teton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Teton County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Glacier County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 2,
+      "region": "Glacier County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Glacier County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Glacier County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Glacier County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Glacier County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Judith Basin County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 2,
+      "region": "Judith Basin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Judith Basin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Judith Basin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Judith Basin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Judith Basin County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Lewis and Clark County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 2,
+      "region": "Lewis and Clark County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Lewis and Clark County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Lewis and Clark County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lewis and Clark County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Lewis and Clark County"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->West->Mountain->Arizona->SW_Corner_of_Arizona->Unknown_County",
   "nodes": [
     {
-      "name": "85330"
+      "name": "85089"
+    },
+    {
+      "name": "85439"
+    },
+    {
+      "name": "85807"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +26,111 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 3,
       "value": 0,
-      "region": "85330"
+      "region": "85089"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 4,
       "value": 1,
-      "region": "85330"
+      "region": "85089"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 3,
       "value": 0,
-      "region": "85330"
+      "region": "85089"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "85089"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "85089"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "85089"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "85439"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "85439"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "85439"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "85439"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "85439"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "85439"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "85330"
-    },
-    {
-      "source": 3,
-      "target": 1,
       "value": 0,
-      "region": "85330"
+      "region": "85807"
     },
     {
-      "source": 3,
+      "source": 2,
       "target": 4,
       "value": 1,
-      "region": "85330"
+      "region": "85807"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "85807"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "85807"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "85807"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "85807"
     }
   ],
   "priceLinks": []

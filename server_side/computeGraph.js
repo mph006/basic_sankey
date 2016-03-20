@@ -10,9 +10,12 @@ module.exports = {
 		if(!data.children){return null;}
 
 	    for(var i=0; i<data.children.length; i++){
+	    	names.push(data.children[i].key)
+	    	//ToDO Investigate this ASYNC weirdness
 	        graphArray.push(traverseTree(data.children[i]));
 	        //Again take advantage of array's sort property
-	        names.push(data.children[i].key)
+	        
+	    	
 	    }
 
 	    //Loss of flow case
@@ -37,7 +40,7 @@ module.exports = {
 
 	    //SUPER hackey, need to refactor
 	    for(var x=0; x<graphArray.length; x++){
-	     	var region = names[x]
+	     	var region = names[x];
 	        graph.nodes.push({ "name": region});
 	        graph.nodes.push({ "name": 'Dropped_Out' });
 	        graph.nodes.push({ "name": 'Checkout_Step_1' });
@@ -123,7 +126,7 @@ module.exports = {
 	    //now loop through each nodes to make nodes an array of objects
 	    // rather than an array of strings
 	    graph.nodes.forEach(function (d, i) {
-	    graph.nodes[i] = { "name": d };
+	 		graph.nodes[i] = { "name": d };
 	    });
 
 	    return graph; 

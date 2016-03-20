@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SE_Corner_of_Minnesota",
   "nodes": [
     {
-      "name": "Winona County"
+      "name": "Hennepin County"
     },
     {
       "name": "Dropped_Out"
@@ -17,159 +17,861 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Dakota County"
+      "name": "Ramsey County"
+    },
+    {
+      "name": "Washington County"
+    },
+    {
+      "name": "Anoka County"
     },
     {
       "name": "Olmsted County"
     },
     {
-      "name": "Anoka County"
+      "name": "Mower County"
+    },
+    {
+      "name": "Pine County"
+    },
+    {
+      "name": "Goodhue County"
+    },
+    {
+      "name": "Wabasha County"
+    },
+    {
+      "name": "Dakota County"
+    },
+    {
+      "name": "Freeborn County"
+    },
+    {
+      "name": "Winona County"
+    },
+    {
+      "name": "Rice County"
+    },
+    {
+      "name": "Houston County"
+    },
+    {
+      "name": "Fillmore County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Dodge County"
+    },
+    {
+      "name": "Isanti County"
+    },
+    {
+      "name": "Steele County"
+    },
+    {
+      "name": "Scott County"
+    },
+    {
+      "name": "Chisago County"
+    },
+    {
+      "name": "Kanabec County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Winona County"
+      "value": 5,
+      "region": "Hennepin County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Winona County"
+      "value": 29,
+      "region": "Hennepin County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Winona County"
+      "value": 5,
+      "region": "Hennepin County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Winona County"
+      "value": 24,
+      "region": "Hennepin County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Winona County"
+      "value": 2,
+      "region": "Hennepin County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Winona County"
+      "value": 22,
+      "region": "Hennepin County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Dakota County"
+      "value": 1,
+      "region": "Ramsey County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Dakota County"
+      "value": 22,
+      "region": "Ramsey County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Dakota County"
+      "value": 3,
+      "region": "Ramsey County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Dakota County"
+      "value": 19,
+      "region": "Ramsey County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Dakota County"
+      "value": 2,
+      "region": "Ramsey County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Dakota County"
+      "value": 17,
+      "region": "Ramsey County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Olmsted County"
+      "value": 1,
+      "region": "Washington County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1,
-      "region": "Olmsted County"
+      "value": 11,
+      "region": "Washington County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Olmsted County"
+      "region": "Washington County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Olmsted County"
+      "value": 11,
+      "region": "Washington County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 1,
-      "region": "Olmsted County"
+      "region": "Washington County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Olmsted County"
+      "value": 10,
+      "region": "Washington County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1,
+      "value": 0,
       "region": "Anoka County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0,
+      "value": 10,
       "region": "Anoka County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Anoka County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 9,
       "region": "Anoka County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 2,
       "region": "Anoka County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 7,
       "region": "Anoka County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1,
+      "region": "Olmsted County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 8,
+      "region": "Olmsted County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Olmsted County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Olmsted County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Olmsted County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Olmsted County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Mower County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 8,
+      "region": "Mower County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Mower County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Mower County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Mower County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Mower County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 2,
+      "region": "Pine County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 7,
+      "region": "Pine County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Pine County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Pine County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pine County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Pine County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Goodhue County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 8,
+      "region": "Goodhue County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Goodhue County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Goodhue County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Goodhue County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Goodhue County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 2,
+      "region": "Wabasha County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 4,
+      "region": "Wabasha County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wabasha County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Wabasha County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Wabasha County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Wabasha County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Dakota County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 10,
+      "region": "Dakota County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Dakota County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Dakota County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Dakota County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Dakota County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 1,
+      "region": "Freeborn County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 6,
+      "region": "Freeborn County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Freeborn County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Freeborn County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Freeborn County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Freeborn County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 1,
+      "region": "Winona County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 6,
+      "region": "Winona County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Winona County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Winona County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Winona County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Winona County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Rice County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 5,
+      "region": "Rice County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Rice County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Rice County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Rice County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Rice County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 2,
+      "region": "Houston County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 2,
+      "region": "Houston County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Houston County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Houston County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Houston County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Houston County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Fillmore County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 5,
+      "region": "Fillmore County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Fillmore County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Fillmore County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Fillmore County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Fillmore County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Dodge County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 3,
+      "region": "Dodge County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Dodge County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Dodge County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Dodge County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Dodge County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 2,
+      "region": "Isanti County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 2,
+      "region": "Isanti County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Isanti County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Isanti County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Isanti County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Isanti County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Steele County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 4,
+      "region": "Steele County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Steele County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Steele County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Steele County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Steele County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Scott County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 2,
+      "region": "Scott County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Scott County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Scott County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Scott County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Scott County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 1,
+      "region": "Chisago County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 3,
+      "region": "Chisago County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Chisago County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Chisago County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Chisago County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Chisago County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 0,
+      "region": "Kanabec County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 1,
+      "region": "Kanabec County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Kanabec County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Kanabec County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Kanabec County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Kanabec County"
     }
   ],
   "priceLinks": []

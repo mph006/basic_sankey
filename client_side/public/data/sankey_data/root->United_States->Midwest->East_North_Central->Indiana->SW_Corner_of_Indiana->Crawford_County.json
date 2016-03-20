@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Indiana->SW_Corner_of_Indiana->Crawford_County",
   "nodes": [
     {
-      "name": "47174"
+      "name": "47116"
+    },
+    {
+      "name": "47118"
+    },
+    {
+      "name": "47123"
     },
     {
       "name": "47175"
@@ -23,57 +29,39 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 2,
+      "target": 4,
       "value": 0,
-      "region": "47174"
+      "region": "47116"
     },
     {
       "source": 0,
-      "target": 3,
-      "value": 1,
-      "region": "47174"
-    },
-    {
-      "source": 3,
-      "target": 2,
-      "value": 0,
-      "region": "47174"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "47174"
-    },
-    {
-      "source": 4,
-      "target": 2,
-      "value": 0,
-      "region": "47174"
-    },
-    {
-      "source": 4,
       "target": 5,
       "value": 1,
-      "region": "47174"
+      "region": "47116"
     },
     {
-      "source": 1,
-      "target": 2,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "47175"
+      "region": "47116"
     },
     {
-      "source": 1,
-      "target": 3,
+      "source": 5,
+      "target": 6,
       "value": 1,
-      "region": "47175"
+      "region": "47116"
     },
     {
-      "source": 3,
-      "target": 2,
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "47116"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 1,
-      "region": "47175"
+      "region": "47116"
     },
     {
       "source": 3,
@@ -82,16 +70,106 @@
       "region": "47175"
     },
     {
-      "source": 4,
-      "target": 2,
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "47175"
+    },
+    {
+      "source": 5,
+      "target": 4,
       "value": 0,
       "region": "47175"
     },
     {
-      "source": 4,
-      "target": 5,
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "47175"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "47175"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 0,
       "region": "47175"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "47123"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "47123"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "47123"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "47123"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "47123"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "47123"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "47118"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "47118"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "47118"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "47118"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "47118"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "47118"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Marion_County",
+  "nodes": [
+    {
+      "name": "72619"
+    },
+    {
+      "name": "72661"
+    },
+    {
+      "name": "72668"
+    },
+    {
+      "name": "72672"
+    },
+    {
+      "name": "72677"
+    },
+    {
+      "name": "72682"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "72619"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "72619"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "72619"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72619"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "72619"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72619"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "72668"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "72668"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72668"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72668"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "72668"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72668"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "72672"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "72672"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72672"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72672"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "72672"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72672"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "72677"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "72677"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72677"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72677"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "72677"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "72677"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "72661"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "72661"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72661"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72661"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "72661"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72661"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "72682"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "72682"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "72682"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72682"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "72682"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "72682"
+    }
+  ],
+  "priceLinks": []
+}

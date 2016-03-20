@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->West->Mountain->Idaho->SE_Corner_of_Idaho->Bingham_County",
   "nodes": [
     {
+      "name": "83210"
+    },
+    {
+      "name": "83215"
+    },
+    {
+      "name": "83221"
+    },
+    {
       "name": "83262"
+    },
+    {
+      "name": "83277"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +32,183 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "83262"
+      "region": "83210"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
       "value": 1,
-      "region": "83262"
+      "region": "83210"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "83210"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83210"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "83210"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "83210"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "83215"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "83215"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "83215"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83215"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "83215"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "83215"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 5,
       "value": 1,
-      "region": "83262"
+      "region": "83221"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 6,
+      "value": 0,
+      "region": "83221"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "83221"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "83221"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "83221"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "83221"
+    },
+    {
+      "source": 3,
+      "target": 5,
       "value": 0,
       "region": "83262"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 6,
+      "value": 1,
+      "region": "83262"
+    },
+    {
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "83262"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83262"
+    },
+    {
+      "source": 7,
+      "target": 5,
       "value": 0,
       "region": "83262"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "83262"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "83277"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "83277"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "83277"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "83277"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "83277"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "83277"
     }
   ],
   "priceLinks": []

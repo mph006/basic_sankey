@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->West->Pacific->Oregon->SE_Corner_of_Oregon->Lake_County",
+  "nodes": [
+    {
+      "name": "97620"
+    },
+    {
+      "name": "97636"
+    },
+    {
+      "name": "97637"
+    },
+    {
+      "name": "97641"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "97620"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "97620"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "97620"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "97620"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "97620"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "97620"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "97636"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "97636"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "97636"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "97636"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "97636"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "97636"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "97637"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "97637"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "97637"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "97637"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "97637"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "97637"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "97641"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "97641"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "97641"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "97641"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "97641"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "97641"
+    }
+  ],
+  "priceLinks": []
+}

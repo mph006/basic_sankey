@@ -17,198 +17,276 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Hampden County"
+    },
+    {
+      "name": "Franklin County"
+    },
+    {
       "name": "Berkshire County"
     },
     {
-      "name": "Hampden County"
+      "name": "Hampshire County"
     },
     {
       "name": "Unknown County"
     },
     {
-      "name": "Hampshire County"
+      "name": "Middlesex County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
+      "value": 10,
       "region": "Worcester County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
+      "value": 37,
       "region": "Worcester County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 4,
       "region": "Worcester County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
+      "value": 33,
       "region": "Worcester County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 2,
+      "value": 8,
       "region": "Worcester County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 25,
       "region": "Worcester County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Berkshire County"
+      "value": 6,
+      "region": "Hampden County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Berkshire County"
+      "value": 26,
+      "region": "Hampden County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Berkshire County"
+      "value": 4,
+      "region": "Hampden County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Berkshire County"
+      "value": 22,
+      "region": "Hampden County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Berkshire County"
+      "value": 2,
+      "region": "Hampden County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Berkshire County"
+      "value": 20,
+      "region": "Hampden County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Hampden County"
+      "value": 2,
+      "region": "Franklin County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1,
-      "region": "Hampden County"
+      "value": 24,
+      "region": "Franklin County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Hampden County"
+      "value": 3,
+      "region": "Franklin County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Hampden County"
+      "value": 21,
+      "region": "Franklin County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Hampden County"
+      "value": 2,
+      "region": "Franklin County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Hampden County"
+      "value": 19,
+      "region": "Franklin County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 6,
+      "region": "Berkshire County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1,
-      "region": "Unknown County"
+      "value": 16,
+      "region": "Berkshire County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 2,
+      "region": "Berkshire County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Unknown County"
+      "value": 14,
+      "region": "Berkshire County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 2,
+      "region": "Berkshire County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Unknown County"
+      "value": 12,
+      "region": "Berkshire County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "Hampshire County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 1,
+      "value": 15,
       "region": "Hampshire County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Hampshire County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 14,
       "region": "Hampshire County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 2,
       "region": "Hampshire County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 12,
       "region": "Hampshire County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Middlesex County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 2,
+      "region": "Middlesex County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Middlesex County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Middlesex County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Middlesex County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Middlesex County"
     }
   ],
   "priceLinks": []

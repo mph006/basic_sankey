@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Pacific->Oregon->NE_Corner_of_Oregon",
   "nodes": [
     {
-      "name": "Wallowa County"
+      "name": "Umatilla County"
     },
     {
       "name": "Dropped_Out"
@@ -17,56 +17,269 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Baker County"
+    },
+    {
+      "name": "Grant County"
+    },
+    {
+      "name": "Wallowa County"
+    },
+    {
+      "name": "Morrow County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
       "name": "Union County"
+    },
+    {
+      "name": "Malheur County"
+    },
+    {
+      "name": "Wheeler County"
+    },
+    {
+      "name": "Gilliam County"
+    },
+    {
+      "name": "Sherman County"
+    },
+    {
+      "name": "Crook County"
+    },
+    {
+      "name": "Walla Walla County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Wallowa County"
+      "value": 2,
+      "region": "Umatilla County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Wallowa County"
+      "value": 9,
+      "region": "Umatilla County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Wallowa County"
+      "region": "Umatilla County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Wallowa County"
+      "value": 8,
+      "region": "Umatilla County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Wallowa County"
+      "region": "Umatilla County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Wallowa County"
+      "value": 8,
+      "region": "Umatilla County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Union County"
+      "value": 1,
+      "region": "Baker County"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 7,
+      "region": "Baker County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Baker County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Baker County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Baker County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Baker County"
+    },
+    {
+      "source": 6,
+      "target": 1,
       "value": 1,
+      "region": "Grant County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 8,
+      "region": "Grant County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Grant County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Grant County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Grant County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Grant County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "Wallowa County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 3,
+      "region": "Wallowa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wallowa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Wallowa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Wallowa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Wallowa County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 2,
+      "region": "Morrow County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 2,
+      "region": "Morrow County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Morrow County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Morrow County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Morrow County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Morrow County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Union County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 5,
       "region": "Union County"
     },
     {
@@ -78,7 +291,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 5,
       "region": "Union County"
     },
     {
@@ -90,8 +303,224 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 4,
       "region": "Union County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Malheur County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 3,
+      "region": "Malheur County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Malheur County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Malheur County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Malheur County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Malheur County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Wheeler County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 2,
+      "region": "Wheeler County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Wheeler County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Wheeler County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Wheeler County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Wheeler County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Gilliam County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 3,
+      "region": "Gilliam County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Gilliam County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Gilliam County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Gilliam County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Gilliam County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Sherman County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 1,
+      "region": "Sherman County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Sherman County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Sherman County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Sherman County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Sherman County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Crook County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 1,
+      "region": "Crook County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Crook County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Crook County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Crook County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Crook County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Walla Walla County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 1,
+      "region": "Walla Walla County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Walla Walla County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Walla Walla County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Walla Walla County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Walla Walla County"
     }
   ],
   "priceLinks": []

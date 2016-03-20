@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_Jersey->NW_Corner_of_New_Jersey",
   "nodes": [
     {
-      "name": "Hunterdon County"
+      "name": "Warren County"
     },
     {
       "name": "Dropped_Out"
@@ -17,81 +17,237 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Warren County"
+      "name": "Hunterdon County"
+    },
+    {
+      "name": "Mercer County"
+    },
+    {
+      "name": "Sussex County"
+    },
+    {
+      "name": "Morris County"
+    },
+    {
+      "name": "Unknown County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Hunterdon County"
+      "value": 1,
+      "region": "Warren County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Hunterdon County"
+      "value": 13,
+      "region": "Warren County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Hunterdon County"
+      "value": 4,
+      "region": "Warren County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Hunterdon County"
+      "value": 9,
+      "region": "Warren County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Hunterdon County"
+      "value": 4,
+      "region": "Warren County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Hunterdon County"
+      "value": 5,
+      "region": "Warren County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 0,
-      "region": "Warren County"
+      "region": "Hunterdon County"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 19,
+      "region": "Hunterdon County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Hunterdon County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 17,
+      "region": "Hunterdon County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "Hunterdon County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 13,
+      "region": "Hunterdon County"
+    },
+    {
+      "source": 6,
+      "target": 1,
       "value": 1,
-      "region": "Warren County"
+      "region": "Mercer County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 7,
+      "region": "Mercer County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Mercer County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Mercer County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Mercer County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Mercer County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "Sussex County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 5,
+      "region": "Sussex County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Warren County"
+      "region": "Sussex County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Sussex County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Sussex County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Sussex County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1,
+      "region": "Morris County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "Morris County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Morris County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 1,
-      "region": "Warren County"
+      "region": "Morris County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Warren County"
+      "value": 0,
+      "region": "Morris County"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 1,
+      "region": "Morris County"
+    },
+    {
+      "source": 9,
+      "target": 1,
       "value": 0,
-      "region": "Warren County"
+      "region": "Unknown County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
     }
   ],
   "priceLinks": []

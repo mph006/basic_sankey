@@ -2,6 +2,21 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->NE_Corner_of_Wisconsin->Vilas_County",
   "nodes": [
     {
+      "name": "54512"
+    },
+    {
+      "name": "54540"
+    },
+    {
+      "name": "54557"
+    },
+    {
+      "name": "54560"
+    },
+    {
+      "name": "54561"
+    },
+    {
       "name": "54568"
     },
     {
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "54540"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "54540"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "54540"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54540"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "54540"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54540"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "54568"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "54568"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "54568"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "54568"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "54568"
+    },
+    {
+      "source": 8,
+      "target": 9,
       "value": 0,
       "region": "54568"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
+      "value": 0,
+      "region": "54512"
+    },
+    {
+      "source": 0,
+      "target": 7,
       "value": 1,
-      "region": "54568"
+      "region": "54512"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "54512"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54512"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "54512"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54512"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 6,
       "value": 0,
-      "region": "54568"
+      "region": "54557"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 7,
       "value": 1,
-      "region": "54568"
+      "region": "54557"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "54568"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "54568"
+      "region": "54557"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54557"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "54557"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54557"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "54560"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "54560"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "54560"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54560"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "54560"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54560"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "54561"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "54561"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "54561"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54561"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "54561"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "54561"
     }
   ],
   "priceLinks": []

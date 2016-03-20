@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->West_South_Central->Louisiana",
   "nodes": [
     {
-      "name": "SW Corner of Louisiana"
+      "name": "SE Corner of Louisiana"
     },
     {
       "name": "Dropped_Out"
@@ -17,120 +17,159 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "SE Corner of Louisiana"
+      "name": "NW Corner of Louisiana"
     },
     {
-      "name": "NW Corner of Louisiana"
+      "name": "SW Corner of Louisiana"
+    },
+    {
+      "name": "NE Corner of Louisiana"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "SW Corner of Louisiana"
+      "value": 19,
+      "region": "SE Corner of Louisiana"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 4,
-      "region": "SW Corner of Louisiana"
+      "value": 208,
+      "region": "SE Corner of Louisiana"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "SW Corner of Louisiana"
+      "value": 24,
+      "region": "SE Corner of Louisiana"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 3,
-      "region": "SW Corner of Louisiana"
+      "value": 184,
+      "region": "SE Corner of Louisiana"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 2,
-      "region": "SW Corner of Louisiana"
+      "value": 37,
+      "region": "SE Corner of Louisiana"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "SW Corner of Louisiana"
+      "value": 147,
+      "region": "SE Corner of Louisiana"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 2,
-      "region": "SE Corner of Louisiana"
+      "value": 17,
+      "region": "NW Corner of Louisiana"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "SE Corner of Louisiana"
+      "value": 142,
+      "region": "NW Corner of Louisiana"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "SE Corner of Louisiana"
+      "value": 20,
+      "region": "NW Corner of Louisiana"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "SE Corner of Louisiana"
+      "value": 122,
+      "region": "NW Corner of Louisiana"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "SE Corner of Louisiana"
+      "value": 24,
+      "region": "NW Corner of Louisiana"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "SE Corner of Louisiana"
+      "value": 98,
+      "region": "NW Corner of Louisiana"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "NW Corner of Louisiana"
+      "value": 13,
+      "region": "SW Corner of Louisiana"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 2,
-      "region": "NW Corner of Louisiana"
+      "value": 94,
+      "region": "SW Corner of Louisiana"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "NW Corner of Louisiana"
+      "value": 10,
+      "region": "SW Corner of Louisiana"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "NW Corner of Louisiana"
+      "value": 84,
+      "region": "SW Corner of Louisiana"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "NW Corner of Louisiana"
+      "value": 12,
+      "region": "SW Corner of Louisiana"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 72,
+      "region": "SW Corner of Louisiana"
+    },
+    {
+      "source": 7,
+      "target": 1,
       "value": 0,
-      "region": "NW Corner of Louisiana"
+      "region": "NE Corner of Louisiana"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 16,
+      "region": "NE Corner of Louisiana"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of Louisiana"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 16,
+      "region": "NE Corner of Louisiana"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "NE Corner of Louisiana"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 14,
+      "region": "NE Corner of Louisiana"
     }
   ],
   "priceLinks": []

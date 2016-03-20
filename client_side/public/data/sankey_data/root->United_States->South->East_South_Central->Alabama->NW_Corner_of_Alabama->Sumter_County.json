@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->South->East_South_Central->Alabama->NW_Corner_of_Alabama->Sumter_County",
   "nodes": [
     {
+      "name": "35459"
+    },
+    {
       "name": "35460"
+    },
+    {
+      "name": "35477"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +25,112 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "35460"
+    },
+    {
+      "source": 1,
+      "target": 4,
       "value": 1,
       "region": "35460"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 4,
+      "target": 3,
       "value": 0,
       "region": "35460"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "35460"
+    },
+    {
+      "source": 5,
+      "target": 3,
       "value": 0,
+      "region": "35460"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
       "region": "35460"
     },
     {
       "source": 2,
       "target": 3,
       "value": 0,
-      "region": "35460"
+      "region": "35477"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "35460"
-    },
-    {
-      "source": 3,
+      "source": 2,
       "target": 4,
+      "value": 1,
+      "region": "35477"
+    },
+    {
+      "source": 4,
+      "target": 3,
       "value": 0,
-      "region": "35460"
+      "region": "35477"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "35477"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "35477"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "35477"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "35459"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "35459"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "35459"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "35459"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "35459"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "35459"
     }
   ],
   "priceLinks": []

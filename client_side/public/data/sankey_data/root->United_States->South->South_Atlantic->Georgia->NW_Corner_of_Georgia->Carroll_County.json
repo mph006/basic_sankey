@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->South->South_Atlantic->Georgia->NW_Corner_of_Georgia->Carroll_County",
   "nodes": [
     {
+      "name": "30108"
+    },
+    {
       "name": "30116"
+    },
+    {
+      "name": "30118"
+    },
+    {
+      "name": "30119"
+    },
+    {
+      "name": "30170"
+    },
+    {
+      "name": "30185"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "30118"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "30118"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "30118"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30118"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "30118"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "30118"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 6,
+      "value": 0,
+      "region": "30108"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "30108"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "30108"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30108"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "30108"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "30108"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "30116"
+    },
+    {
+      "source": 1,
+      "target": 7,
       "value": 1,
       "region": "30116"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 7,
+      "target": 6,
       "value": 0,
       "region": "30116"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30116"
+    },
+    {
+      "source": 8,
+      "target": 6,
       "value": 0,
       "region": "30116"
     },
     {
-      "source": 2,
-      "target": 3,
-      "value": 0,
+      "source": 8,
+      "target": 9,
+      "value": 1,
       "region": "30116"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 6,
       "value": 0,
-      "region": "30116"
+      "region": "30119"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 7,
+      "value": 1,
+      "region": "30119"
+    },
+    {
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "30116"
+      "region": "30119"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30119"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "30119"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "30119"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "30170"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "30170"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "30170"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30170"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "30170"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "30170"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "30185"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "30185"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "30185"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "30185"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "30185"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "30185"
     }
   ],
   "priceLinks": []

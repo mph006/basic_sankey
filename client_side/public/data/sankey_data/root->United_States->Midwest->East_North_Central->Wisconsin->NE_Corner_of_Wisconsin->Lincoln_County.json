@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->NE_Corner_of_Wisconsin->Lincoln_County",
+  "nodes": [
+    {
+      "name": "54435"
+    },
+    {
+      "name": "54452"
+    },
+    {
+      "name": "54487"
+    },
+    {
+      "name": "54532"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "54532"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "54532"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "54532"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "54532"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "54532"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54532"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "54452"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "54452"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "54452"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "54452"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "54452"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54452"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "54435"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "54435"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "54435"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "54435"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "54435"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54435"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "54487"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "54487"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "54487"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "54487"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "54487"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54487"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Arizona->SE_Corner_of_Arizona->Gila_County",
+  "nodes": [
+    {
+      "name": "85501"
+    },
+    {
+      "name": "85502"
+    },
+    {
+      "name": "85532"
+    },
+    {
+      "name": "85542"
+    },
+    {
+      "name": "85545"
+    },
+    {
+      "name": "85553"
+    },
+    {
+      "name": "85554"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "85501"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "85501"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "85501"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "85501"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "85501"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "85501"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "85542"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "85542"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "85542"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "85542"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "85542"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "85542"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "85502"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "85502"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "85502"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "85502"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "85502"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "85502"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "85532"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "85532"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "85532"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "85532"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "85532"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "85532"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "85545"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "85545"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "85545"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "85545"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "85545"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "85545"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "85553"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "85553"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "85553"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "85553"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "85553"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "85553"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "85554"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "85554"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "85554"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "85554"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "85554"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "85554"
+    }
+  ],
+  "priceLinks": []
+}

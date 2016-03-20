@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->SE_Corner_of_Wisconsin->Sauk_County",
+  "nodes": [
+    {
+      "name": "53561"
+    },
+    {
+      "name": "53940"
+    },
+    {
+      "name": "53965"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "53965"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "53965"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "53965"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "53965"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "53965"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "53965"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "53561"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "53561"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "53561"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "53561"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "53561"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "53561"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "53940"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "53940"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "53940"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "53940"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "53940"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "53940"
+    }
+  ],
+  "priceLinks": []
+}

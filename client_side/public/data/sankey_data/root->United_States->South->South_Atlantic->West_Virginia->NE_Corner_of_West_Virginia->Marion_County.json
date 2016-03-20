@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->NE_Corner_of_West_Virginia->Marion_County",
+  "nodes": [
+    {
+      "name": "26554"
+    },
+    {
+      "name": "26559"
+    },
+    {
+      "name": "26574"
+    },
+    {
+      "name": "26578"
+    },
+    {
+      "name": "26588"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "26588"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "26588"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "26588"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "26588"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "26588"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "26588"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "26554"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "26554"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "26554"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "26554"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "26554"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "26554"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "26559"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "26559"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "26559"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "26559"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "26559"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "26559"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "26574"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "26574"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "26574"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "26574"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "26574"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26574"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "26578"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "26578"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "26578"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "26578"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "26578"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "26578"
+    }
+  ],
+  "priceLinks": []
+}

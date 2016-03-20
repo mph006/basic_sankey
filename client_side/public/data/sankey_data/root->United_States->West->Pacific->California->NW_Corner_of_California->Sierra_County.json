@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->West->Pacific->California->NW_Corner_of_California->Sierra_County",
   "nodes": [
     {
+      "name": "95936"
+    },
+    {
+      "name": "95944"
+    },
+    {
+      "name": "96118"
+    },
+    {
+      "name": "96124"
+    },
+    {
       "name": "96125"
+    },
+    {
+      "name": "96126"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +35,219 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "96125"
+      "target": 6,
+      "value": 1,
+      "region": "95936"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 7,
+      "value": 0,
+      "region": "95936"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "95936"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "95936"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "95936"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "95936"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "95944"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "95944"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "95944"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "95944"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "95944"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "95944"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "96125"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "96125"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "96125"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "96125"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "96125"
+    },
+    {
+      "source": 8,
+      "target": 9,
       "value": 1,
       "region": "96125"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 6,
       "value": 0,
-      "region": "96125"
+      "region": "96118"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 7,
       "value": 1,
-      "region": "96125"
+      "region": "96118"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "96125"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "96125"
+      "region": "96118"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "96118"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "96118"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "96118"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "96124"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "96124"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "96124"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "96124"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "96124"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "96124"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "96126"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "96126"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "96126"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "96126"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "96126"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "96126"
     }
   ],
   "priceLinks": []

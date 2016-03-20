@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas->NE_Corner_of_Texas->Leon_County",
   "nodes": [
     {
+      "name": "75833"
+    },
+    {
+      "name": "75855"
+    },
+    {
       "name": "77850"
+    },
+    {
+      "name": "77865"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +28,148 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "77850"
-    },
-    {
-      "source": 0,
-      "target": 2,
+      "source": 3,
+      "target": 4,
       "value": 1,
-      "region": "77850"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "77850"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "77850"
+      "region": "77865"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "77850"
+      "region": "77865"
     },
     {
-      "source": 3,
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "77865"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "77865"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "77865"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "77865"
+    },
+    {
+      "source": 2,
       "target": 4,
       "value": 0,
       "region": "77850"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "77850"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "77850"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "77850"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "77850"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "77850"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "75833"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "75833"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "75833"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "75833"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "75833"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75833"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "75855"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "75855"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "75855"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "75855"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "75855"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "75855"
     }
   ],
   "priceLinks": []

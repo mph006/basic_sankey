@@ -17,13 +17,31 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Broward County"
+    },
+    {
       "name": "Palm Beach County"
     },
     {
       "name": "Lee County"
     },
     {
-      "name": "Broward County"
+      "name": "Sarasota County"
+    },
+    {
+      "name": "Collier County"
+    },
+    {
+      "name": "Manatee County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Indian River County"
+    },
+    {
+      "name": "Charlotte County"
     },
     {
       "name": "Martin County"
@@ -32,339 +50,867 @@
       "name": "Highlands County"
     },
     {
+      "name": "Monroe County"
+    },
+    {
+      "name": "St Lucie County"
+    },
+    {
+      "name": "Pinellas County"
+    },
+    {
+      "name": "St. Lucie County"
+    },
+    {
+      "name": "Polk County"
+    },
+    {
+      "name": "Hillsborough County"
+    },
+    {
+      "name": "Glades County"
+    },
+    {
+      "name": "Hardee County"
+    },
+    {
       "name": "Okeechobee County"
     },
     {
-      "name": "Manatee County"
+      "name": "Desoto County"
     },
     {
-      "name": "Collier County"
+      "name": "Hendry County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
+      "value": 9,
       "region": "Miami-Dade County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
+      "value": 62,
       "region": "Miami-Dade County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 9,
       "region": "Miami-Dade County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
+      "value": 53,
       "region": "Miami-Dade County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 8,
       "region": "Miami-Dade County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 2,
+      "value": 45,
       "region": "Miami-Dade County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 2,
-      "region": "Palm Beach County"
+      "value": 9,
+      "region": "Broward County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0,
-      "region": "Palm Beach County"
+      "value": 52,
+      "region": "Broward County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Palm Beach County"
+      "value": 9,
+      "region": "Broward County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Palm Beach County"
+      "value": 43,
+      "region": "Broward County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Palm Beach County"
+      "value": 4,
+      "region": "Broward County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Palm Beach County"
+      "value": 39,
+      "region": "Broward County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Lee County"
+      "value": 6,
+      "region": "Palm Beach County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 2,
-      "region": "Lee County"
+      "value": 38,
+      "region": "Palm Beach County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Lee County"
+      "value": 3,
+      "region": "Palm Beach County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
-      "region": "Lee County"
+      "value": 35,
+      "region": "Palm Beach County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Lee County"
+      "value": 6,
+      "region": "Palm Beach County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Lee County"
+      "value": 29,
+      "region": "Palm Beach County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0,
-      "region": "Broward County"
+      "value": 4,
+      "region": "Lee County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 2,
-      "region": "Broward County"
+      "value": 24,
+      "region": "Lee County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Broward County"
+      "value": 0,
+      "region": "Lee County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Broward County"
+      "value": 24,
+      "region": "Lee County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Broward County"
+      "value": 5,
+      "region": "Lee County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Broward County"
+      "value": 19,
+      "region": "Lee County"
     },
     {
       "source": 8,
       "target": 1,
-      "value": 0,
-      "region": "Martin County"
+      "value": 5,
+      "region": "Sarasota County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 1,
-      "region": "Martin County"
+      "value": 16,
+      "region": "Sarasota County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Martin County"
+      "value": 2,
+      "region": "Sarasota County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Martin County"
+      "value": 14,
+      "region": "Sarasota County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Martin County"
+      "value": 4,
+      "region": "Sarasota County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Martin County"
+      "value": 10,
+      "region": "Sarasota County"
     },
     {
       "source": 9,
       "target": 1,
       "value": 0,
-      "region": "Highlands County"
+      "region": "Collier County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 1,
-      "region": "Highlands County"
+      "value": 18,
+      "region": "Collier County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Highlands County"
+      "value": 2,
+      "region": "Collier County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Highlands County"
+      "value": 16,
+      "region": "Collier County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Highlands County"
+      "value": 6,
+      "region": "Collier County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Highlands County"
+      "value": 10,
+      "region": "Collier County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 0,
-      "region": "Okeechobee County"
+      "value": 2,
+      "region": "Manatee County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 1,
-      "region": "Okeechobee County"
+      "value": 16,
+      "region": "Manatee County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Okeechobee County"
+      "value": 2,
+      "region": "Manatee County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Okeechobee County"
+      "value": 14,
+      "region": "Manatee County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Okeechobee County"
+      "value": 5,
+      "region": "Manatee County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Okeechobee County"
+      "value": 9,
+      "region": "Manatee County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0,
-      "region": "Manatee County"
+      "value": 1,
+      "region": "Unknown County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 1,
-      "region": "Manatee County"
+      "value": 13,
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Manatee County"
+      "value": 1,
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Manatee County"
+      "value": 12,
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Manatee County"
+      "value": 2,
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Manatee County"
+      "value": 10,
+      "region": "Unknown County"
     },
     {
       "source": 12,
       "target": 1,
       "value": 0,
-      "region": "Collier County"
+      "region": "Indian River County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 1,
-      "region": "Collier County"
+      "value": 11,
+      "region": "Indian River County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Collier County"
+      "value": 1,
+      "region": "Indian River County"
     },
     {
       "source": 2,
       "target": 3,
+      "value": 10,
+      "region": "Indian River County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Indian River County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Indian River County"
+    },
+    {
+      "source": 13,
+      "target": 1,
       "value": 1,
-      "region": "Collier County"
+      "region": "Charlotte County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 10,
+      "region": "Charlotte County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Charlotte County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Charlotte County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Charlotte County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Charlotte County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 1,
+      "region": "Martin County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 8,
+      "region": "Martin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Martin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Martin County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Collier County"
+      "region": "Martin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Martin County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 2,
+      "region": "Highlands County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 8,
+      "region": "Highlands County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Highlands County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Highlands County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Highlands County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Highlands County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Monroe County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 9,
+      "region": "Monroe County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Monroe County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Monroe County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Monroe County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Monroe County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "St Lucie County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 8,
+      "region": "St Lucie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "St Lucie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "St Lucie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "St Lucie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "St Lucie County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 1,
+      "region": "Pinellas County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 5,
+      "region": "Pinellas County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Pinellas County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Pinellas County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Pinellas County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Pinellas County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "St. Lucie County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 3,
+      "region": "St. Lucie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "St. Lucie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "St. Lucie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "St. Lucie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "St. Lucie County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Polk County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 3,
+      "region": "Polk County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Polk County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Polk County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Polk County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Polk County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 3,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Hillsborough County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Glades County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 2,
+      "region": "Glades County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Glades County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Glades County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Glades County"
     },
     {
       "source": 3,
       "target": 4,
       "value": 1,
-      "region": "Collier County"
+      "region": "Glades County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 1,
+      "region": "Hardee County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 2,
+      "region": "Hardee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hardee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Hardee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Hardee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Hardee County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Okeechobee County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 2,
+      "region": "Okeechobee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Okeechobee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Okeechobee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Okeechobee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Okeechobee County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 1,
+      "region": "Desoto County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 2,
+      "region": "Desoto County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Desoto County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Desoto County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Desoto County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Desoto County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 0,
+      "region": "Hendry County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 1,
+      "region": "Hendry County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hendry County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Hendry County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Hendry County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Hendry County"
     }
   ],
   "priceLinks": []

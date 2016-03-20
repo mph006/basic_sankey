@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->West->Mountain->Idaho->SE_Corner_of_Idaho->Bannock_County",
   "nodes": [
     {
-      "name": "83205"
+      "name": "83201"
+    },
+    {
+      "name": "83204"
+    },
+    {
+      "name": "83214"
+    },
+    {
+      "name": "83234"
+    },
+    {
+      "name": "83245"
+    },
+    {
+      "name": "83250"
+    },
+    {
+      "name": "83281"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +37,256 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "83204"
+    },
+    {
+      "source": 1,
+      "target": 8,
       "value": 1,
-      "region": "83205"
+      "region": "83204"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "83204"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83204"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "83204"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "83204"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "83214"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "83214"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "83214"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83214"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "83214"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "83214"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "83234"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "83234"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "83234"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83234"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "83234"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "83234"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "83250"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "83250"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "83250"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83250"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "83250"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "83250"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 7,
       "value": 0,
-      "region": "83205"
+      "region": "83201"
     },
     {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "83205"
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "83201"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "83205"
+      "region": "83201"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "83205"
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83201"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 9,
+      "target": 7,
       "value": 0,
-      "region": "83205"
+      "region": "83201"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "83201"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "83245"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "83245"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "83245"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83245"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "83245"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "83245"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "83281"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "83281"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "83281"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83281"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "83281"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "83281"
     }
   ],
   "priceLinks": []

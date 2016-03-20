@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Northeast->New_England->Vermont->SE_Corner_of_Vermont->Orange_County",
+  "nodes": [
+    {
+      "name": "05043"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "05054"
+    },
+    {
+      "name": "05074"
+    },
+    {
+      "name": "05070"
+    },
+    {
+      "name": "05058"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "05043"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "05043"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05043"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05043"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05043"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05043"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "05054"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "05054"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05054"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05054"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05054"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05054"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "05074"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "05074"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05074"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05074"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05074"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05074"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "05070"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "05070"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05070"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05070"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05070"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05070"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "05058"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "05058"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "05058"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "05058"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "05058"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "05058"
+    }
+  ],
+  "priceLinks": []
+}

@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->South->South_Atlantic->Georgia->SE_Corner_of_Georgia->Ware_County",
   "nodes": [
     {
-      "name": "31564"
+      "name": "31501"
+    },
+    {
+      "name": "31503"
+    },
+    {
+      "name": "31550"
+    },
+    {
+      "name": "31552"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +29,147 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "31564"
+      "region": "31501"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
       "value": 1,
-      "region": "31564"
+      "region": "31501"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "31501"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "31501"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "31501"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "31501"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "31503"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "31503"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "31503"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "31503"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "31503"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "31503"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "31564"
+      "target": 4,
+      "value": 0,
+      "region": "31550"
     },
     {
       "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "31564"
+      "target": 5,
+      "value": 1,
+      "region": "31550"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "31550"
+    },
+    {
+      "source": 5,
+      "target": 6,
       "value": 0,
-      "region": "31564"
+      "region": "31550"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "31550"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "31550"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "31564"
+      "region": "31552"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "31552"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "31552"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "31552"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "31552"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "31552"
     }
   ],
   "priceLinks": []

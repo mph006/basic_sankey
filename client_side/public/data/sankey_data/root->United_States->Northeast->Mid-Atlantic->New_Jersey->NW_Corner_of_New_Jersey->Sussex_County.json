@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_Jersey->NW_Corner_of_New_Jersey->Sussex_County",
+  "nodes": [
+    {
+      "name": "07826"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "07879"
+    },
+    {
+      "name": "07877"
+    },
+    {
+      "name": "07851"
+    },
+    {
+      "name": "07860"
+    },
+    {
+      "name": "07875"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "07826"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "07826"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "07826"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "07826"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "07826"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "07826"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "07879"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "07879"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "07879"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "07879"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "07879"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "07879"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "07877"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 0,
+      "region": "07877"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "07877"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "07877"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "07877"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "07877"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "07851"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "07851"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "07851"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "07851"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "07851"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "07851"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "07860"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "07860"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "07860"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "07860"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "07860"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "07860"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "07875"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1,
+      "region": "07875"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "07875"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "07875"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "07875"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "07875"
+    }
+  ],
+  "priceLinks": []
+}

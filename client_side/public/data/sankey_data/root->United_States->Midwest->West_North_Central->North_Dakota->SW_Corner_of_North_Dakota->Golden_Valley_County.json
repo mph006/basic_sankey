@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->North_Dakota->SW_Corner_of_North_Dakota->Golden_Valley_County",
+  "nodes": [
+    {
+      "name": "58621"
+    },
+    {
+      "name": "58632"
+    },
+    {
+      "name": "58654"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "58621"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "58621"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "58621"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "58621"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "58621"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58621"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "58632"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "58632"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "58632"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "58632"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "58632"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "58632"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "58654"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "58654"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "58654"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "58654"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "58654"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "58654"
+    }
+  ],
+  "priceLinks": []
+}

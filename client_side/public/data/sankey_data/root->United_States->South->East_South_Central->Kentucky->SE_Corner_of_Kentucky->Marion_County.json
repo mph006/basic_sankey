@@ -1,0 +1,332 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Kentucky->SE_Corner_of_Kentucky->Marion_County",
+  "nodes": [
+    {
+      "name": "40009"
+    },
+    {
+      "name": "40033"
+    },
+    {
+      "name": "40037"
+    },
+    {
+      "name": "40049"
+    },
+    {
+      "name": "40060"
+    },
+    {
+      "name": "40062"
+    },
+    {
+      "name": "40063"
+    },
+    {
+      "name": "40328"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 8,
+      "value": 0,
+      "region": "40009"
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 1,
+      "region": "40009"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "40009"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40009"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "40009"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "40009"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 0,
+      "region": "40063"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 1,
+      "region": "40063"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "40063"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40063"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "40063"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "40063"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 0,
+      "region": "40033"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 1,
+      "region": "40033"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "40033"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40033"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "40033"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "40033"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "40060"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 1,
+      "region": "40060"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "40060"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40060"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "40060"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "40060"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "40062"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 1,
+      "region": "40062"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "40062"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40062"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "40062"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "40062"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 0,
+      "region": "40037"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 1,
+      "region": "40037"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "40037"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40037"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "40037"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "40037"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 0,
+      "region": "40049"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 1,
+      "region": "40049"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "40049"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40049"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "40049"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "40049"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "40328"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 1,
+      "region": "40328"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "40328"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "40328"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "40328"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "40328"
+    }
+  ],
+  "priceLinks": []
+}

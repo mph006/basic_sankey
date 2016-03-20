@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->NE_Corner_of_Kansas->Saline_County",
+  "nodes": [
+    {
+      "name": "67401"
+    },
+    {
+      "name": "67402"
+    },
+    {
+      "name": "67425"
+    },
+    {
+      "name": "67442"
+    },
+    {
+      "name": "67448"
+    },
+    {
+      "name": "67470"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "67425"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "67425"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "67425"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67425"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "67425"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "67425"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "67442"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "67442"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "67442"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67442"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "67442"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "67442"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "67448"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "67448"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "67448"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67448"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "67448"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "67448"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "67401"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "67401"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "67401"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67401"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "67401"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "67401"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "67402"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "67402"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "67402"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67402"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "67402"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "67402"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "67470"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "67470"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "67470"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67470"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "67470"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "67470"
+    }
+  ],
+  "priceLinks": []
+}

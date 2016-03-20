@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->SE_Corner_of_Wisconsin->Marquette_County",
+  "nodes": [
+    {
+      "name": "53920"
+    },
+    {
+      "name": "53930"
+    },
+    {
+      "name": "53949"
+    },
+    {
+      "name": "53953"
+    },
+    {
+      "name": "53964"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "53920"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "53920"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53920"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53920"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "53920"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "53920"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "53930"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "53930"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53930"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53930"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53930"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53930"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "53949"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "53949"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53949"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53949"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53949"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53949"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "53953"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "53953"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53953"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "53953"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53953"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53953"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "53964"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "53964"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "53964"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "53964"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "53964"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "53964"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Mississippi->SE_Corner_of_Mississippi->Rankin_County",
+  "nodes": [
+    {
+      "name": "39145"
+    },
+    {
+      "name": "39151"
+    },
+    {
+      "name": "39288"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "39145"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "39145"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "39145"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "39145"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "39145"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "39145"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "39151"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "39151"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "39151"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "39151"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "39151"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "39151"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "39288"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "39288"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "39288"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "39288"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "39288"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "39288"
+    }
+  ],
+  "priceLinks": []
+}

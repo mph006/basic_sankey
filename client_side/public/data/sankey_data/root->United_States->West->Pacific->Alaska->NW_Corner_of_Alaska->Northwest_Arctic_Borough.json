@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->West->Pacific->Alaska->NW_Corner_of_Alaska->Northwest_Arctic_Borough",
   "nodes": [
     {
-      "name": "99763"
+      "name": "99750"
+    },
+    {
+      "name": "99751"
+    },
+    {
+      "name": "99752"
+    },
+    {
+      "name": "99761"
+    },
+    {
+      "name": "99773"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "99773"
+    },
+    {
+      "source": 4,
+      "target": 6,
       "value": 1,
-      "region": "99763"
+      "region": "99773"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "99773"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "99773"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "99773"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "99773"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
       "value": 0,
-      "region": "99763"
+      "region": "99750"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "99750"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "99750"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "99750"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "99750"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "99750"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "99751"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "99751"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "99751"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "99751"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "99751"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "99751"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "99763"
+      "region": "99752"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 6,
+      "value": 1,
+      "region": "99752"
+    },
+    {
+      "source": 6,
+      "target": 5,
       "value": 0,
-      "region": "99763"
+      "region": "99752"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "99752"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "99752"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "99752"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "99763"
+      "target": 5,
+      "value": 1,
+      "region": "99761"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 6,
       "value": 0,
-      "region": "99763"
+      "region": "99761"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "99761"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "99761"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "99761"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "99761"
     }
   ],
   "priceLinks": []

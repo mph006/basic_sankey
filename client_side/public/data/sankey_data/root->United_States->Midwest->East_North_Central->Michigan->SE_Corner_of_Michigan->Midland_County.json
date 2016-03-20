@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->SE_Corner_of_Michigan->Midland_County",
+  "nodes": [
+    {
+      "name": "48618"
+    },
+    {
+      "name": "48657"
+    },
+    {
+      "name": "48686"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "48657"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "48657"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "48657"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "48657"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "48657"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "48657"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "48618"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "48618"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "48618"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "48618"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "48618"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "48618"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "48686"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "48686"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "48686"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "48686"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "48686"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "48686"
+    }
+  ],
+  "priceLinks": []
+}

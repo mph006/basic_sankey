@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->NW_Corner_of_Minnesota->Lake_of_the_Woods_County",
+  "nodes": [
+    {
+      "name": "56623"
+    },
+    {
+      "name": "56711"
+    },
+    {
+      "name": "56741"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "56741"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "56741"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "56741"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "56741"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "56741"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56741"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "56711"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "56711"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "56711"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "56711"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "56711"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "56711"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "56623"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "56623"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "56623"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "56623"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "56623"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "56623"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->SE_Corner_of_Illinois->Montgomery_County",
+  "nodes": [
+    {
+      "name": "62017"
+    },
+    {
+      "name": "62032"
+    },
+    {
+      "name": "62051"
+    },
+    {
+      "name": "62075"
+    },
+    {
+      "name": "62094"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "62094"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "62094"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62094"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "62094"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62094"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "62094"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "62051"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "62051"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62051"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62051"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62051"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62051"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "62075"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "62075"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62075"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62075"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62075"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62075"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "62017"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "62017"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62017"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62017"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62017"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62017"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "62032"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "62032"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62032"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62032"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62032"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62032"
+    }
+  ],
+  "priceLinks": []
+}

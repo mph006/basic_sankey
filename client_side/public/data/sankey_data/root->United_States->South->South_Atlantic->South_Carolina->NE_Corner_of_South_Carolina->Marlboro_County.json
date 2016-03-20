@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->South->South_Atlantic->South_Carolina->NE_Corner_of_South_Carolina->Marlboro_County",
   "nodes": [
     {
+      "name": "29512"
+    },
+    {
       "name": "29516"
+    },
+    {
+      "name": "29525"
+    },
+    {
+      "name": "29570"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +28,148 @@
   ],
   "countLinks": [
     {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "29525"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "29525"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "29525"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "29525"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "29525"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29525"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 4,
+      "value": 0,
+      "region": "29512"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "29512"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "29512"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "29512"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "29512"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "29512"
+    },
+    {
+      "source": 1,
+      "target": 4,
       "value": 0,
       "region": "29516"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 5,
       "value": 1,
       "region": "29516"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
       "region": "29516"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 5,
+      "target": 6,
       "value": 1,
       "region": "29516"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 6,
+      "target": 4,
       "value": 0,
+      "region": "29516"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
       "region": "29516"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 0,
+      "region": "29570"
+    },
+    {
+      "source": 3,
+      "target": 5,
       "value": 1,
-      "region": "29516"
+      "region": "29570"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "29570"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "29570"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "29570"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "29570"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->South->South_Atlantic->West_Virginia->SW_Corner_of_West_Virginia->Calhoun_County",
   "nodes": [
     {
+      "name": "25235"
+    },
+    {
+      "name": "25268"
+    },
+    {
       "name": "26147"
+    },
+    {
+      "name": "26151"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +29,147 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "26147"
+      "region": "25235"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
       "value": 1,
-      "region": "26147"
+      "region": "25235"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "25235"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "25235"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "25235"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "25235"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "25268"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "25268"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "25268"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "25268"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "25268"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "25268"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 4,
       "value": 0,
       "region": "26147"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 5,
       "value": 1,
       "region": "26147"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
+      "region": "26147"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "26147"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "26147"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
       "region": "26147"
     },
     {
       "source": 3,
       "target": 4,
+      "value": 0,
+      "region": "26151"
+    },
+    {
+      "source": 3,
+      "target": 5,
       "value": 1,
-      "region": "26147"
+      "region": "26151"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "26151"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "26151"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "26151"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "26151"
     }
   ],
   "priceLinks": []

@@ -2,6 +2,18 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Nebraska->SE_Corner_of_Nebraska->Nemaha_County",
   "nodes": [
     {
+      "name": "68320"
+    },
+    {
+      "name": "68321"
+    },
+    {
+      "name": "68378"
+    },
+    {
+      "name": "68414"
+    },
+    {
       "name": "68421"
     },
     {
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "68321"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "68321"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "68321"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68321"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "68321"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68321"
+    },
+    {
+      "source": 4,
+      "target": 5,
       "value": 0,
       "region": "68421"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 4,
+      "target": 6,
       "value": 1,
       "region": "68421"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "68421"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 1,
       "region": "68421"
     },
     {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "68421"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "68421"
+    },
+    {
       "source": 2,
-      "target": 3,
+      "target": 5,
       "value": 0,
-      "region": "68421"
+      "region": "68378"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "68378"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "68378"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "68378"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "68378"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "68378"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "68320"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "68320"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "68320"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "68320"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "68320"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "68320"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "68421"
+      "target": 5,
+      "value": 1,
+      "region": "68414"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 6,
       "value": 0,
-      "region": "68421"
+      "region": "68414"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "68414"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "68414"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "68414"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "68414"
     }
   ],
   "priceLinks": []

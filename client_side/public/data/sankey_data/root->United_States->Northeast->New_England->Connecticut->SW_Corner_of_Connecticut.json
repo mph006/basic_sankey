@@ -18,80 +18,158 @@
     },
     {
       "name": "New Haven County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Litchfield County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 3,
+      "value": 4,
       "region": "Fairfield County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
+      "value": 52,
       "region": "Fairfield County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 7,
       "region": "Fairfield County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 45,
       "region": "Fairfield County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 4,
       "region": "Fairfield County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 41,
       "region": "Fairfield County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1,
+      "value": 5,
       "region": "New Haven County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 2,
+      "value": 41,
       "region": "New Haven County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 8,
       "region": "New Haven County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
+      "value": 33,
       "region": "New Haven County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 2,
+      "value": 5,
       "region": "New Haven County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 28,
       "region": "New Haven County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 8,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Unknown County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Litchfield County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "Litchfield County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Litchfield County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Litchfield County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Litchfield County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Litchfield County"
     }
   ],
   "priceLinks": []

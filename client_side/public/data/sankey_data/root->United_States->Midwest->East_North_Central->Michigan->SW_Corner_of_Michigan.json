@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->SW_Corner_of_Michigan",
   "nodes": [
     {
-      "name": "Muskegon County"
+      "name": "Berrien County"
     },
     {
       "name": "Dropped_Out"
@@ -15,19 +15,61 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Muskegon County"
+    },
+    {
+      "name": "Oceana County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Muskegon County"
+      "value": 1,
+      "region": "Berrien County"
     },
     {
       "source": 0,
       "target": 2,
+      "value": 14,
+      "region": "Berrien County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Berrien County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 11,
+      "region": "Berrien County"
+    },
+    {
+      "source": 3,
+      "target": 1,
       "value": 1,
+      "region": "Berrien County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 10,
+      "region": "Berrien County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "Muskegon County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 3,
       "region": "Muskegon County"
     },
     {
@@ -39,20 +81,56 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 3,
       "region": "Muskegon County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Muskegon County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 2,
       "region": "Muskegon County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Oceana County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 2,
+      "region": "Oceana County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Oceana County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Oceana County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Oceana County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Oceana County"
     }
   ],
   "priceLinks": []

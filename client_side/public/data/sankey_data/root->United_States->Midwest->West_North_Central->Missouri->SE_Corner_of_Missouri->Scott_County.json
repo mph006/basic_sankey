@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SE_Corner_of_Missouri->Scott_County",
   "nodes": [
     {
-      "name": "63736"
+      "name": "63740"
+    },
+    {
+      "name": "63758"
+    },
+    {
+      "name": "63771"
+    },
+    {
+      "name": "63774"
+    },
+    {
+      "name": "63780"
+    },
+    {
+      "name": "63784"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +35,219 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 6,
       "value": 1,
-      "region": "63736"
+      "region": "63740"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 7,
       "value": 0,
-      "region": "63736"
+      "region": "63740"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "63740"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "63740"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "63740"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "63740"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "63758"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "63758"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "63758"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "63758"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "63758"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "63758"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 6,
       "value": 0,
-      "region": "63736"
+      "region": "63771"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 7,
+      "value": 1,
+      "region": "63771"
+    },
+    {
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "63736"
+      "region": "63771"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "63771"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "63771"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "63771"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 6,
       "value": 0,
-      "region": "63736"
+      "region": "63774"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 7,
+      "value": 1,
+      "region": "63774"
+    },
+    {
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "63736"
+      "region": "63774"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "63774"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "63774"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "63774"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "63780"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "63780"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "63780"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "63780"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "63780"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "63780"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "63784"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "63784"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "63784"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "63784"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "63784"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "63784"
     }
   ],
   "priceLinks": []

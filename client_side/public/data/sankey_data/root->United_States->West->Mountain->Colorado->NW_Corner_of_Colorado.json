@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Mountain->Colorado->NW_Corner_of_Colorado",
   "nodes": [
     {
-      "name": "Jackson County"
+      "name": "Eagle County"
     },
     {
       "name": "Dropped_Out"
@@ -17,95 +17,173 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Rio Blanco County"
+      "name": "Pitkin County"
+    },
+    {
+      "name": "Mesa County"
     },
     {
       "name": "Grand County"
+    },
+    {
+      "name": "Routt County"
+    },
+    {
+      "name": "Garfield County"
+    },
+    {
+      "name": "Clear Creek County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Moffat County"
+    },
+    {
+      "name": "Jackson County"
+    },
+    {
+      "name": "Lake County"
+    },
+    {
+      "name": "Rio Blanco County"
+    },
+    {
+      "name": "El Paso County"
+    },
+    {
+      "name": "Summit County"
+    },
+    {
+      "name": "Albany County"
+    },
+    {
+      "name": "Park County"
+    },
+    {
+      "name": "Larimer County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Jackson County"
+      "value": 1,
+      "region": "Eagle County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Jackson County"
+      "value": 10,
+      "region": "Eagle County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Jackson County"
+      "value": 3,
+      "region": "Eagle County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Jackson County"
+      "value": 7,
+      "region": "Eagle County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Jackson County"
+      "region": "Eagle County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Jackson County"
+      "value": 7,
+      "region": "Eagle County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 0,
-      "region": "Rio Blanco County"
+      "region": "Pitkin County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Rio Blanco County"
+      "value": 6,
+      "region": "Pitkin County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Rio Blanco County"
+      "region": "Pitkin County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Rio Blanco County"
+      "value": 6,
+      "region": "Pitkin County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Rio Blanco County"
+      "value": 1,
+      "region": "Pitkin County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Rio Blanco County"
+      "value": 5,
+      "region": "Pitkin County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 1,
-      "region": "Grand County"
+      "value": 0,
+      "region": "Mesa County"
     },
     {
       "source": 6,
       "target": 2,
+      "value": 12,
+      "region": "Mesa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 0,
+      "region": "Mesa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 12,
+      "region": "Mesa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Mesa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 12,
+      "region": "Mesa County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 4,
+      "region": "Grand County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 2,
       "region": "Grand County"
     },
     {
@@ -117,7 +195,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 2,
       "region": "Grand County"
     },
     {
@@ -129,8 +207,476 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 2,
       "region": "Grand County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 2,
+      "region": "Routt County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 3,
+      "region": "Routt County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Routt County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Routt County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Routt County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Routt County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Garfield County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 3,
+      "region": "Garfield County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Garfield County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Garfield County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Garfield County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Garfield County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 2,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 2,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Clear Creek County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Moffat County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 5,
+      "region": "Moffat County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Moffat County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Moffat County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Moffat County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Moffat County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Jackson County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 3,
+      "region": "Jackson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Jackson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Jackson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Jackson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Jackson County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 1,
+      "region": "Lake County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 3,
+      "region": "Lake County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lake County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Lake County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lake County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Lake County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Rio Blanco County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 2,
+      "region": "Rio Blanco County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Rio Blanco County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Rio Blanco County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Rio Blanco County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Rio Blanco County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "El Paso County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 1,
+      "region": "El Paso County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "El Paso County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "El Paso County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "El Paso County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "El Paso County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Summit County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 2,
+      "region": "Summit County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Summit County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Summit County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Summit County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Summit County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Albany County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 1,
+      "region": "Albany County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Albany County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Albany County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Albany County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Albany County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 1,
+      "region": "Park County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Park County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Park County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Park County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 1,
+      "region": "Larimer County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 0,
+      "region": "Larimer County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Larimer County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Larimer County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Larimer County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Larimer County"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,332 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Louisiana->NW_Corner_of_Louisiana->Bossier_Parish",
+  "nodes": [
+    {
+      "name": "71037"
+    },
+    {
+      "name": "71051"
+    },
+    {
+      "name": "71064"
+    },
+    {
+      "name": "71067"
+    },
+    {
+      "name": "71110"
+    },
+    {
+      "name": "71111"
+    },
+    {
+      "name": "71113"
+    },
+    {
+      "name": "71171"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 8,
+      "value": 0,
+      "region": "71051"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 1,
+      "region": "71051"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71051"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71051"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "71051"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "71051"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 0,
+      "region": "71064"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 1,
+      "region": "71064"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71064"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71064"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71064"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71064"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 0,
+      "region": "71037"
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 1,
+      "region": "71037"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71037"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71037"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71037"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71037"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "71110"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 1,
+      "region": "71110"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71110"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71110"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71110"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71110"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "71111"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 1,
+      "region": "71111"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71111"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71111"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71111"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71111"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 0,
+      "region": "71067"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 1,
+      "region": "71067"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71067"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71067"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71067"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71067"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 0,
+      "region": "71113"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 1,
+      "region": "71113"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71113"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71113"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71113"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71113"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "71171"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 1,
+      "region": "71171"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71171"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71171"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71171"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71171"
+    }
+  ],
+  "priceLinks": []
+}

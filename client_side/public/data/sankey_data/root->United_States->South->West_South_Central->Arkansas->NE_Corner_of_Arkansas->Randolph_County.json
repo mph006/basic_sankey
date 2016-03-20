@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Randolph_County",
   "nodes": [
     {
+      "name": "72449"
+    },
+    {
+      "name": "72455"
+    },
+    {
       "name": "72460"
+    },
+    {
+      "name": "72478"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +29,147 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 4,
       "value": 0,
-      "region": "72460"
+      "region": "72449"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 5,
       "value": 1,
-      "region": "72460"
+      "region": "72449"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72449"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72449"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72449"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72449"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "72460"
-    },
-    {
-      "source": 2,
-      "target": 3,
+      "target": 4,
       "value": 0,
       "region": "72460"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "72460"
+    },
+    {
+      "source": 5,
+      "target": 4,
       "value": 0,
       "region": "72460"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72460"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72460"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72460"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "72455"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "72455"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72455"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72455"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72455"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72455"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "72460"
+      "region": "72478"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "72478"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "72478"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "72478"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "72478"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72478"
     }
   ],
   "priceLinks": []

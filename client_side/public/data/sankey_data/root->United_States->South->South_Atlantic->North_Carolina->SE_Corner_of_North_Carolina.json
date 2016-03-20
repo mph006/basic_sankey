@@ -17,26 +17,80 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Carteret County"
+    },
+    {
+      "name": "Onslow County"
+    },
+    {
       "name": "New Hanover County"
+    },
+    {
+      "name": "Cumberland County"
+    },
+    {
+      "name": "Brunswick County"
+    },
+    {
+      "name": "Duplin County"
+    },
+    {
+      "name": "Robeson County"
+    },
+    {
+      "name": "Sampson County"
     },
     {
       "name": "Moore County"
     },
     {
+      "name": "Bladen County"
+    },
+    {
+      "name": "Pender County"
+    },
+    {
+      "name": "Richmond County"
+    },
+    {
+      "name": "Craven County"
+    },
+    {
       "name": "Unknown County"
+    },
+    {
+      "name": "Pamlico County"
+    },
+    {
+      "name": "Jones County"
+    },
+    {
+      "name": "Scotland County"
+    },
+    {
+      "name": "Hyde County"
+    },
+    {
+      "name": "Lenoir County"
+    },
+    {
+      "name": "Hoke County"
+    },
+    {
+      "name": "Harnett County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
+      "value": 3,
       "region": "Columbus County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
+      "value": 9,
       "region": "Columbus County"
     },
     {
@@ -48,115 +102,511 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 9,
       "region": "Columbus County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Columbus County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 8,
       "region": "Columbus County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "New Hanover County"
+      "value": 4,
+      "region": "Carteret County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "New Hanover County"
+      "value": 8,
+      "region": "Carteret County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "New Hanover County"
+      "region": "Carteret County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "New Hanover County"
+      "value": 8,
+      "region": "Carteret County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "New Hanover County"
+      "value": 3,
+      "region": "Carteret County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "New Hanover County"
+      "value": 5,
+      "region": "Carteret County"
     },
     {
       "source": 6,
       "target": 1,
       "value": 0,
-      "region": "Moore County"
+      "region": "Onslow County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1,
-      "region": "Moore County"
+      "value": 11,
+      "region": "Onslow County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Moore County"
+      "value": 1,
+      "region": "Onslow County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Moore County"
+      "value": 10,
+      "region": "Onslow County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Moore County"
+      "value": 1,
+      "region": "Onslow County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Moore County"
+      "value": 9,
+      "region": "Onslow County"
     },
     {
       "source": 7,
       "target": 1,
       "value": 0,
-      "region": "Unknown County"
+      "region": "New Hanover County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1,
-      "region": "Unknown County"
+      "value": 10,
+      "region": "New Hanover County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
+      "region": "New Hanover County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "New Hanover County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "New Hanover County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "New Hanover County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 7,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Brunswick County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 9,
+      "region": "Brunswick County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Brunswick County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Brunswick County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Brunswick County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Brunswick County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "Duplin County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 7,
+      "region": "Duplin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Duplin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Duplin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Duplin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Duplin County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1,
+      "region": "Robeson County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 7,
+      "region": "Robeson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Robeson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Robeson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Robeson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Robeson County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Sampson County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 6,
+      "region": "Sampson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sampson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Sampson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Sampson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Sampson County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1,
+      "region": "Moore County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 6,
+      "region": "Moore County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Moore County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Moore County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Moore County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Moore County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 3,
+      "region": "Bladen County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 1,
+      "region": "Bladen County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Bladen County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Bladen County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Bladen County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Bladen County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Pender County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 3,
+      "region": "Pender County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pender County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Pender County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pender County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Pender County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Richmond County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 5,
+      "region": "Richmond County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Richmond County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Richmond County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Richmond County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Richmond County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 1,
+      "region": "Craven County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 6,
+      "region": "Craven County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Craven County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Craven County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Craven County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Craven County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
       "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 5,
       "region": "Unknown County"
     },
     {
@@ -168,8 +618,260 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 5,
       "region": "Unknown County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 1,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 3,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Pamlico County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Jones County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 2,
+      "region": "Jones County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Jones County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Jones County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Jones County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Jones County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Scotland County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 3,
+      "region": "Scotland County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Scotland County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Scotland County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Scotland County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Scotland County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Hyde County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 1,
+      "region": "Hyde County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hyde County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Hyde County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hyde County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Hyde County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 1,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Lenoir County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Hoke County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 1,
+      "region": "Hoke County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hoke County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Hoke County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hoke County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Hoke County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 0,
+      "region": "Harnett County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 1,
+      "region": "Harnett County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Harnett County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Harnett County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Harnett County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Harnett County"
     }
   ],
   "priceLinks": []

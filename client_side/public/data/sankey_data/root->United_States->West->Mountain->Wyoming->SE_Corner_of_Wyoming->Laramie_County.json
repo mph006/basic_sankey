@@ -1,0 +1,449 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Wyoming->SE_Corner_of_Wyoming->Laramie_County",
+  "nodes": [
+    {
+      "name": "82001"
+    },
+    {
+      "name": "82002"
+    },
+    {
+      "name": "82003"
+    },
+    {
+      "name": "82008"
+    },
+    {
+      "name": "82009"
+    },
+    {
+      "name": "82010"
+    },
+    {
+      "name": "82053"
+    },
+    {
+      "name": "82054"
+    },
+    {
+      "name": "82060"
+    },
+    {
+      "name": "82061"
+    },
+    {
+      "name": "82081"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 11,
+      "value": 0,
+      "region": "82001"
+    },
+    {
+      "source": 0,
+      "target": 12,
+      "value": 1,
+      "region": "82001"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82001"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "82001"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 0,
+      "region": "82001"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 1,
+      "region": "82001"
+    },
+    {
+      "source": 4,
+      "target": 11,
+      "value": 0,
+      "region": "82009"
+    },
+    {
+      "source": 4,
+      "target": 12,
+      "value": 1,
+      "region": "82009"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82009"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "82009"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 0,
+      "region": "82009"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 1,
+      "region": "82009"
+    },
+    {
+      "source": 7,
+      "target": 11,
+      "value": 0,
+      "region": "82054"
+    },
+    {
+      "source": 7,
+      "target": 12,
+      "value": 1,
+      "region": "82054"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 1,
+      "region": "82054"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 0,
+      "region": "82054"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 0,
+      "region": "82054"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 0,
+      "region": "82054"
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "value": 0,
+      "region": "82008"
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "value": 1,
+      "region": "82008"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82008"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "82008"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 1,
+      "region": "82008"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 0,
+      "region": "82008"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "82081"
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "value": 1,
+      "region": "82081"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82081"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "82081"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 0,
+      "region": "82081"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 1,
+      "region": "82081"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "value": 0,
+      "region": "82002"
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "value": 1,
+      "region": "82002"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82002"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "82002"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 0,
+      "region": "82002"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 1,
+      "region": "82002"
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "value": 1,
+      "region": "82053"
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "value": 0,
+      "region": "82053"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82053"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 0,
+      "region": "82053"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 0,
+      "region": "82053"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 0,
+      "region": "82053"
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "value": 0,
+      "region": "82003"
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "value": 1,
+      "region": "82003"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82003"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "82003"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 0,
+      "region": "82003"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 1,
+      "region": "82003"
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "value": 0,
+      "region": "82060"
+    },
+    {
+      "source": 8,
+      "target": 12,
+      "value": 1,
+      "region": "82060"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82060"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "82060"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 1,
+      "region": "82060"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 0,
+      "region": "82060"
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "value": 0,
+      "region": "82061"
+    },
+    {
+      "source": 9,
+      "target": 12,
+      "value": 1,
+      "region": "82061"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82061"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "82061"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 1,
+      "region": "82061"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 0,
+      "region": "82061"
+    },
+    {
+      "source": 5,
+      "target": 11,
+      "value": 0,
+      "region": "82010"
+    },
+    {
+      "source": 5,
+      "target": 12,
+      "value": 1,
+      "region": "82010"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 0,
+      "region": "82010"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1,
+      "region": "82010"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 0,
+      "region": "82010"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 1,
+      "region": "82010"
+    }
+  ],
+  "priceLinks": []
+}

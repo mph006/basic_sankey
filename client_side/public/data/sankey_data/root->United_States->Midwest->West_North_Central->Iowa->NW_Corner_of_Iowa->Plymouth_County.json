@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->NW_Corner_of_Iowa->Plymouth_County",
+  "nodes": [
+    {
+      "name": "51008"
+    },
+    {
+      "name": "51024"
+    },
+    {
+      "name": "51028"
+    },
+    {
+      "name": "51031"
+    },
+    {
+      "name": "51045"
+    },
+    {
+      "name": "51050"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "51031"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "51031"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51031"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51031"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51031"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51031"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "51045"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "51045"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51045"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51045"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51045"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51045"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "51008"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "51008"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51008"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51008"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "51008"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "51008"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "51050"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "51050"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "51050"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "51050"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51050"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "51050"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "51024"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "51024"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51024"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51024"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51024"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51024"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "51028"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "51028"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51028"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51028"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51028"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51028"
+    }
+  ],
+  "priceLinks": []
+}

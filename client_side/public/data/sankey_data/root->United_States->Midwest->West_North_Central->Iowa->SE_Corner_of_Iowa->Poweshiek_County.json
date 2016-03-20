@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->SE_Corner_of_Iowa->Poweshiek_County",
+  "nodes": [
+    {
+      "name": "50112"
+    },
+    {
+      "name": "50157"
+    },
+    {
+      "name": "50242"
+    },
+    {
+      "name": "52211"
+    },
+    {
+      "name": "52221"
+    },
+    {
+      "name": "52222"
+    },
+    {
+      "name": "52232"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "50112"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "50112"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "50112"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "50112"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "50112"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "50112"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "50157"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "50157"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "50157"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "50157"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "50157"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "50157"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "52211"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "52211"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "52211"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "52211"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "52211"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "52211"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "50242"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "50242"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "50242"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "50242"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "50242"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "50242"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "52221"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1,
+      "region": "52221"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "52221"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "52221"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "52221"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "52221"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "52222"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "52222"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "52222"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "52222"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "52222"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "52222"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "52232"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "52232"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "52232"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "52232"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "52232"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "52232"
+    }
+  ],
+  "priceLinks": []
+}

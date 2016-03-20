@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->Washington_DC->NE_Corner_of_Washington_DC->District_of_Columbia",
+  "nodes": [
+    {
+      "name": "20002"
+    },
+    {
+      "name": "20017"
+    },
+    {
+      "name": "20018"
+    },
+    {
+      "name": "20064"
+    },
+    {
+      "name": "20317"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "20002"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "20002"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "20002"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "20002"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "20002"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "20002"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "20317"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "20317"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "20317"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "20317"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "20317"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "20317"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "20017"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "20017"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "20017"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "20017"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "20017"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "20017"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "20018"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "20018"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "20018"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "20018"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "20018"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "20018"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "20064"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "20064"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "20064"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "20064"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "20064"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "20064"
+    }
+  ],
+  "priceLinks": []
+}

@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->SW_Corner_of_Iowa",
   "nodes": [
     {
-      "name": "Dallas County"
+      "name": "Polk County"
     },
     {
       "name": "Dropped_Out"
@@ -17,120 +17,1095 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Harrison County"
+    },
+    {
+      "name": "Dallas County"
+    },
+    {
+      "name": "Warren County"
+    },
+    {
       "name": "Pottawattamie County"
     },
     {
-      "name": "Polk County"
+      "name": "Taylor County"
+    },
+    {
+      "name": "Page County"
+    },
+    {
+      "name": "Ringgold County"
+    },
+    {
+      "name": "Cass County"
+    },
+    {
+      "name": "Shelby County"
+    },
+    {
+      "name": "Union County"
+    },
+    {
+      "name": "Decatur County"
+    },
+    {
+      "name": "Guthrie County"
+    },
+    {
+      "name": "Madison County"
+    },
+    {
+      "name": "Adair County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Adams County"
+    },
+    {
+      "name": "Clarke County"
+    },
+    {
+      "name": "Fremont County"
+    },
+    {
+      "name": "Mills County"
+    },
+    {
+      "name": "Story County"
+    },
+    {
+      "name": "Carroll County"
+    },
+    {
+      "name": "Montgomery County"
+    },
+    {
+      "name": "Monona County"
+    },
+    {
+      "name": "Audubon County"
+    },
+    {
+      "name": "Lucas County"
+    },
+    {
+      "name": "Boone County"
+    },
+    {
+      "name": "Wayne County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Dallas County"
+      "value": 7,
+      "region": "Polk County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Dallas County"
+      "value": 48,
+      "region": "Polk County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Dallas County"
+      "value": 5,
+      "region": "Polk County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Dallas County"
+      "value": 43,
+      "region": "Polk County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Dallas County"
+      "value": 7,
+      "region": "Polk County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Dallas County"
+      "value": 36,
+      "region": "Polk County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1,
-      "region": "Pottawattamie County"
+      "value": 0,
+      "region": "Harrison County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0,
-      "region": "Pottawattamie County"
+      "value": 7,
+      "region": "Harrison County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Pottawattamie County"
+      "region": "Harrison County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Pottawattamie County"
+      "value": 7,
+      "region": "Harrison County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Pottawattamie County"
+      "value": 2,
+      "region": "Harrison County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Pottawattamie County"
+      "value": 5,
+      "region": "Harrison County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Polk County"
+      "value": 2,
+      "region": "Dallas County"
     },
     {
       "source": 6,
       "target": 2,
+      "value": 9,
+      "region": "Dallas County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 1,
-      "region": "Polk County"
+      "region": "Dallas County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Dallas County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Dallas County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Dallas County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "Warren County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 9,
+      "region": "Warren County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Warren County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Warren County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Warren County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Warren County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1,
+      "region": "Pottawattamie County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 11,
+      "region": "Pottawattamie County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Polk County"
+      "region": "Pottawattamie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 11,
+      "region": "Pottawattamie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pottawattamie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 11,
+      "region": "Pottawattamie County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Taylor County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 6,
+      "region": "Taylor County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Taylor County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Taylor County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Taylor County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Taylor County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "Page County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 9,
+      "region": "Page County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Page County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Page County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Page County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Page County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1,
+      "region": "Ringgold County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 5,
+      "region": "Ringgold County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Ringgold County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Ringgold County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Ringgold County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Ringgold County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Cass County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 6,
+      "region": "Cass County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cass County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Cass County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Cass County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Cass County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Shelby County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 6,
+      "region": "Shelby County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Shelby County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Shelby County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Shelby County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Shelby County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Union County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 4,
+      "region": "Union County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Union County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Union County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Union County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Union County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 1,
+      "region": "Decatur County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 4,
+      "region": "Decatur County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Decatur County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Decatur County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Decatur County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Decatur County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Guthrie County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 4,
+      "region": "Guthrie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Guthrie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Guthrie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Guthrie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Guthrie County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 1,
+      "region": "Madison County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 6,
+      "region": "Madison County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Madison County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Madison County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Madison County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Madison County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 2,
+      "region": "Adair County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 3,
+      "region": "Adair County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Adair County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Adair County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Adair County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Adair County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Adams County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 4,
+      "region": "Adams County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Adams County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Adams County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Adams County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Adams County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Clarke County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 3,
+      "region": "Clarke County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Clarke County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Clarke County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Clarke County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Clarke County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 2,
+      "region": "Fremont County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 4,
+      "region": "Fremont County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Fremont County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Fremont County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Fremont County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Fremont County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 3,
+      "region": "Mills County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 1,
+      "region": "Mills County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Mills County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 1,
-      "region": "Polk County"
+      "region": "Mills County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Polk County"
+      "region": "Mills County"
     },
     {
       "source": 3,
       "target": 4,
       "value": 1,
-      "region": "Polk County"
+      "region": "Mills County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 1,
+      "region": "Story County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 3,
+      "region": "Story County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Story County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Story County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Story County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Story County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 2,
+      "region": "Carroll County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 1,
+      "region": "Carroll County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Carroll County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Carroll County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Carroll County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Carroll County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 3,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 2,
+      "region": "Monona County"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 0,
+      "region": "Monona County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Monona County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Monona County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Monona County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Monona County"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 0,
+      "region": "Audubon County"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 2,
+      "region": "Audubon County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Audubon County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Audubon County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Audubon County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Audubon County"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "value": 0,
+      "region": "Lucas County"
+    },
+    {
+      "source": 29,
+      "target": 2,
+      "value": 1,
+      "region": "Lucas County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lucas County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Lucas County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lucas County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Lucas County"
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "value": 0,
+      "region": "Boone County"
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "value": 1,
+      "region": "Boone County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Boone County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Boone County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Boone County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Boone County"
+    },
+    {
+      "source": 31,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "value": 1,
+      "region": "Wayne County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Wayne County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Wayne County"
     }
   ],
   "priceLinks": []

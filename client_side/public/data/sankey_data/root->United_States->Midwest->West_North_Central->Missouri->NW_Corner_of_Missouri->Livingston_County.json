@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->NW_Corner_of_Missouri->Livingston_County",
   "nodes": [
     {
-      "name": "64601"
+      "name": "64635"
+    },
+    {
+      "name": "64638"
+    },
+    {
+      "name": "64656"
+    },
+    {
+      "name": "64664"
+    },
+    {
+      "name": "64686"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +32,183 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "64601"
+      "region": "64635"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
       "value": 1,
-      "region": "64601"
+      "region": "64635"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "64635"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "64635"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64635"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "64635"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "64686"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "64686"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "64686"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "64686"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64686"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "64686"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "64638"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "64638"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "64638"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "64638"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64638"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "64638"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "64601"
+      "region": "64656"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 6,
       "value": 1,
-      "region": "64601"
+      "region": "64656"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 6,
+      "target": 5,
       "value": 0,
-      "region": "64601"
+      "region": "64656"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "64656"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64656"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "64656"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 5,
+      "value": 0,
+      "region": "64664"
+    },
+    {
+      "source": 3,
+      "target": 6,
       "value": 1,
-      "region": "64601"
+      "region": "64664"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "64664"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "64664"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "64664"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "64664"
     }
   ],
   "priceLinks": []

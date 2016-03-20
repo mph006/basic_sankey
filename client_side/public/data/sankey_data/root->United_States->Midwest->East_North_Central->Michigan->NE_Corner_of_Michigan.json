@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->NE_Corner_of_Michigan",
   "nodes": [
     {
-      "name": "Leelanau County"
+      "name": "Chippewa County"
     },
     {
       "name": "Dropped_Out"
@@ -17,159 +17,822 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Cheboygan County"
-    },
-    {
       "name": "Emmet County"
     },
     {
-      "name": "Chippewa County"
+      "name": "Antrim County"
+    },
+    {
+      "name": "Grand Traverse County"
+    },
+    {
+      "name": "Cheboygan County"
+    },
+    {
+      "name": "Mackinac County"
+    },
+    {
+      "name": "Presque Isle County"
+    },
+    {
+      "name": "Alcona County"
+    },
+    {
+      "name": "Leelanau County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Charlevoix County"
+    },
+    {
+      "name": "Alpena County"
+    },
+    {
+      "name": "Schoolcraft County"
+    },
+    {
+      "name": "Oscoda County"
+    },
+    {
+      "name": "Benzie County"
+    },
+    {
+      "name": "Crawford County"
+    },
+    {
+      "name": "Otsego County"
+    },
+    {
+      "name": "Luce County"
+    },
+    {
+      "name": "Montmorency County"
+    },
+    {
+      "name": "Kalkaska County"
+    },
+    {
+      "name": "Alger County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Leelanau County"
+      "value": 2,
+      "region": "Chippewa County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Leelanau County"
+      "value": 11,
+      "region": "Chippewa County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Leelanau County"
+      "region": "Chippewa County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Leelanau County"
+      "value": 10,
+      "region": "Chippewa County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Leelanau County"
+      "value": 1,
+      "region": "Chippewa County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Leelanau County"
+      "value": 9,
+      "region": "Chippewa County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Cheboygan County"
+      "value": 1,
+      "region": "Emmet County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Cheboygan County"
+      "value": 9,
+      "region": "Emmet County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Cheboygan County"
+      "value": 1,
+      "region": "Emmet County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Cheboygan County"
+      "value": 8,
+      "region": "Emmet County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Cheboygan County"
+      "value": 2,
+      "region": "Emmet County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Cheboygan County"
+      "value": 6,
+      "region": "Emmet County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Emmet County"
+      "value": 1,
+      "region": "Antrim County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1,
-      "region": "Emmet County"
+      "value": 7,
+      "region": "Antrim County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Emmet County"
+      "region": "Antrim County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Emmet County"
+      "value": 6,
+      "region": "Antrim County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Emmet County"
+      "region": "Antrim County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Emmet County"
+      "value": 6,
+      "region": "Antrim County"
     },
     {
       "source": 7,
       "target": 1,
       "value": 0,
-      "region": "Chippewa County"
+      "region": "Grand Traverse County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 1,
-      "region": "Chippewa County"
+      "value": 7,
+      "region": "Grand Traverse County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Chippewa County"
+      "region": "Grand Traverse County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Grand Traverse County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Grand Traverse County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Grand Traverse County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 2,
+      "region": "Cheboygan County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 6,
+      "region": "Cheboygan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cheboygan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Cheboygan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Cheboygan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Cheboygan County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Mackinac County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 5,
+      "region": "Mackinac County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Mackinac County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Mackinac County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Mackinac County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Mackinac County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "Presque Isle County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 4,
+      "region": "Presque Isle County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Presque Isle County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Presque Isle County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Presque Isle County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Presque Isle County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Alcona County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 6,
+      "region": "Alcona County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Alcona County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Alcona County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Alcona County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Alcona County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1,
+      "region": "Leelanau County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 5,
+      "region": "Leelanau County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Leelanau County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Leelanau County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Leelanau County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Leelanau County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 1,
+      "region": "Charlevoix County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 4,
+      "region": "Charlevoix County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Charlevoix County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Charlevoix County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Charlevoix County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Charlevoix County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Alpena County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 4,
+      "region": "Alpena County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Alpena County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Alpena County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Alpena County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Alpena County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Schoolcraft County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 2,
+      "region": "Schoolcraft County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Schoolcraft County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 0,
-      "region": "Chippewa County"
+      "region": "Schoolcraft County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Chippewa County"
+      "region": "Schoolcraft County"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "Chippewa County"
+      "region": "Schoolcraft County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Oscoda County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 4,
+      "region": "Oscoda County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Oscoda County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Oscoda County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Oscoda County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Oscoda County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 1,
+      "region": "Benzie County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 2,
+      "region": "Benzie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Benzie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Benzie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Benzie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Benzie County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Crawford County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 2,
+      "region": "Crawford County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Crawford County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Crawford County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Crawford County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Crawford County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 2,
+      "region": "Otsego County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 1,
+      "region": "Otsego County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Otsego County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Otsego County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Otsego County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Otsego County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 1,
+      "region": "Luce County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 1,
+      "region": "Luce County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Luce County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Luce County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Luce County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Luce County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Montmorency County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 1,
+      "region": "Montmorency County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Montmorency County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Montmorency County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Montmorency County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Montmorency County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Kalkaska County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 2,
+      "region": "Kalkaska County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Kalkaska County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Kalkaska County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Kalkaska County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Kalkaska County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Alger County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 1,
+      "region": "Alger County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Alger County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Alger County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Alger County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Alger County"
     }
   ],
   "priceLinks": []

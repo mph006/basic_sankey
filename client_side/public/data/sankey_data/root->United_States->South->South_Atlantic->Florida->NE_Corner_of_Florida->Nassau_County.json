@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->South->South_Atlantic->Florida->NE_Corner_of_Florida->Nassau_County",
   "nodes": [
     {
-      "name": "32035"
+      "name": "32011"
+    },
+    {
+      "name": "32041"
+    },
+    {
+      "name": "32097"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +25,112 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 1,
-      "region": "32035"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0,
-      "region": "32035"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "32035"
-    },
-    {
       "source": 2,
       "target": 3,
       "value": 0,
-      "region": "32035"
+      "region": "32097"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "32035"
-    },
-    {
-      "source": 3,
+      "source": 2,
       "target": 4,
+      "value": 1,
+      "region": "32097"
+    },
+    {
+      "source": 4,
+      "target": 3,
       "value": 0,
-      "region": "32035"
+      "region": "32097"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "32097"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "32097"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "32097"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "32011"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "32011"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "32011"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "32011"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "32011"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "32011"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "32041"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "32041"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "32041"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "32041"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "32041"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "32041"
     }
   ],
   "priceLinks": []

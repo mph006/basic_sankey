@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->North_Carolina->SW_Corner_of_North_Carolina->Anson_County",
+  "nodes": [
+    {
+      "name": "28007"
+    },
+    {
+      "name": "28091"
+    },
+    {
+      "name": "28119"
+    },
+    {
+      "name": "28135"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "28135"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "28135"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "28135"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "28135"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "28135"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "28135"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "28007"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "28007"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "28007"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "28007"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "28007"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "28007"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "28091"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "28091"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "28091"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "28091"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "28091"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "28091"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "28119"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "28119"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "28119"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "28119"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "28119"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "28119"
+    }
+  ],
+  "priceLinks": []
+}

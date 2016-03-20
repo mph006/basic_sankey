@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->East_South_Central->Alabama->NW_Corner_of_Alabama",
   "nodes": [
     {
-      "name": "Tuscaloosa County"
+      "name": "Jefferson County"
     },
     {
       "name": "Dropped_Out"
@@ -17,198 +17,1017 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Jefferson County"
+      "name": "Tuscaloosa County"
+    },
+    {
+      "name": "Walker County"
+    },
+    {
+      "name": "Cullman County"
+    },
+    {
+      "name": "Limestone County"
+    },
+    {
+      "name": "Bibb County"
+    },
+    {
+      "name": "Morgan County"
+    },
+    {
+      "name": "Lauderdale County"
+    },
+    {
+      "name": "Colbert County"
+    },
+    {
+      "name": "Fayette County"
+    },
+    {
+      "name": "Marion County"
     },
     {
       "name": "Lawrence County"
     },
     {
+      "name": "Shelby County"
+    },
+    {
+      "name": "Winston County"
+    },
+    {
+      "name": "Greene County"
+    },
+    {
+      "name": "Madison County"
+    },
+    {
+      "name": "Chilton County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Hale County"
+    },
+    {
+      "name": "Lamar County"
+    },
+    {
       "name": "Sumter County"
     },
     {
-      "name": "Walker County"
+      "name": "Franklin County"
+    },
+    {
+      "name": "Perry County"
+    },
+    {
+      "name": "Blount County"
+    },
+    {
+      "name": "Pickens County"
+    },
+    {
+      "name": "Tishomingo County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Tuscaloosa County"
+      "value": 12,
+      "region": "Jefferson County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
-      "region": "Tuscaloosa County"
+      "value": 53,
+      "region": "Jefferson County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Tuscaloosa County"
+      "value": 9,
+      "region": "Jefferson County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
-      "region": "Tuscaloosa County"
+      "value": 44,
+      "region": "Jefferson County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Tuscaloosa County"
+      "value": 3,
+      "region": "Jefferson County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Tuscaloosa County"
+      "value": 41,
+      "region": "Jefferson County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1,
-      "region": "Jefferson County"
+      "value": 3,
+      "region": "Tuscaloosa County"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 14,
+      "region": "Tuscaloosa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 2,
-      "region": "Jefferson County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "Jefferson County"
+      "region": "Tuscaloosa County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Jefferson County"
+      "value": 12,
+      "region": "Tuscaloosa County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Jefferson County"
+      "value": 3,
+      "region": "Tuscaloosa County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Jefferson County"
+      "value": 9,
+      "region": "Tuscaloosa County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Lawrence County"
+      "value": 1,
+      "region": "Walker County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1,
-      "region": "Lawrence County"
+      "value": 11,
+      "region": "Walker County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Lawrence County"
+      "value": 1,
+      "region": "Walker County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Lawrence County"
+      "value": 10,
+      "region": "Walker County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Lawrence County"
+      "value": 2,
+      "region": "Walker County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Lawrence County"
+      "value": 8,
+      "region": "Walker County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 1,
-      "region": "Sumter County"
+      "value": 2,
+      "region": "Cullman County"
     },
     {
       "source": 7,
       "target": 2,
-      "value": 0,
-      "region": "Sumter County"
+      "value": 7,
+      "region": "Cullman County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Sumter County"
+      "value": 2,
+      "region": "Cullman County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Sumter County"
+      "value": 5,
+      "region": "Cullman County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Sumter County"
+      "value": 1,
+      "region": "Cullman County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Sumter County"
+      "value": 4,
+      "region": "Cullman County"
     },
     {
       "source": 8,
       "target": 1,
       "value": 0,
-      "region": "Walker County"
+      "region": "Limestone County"
     },
     {
       "source": 8,
       "target": 2,
+      "value": 9,
+      "region": "Limestone County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Limestone County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Limestone County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Limestone County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Limestone County"
+    },
+    {
+      "source": 9,
+      "target": 1,
       "value": 1,
-      "region": "Walker County"
+      "region": "Bibb County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 5,
+      "region": "Bibb County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Bibb County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Bibb County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Bibb County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Bibb County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 2,
+      "region": "Morgan County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 5,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Morgan County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Lauderdale County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 8,
+      "region": "Lauderdale County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lauderdale County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Lauderdale County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lauderdale County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Lauderdale County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Colbert County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 6,
+      "region": "Colbert County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Colbert County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Colbert County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Colbert County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Colbert County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Fayette County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 5,
+      "region": "Fayette County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Fayette County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Fayette County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Fayette County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Fayette County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 1,
+      "region": "Marion County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 5,
+      "region": "Marion County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Marion County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Marion County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Marion County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Marion County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Lawrence County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 4,
+      "region": "Lawrence County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Walker County"
+      "region": "Lawrence County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Lawrence County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lawrence County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Lawrence County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Shelby County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 5,
+      "region": "Shelby County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Shelby County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Shelby County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Shelby County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Shelby County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 1,
+      "region": "Winston County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 3,
+      "region": "Winston County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Winston County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Winston County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Winston County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Winston County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 4,
+      "region": "Greene County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Greene County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Greene County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Greene County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Greene County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Madison County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 3,
+      "region": "Madison County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Madison County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Madison County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Madison County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Madison County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Chilton County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 5,
+      "region": "Chilton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Chilton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Chilton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Chilton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Chilton County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 1,
+      "region": "Hale County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 3,
+      "region": "Hale County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Hale County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Hale County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Hale County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Hale County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Lamar County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 2,
+      "region": "Lamar County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lamar County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Lamar County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lamar County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Lamar County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Sumter County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 3,
+      "region": "Sumter County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sumter County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Sumter County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Sumter County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Sumter County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 1,
+      "region": "Franklin County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 3,
+      "region": "Franklin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Franklin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Franklin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Franklin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Franklin County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 0,
+      "region": "Perry County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 1,
+      "region": "Perry County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Perry County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Perry County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Perry County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Perry County"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 0,
+      "region": "Blount County"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 2,
+      "region": "Blount County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Blount County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Blount County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Blount County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Blount County"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 1,
+      "region": "Pickens County"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 1,
+      "region": "Pickens County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Pickens County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 0,
-      "region": "Walker County"
+      "region": "Pickens County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Walker County"
+      "region": "Pickens County"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "Walker County"
+      "region": "Pickens County"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "value": 0,
+      "region": "Tishomingo County"
+    },
+    {
+      "source": 29,
+      "target": 2,
+      "value": 1,
+      "region": "Tishomingo County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Tishomingo County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Tishomingo County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tishomingo County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Tishomingo County"
     }
   ],
   "priceLinks": []

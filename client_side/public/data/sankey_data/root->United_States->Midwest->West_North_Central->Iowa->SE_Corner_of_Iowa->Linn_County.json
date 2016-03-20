@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->SE_Corner_of_Iowa->Linn_County",
+  "nodes": [
+    {
+      "name": "52227"
+    },
+    {
+      "name": "52228"
+    },
+    {
+      "name": "52253"
+    },
+    {
+      "name": "52314"
+    },
+    {
+      "name": "52404"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "52227"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "52227"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52227"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52227"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52227"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52227"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "52314"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "52314"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52314"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52314"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52314"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52314"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "52404"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "52404"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52404"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52404"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "52404"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "52404"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "52228"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "52228"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "52228"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "52228"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52228"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "52228"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "52253"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "52253"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "52253"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "52253"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "52253"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52253"
+    }
+  ],
+  "priceLinks": []
+}

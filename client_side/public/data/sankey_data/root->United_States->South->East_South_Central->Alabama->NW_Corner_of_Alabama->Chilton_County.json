@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Alabama->NW_Corner_of_Alabama->Chilton_County",
+  "nodes": [
+    {
+      "name": "35085"
+    },
+    {
+      "name": "35171"
+    },
+    {
+      "name": "35187"
+    },
+    {
+      "name": "36750"
+    },
+    {
+      "name": "36790"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "35085"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "35085"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "35085"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "35085"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "35085"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "35085"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "35171"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "35171"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "35171"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "35171"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "35171"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "35171"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "35187"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "35187"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "35187"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "35187"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "35187"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "35187"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "36750"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "36750"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "36750"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "36750"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "36750"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "36750"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "36790"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "36790"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "36790"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "36790"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "36790"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36790"
+    }
+  ],
+  "priceLinks": []
+}

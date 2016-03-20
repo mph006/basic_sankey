@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SE_Corner_of_Minnesota->Fillmore_County",
+  "nodes": [
+    {
+      "name": "55935"
+    },
+    {
+      "name": "55939"
+    },
+    {
+      "name": "55961"
+    },
+    {
+      "name": "55971"
+    },
+    {
+      "name": "55975"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "55935"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "55935"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "55935"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "55935"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "55935"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "55935"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "55939"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "55939"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "55939"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "55939"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "55939"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "55939"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "55961"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "55961"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "55961"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "55961"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "55961"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "55961"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "55971"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "55971"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "55971"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "55971"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "55971"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "55971"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "55975"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "55975"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "55975"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "55975"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "55975"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "55975"
+    }
+  ],
+  "priceLinks": []
+}

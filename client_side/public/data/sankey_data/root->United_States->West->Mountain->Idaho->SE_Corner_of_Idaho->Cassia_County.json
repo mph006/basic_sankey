@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Idaho->SE_Corner_of_Idaho->Cassia_County",
+  "nodes": [
+    {
+      "name": "83312"
+    },
+    {
+      "name": "83318"
+    },
+    {
+      "name": "83323"
+    },
+    {
+      "name": "83346"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "83318"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "83318"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83318"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "83318"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83318"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83318"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "83323"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "83323"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83323"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "83323"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83323"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "83323"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "83312"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "83312"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83312"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "83312"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83312"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "83312"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "83346"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "83346"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83346"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "83346"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83346"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83346"
+    }
+  ],
+  "priceLinks": []
+}

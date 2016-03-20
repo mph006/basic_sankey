@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Utah->NE_Corner_of_Utah->Duchesne_County",
+  "nodes": [
+    {
+      "name": "84002"
+    },
+    {
+      "name": "84007"
+    },
+    {
+      "name": "84027"
+    },
+    {
+      "name": "84031"
+    },
+    {
+      "name": "84052"
+    },
+    {
+      "name": "84073"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "84027"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "84027"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "84027"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84027"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "84027"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "84027"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "84031"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "84031"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "84031"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84031"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "84031"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "84031"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "84002"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "84002"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "84002"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84002"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "84002"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "84002"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "84007"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "84007"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "84007"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84007"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "84007"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "84007"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "84052"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "84052"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "84052"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84052"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "84052"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "84052"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "84073"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "84073"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "84073"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "84073"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "84073"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "84073"
+    }
+  ],
+  "priceLinks": []
+}

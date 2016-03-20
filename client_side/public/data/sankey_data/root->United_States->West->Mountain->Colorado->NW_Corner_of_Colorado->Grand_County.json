@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->West->Mountain->Colorado->NW_Corner_of_Colorado->Grand_County",
   "nodes": [
     {
-      "name": "80451"
+      "name": "80442"
+    },
+    {
+      "name": "80446"
+    },
+    {
+      "name": "80447"
+    },
+    {
+      "name": "80468"
+    },
+    {
+      "name": "80478"
+    },
+    {
+      "name": "80482"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 5,
+      "target": 6,
       "value": 1,
-      "region": "80451"
+      "region": "80482"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "80482"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "80482"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "80482"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "80482"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "80482"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "80447"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "80447"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "80447"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "80447"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "80447"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "80447"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "80446"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "80446"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "80446"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "80446"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "80446"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "80446"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 6,
       "value": 0,
-      "region": "80451"
+      "region": "80442"
     },
     {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "80451"
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "80442"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "80451"
+      "region": "80442"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "80442"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "80442"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "80442"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "80451"
+      "target": 6,
+      "value": 1,
+      "region": "80468"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 7,
       "value": 0,
-      "region": "80451"
+      "region": "80468"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "80468"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "80468"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "80468"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "80468"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "80478"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "80478"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "80478"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "80478"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "80478"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "80478"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->North_Dakota->NW_Corner_of_North_Dakota",
   "nodes": [
     {
-      "name": "McLean County"
+      "name": "Ward County"
     },
     {
       "name": "Dropped_Out"
@@ -15,44 +15,434 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "McLean County"
+    },
+    {
+      "name": "Burke County"
+    },
+    {
+      "name": "McHenry County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Williams County"
+    },
+    {
+      "name": "Divide County"
+    },
+    {
+      "name": "Mountrail County"
+    },
+    {
+      "name": "Bottineau County"
+    },
+    {
+      "name": "Renville County"
+    },
+    {
+      "name": "McKenzie County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "McLean County"
+      "value": 1,
+      "region": "Ward County"
     },
     {
       "source": 0,
       "target": 2,
+      "value": 9,
+      "region": "Ward County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Ward County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Ward County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Ward County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Ward County"
+    },
+    {
+      "source": 5,
+      "target": 1,
       "value": 1,
+      "region": "McLean County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 9,
       "region": "McLean County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 2,
       "region": "McLean County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 7,
       "region": "McLean County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "McLean County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 6,
       "region": "McLean County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Burke County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 4,
+      "region": "Burke County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Burke County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Burke County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Burke County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Burke County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "McHenry County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 8,
+      "region": "McHenry County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "McHenry County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "McHenry County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "McHenry County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "McHenry County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Williams County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 5,
+      "region": "Williams County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Williams County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Williams County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Williams County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Williams County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Divide County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 4,
+      "region": "Divide County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Divide County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Divide County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Divide County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Divide County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1,
+      "region": "Mountrail County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 3,
+      "region": "Mountrail County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Mountrail County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Mountrail County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Mountrail County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Mountrail County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1,
+      "region": "Bottineau County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 3,
+      "region": "Bottineau County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Bottineau County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Bottineau County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Bottineau County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Bottineau County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Renville County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 3,
+      "region": "Renville County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Renville County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Renville County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Renville County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Renville County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 4,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "McKenzie County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "McKenzie County"
     }
   ],
   "priceLinks": []

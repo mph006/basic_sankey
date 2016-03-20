@@ -1,7 +1,7 @@
 function updateSankey(graph){
     // reset the sankey diagram properties
 
-    var thresh = d3.scale.linear().domain([6,22]).range([80,1])
+    var thresh = d3.scale.threshold().domain([6,15,20,50]).range([100,50,25,10,0])
     nodePadding = thresh(graph.nodes.length);
 
     sankey = d3.sankey()
@@ -103,7 +103,7 @@ function appendElementsToDom(svg,sankey,path,graph){
 
             d3.behavior.drag().origin(function(d){return d;})
             .on("dragstart", function() {
-                console.log(d3.event.defaultPrevented);
+               // console.log(d3.event.defaultPrevented);
                 d3.select(this).moveToFront();
             })
             .on("drag", function (d) {

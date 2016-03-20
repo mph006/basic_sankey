@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Nevada->SE_Corner_of_Nevada->Nye_County",
+  "nodes": [
+    {
+      "name": "89003"
+    },
+    {
+      "name": "89020"
+    },
+    {
+      "name": "89023"
+    },
+    {
+      "name": "89045"
+    },
+    {
+      "name": "89048"
+    },
+    {
+      "name": "89049"
+    },
+    {
+      "name": "89060"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "89003"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "89003"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "89003"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "89003"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "89003"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "89003"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "89020"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "89020"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "89020"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "89020"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "89020"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "89020"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "89023"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "89023"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 1,
+      "region": "89023"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "89023"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "89023"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "89023"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0,
+      "region": "89045"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 1,
+      "region": "89045"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "89045"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "89045"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "89045"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "89045"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "89048"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "89048"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "89048"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "89048"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "89048"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "89048"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "89049"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "89049"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "89049"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "89049"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "89049"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "89049"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "89060"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "89060"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "89060"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "89060"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1,
+      "region": "89060"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "89060"
+    }
+  ],
+  "priceLinks": []
+}

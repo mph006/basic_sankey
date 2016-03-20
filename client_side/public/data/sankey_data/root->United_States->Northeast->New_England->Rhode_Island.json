@@ -17,20 +17,26 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "NW Corner of Rhode Island"
+    },
+    {
       "name": "SW Corner of Rhode Island"
+    },
+    {
+      "name": "SE Corner of Rhode Island"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "NE Corner of Rhode Island"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
+      "value": 27,
       "region": "NE Corner of Rhode Island"
     },
     {
@@ -42,43 +48,79 @@
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 26,
       "region": "NE Corner of Rhode Island"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "NE Corner of Rhode Island"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 25,
       "region": "NE Corner of Rhode Island"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "SW Corner of Rhode Island"
+      "value": 1,
+      "region": "NW Corner of Rhode Island"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 19,
+      "region": "NW Corner of Rhode Island"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 5,
+      "region": "NW Corner of Rhode Island"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 14,
+      "region": "NW Corner of Rhode Island"
+    },
+    {
+      "source": 3,
+      "target": 1,
       "value": 1,
+      "region": "NW Corner of Rhode Island"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 13,
+      "region": "NW Corner of Rhode Island"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "SW Corner of Rhode Island"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 10,
       "region": "SW Corner of Rhode Island"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 2,
       "region": "SW Corner of Rhode Island"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 8,
       "region": "SW Corner of Rhode Island"
     },
     {
@@ -90,8 +132,44 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 7,
       "region": "SW Corner of Rhode Island"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 2,
+      "region": "SE Corner of Rhode Island"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 6,
+      "region": "SE Corner of Rhode Island"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of Rhode Island"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "SE Corner of Rhode Island"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of Rhode Island"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "SE Corner of Rhode Island"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->West->Pacific->Oregon->NW_Corner_of_Oregon->Wasco_County",
   "nodes": [
     {
+      "name": "97001"
+    },
+    {
+      "name": "97021"
+    },
+    {
       "name": "97037"
+    },
+    {
+      "name": "97057"
+    },
+    {
+      "name": "97063"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +32,183 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 5,
+      "value": 0,
+      "region": "97001"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "97001"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "97001"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "97001"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "97001"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "97001"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "97057"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "97057"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "97057"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "97057"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "97057"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "97057"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "97021"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "97021"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "97021"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "97021"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "97021"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "97021"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "97037"
+    },
+    {
+      "source": 2,
+      "target": 6,
       "value": 1,
       "region": "97037"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "97037"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "97037"
+    },
+    {
+      "source": 7,
+      "target": 5,
       "value": 0,
       "region": "97037"
     },
     {
-      "source": 2,
-      "target": 3,
-      "value": 0,
+      "source": 7,
+      "target": 8,
+      "value": 1,
       "region": "97037"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 4,
+      "target": 5,
       "value": 0,
-      "region": "97037"
+      "region": "97063"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "97063"
+    },
+    {
+      "source": 6,
+      "target": 5,
       "value": 0,
-      "region": "97037"
+      "region": "97063"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "97063"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "97063"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "97063"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Mississippi->NW_Corner_of_Mississippi->Panola_County",
+  "nodes": [
+    {
+      "name": "38606"
+    },
+    {
+      "name": "38619"
+    },
+    {
+      "name": "38622"
+    },
+    {
+      "name": "38658"
+    },
+    {
+      "name": "38666"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "38606"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "38606"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "38606"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38606"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38606"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38606"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "38619"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "38619"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "38619"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "38619"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38619"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "38619"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "38666"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "38666"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "38666"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38666"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38666"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38666"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "38622"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "38622"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "38622"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38622"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38622"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38622"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "38658"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "38658"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "38658"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "38658"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "38658"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "38658"
+    }
+  ],
+  "priceLinks": []
+}

@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->NE_Corner_of_Texas->Sabine_County",
+  "nodes": [
+    {
+      "name": "75930"
+    },
+    {
+      "name": "75968"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "75968"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "75968"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "75968"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "75968"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "75968"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "75968"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "75930"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "75930"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "75930"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "75930"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "75930"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "75930"
+    }
+  ],
+  "priceLinks": []
+}

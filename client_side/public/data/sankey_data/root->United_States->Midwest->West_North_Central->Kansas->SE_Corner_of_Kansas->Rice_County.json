@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->SE_Corner_of_Kansas->Rice_County",
+  "nodes": [
+    {
+      "name": "67457"
+    },
+    {
+      "name": "67579"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "67457"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "67457"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "67457"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "67457"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "67457"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "67457"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "67579"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "67579"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "67579"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "67579"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "67579"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "67579"
+    }
+  ],
+  "priceLinks": []
+}

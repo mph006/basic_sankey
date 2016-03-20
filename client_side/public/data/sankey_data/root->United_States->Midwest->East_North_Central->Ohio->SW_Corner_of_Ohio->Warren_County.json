@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->SW_Corner_of_Ohio->Warren_County",
+  "nodes": [
+    {
+      "name": "45032"
+    },
+    {
+      "name": "45034"
+    },
+    {
+      "name": "45040"
+    },
+    {
+      "name": "45068"
+    },
+    {
+      "name": "45162"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "45068"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "45068"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45068"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45068"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "45068"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45068"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "45034"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "45034"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45034"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45034"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "45034"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45034"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "45040"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "45040"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45040"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45040"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45040"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45040"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "45032"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "45032"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45032"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45032"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45032"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45032"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "45162"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "45162"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45162"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45162"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "45162"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45162"
+    }
+  ],
+  "priceLinks": []
+}

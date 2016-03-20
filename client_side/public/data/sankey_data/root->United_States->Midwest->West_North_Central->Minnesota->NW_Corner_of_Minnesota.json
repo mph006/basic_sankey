@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->NW_Corner_of_Minnesota",
   "nodes": [
     {
-      "name": "Otter Tail County"
+      "name": "Polk County"
     },
     {
       "name": "Dropped_Out"
@@ -17,134 +17,299 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Beltrami County"
+    },
+    {
+      "name": "Itasca County"
+    },
+    {
+      "name": "Clay County"
+    },
+    {
+      "name": "Cass County"
+    },
+    {
+      "name": "Kittson County"
+    },
+    {
+      "name": "Hubbard County"
+    },
+    {
+      "name": "Otter Tail County"
+    },
+    {
+      "name": "Koochiching County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
       "name": "Becker County"
+    },
+    {
+      "name": "Crow Wing County"
+    },
+    {
+      "name": "Wadena County"
+    },
+    {
+      "name": "Marshall County"
+    },
+    {
+      "name": "Clearwater County"
     },
     {
       "name": "Red Lake County"
     },
     {
-      "name": "Hubbard County"
+      "name": "Roseau County"
+    },
+    {
+      "name": "Lake of the Woods County"
+    },
+    {
+      "name": "Norman County"
+    },
+    {
+      "name": "Mahnomen County"
+    },
+    {
+      "name": "Wilkin County"
+    },
+    {
+      "name": "Pennington County"
+    },
+    {
+      "name": "Aitkin County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Otter Tail County"
+      "value": 3,
+      "region": "Polk County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Otter Tail County"
+      "value": 10,
+      "region": "Polk County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Otter Tail County"
+      "value": 3,
+      "region": "Polk County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Otter Tail County"
+      "value": 7,
+      "region": "Polk County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Otter Tail County"
+      "value": 2,
+      "region": "Polk County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Otter Tail County"
+      "value": 5,
+      "region": "Polk County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 0,
-      "region": "Becker County"
+      "region": "Beltrami County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Becker County"
+      "value": 12,
+      "region": "Beltrami County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Becker County"
+      "value": 0,
+      "region": "Beltrami County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Becker County"
+      "value": 12,
+      "region": "Beltrami County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Becker County"
+      "value": 1,
+      "region": "Beltrami County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Becker County"
+      "value": 11,
+      "region": "Beltrami County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Red Lake County"
+      "value": 1,
+      "region": "Itasca County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 1,
-      "region": "Red Lake County"
+      "value": 10,
+      "region": "Itasca County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Red Lake County"
+      "value": 2,
+      "region": "Itasca County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Red Lake County"
+      "value": 8,
+      "region": "Itasca County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 1,
-      "region": "Red Lake County"
+      "region": "Itasca County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Red Lake County"
+      "value": 7,
+      "region": "Itasca County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0,
-      "region": "Hubbard County"
+      "value": 2,
+      "region": "Clay County"
     },
     {
       "source": 7,
       "target": 2,
+      "value": 8,
+      "region": "Clay County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 1,
+      "region": "Clay County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Clay County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Clay County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Clay County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Cass County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 8,
+      "region": "Cass County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Cass County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Cass County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Cass County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Cass County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Kittson County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 8,
+      "region": "Kittson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Kittson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Kittson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Kittson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Kittson County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 4,
+      "region": "Hubbard County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 2,
       "region": "Hubbard County"
     },
     {
@@ -156,7 +321,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 1,
       "region": "Hubbard County"
     },
     {
@@ -168,8 +333,584 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 1,
       "region": "Hubbard County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 2,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 4,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Otter Tail County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Koochiching County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 5,
+      "region": "Koochiching County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Koochiching County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Koochiching County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Koochiching County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Koochiching County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 7,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Unknown County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 3,
+      "region": "Becker County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 4,
+      "region": "Becker County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Becker County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Becker County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Becker County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Becker County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Crow Wing County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 6,
+      "region": "Crow Wing County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Crow Wing County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Crow Wing County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Crow Wing County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Crow Wing County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Wadena County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 2,
+      "region": "Wadena County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wadena County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Wadena County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Wadena County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Wadena County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Marshall County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 6,
+      "region": "Marshall County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Marshall County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Marshall County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Marshall County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Marshall County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 4,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Clearwater County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Red Lake County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 3,
+      "region": "Red Lake County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Red Lake County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Red Lake County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Red Lake County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Red Lake County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 1,
+      "region": "Roseau County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 3,
+      "region": "Roseau County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Roseau County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Roseau County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Roseau County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Roseau County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Lake of the Woods County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 3,
+      "region": "Lake of the Woods County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lake of the Woods County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Lake of the Woods County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lake of the Woods County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Lake of the Woods County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 1,
+      "region": "Norman County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 4,
+      "region": "Norman County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Norman County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Norman County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Norman County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Norman County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Mahnomen County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 4,
+      "region": "Mahnomen County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Mahnomen County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Mahnomen County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Mahnomen County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Mahnomen County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 0,
+      "region": "Wilkin County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 2,
+      "region": "Wilkin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Wilkin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Wilkin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Wilkin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Wilkin County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 0,
+      "region": "Pennington County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 1,
+      "region": "Pennington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Pennington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Pennington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Pennington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Pennington County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 0,
+      "region": "Aitkin County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 2,
+      "region": "Aitkin County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Aitkin County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Aitkin County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Aitkin County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Aitkin County"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->SE_Corner_of_Illinois->Clinton_County",
+  "nodes": [
+    {
+      "name": "62218"
+    },
+    {
+      "name": "62219"
+    },
+    {
+      "name": "62231"
+    },
+    {
+      "name": "62250"
+    },
+    {
+      "name": "62252"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "62250"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "62250"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62250"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62250"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62250"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62250"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "62252"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "62252"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62252"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62252"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62252"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62252"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "62218"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "62218"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62218"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "62218"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62218"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "62218"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "62219"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "62219"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "62219"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "62219"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62219"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "62219"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "62231"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "62231"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "62231"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "62231"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "62231"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "62231"
+    }
+  ],
+  "priceLinks": []
+}

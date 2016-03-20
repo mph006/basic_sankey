@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Indiana->NW_Corner_of_Indiana->Porter_County",
+  "nodes": [
+    {
+      "name": "46301"
+    },
+    {
+      "name": "46341"
+    },
+    {
+      "name": "46347"
+    },
+    {
+      "name": "46368"
+    },
+    {
+      "name": "46383"
+    },
+    {
+      "name": "46384"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "46341"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "46341"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "46341"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "46341"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46341"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "46341"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "46347"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "46347"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "46347"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46347"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46347"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "46347"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "46383"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "46383"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "46383"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46383"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46383"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "46383"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "46301"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "46301"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "46301"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46301"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46301"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "46301"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "46368"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "46368"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "46368"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46368"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46368"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "46368"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "46384"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "46384"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "46384"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46384"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "46384"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "46384"
+    }
+  ],
+  "priceLinks": []
+}

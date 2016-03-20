@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->SW_Corner_of_Wisconsin->Sauk_County",
   "nodes": [
     {
+      "name": "53577"
+    },
+    {
+      "name": "53941"
+    },
+    {
+      "name": "53942"
+    },
+    {
+      "name": "53943"
+    },
+    {
       "name": "53959"
+    },
+    {
+      "name": "53961"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "53943"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "53943"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "53943"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53943"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "53943"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "53943"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 6,
+      "value": 0,
+      "region": "53577"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "53577"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "53577"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53577"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "53577"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "53577"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "53941"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "53941"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "53941"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "53941"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "53941"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "53941"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "53942"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "53942"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "53942"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "53942"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "53942"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "53942"
+    },
+    {
+      "source": 4,
+      "target": 6,
       "value": 0,
       "region": "53959"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 4,
+      "target": 7,
       "value": 1,
       "region": "53959"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "53959"
+    },
+    {
+      "source": 7,
+      "target": 8,
       "value": 1,
       "region": "53959"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "53959"
+    },
+    {
+      "source": 8,
+      "target": 9,
       "value": 0,
       "region": "53959"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 6,
       "value": 0,
-      "region": "53959"
+      "region": "53961"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "53961"
+    },
+    {
+      "source": 7,
+      "target": 6,
       "value": 0,
-      "region": "53959"
+      "region": "53961"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "53961"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "53961"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "53961"
     }
   ],
   "priceLinks": []

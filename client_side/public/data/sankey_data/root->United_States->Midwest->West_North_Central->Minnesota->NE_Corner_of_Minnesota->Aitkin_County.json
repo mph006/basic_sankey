@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->NE_Corner_of_Minnesota->Aitkin_County",
+  "nodes": [
+    {
+      "name": "55760"
+    },
+    {
+      "name": "55787"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "55760"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "55760"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "55760"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "55760"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "55760"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "55760"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "55787"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "55787"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "55787"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "55787"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "55787"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "55787"
+    }
+  ],
+  "priceLinks": []
+}

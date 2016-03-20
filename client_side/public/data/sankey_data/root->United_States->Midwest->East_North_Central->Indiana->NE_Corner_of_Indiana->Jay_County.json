@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Indiana->NE_Corner_of_Indiana->Jay_County",
+  "nodes": [
+    {
+      "name": "47326"
+    },
+    {
+      "name": "47373"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "47373"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "47373"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 1,
+      "region": "47373"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "47373"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "47373"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "47373"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "47326"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "47326"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "47326"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "47326"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "47326"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "47326"
+    }
+  ],
+  "priceLinks": []
+}

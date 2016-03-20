@@ -1,0 +1,332 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Louisiana->NW_Corner_of_Louisiana->Unknown_County",
+  "nodes": [
+    {
+      "name": "70642"
+    },
+    {
+      "name": "71036"
+    },
+    {
+      "name": "71053"
+    },
+    {
+      "name": "71059"
+    },
+    {
+      "name": "71095"
+    },
+    {
+      "name": "71444"
+    },
+    {
+      "name": "71481"
+    },
+    {
+      "name": "71545"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "70642"
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 0,
+      "region": "70642"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "70642"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "70642"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "70642"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "70642"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 0,
+      "region": "71053"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 1,
+      "region": "71053"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71053"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71053"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "71053"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "71053"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 0,
+      "region": "71059"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 1,
+      "region": "71059"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71059"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71059"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71059"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71059"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "71095"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 1,
+      "region": "71095"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71095"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71095"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 1,
+      "region": "71095"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "71095"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "71481"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 0,
+      "region": "71481"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71481"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "71481"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71481"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "71481"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 0,
+      "region": "71036"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 1,
+      "region": "71036"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71036"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71036"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71036"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71036"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 0,
+      "region": "71444"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 1,
+      "region": "71444"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 1,
+      "region": "71444"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "71444"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71444"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "71444"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "71545"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 1,
+      "region": "71545"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "value": 0,
+      "region": "71545"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "71545"
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "value": 0,
+      "region": "71545"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "71545"
+    }
+  ],
+  "priceLinks": []
+}

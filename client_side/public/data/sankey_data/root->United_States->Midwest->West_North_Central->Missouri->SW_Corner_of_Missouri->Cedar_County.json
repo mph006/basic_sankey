@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SW_Corner_of_Missouri->Cedar_County",
+  "nodes": [
+    {
+      "name": "64744"
+    },
+    {
+      "name": "64756"
+    },
+    {
+      "name": "65649"
+    },
+    {
+      "name": "65785"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "65649"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "65649"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65649"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65649"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65649"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65649"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "64744"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "64744"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "64744"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "64744"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "64744"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "64744"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "64756"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "64756"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "64756"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "64756"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "64756"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "64756"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "65785"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "65785"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65785"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65785"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65785"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65785"
+    }
+  ],
+  "priceLinks": []
+}

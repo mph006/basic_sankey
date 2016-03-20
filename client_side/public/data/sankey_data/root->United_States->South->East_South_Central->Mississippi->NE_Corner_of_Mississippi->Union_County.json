@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Mississippi->NE_Corner_of_Mississippi->Union_County",
+  "nodes": [
+    {
+      "name": "38627"
+    },
+    {
+      "name": "38650"
+    },
+    {
+      "name": "38652"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "38652"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "38652"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "38652"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "38652"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "38652"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "38652"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "38627"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "38627"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "38627"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "38627"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "38627"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "38627"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "38650"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "38650"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "38650"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "38650"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "38650"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "38650"
+    }
+  ],
+  "priceLinks": []
+}

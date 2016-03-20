@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->NW_Corner_of_Texas->Hutchinson_County",
+  "nodes": [
+    {
+      "name": "79007"
+    },
+    {
+      "name": "79008"
+    },
+    {
+      "name": "79036"
+    },
+    {
+      "name": "79078"
+    },
+    {
+      "name": "79083"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "79036"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "79036"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "79036"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "79036"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "79036"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "79036"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "79078"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "79078"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "79078"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "79078"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "79078"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "79078"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "79007"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "79007"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "79007"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "79007"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "79007"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "79007"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "79008"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "79008"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "79008"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "79008"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "79008"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "79008"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "79083"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "79083"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "79083"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "79083"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "79083"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "79083"
+    }
+  ],
+  "priceLinks": []
+}

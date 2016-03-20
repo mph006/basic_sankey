@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->NE_Corner_of_Michigan->Alpena_County",
+  "nodes": [
+    {
+      "name": "49707"
+    },
+    {
+      "name": "49744"
+    },
+    {
+      "name": "49753"
+    },
+    {
+      "name": "49766"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "49744"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "49744"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "49744"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "49744"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "49744"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "49744"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "49707"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "49707"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "49707"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "49707"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "49707"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "49707"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "49753"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "49753"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "49753"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "49753"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "49753"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "49753"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "49766"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "49766"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "49766"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "49766"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "49766"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "49766"
+    }
+  ],
+  "priceLinks": []
+}

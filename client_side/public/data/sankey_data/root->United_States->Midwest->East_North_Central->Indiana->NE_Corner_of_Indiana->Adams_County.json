@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Indiana->NE_Corner_of_Indiana->Adams_County",
+  "nodes": [
+    {
+      "name": "46733"
+    },
+    {
+      "name": "46740"
+    },
+    {
+      "name": "46769"
+    },
+    {
+      "name": "46772"
+    },
+    {
+      "name": "46782"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "46782"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "46782"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "46782"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "46782"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "46782"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46782"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "46733"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "46733"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "46733"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "46733"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "46733"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "46733"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "46740"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "46740"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "46740"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "46740"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "46740"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46740"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "46769"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "46769"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "46769"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "46769"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "46769"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "46769"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "46772"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "46772"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "46772"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "46772"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "46772"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "46772"
+    }
+  ],
+  "priceLinks": []
+}

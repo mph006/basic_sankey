@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->NE_Corner_of_Kansas->Cloud_County",
+  "nodes": [
+    {
+      "name": "66901"
+    },
+    {
+      "name": "66938"
+    },
+    {
+      "name": "66948"
+    },
+    {
+      "name": "67445"
+    },
+    {
+      "name": "67466"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "66901"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "66901"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "66901"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "66901"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66901"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "66901"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "67466"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "67466"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "67466"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "67466"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "67466"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67466"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "66938"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "66938"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66938"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66938"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66938"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66938"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "66948"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "66948"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66948"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66948"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66948"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66948"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "67445"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "67445"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "67445"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "67445"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "67445"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67445"
+    }
+  ],
+  "priceLinks": []
+}

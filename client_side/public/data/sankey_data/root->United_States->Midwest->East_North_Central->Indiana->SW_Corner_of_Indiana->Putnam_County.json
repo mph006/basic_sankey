@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Indiana->SW_Corner_of_Indiana->Putnam_County",
+  "nodes": [
+    {
+      "name": "46120"
+    },
+    {
+      "name": "46135"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "46135"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "46135"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "46135"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "46135"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "46135"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "46135"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0,
+      "region": "46120"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "46120"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "46120"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "46120"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1,
+      "region": "46120"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "46120"
+    }
+  ],
+  "priceLinks": []
+}

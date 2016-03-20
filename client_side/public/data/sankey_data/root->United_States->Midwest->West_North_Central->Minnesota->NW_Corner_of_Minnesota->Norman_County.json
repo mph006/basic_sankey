@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->NW_Corner_of_Minnesota->Norman_County",
+  "nodes": [
+    {
+      "name": "56510"
+    },
+    {
+      "name": "56548"
+    },
+    {
+      "name": "56550"
+    },
+    {
+      "name": "56581"
+    },
+    {
+      "name": "56584"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "56548"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "56548"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "56548"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56548"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56548"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56548"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "56510"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "56510"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "56510"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "56510"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56510"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "56510"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "56550"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "56550"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "56550"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56550"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56550"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56550"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "56581"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "56581"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "56581"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "56581"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56581"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56581"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "56584"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "56584"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "56584"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "56584"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "56584"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "56584"
+    }
+  ],
+  "priceLinks": []
+}

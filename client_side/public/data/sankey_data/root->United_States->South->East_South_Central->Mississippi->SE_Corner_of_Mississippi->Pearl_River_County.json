@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Mississippi->SE_Corner_of_Mississippi->Pearl_River_County",
+  "nodes": [
+    {
+      "name": "39426"
+    },
+    {
+      "name": "39457"
+    },
+    {
+      "name": "39463"
+    },
+    {
+      "name": "39470"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "39470"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "39470"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39470"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39470"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "39470"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "39470"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "39426"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "39426"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39426"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39426"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "39426"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "39426"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "39457"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "39457"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39457"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39457"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "39457"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "39457"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "39463"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "39463"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39463"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39463"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "39463"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "39463"
+    }
+  ],
+  "priceLinks": []
+}

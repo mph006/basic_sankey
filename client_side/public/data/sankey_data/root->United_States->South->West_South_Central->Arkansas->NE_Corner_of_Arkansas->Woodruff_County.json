@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Woodruff_County",
+  "nodes": [
+    {
+      "name": "72006"
+    },
+    {
+      "name": "72014"
+    },
+    {
+      "name": "72059"
+    },
+    {
+      "name": "72074"
+    },
+    {
+      "name": "72189"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "72074"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "72074"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "72074"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72074"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "72074"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72074"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "72006"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "72006"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "72006"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72006"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "72006"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72006"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "72014"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "72014"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "72014"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72014"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "72014"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72014"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "72059"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "72059"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "72059"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72059"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "72059"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72059"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "72189"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "72189"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "72189"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "72189"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "72189"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "72189"
+    }
+  ],
+  "priceLinks": []
+}

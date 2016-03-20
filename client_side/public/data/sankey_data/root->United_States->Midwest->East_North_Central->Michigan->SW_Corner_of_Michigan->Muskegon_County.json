@@ -2,6 +2,12 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->SW_Corner_of_Michigan->Muskegon_County",
   "nodes": [
     {
+      "name": "49437"
+    },
+    {
+      "name": "49443"
+    },
+    {
       "name": "49463"
     },
     {
@@ -20,37 +26,109 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
+      "target": 3,
       "value": 0,
-      "region": "49463"
+      "region": "49437"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 4,
       "value": 1,
-      "region": "49463"
+      "region": "49437"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 4,
+      "target": 3,
       "value": 0,
-      "region": "49463"
+      "region": "49437"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "49437"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "49437"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "49437"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "49443"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "49443"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "49443"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "49443"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 1,
+      "region": "49443"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "49443"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "49463"
-    },
-    {
-      "source": 3,
-      "target": 1,
       "value": 0,
       "region": "49463"
     },
     {
-      "source": 3,
+      "source": 2,
       "target": 4,
+      "value": 1,
+      "region": "49463"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "49463"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "49463"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "49463"
+    },
+    {
+      "source": 5,
+      "target": 6,
       "value": 1,
       "region": "49463"
     }

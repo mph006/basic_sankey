@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->SE_Corner_of_Michigan->Newaygo_County",
   "nodes": [
     {
+      "name": "49309"
+    },
+    {
       "name": "49312"
+    },
+    {
+      "name": "49337"
+    },
+    {
+      "name": "49338"
+    },
+    {
+      "name": "49412"
+    },
+    {
+      "name": "49413"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +34,220 @@
   ],
   "countLinks": [
     {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "49337"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "49337"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49337"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49337"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49337"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "49337"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "49413"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "49413"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "49413"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "49413"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49413"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "49413"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 6,
+      "value": 0,
+      "region": "49309"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "49309"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49309"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49309"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49309"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "49309"
+    },
+    {
+      "source": 1,
+      "target": 6,
       "value": 0,
       "region": "49312"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 7,
       "value": 1,
       "region": "49312"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "49312"
+    },
+    {
+      "source": 7,
+      "target": 8,
       "value": 0,
       "region": "49312"
     },
     {
-      "source": 2,
-      "target": 3,
-      "value": 1,
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49312"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
       "region": "49312"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 6,
       "value": 0,
-      "region": "49312"
+      "region": "49338"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 7,
       "value": 1,
-      "region": "49312"
+      "region": "49338"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49338"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49338"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49338"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "49338"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "49412"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "49412"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "49412"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "49412"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "49412"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "49412"
     }
   ],
   "priceLinks": []

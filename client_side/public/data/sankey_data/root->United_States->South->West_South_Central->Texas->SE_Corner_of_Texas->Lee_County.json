@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->SE_Corner_of_Texas->Lee_County",
+  "nodes": [
+    {
+      "name": "77853"
+    },
+    {
+      "name": "78942"
+    },
+    {
+      "name": "78946"
+    },
+    {
+      "name": "78947"
+    },
+    {
+      "name": "78948"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "77853"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "77853"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "77853"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "77853"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "77853"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "77853"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "78947"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "78947"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "78947"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "78947"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "78947"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "78947"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "78942"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "78942"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "78942"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "78942"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "78942"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "78942"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "78946"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "78946"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "78946"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "78946"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "78946"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "78946"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "78948"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "78948"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "78948"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "78948"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "78948"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "78948"
+    }
+  ],
+  "priceLinks": []
+}

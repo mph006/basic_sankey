@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->SE_Corner_of_Iowa",
   "nodes": [
     {
-      "name": "Henry County"
+      "name": "Scott County"
     },
     {
       "name": "Dropped_Out"
@@ -17,81 +17,1251 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Marion County"
+    },
+    {
+      "name": "Johnson County"
+    },
+    {
+      "name": "Appanoose County"
+    },
+    {
+      "name": "Muscatine County"
+    },
+    {
+      "name": "Jasper County"
+    },
+    {
+      "name": "Clinton County"
+    },
+    {
+      "name": "Van Buren County"
+    },
+    {
+      "name": "Mahaska County"
+    },
+    {
+      "name": "Poweshiek County"
+    },
+    {
+      "name": "Jefferson County"
+    },
+    {
+      "name": "Keokuk County"
+    },
+    {
+      "name": "Lee County"
+    },
+    {
+      "name": "Iowa County"
+    },
+    {
+      "name": "Henry County"
+    },
+    {
+      "name": "Benton County"
+    },
+    {
+      "name": "Linn County"
+    },
+    {
+      "name": "Cedar County"
+    },
+    {
+      "name": "Washington County"
+    },
+    {
+      "name": "Wayne County"
+    },
+    {
       "name": "Wapello County"
+    },
+    {
+      "name": "Des Moines County"
+    },
+    {
+      "name": "Louisa County"
+    },
+    {
+      "name": "Davis County"
+    },
+    {
+      "name": "Marshall County"
+    },
+    {
+      "name": "Monroe County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Polk County"
+    },
+    {
+      "name": "Lucas County"
+    },
+    {
+      "name": "Story County"
+    },
+    {
+      "name": "Tama County"
+    },
+    {
+      "name": "Warren County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Henry County"
+      "value": 1,
+      "region": "Scott County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 1,
-      "region": "Henry County"
+      "value": 11,
+      "region": "Scott County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Henry County"
+      "region": "Scott County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Henry County"
+      "value": 10,
+      "region": "Scott County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Henry County"
+      "value": 2,
+      "region": "Scott County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Henry County"
+      "value": 8,
+      "region": "Scott County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Wapello County"
+      "value": 1,
+      "region": "Marion County"
     },
     {
       "source": 5,
       "target": 2,
+      "value": 8,
+      "region": "Marion County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 1,
-      "region": "Wapello County"
+      "region": "Marion County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Marion County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Marion County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Marion County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Johnson County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 10,
+      "region": "Johnson County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
+      "region": "Johnson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Johnson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Johnson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Johnson County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Appanoose County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 7,
+      "region": "Appanoose County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Appanoose County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Appanoose County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Appanoose County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Appanoose County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Muscatine County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 8,
+      "region": "Muscatine County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Muscatine County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Muscatine County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Muscatine County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Muscatine County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Jasper County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 7,
+      "region": "Jasper County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Jasper County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Jasper County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Jasper County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Jasper County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Clinton County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 8,
+      "region": "Clinton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Clinton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Clinton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Clinton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Clinton County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Van Buren County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 7,
+      "region": "Van Buren County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Van Buren County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Van Buren County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Van Buren County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Van Buren County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Mahaska County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 6,
+      "region": "Mahaska County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Mahaska County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Mahaska County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Mahaska County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Mahaska County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Poweshiek County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 7,
+      "region": "Poweshiek County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Poweshiek County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Poweshiek County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Poweshiek County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Poweshiek County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 6,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 1,
+      "region": "Keokuk County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 7,
+      "region": "Keokuk County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Keokuk County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Keokuk County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Keokuk County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Keokuk County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 8,
+      "region": "Lee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Lee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Lee County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 0,
+      "region": "Iowa County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 7,
+      "region": "Iowa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Iowa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Iowa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Iowa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Iowa County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 1,
+      "region": "Henry County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 6,
+      "region": "Henry County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Henry County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Henry County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Henry County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Henry County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 1,
+      "region": "Benton County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 4,
+      "region": "Benton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Benton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Benton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Benton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Benton County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Linn County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 5,
+      "region": "Linn County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Linn County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Linn County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Linn County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Linn County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 0,
+      "region": "Cedar County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 4,
+      "region": "Cedar County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cedar County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Cedar County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Cedar County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Cedar County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 3,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Washington County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 3,
+      "region": "Wayne County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Wayne County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Wayne County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 1,
+      "region": "Wapello County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 4,
+      "region": "Wapello County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
       "region": "Wapello County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 3,
       "region": "Wapello County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
+      "value": 0,
       "region": "Wapello County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 3,
       "region": "Wapello County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 0,
+      "region": "Des Moines County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 5,
+      "region": "Des Moines County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Des Moines County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Des Moines County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Des Moines County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Des Moines County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 1,
+      "region": "Louisa County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 2,
+      "region": "Louisa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Louisa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Louisa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Louisa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Louisa County"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 1,
+      "region": "Davis County"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 3,
+      "region": "Davis County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Davis County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Davis County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Davis County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Davis County"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 0,
+      "region": "Marshall County"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 4,
+      "region": "Marshall County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Marshall County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Marshall County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Marshall County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Marshall County"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "value": 0,
+      "region": "Monroe County"
+    },
+    {
+      "source": 29,
+      "target": 2,
+      "value": 2,
+      "region": "Monroe County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Monroe County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Monroe County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Monroe County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Monroe County"
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 31,
+      "target": 1,
+      "value": 1,
+      "region": "Polk County"
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "value": 0,
+      "region": "Polk County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Polk County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Polk County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Polk County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Polk County"
+    },
+    {
+      "source": 32,
+      "target": 1,
+      "value": 0,
+      "region": "Lucas County"
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "value": 1,
+      "region": "Lucas County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Lucas County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Lucas County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lucas County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Lucas County"
+    },
+    {
+      "source": 33,
+      "target": 1,
+      "value": 0,
+      "region": "Story County"
+    },
+    {
+      "source": 33,
+      "target": 2,
+      "value": 1,
+      "region": "Story County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Story County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Story County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Story County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Story County"
+    },
+    {
+      "source": 34,
+      "target": 1,
+      "value": 0,
+      "region": "Tama County"
+    },
+    {
+      "source": 34,
+      "target": 2,
+      "value": 1,
+      "region": "Tama County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Tama County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Tama County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tama County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Tama County"
+    },
+    {
+      "source": 35,
+      "target": 1,
+      "value": 0,
+      "region": "Warren County"
+    },
+    {
+      "source": 35,
+      "target": 2,
+      "value": 1,
+      "region": "Warren County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Warren County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Warren County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Warren County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Warren County"
     }
   ],
   "priceLinks": []

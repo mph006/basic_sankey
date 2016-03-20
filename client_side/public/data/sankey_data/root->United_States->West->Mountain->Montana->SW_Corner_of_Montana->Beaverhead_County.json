@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Montana->SW_Corner_of_Montana->Beaverhead_County",
+  "nodes": [
+    {
+      "name": "59724"
+    },
+    {
+      "name": "59725"
+    },
+    {
+      "name": "59732"
+    },
+    {
+      "name": "59739"
+    },
+    {
+      "name": "59746"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "59724"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "59724"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59724"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59724"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59724"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "59724"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "59732"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "59732"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59732"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59732"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59732"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "59732"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "59739"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "59739"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59739"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59739"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59739"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "59739"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "59746"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "59746"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59746"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59746"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59746"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "59746"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "59725"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "59725"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "59725"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "59725"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "59725"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "59725"
+    }
+  ],
+  "priceLinks": []
+}

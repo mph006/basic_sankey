@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->NW_Corner_of_Iowa->Dickinson_County",
   "nodes": [
     {
-      "name": "51347"
+      "name": "51331"
+    },
+    {
+      "name": "51355"
+    },
+    {
+      "name": "51360"
+    },
+    {
+      "name": "51363"
+    },
+    {
+      "name": "51364"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 5,
       "value": 0,
-      "region": "51347"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "51347"
+      "region": "51360"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "51347"
+      "target": 6,
+      "value": 1,
+      "region": "51360"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "51360"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 1,
-      "region": "51347"
+      "region": "51360"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "51360"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51360"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "51347"
+      "region": "51363"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 6,
       "value": 1,
-      "region": "51347"
+      "region": "51363"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "51363"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "51363"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "51363"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "51363"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "51331"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "51331"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "51331"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "51331"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "51331"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51331"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "51355"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "51355"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "51355"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "51355"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "51355"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51355"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "51364"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "51364"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "51364"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "51364"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "51364"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "51364"
     }
   ],
   "priceLinks": []

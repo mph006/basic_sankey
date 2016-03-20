@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->West->Pacific->Oregon->NE_Corner_of_Oregon->Wallowa_County",
   "nodes": [
     {
+      "name": "97828"
+    },
+    {
+      "name": "97842"
+    },
+    {
       "name": "97857"
+    },
+    {
+      "name": "97885"
     },
     {
       "name": "Dropped_Out"
@@ -19,38 +28,146 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "97857"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "97857"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "97857"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "97857"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "97857"
-    },
-    {
       "source": 3,
       "target": 4,
+      "value": 0,
+      "region": "97885"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "97885"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "97885"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "97885"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "97885"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "97885"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "97842"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "97842"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "97842"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "97842"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "97842"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "97842"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "97828"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "97828"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "97828"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "97828"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "97828"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "97828"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "97857"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "97857"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "97857"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "97857"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "97857"
+    },
+    {
+      "source": 6,
+      "target": 7,
       "value": 0,
       "region": "97857"
     }

@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Nebraska->NW_Corner_of_Nebraska->Morrill_County",
+  "nodes": [
+    {
+      "name": "69125"
+    },
+    {
+      "name": "69331"
+    },
+    {
+      "name": "69334"
+    },
+    {
+      "name": "69336"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "69125"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "69125"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "69125"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "69125"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "69125"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "69125"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "69336"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "69336"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "69336"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "69336"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "69336"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "69336"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "69331"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "69331"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "69331"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "69331"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "69331"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "69331"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "69334"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "69334"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "69334"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "69334"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "69334"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "69334"
+    }
+  ],
+  "priceLinks": []
+}

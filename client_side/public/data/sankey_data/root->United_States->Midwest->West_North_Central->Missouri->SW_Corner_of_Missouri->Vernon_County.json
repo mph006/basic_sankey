@@ -2,7 +2,25 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SW_Corner_of_Missouri->Vernon_County",
   "nodes": [
     {
-      "name": "64765"
+      "name": "64728"
+    },
+    {
+      "name": "64741"
+    },
+    {
+      "name": "64752"
+    },
+    {
+      "name": "64767"
+    },
+    {
+      "name": "64771"
+    },
+    {
+      "name": "64783"
+    },
+    {
+      "name": "64784"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +38,255 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 1,
-      "region": "64765"
+      "target": 7,
+      "value": 0,
+      "region": "64728"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 8,
+      "value": 1,
+      "region": "64728"
+    },
+    {
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "64765"
+      "region": "64728"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "64728"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "64728"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "64728"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 7,
       "value": 0,
-      "region": "64765"
+      "region": "64752"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 8,
+      "value": 1,
+      "region": "64752"
+    },
+    {
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "64765"
+      "region": "64752"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "64752"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "64752"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "64752"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "64771"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "64771"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "64771"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "64771"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "64771"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "64771"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "64784"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1,
+      "region": "64784"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "64784"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "64784"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "64784"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "64784"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "64741"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "64741"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "64741"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "64741"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "64741"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "64741"
     },
     {
       "source": 3,
-      "target": 1,
+      "target": 7,
       "value": 0,
-      "region": "64765"
+      "region": "64767"
     },
     {
       "source": 3,
-      "target": 4,
+      "target": 8,
+      "value": 1,
+      "region": "64767"
+    },
+    {
+      "source": 8,
+      "target": 7,
       "value": 0,
-      "region": "64765"
+      "region": "64767"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "64767"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "64767"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "64767"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "64783"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "64783"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "64783"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "64783"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "64783"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "64783"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Idaho->SW_Corner_of_Idaho->Elmore_County",
+  "nodes": [
+    {
+      "name": "83601"
+    },
+    {
+      "name": "83623"
+    },
+    {
+      "name": "83627"
+    },
+    {
+      "name": "83633"
+    },
+    {
+      "name": "83647"
+    },
+    {
+      "name": "83648"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "83601"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0,
+      "region": "83601"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "83601"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "83601"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "83601"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "83601"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "83648"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "83648"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "83648"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "83648"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "83648"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83648"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "83623"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "83623"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "83623"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "83623"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "83623"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83623"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "83627"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "83627"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "83627"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "83627"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "83627"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "83627"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "83633"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "83633"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "83633"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "83633"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "83633"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "83633"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "83647"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "83647"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "83647"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "83647"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "83647"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "83647"
+    }
+  ],
+  "priceLinks": []
+}

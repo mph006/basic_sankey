@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Louisiana->SE_Corner_of_Louisiana->Ascension_Parish",
+  "nodes": [
+    {
+      "name": "70718"
+    },
+    {
+      "name": "70725"
+    },
+    {
+      "name": "70728"
+    },
+    {
+      "name": "70737"
+    },
+    {
+      "name": "70769"
+    },
+    {
+      "name": "70774"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "70725"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "70725"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70725"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70725"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70725"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70725"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "70718"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "70718"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70718"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70718"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70718"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70718"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "70737"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "70737"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70737"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70737"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70737"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70737"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "70774"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "70774"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70774"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70774"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70774"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70774"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "70728"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "70728"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "70728"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "70728"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70728"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "70728"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "70769"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "70769"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "70769"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "70769"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "70769"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "70769"
+    }
+  ],
+  "priceLinks": []
+}

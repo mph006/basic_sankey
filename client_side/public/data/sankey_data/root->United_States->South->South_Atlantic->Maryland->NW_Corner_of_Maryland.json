@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->South_Atlantic->Maryland->NW_Corner_of_Maryland",
   "nodes": [
     {
-      "name": "Washington County"
+      "name": "Frederick County"
     },
     {
       "name": "Dropped_Out"
@@ -15,19 +15,70 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Washington County"
+    },
+    {
+      "name": "Allegany County"
+    },
+    {
+      "name": "Montgomery County"
+    },
+    {
+      "name": "Garrett County"
+    },
+    {
+      "name": "Unknown County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Washington County"
+      "value": 2,
+      "region": "Frederick County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
+      "value": 20,
+      "region": "Frederick County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 5,
+      "region": "Frederick County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 15,
+      "region": "Frederick County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "Frederick County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 11,
+      "region": "Frederick County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 2,
+      "region": "Washington County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 17,
       "region": "Washington County"
     },
     {
@@ -39,20 +90,164 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 17,
       "region": "Washington County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 4,
       "region": "Washington County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 13,
       "region": "Washington County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Allegany County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 14,
+      "region": "Allegany County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "Allegany County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Allegany County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Allegany County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 9,
+      "region": "Allegany County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 4,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Montgomery County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1,
+      "region": "Garrett County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 3,
+      "region": "Garrett County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Garrett County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Garrett County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Garrett County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Garrett County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
     }
   ],
   "priceLinks": []

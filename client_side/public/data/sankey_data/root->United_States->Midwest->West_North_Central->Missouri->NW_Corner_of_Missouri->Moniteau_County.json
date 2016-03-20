@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->NW_Corner_of_Missouri->Moniteau_County",
+  "nodes": [
+    {
+      "name": "65034"
+    },
+    {
+      "name": "65042"
+    },
+    {
+      "name": "65046"
+    },
+    {
+      "name": "65055"
+    },
+    {
+      "name": "65081"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "65034"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "65034"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "65034"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65034"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "65034"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65034"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "65046"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "65046"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "65046"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65046"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "65046"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "65046"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "65081"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "65081"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "65081"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "65081"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "65081"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "65081"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "65042"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "65042"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "65042"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65042"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "65042"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "65042"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "65055"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "65055"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "65055"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65055"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "65055"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "65055"
+    }
+  ],
+  "priceLinks": []
+}

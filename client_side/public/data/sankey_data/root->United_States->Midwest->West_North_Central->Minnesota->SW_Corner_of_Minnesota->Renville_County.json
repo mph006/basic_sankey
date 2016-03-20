@@ -1,0 +1,371 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SW_Corner_of_Minnesota->Renville_County",
+  "nodes": [
+    {
+      "name": "55310"
+    },
+    {
+      "name": "55314"
+    },
+    {
+      "name": "55332"
+    },
+    {
+      "name": "55342"
+    },
+    {
+      "name": "56230"
+    },
+    {
+      "name": "56270"
+    },
+    {
+      "name": "56277"
+    },
+    {
+      "name": "56284"
+    },
+    {
+      "name": "56285"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 9,
+      "value": 0,
+      "region": "55310"
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 1,
+      "region": "55310"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "55310"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "55310"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "55310"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "55310"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 0,
+      "region": "55314"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "value": 1,
+      "region": "55314"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "55314"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "55314"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "55314"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "55314"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 0,
+      "region": "55342"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "value": 1,
+      "region": "55342"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "55342"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "55342"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "55342"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "55342"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 0,
+      "region": "56270"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 1,
+      "region": "56270"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56270"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56270"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56270"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56270"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 0,
+      "region": "56284"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "value": 1,
+      "region": "56284"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56284"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56284"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56284"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56284"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "56285"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "value": 1,
+      "region": "56285"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56285"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56285"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56285"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56285"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 1,
+      "region": "55332"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "value": 0,
+      "region": "55332"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "55332"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 0,
+      "region": "55332"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "55332"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "55332"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 0,
+      "region": "56230"
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "value": 1,
+      "region": "56230"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56230"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56230"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56230"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56230"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 0,
+      "region": "56277"
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 1,
+      "region": "56277"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "56277"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "56277"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "56277"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "56277"
+    }
+  ],
+  "priceLinks": []
+}

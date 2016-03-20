@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->South_Dakota->SE_Corner_of_South_Dakota->Yankton_County",
+  "nodes": [
+    {
+      "name": "57031"
+    },
+    {
+      "name": "57037"
+    },
+    {
+      "name": "57040"
+    },
+    {
+      "name": "57067"
+    },
+    {
+      "name": "57078"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "57037"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "57037"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57037"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "57037"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57037"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "57037"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "57040"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "57040"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57040"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "57040"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57040"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "57040"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "57078"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "57078"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57078"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57078"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57078"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57078"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "57031"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "57031"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57031"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57031"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57031"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57031"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "57067"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "57067"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "57067"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "57067"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "57067"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "57067"
+    }
+  ],
+  "priceLinks": []
+}

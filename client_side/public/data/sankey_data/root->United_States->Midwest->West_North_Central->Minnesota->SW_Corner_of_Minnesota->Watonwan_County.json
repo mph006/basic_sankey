@@ -2,6 +2,24 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->SW_Corner_of_Minnesota->Watonwan_County",
   "nodes": [
     {
+      "name": "56022"
+    },
+    {
+      "name": "56056"
+    },
+    {
+      "name": "56062"
+    },
+    {
+      "name": "56081"
+    },
+    {
+      "name": "56120"
+    },
+    {
+      "name": "56160"
+    },
+    {
       "name": "56162"
     },
     {
@@ -19,39 +37,255 @@
   ],
   "countLinks": [
     {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "56160"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1,
+      "region": "56160"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "56160"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56160"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "56160"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "56160"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 7,
+      "value": 0,
+      "region": "56022"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "region": "56022"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "56022"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56022"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "56022"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "56022"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "56056"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 1,
+      "region": "56056"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "56056"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56056"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "56056"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "56056"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 0,
+      "region": "56062"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 1,
+      "region": "56062"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "56062"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56062"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "56062"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1,
+      "region": "56062"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "56081"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 0,
+      "region": "56081"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "56081"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "56081"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "56081"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "56081"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "56120"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 0,
+      "region": "56120"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 0,
+      "region": "56120"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "56120"
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 0,
+      "region": "56120"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 0,
+      "region": "56120"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "56162"
+    },
+    {
+      "source": 6,
+      "target": 8,
       "value": 1,
       "region": "56162"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 8,
+      "target": 7,
       "value": 0,
       "region": "56162"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56162"
+    },
+    {
+      "source": 9,
+      "target": 7,
       "value": 0,
       "region": "56162"
     },
     {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "56162"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "56162"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
+      "source": 9,
+      "target": 10,
+      "value": 1,
       "region": "56162"
     }
   ],

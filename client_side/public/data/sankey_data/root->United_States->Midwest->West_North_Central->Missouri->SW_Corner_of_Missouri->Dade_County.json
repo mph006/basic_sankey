@@ -2,6 +2,15 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SW_Corner_of_Missouri->Dade_County",
   "nodes": [
     {
+      "name": "65635"
+    },
+    {
+      "name": "65646"
+    },
+    {
+      "name": "65661"
+    },
+    {
       "name": "65752"
     },
     {
@@ -19,39 +28,147 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 4,
       "value": 0,
-      "region": "65752"
+      "region": "65646"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "65646"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65646"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65646"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65646"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65646"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 4,
+      "value": 0,
+      "region": "65635"
+    },
+    {
+      "source": 0,
+      "target": 5,
       "value": 1,
-      "region": "65752"
+      "region": "65635"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65635"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65635"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65635"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "65635"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "65752"
+      "target": 4,
+      "value": 0,
+      "region": "65661"
     },
     {
       "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "65752"
+      "target": 5,
+      "value": 1,
+      "region": "65661"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "65752"
+      "region": "65661"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65661"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1,
+      "region": "65661"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "65661"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
+      "region": "65752"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "65752"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "65752"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "65752"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "65752"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
       "region": "65752"
     }
   ],

@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->East_South_Central->Alabama->NE_Corner_of_Alabama",
   "nodes": [
     {
-      "name": "Chambers County"
+      "name": "Madison County"
     },
     {
       "name": "Dropped_Out"
@@ -17,120 +17,1017 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Jackson County"
+    },
+    {
+      "name": "Dekalb County"
+    },
+    {
+      "name": "Shelby County"
+    },
+    {
       "name": "Calhoun County"
     },
     {
+      "name": "Tallapoosa County"
+    },
+    {
       "name": "St Clair County"
+    },
+    {
+      "name": "Etowah County"
+    },
+    {
+      "name": "Talladega County"
+    },
+    {
+      "name": "Marshall County"
+    },
+    {
+      "name": "Chambers County"
+    },
+    {
+      "name": "Cleburne County"
+    },
+    {
+      "name": "Blount County"
+    },
+    {
+      "name": "Randolph County"
+    },
+    {
+      "name": "Coosa County"
+    },
+    {
+      "name": "Cullman County"
+    },
+    {
+      "name": "Jefferson County"
+    },
+    {
+      "name": "Clay County"
+    },
+    {
+      "name": "Elmore County"
+    },
+    {
+      "name": "Cherokee County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Chilton County"
+    },
+    {
+      "name": "Autauga County"
+    },
+    {
+      "name": "St. Clair County"
+    },
+    {
+      "name": "Lee County"
+    },
+    {
+      "name": "Morgan County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "Chambers County"
+      "value": 2,
+      "region": "Madison County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
-      "region": "Chambers County"
+      "value": 16,
+      "region": "Madison County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Chambers County"
+      "value": 2,
+      "region": "Madison County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Chambers County"
+      "value": 14,
+      "region": "Madison County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Chambers County"
+      "value": 3,
+      "region": "Madison County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Chambers County"
+      "value": 11,
+      "region": "Madison County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 0,
-      "region": "Calhoun County"
+      "value": 2,
+      "region": "Jackson County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Calhoun County"
+      "value": 9,
+      "region": "Jackson County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Calhoun County"
+      "value": 0,
+      "region": "Jackson County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Calhoun County"
+      "value": 9,
+      "region": "Jackson County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Calhoun County"
+      "value": 2,
+      "region": "Jackson County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Calhoun County"
+      "value": 7,
+      "region": "Jackson County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "St Clair County"
+      "value": 2,
+      "region": "Dekalb County"
     },
     {
       "source": 6,
       "target": 2,
+      "value": 10,
+      "region": "Dekalb County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Dekalb County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Dekalb County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Dekalb County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Dekalb County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 3,
+      "region": "Shelby County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 7,
+      "region": "Shelby County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Shelby County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Shelby County"
+    },
+    {
+      "source": 3,
+      "target": 1,
       "value": 1,
+      "region": "Shelby County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Shelby County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 3,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 10,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Calhoun County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Tallapoosa County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 4,
+      "region": "Tallapoosa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Tallapoosa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Tallapoosa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tallapoosa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Tallapoosa County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "St Clair County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 5,
       "region": "St Clair County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 0,
       "region": "St Clair County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 5,
       "region": "St Clair County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 2,
       "region": "St Clair County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 3,
       "region": "St Clair County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1,
+      "region": "Etowah County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 7,
+      "region": "Etowah County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Etowah County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Etowah County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Etowah County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Etowah County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "Talladega County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 7,
+      "region": "Talladega County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Talladega County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Talladega County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Talladega County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Talladega County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 2,
+      "region": "Marshall County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 4,
+      "region": "Marshall County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Marshall County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Marshall County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Marshall County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Marshall County"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 0,
+      "region": "Chambers County"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 3,
+      "region": "Chambers County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Chambers County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Chambers County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Chambers County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Chambers County"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 0,
+      "region": "Cleburne County"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 5,
+      "region": "Cleburne County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Cleburne County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Cleburne County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Cleburne County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Cleburne County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Blount County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 3,
+      "region": "Blount County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Blount County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Blount County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Blount County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Blount County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 1,
+      "region": "Randolph County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 3,
+      "region": "Randolph County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Randolph County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Randolph County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Randolph County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Randolph County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 0,
+      "region": "Coosa County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 3,
+      "region": "Coosa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Coosa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Coosa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Coosa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Coosa County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 0,
+      "region": "Cullman County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 3,
+      "region": "Cullman County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cullman County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Cullman County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Cullman County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Cullman County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 2,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 1,
+      "region": "Clay County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 2,
+      "region": "Clay County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Clay County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Clay County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Clay County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Clay County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 1,
+      "region": "Elmore County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 2,
+      "region": "Elmore County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Elmore County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Elmore County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Elmore County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Elmore County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 1,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 1,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Cherokee County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 0,
+      "region": "Chilton County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 2,
+      "region": "Chilton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Chilton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Chilton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Chilton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Chilton County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 0,
+      "region": "Autauga County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 1,
+      "region": "Autauga County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Autauga County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Autauga County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Autauga County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Autauga County"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 0,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 1,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "St. Clair County"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 1,
+      "region": "Lee County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Lee County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Lee County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Lee County"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "value": 0,
+      "region": "Morgan County"
+    },
+    {
+      "source": 29,
+      "target": 2,
+      "value": 1,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Morgan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Morgan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Morgan County"
     }
   ],
   "priceLinks": []

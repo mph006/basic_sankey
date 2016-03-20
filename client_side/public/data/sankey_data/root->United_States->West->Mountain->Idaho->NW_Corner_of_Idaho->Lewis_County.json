@@ -2,7 +2,16 @@
   "keyPath": "root->United_States->West->Mountain->Idaho->NW_Corner_of_Idaho->Lewis_County",
   "nodes": [
     {
-      "name": "83548"
+      "name": "83523"
+    },
+    {
+      "name": "83536"
+    },
+    {
+      "name": "83543"
+    },
+    {
+      "name": "83555"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +28,148 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 2,
+      "target": 4,
       "value": 1,
-      "region": "83548"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0,
-      "region": "83548"
+      "region": "83543"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "83548"
+      "region": "83543"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 5,
+      "target": 4,
       "value": 0,
-      "region": "83548"
+      "region": "83543"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 5,
+      "target": 6,
       "value": 0,
-      "region": "83548"
+      "region": "83543"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83543"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "83543"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "83536"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "83536"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83536"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "83536"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83536"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83536"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "83548"
+      "region": "83555"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "83555"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83555"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "83555"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83555"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83555"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "83523"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "83523"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "83523"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "83523"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "83523"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "83523"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Michigan->SE_Corner_of_Michigan->Roscommon_County",
+  "nodes": [
+    {
+      "name": "48627"
+    },
+    {
+      "name": "48629"
+    },
+    {
+      "name": "48653"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "48629"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "48629"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "48629"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "48629"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "48629"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "48629"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "48627"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "48627"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "48627"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "48627"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "48627"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "48627"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "48653"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "48653"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "48653"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "48653"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "48653"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "48653"
+    }
+  ],
+  "priceLinks": []
+}

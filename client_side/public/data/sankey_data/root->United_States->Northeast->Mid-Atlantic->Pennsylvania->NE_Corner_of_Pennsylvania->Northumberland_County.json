@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic->Pennsylvania->NE_Corner_of_Pennsylvania->Northumberland_County",
   "nodes": [
     {
-      "name": "17749"
+      "name": "17847"
+    },
+    {
+      "name": "17850"
+    },
+    {
+      "name": "17865"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +25,112 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "17749"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "17749"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "17749"
-    },
-    {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "17749"
+      "value": 1,
+      "region": "17865"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "17749"
-    },
-    {
-      "source": 3,
+      "source": 2,
       "target": 4,
       "value": 0,
-      "region": "17749"
+      "region": "17865"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "17865"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "17865"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "17865"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "17865"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "region": "17847"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "17847"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "17847"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "17847"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "17847"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "17847"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "17850"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "17850"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "17850"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "17850"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "17850"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "17850"
     }
   ],
   "priceLinks": []

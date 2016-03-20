@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->SE_Corner_of_Ohio->Vinton_County",
+  "nodes": [
+    {
+      "name": "45634"
+    },
+    {
+      "name": "45651"
+    },
+    {
+      "name": "45654"
+    },
+    {
+      "name": "45695"
+    },
+    {
+      "name": "45698"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "45651"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "45651"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45651"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45651"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45651"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45651"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "45634"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "45634"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45634"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "45634"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45634"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45634"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "45654"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "45654"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "45654"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "45654"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45654"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "45654"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "45695"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "45695"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45695"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45695"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45695"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45695"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "45698"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "45698"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "45698"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "45698"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "45698"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "45698"
+    }
+  ],
+  "priceLinks": []
+}

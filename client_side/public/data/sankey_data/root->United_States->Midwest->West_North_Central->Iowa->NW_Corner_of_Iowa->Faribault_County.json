@@ -1,0 +1,59 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->NW_Corner_of_Iowa->Faribault_County",
+  "nodes": [
+    {
+      "name": "56027"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "56027"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "56027"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "56027"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "56027"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "56027"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "56027"
+    }
+  ],
+  "priceLinks": []
+}

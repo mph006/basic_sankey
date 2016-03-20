@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Louisiana->NW_Corner_of_Louisiana->Webster_Parish",
+  "nodes": [
+    {
+      "name": "71023"
+    },
+    {
+      "name": "71039"
+    },
+    {
+      "name": "71055"
+    },
+    {
+      "name": "71058"
+    },
+    {
+      "name": "71073"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "71023"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "71023"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "71023"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "71023"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "71023"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71023"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "71039"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "71039"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "71039"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "71039"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "71039"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "71039"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "71055"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "71055"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "71055"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "71055"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "71055"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71055"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "71058"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "71058"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "71058"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "71058"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "71058"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71058"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "71073"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "71073"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "71073"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "71073"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "71073"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71073"
+    }
+  ],
+  "priceLinks": []
+}

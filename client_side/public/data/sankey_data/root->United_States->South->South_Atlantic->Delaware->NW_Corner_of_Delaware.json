@@ -17,6 +17,9 @@
       "name": "Completed_Purchase"
     },
     {
+      "name": "Kent County"
+    },
+    {
       "name": "Unknown County"
     }
   ],
@@ -24,49 +27,85 @@
     {
       "source": 0,
       "target": 1,
-      "value": 1,
+      "value": 2,
       "region": "New Castle County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
+      "value": 42,
       "region": "New Castle County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 3,
       "region": "New Castle County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
+      "value": 39,
       "region": "New Castle County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "New Castle County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
+      "value": 36,
       "region": "New Castle County"
     },
     {
       "source": 5,
       "target": 1,
       "value": 1,
-      "region": "Unknown County"
+      "region": "Kent County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 0,
+      "value": 5,
+      "region": "Kent County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Kent County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Kent County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Kent County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Kent County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
       "region": "Unknown County"
     },
     {
@@ -78,7 +117,7 @@
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 1,
       "region": "Unknown County"
     },
     {
@@ -90,7 +129,7 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 1,
       "region": "Unknown County"
     }
   ],

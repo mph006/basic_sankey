@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->NE_Corner_of_Iowa->Allamakee_County",
+  "nodes": [
+    {
+      "name": "52140"
+    },
+    {
+      "name": "52151"
+    },
+    {
+      "name": "52160"
+    },
+    {
+      "name": "52162"
+    },
+    {
+      "name": "52170"
+    },
+    {
+      "name": "52172"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "52140"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "52140"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "52140"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52140"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "52140"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "52140"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "52151"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "52151"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "52151"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "52151"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "52151"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "52151"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "52170"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "52170"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "52170"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "52170"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "52170"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "52170"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "52160"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "52160"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "52160"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52160"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "52160"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "52160"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "52162"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "52162"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "52162"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52162"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "52162"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "52162"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "52172"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "52172"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "52172"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "52172"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "52172"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "52172"
+    }
+  ],
+  "priceLinks": []
+}

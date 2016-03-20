@@ -2,7 +2,19 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->NE_Corner_of_Oklahoma->Delaware_County",
   "nodes": [
     {
-      "name": "74344"
+      "name": "74338"
+    },
+    {
+      "name": "74345"
+    },
+    {
+      "name": "74346"
+    },
+    {
+      "name": "74347"
+    },
+    {
+      "name": "74368"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +31,184 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
+      "source": 1,
+      "target": 5,
       "value": 0,
-      "region": "74344"
+      "region": "74345"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 1,
+      "target": 6,
       "value": 1,
-      "region": "74344"
+      "region": "74345"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74345"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74345"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74345"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74345"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 5,
       "value": 0,
-      "region": "74344"
+      "region": "74346"
     },
     {
       "source": 2,
-      "target": 3,
+      "target": 6,
       "value": 1,
-      "region": "74344"
+      "region": "74346"
     },
     {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "74344"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 6,
+      "target": 5,
       "value": 0,
-      "region": "74344"
+      "region": "74346"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74346"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74346"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74346"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "74347"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "74347"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74347"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74347"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74347"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74347"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "74338"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "74338"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74338"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74338"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74338"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74338"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "74368"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "74368"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74368"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "74368"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74368"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "74368"
     }
   ],
   "priceLinks": []

@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_Jersey->SW_Corner_of_New_Jersey",
   "nodes": [
     {
-      "name": "Gloucester County"
+      "name": "Camden County"
     },
     {
       "name": "Dropped_Out"
@@ -15,31 +15,124 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Cumberland County"
+    },
+    {
+      "name": "Gloucester County"
+    },
+    {
+      "name": "Salem County"
+    },
+    {
+      "name": "Cape May County"
+    },
+    {
+      "name": "Burlington County"
+    },
+    {
+      "name": "Atlantic County"
+    },
+    {
+      "name": "Unknown County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Gloucester County"
+      "value": 5,
+      "region": "Camden County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 3,
-      "region": "Gloucester County"
+      "value": 20,
+      "region": "Camden County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
+      "region": "Camden County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 19,
+      "region": "Camden County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Camden County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 17,
+      "region": "Camden County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 18,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 16,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 15,
+      "region": "Cumberland County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Gloucester County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 16,
+      "region": "Gloucester County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
       "region": "Gloucester County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
+      "value": 16,
       "region": "Gloucester County"
     },
     {
@@ -51,8 +144,188 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 14,
       "region": "Gloucester County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Salem County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 8,
+      "region": "Salem County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Salem County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Salem County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Salem County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Salem County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 2,
+      "region": "Cape May County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 9,
+      "region": "Cape May County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Cape May County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Cape May County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Cape May County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Cape May County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 3,
+      "region": "Burlington County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 8,
+      "region": "Burlington County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Burlington County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Burlington County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Burlington County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Burlington County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "Atlantic County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 5,
+      "region": "Atlantic County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Atlantic County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Atlantic County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Atlantic County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Atlantic County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 3,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Unknown County"
     }
   ],
   "priceLinks": []

@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Iowa->SW_Corner_of_Iowa->Fremont_County",
+  "nodes": [
+    {
+      "name": "51639"
+    },
+    {
+      "name": "51640"
+    },
+    {
+      "name": "51648"
+    },
+    {
+      "name": "51649"
+    },
+    {
+      "name": "51650"
+    },
+    {
+      "name": "51652"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "51639"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "51639"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51639"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51639"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51639"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51639"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "51640"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "51640"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51640"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "51640"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51640"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "51640"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "51648"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "51648"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51648"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51648"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51648"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51648"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "51649"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "51649"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51649"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51649"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51649"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "51649"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "51650"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0,
+      "region": "51650"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51650"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "51650"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "51650"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "51650"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "51652"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "51652"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "51652"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "51652"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "51652"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "51652"
+    }
+  ],
+  "priceLinks": []
+}

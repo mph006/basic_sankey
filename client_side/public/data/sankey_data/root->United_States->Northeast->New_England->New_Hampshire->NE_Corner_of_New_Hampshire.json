@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Northeast->New_England->New_Hampshire->NE_Corner_of_New_Hampshire",
   "nodes": [
     {
-      "name": "Unknown County"
+      "name": "Coos County"
     },
     {
       "name": "Dropped_Out"
@@ -15,17 +15,173 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Carroll County"
+    },
+    {
+      "name": "Grafton County"
+    },
+    {
+      "name": "Co̦s County"
+    },
+    {
+      "name": "Unknown County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
+      "value": 2,
+      "region": "Coos County"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 8,
+      "region": "Coos County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Coos County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Coos County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Coos County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Coos County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "Carroll County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 8,
+      "region": "Carroll County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Carroll County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Carroll County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Carroll County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Carroll County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Grafton County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "Grafton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Grafton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Grafton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Grafton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Grafton County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Co̦s County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "Co̦s County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Co̦s County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Co̦s County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Co̦s County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Co̦s County"
+    },
+    {
+      "source": 8,
+      "target": 1,
       "value": 0,
       "region": "Unknown County"
     },
     {
-      "source": 0,
+      "source": 8,
       "target": 2,
       "value": 1,
       "region": "Unknown County"
@@ -33,13 +189,13 @@
     {
       "source": 2,
       "target": 1,
-      "value": 1,
+      "value": 0,
       "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 1,
       "region": "Unknown County"
     },
     {
@@ -51,7 +207,7 @@
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 1,
       "region": "Unknown County"
     }
   ],

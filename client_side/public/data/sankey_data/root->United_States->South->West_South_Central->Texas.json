@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->South->West_South_Central->Texas",
   "nodes": [
     {
-      "name": "NE Corner of Texas"
+      "name": "SE Corner of Texas"
     },
     {
       "name": "Dropped_Out"
@@ -17,7 +17,7 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "SE Corner of Texas"
+      "name": "NE Corner of Texas"
     },
     {
       "name": "NW Corner of Texas"
@@ -30,145 +30,145 @@
     {
       "source": 0,
       "target": 1,
-      "value": 1,
-      "region": "NE Corner of Texas"
+      "value": 117,
+      "region": "SE Corner of Texas"
     },
     {
       "source": 0,
       "target": 2,
+      "value": 725,
+      "region": "SE Corner of Texas"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 99,
+      "region": "SE Corner of Texas"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 626,
+      "region": "SE Corner of Texas"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 79,
+      "region": "SE Corner of Texas"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 547,
+      "region": "SE Corner of Texas"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 76,
+      "region": "NE Corner of Texas"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 607,
+      "region": "NE Corner of Texas"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 89,
+      "region": "NE Corner of Texas"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 518,
+      "region": "NE Corner of Texas"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 75,
+      "region": "NE Corner of Texas"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 443,
+      "region": "NE Corner of Texas"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 41,
+      "region": "NW Corner of Texas"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 296,
+      "region": "NW Corner of Texas"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 26,
+      "region": "NW Corner of Texas"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 270,
+      "region": "NW Corner of Texas"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 33,
+      "region": "NW Corner of Texas"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 237,
+      "region": "NW Corner of Texas"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "SW Corner of Texas"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 34,
+      "region": "SW Corner of Texas"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "SW Corner of Texas"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 30,
+      "region": "SW Corner of Texas"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 5,
+      "region": "SW Corner of Texas"
+    },
+    {
+      "source": 3,
+      "target": 4,
       "value": 25,
-      "region": "NE Corner of Texas"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 11,
-      "region": "NE Corner of Texas"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 14,
-      "region": "NE Corner of Texas"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 7,
-      "region": "NE Corner of Texas"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 7,
-      "region": "NE Corner of Texas"
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 6,
-      "region": "SE Corner of Texas"
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "value": 15,
-      "region": "SE Corner of Texas"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 9,
-      "region": "SE Corner of Texas"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 6,
-      "region": "SE Corner of Texas"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 2,
-      "region": "SE Corner of Texas"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 4,
-      "region": "SE Corner of Texas"
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "value": 3,
-      "region": "NW Corner of Texas"
-    },
-    {
-      "source": 6,
-      "target": 2,
-      "value": 4,
-      "region": "NW Corner of Texas"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "NW Corner of Texas"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 3,
-      "region": "NW Corner of Texas"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 2,
-      "region": "NW Corner of Texas"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "NW Corner of Texas"
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 0,
-      "region": "SW Corner of Texas"
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 2,
-      "region": "SW Corner of Texas"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "SW Corner of Texas"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "SW Corner of Texas"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "SW Corner of Texas"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
       "region": "SW Corner of Texas"
     }
   ],

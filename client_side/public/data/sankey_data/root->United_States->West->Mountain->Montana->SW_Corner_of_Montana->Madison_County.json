@@ -1,0 +1,371 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Montana->SW_Corner_of_Montana->Madison_County",
+  "nodes": [
+    {
+      "name": "59720"
+    },
+    {
+      "name": "59729"
+    },
+    {
+      "name": "59735"
+    },
+    {
+      "name": "59740"
+    },
+    {
+      "name": "59747"
+    },
+    {
+      "name": "59749"
+    },
+    {
+      "name": "59751"
+    },
+    {
+      "name": "59754"
+    },
+    {
+      "name": "59755"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 9,
+      "value": 0,
+      "region": "59720"
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 1,
+      "region": "59720"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "59720"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "59720"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "59720"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "59720"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 0,
+      "region": "59751"
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 1,
+      "region": "59751"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "59751"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "59751"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "59751"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "59751"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 0,
+      "region": "59729"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "value": 1,
+      "region": "59729"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "59729"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "59729"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "59729"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "59729"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 0,
+      "region": "59735"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "value": 1,
+      "region": "59735"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "59735"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "59735"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "59735"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "59735"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 0,
+      "region": "59740"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "value": 1,
+      "region": "59740"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "59740"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "59740"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 1,
+      "region": "59740"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 0,
+      "region": "59740"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 0,
+      "region": "59747"
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "value": 1,
+      "region": "59747"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "59747"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "59747"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "59747"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "59747"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 0,
+      "region": "59749"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 1,
+      "region": "59749"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "59749"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "59749"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "59749"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "59749"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 0,
+      "region": "59754"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "value": 1,
+      "region": "59754"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "59754"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "59754"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "59754"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "59754"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "59755"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "value": 1,
+      "region": "59755"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "value": 0,
+      "region": "59755"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1,
+      "region": "59755"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "value": 0,
+      "region": "59755"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1,
+      "region": "59755"
+    }
+  ],
+  "priceLinks": []
+}

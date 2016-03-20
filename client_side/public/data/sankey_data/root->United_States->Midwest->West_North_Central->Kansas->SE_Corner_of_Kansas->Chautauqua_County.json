@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->SE_Corner_of_Kansas->Chautauqua_County",
+  "nodes": [
+    {
+      "name": "67024"
+    },
+    {
+      "name": "67334"
+    },
+    {
+      "name": "67355"
+    },
+    {
+      "name": "67360"
+    },
+    {
+      "name": "67361"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "67024"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "67024"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "67024"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "67024"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "67024"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67024"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "67334"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "67334"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "67334"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "67334"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "67334"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "67334"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "67355"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "67355"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "67355"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "67355"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "67355"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67355"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "67360"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "67360"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "67360"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "67360"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "67360"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67360"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "67361"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "67361"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "67361"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "67361"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "67361"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "67361"
+    }
+  ],
+  "priceLinks": []
+}

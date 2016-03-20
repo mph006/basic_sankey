@@ -2,6 +2,18 @@
   "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Hot_Spring_County",
   "nodes": [
     {
+      "name": "71929"
+    },
+    {
+      "name": "71941"
+    },
+    {
+      "name": "71942"
+    },
+    {
+      "name": "72104"
+    },
+    {
       "name": "72105"
     },
     {
@@ -19,38 +31,182 @@
   ],
   "countLinks": [
     {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "71942"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "71942"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "71942"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "71942"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "71942"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71942"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "71941"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "71941"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "71941"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "71941"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1,
+      "region": "71941"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "71941"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 5,
+      "value": 0,
+      "region": "71929"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "71929"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "71929"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "71929"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "71929"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71929"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "72104"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "72104"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "72104"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "72104"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "72104"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "72104"
+    },
+    {
+      "source": 4,
+      "target": 5,
       "value": 0,
       "region": "72105"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 4,
+      "target": 6,
       "value": 1,
       "region": "72105"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "72105"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 6,
+      "target": 7,
       "value": 1,
       "region": "72105"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 7,
+      "target": 5,
       "value": 1,
       "region": "72105"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 7,
+      "target": 8,
       "value": 0,
       "region": "72105"
     }

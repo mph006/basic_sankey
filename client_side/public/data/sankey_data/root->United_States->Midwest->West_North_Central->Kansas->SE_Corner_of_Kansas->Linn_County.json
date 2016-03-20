@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->West_North_Central->Kansas->SE_Corner_of_Kansas->Linn_County",
+  "nodes": [
+    {
+      "name": "66010"
+    },
+    {
+      "name": "66014"
+    },
+    {
+      "name": "66040"
+    },
+    {
+      "name": "66072"
+    },
+    {
+      "name": "66767"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "66040"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "66040"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66040"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66040"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66040"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66040"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "66014"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "66014"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66014"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66014"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66014"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66014"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "66010"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "66010"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66010"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66010"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66010"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66010"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "66072"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "66072"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66072"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66072"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66072"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66072"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "66767"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "66767"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "66767"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "66767"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "66767"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "66767"
+    }
+  ],
+  "priceLinks": []
+}

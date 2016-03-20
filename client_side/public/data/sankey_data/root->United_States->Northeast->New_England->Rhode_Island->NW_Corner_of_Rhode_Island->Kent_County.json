@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Northeast->New_England->Rhode_Island->NW_Corner_of_Rhode_Island->Kent_County",
+  "nodes": [
+    {
+      "name": "02817"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "02816"
+    },
+    {
+      "name": "02887"
+    },
+    {
+      "name": "02827"
+    },
+    {
+      "name": "02893"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "02817"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "02817"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "02817"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "02817"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "02817"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "02817"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "02816"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "02816"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "02816"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "02816"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "02816"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "02816"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "02887"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1,
+      "region": "02887"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "02887"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "02887"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "02887"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "02887"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "02827"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "02827"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "02827"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "02827"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "02827"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "02827"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "02893"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "02893"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "02893"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "02893"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "02893"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "02893"
+    }
+  ],
+  "priceLinks": []
+}

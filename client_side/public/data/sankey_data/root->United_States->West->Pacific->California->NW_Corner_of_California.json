@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->West->Pacific->California->NW_Corner_of_California",
   "nodes": [
     {
-      "name": "San Francisco County"
+      "name": "Sacramento County"
     },
     {
       "name": "Dropped_Out"
@@ -17,7 +17,13 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Sacramento County"
+      "name": "Alameda County"
+    },
+    {
+      "name": "San Francisco County"
+    },
+    {
+      "name": "Contra Costa County"
     },
     {
       "name": "Unknown County"
@@ -26,579 +32,1626 @@
       "name": "Sonoma County"
     },
     {
-      "name": "Merced County"
-    },
-    {
-      "name": "San Mateo County"
+      "name": "Humboldt County"
     },
     {
       "name": "Santa Clara County"
     },
     {
-      "name": "Siskiyou County"
+      "name": "Marin County"
     },
     {
-      "name": "Stanislaus County"
-    },
-    {
-      "name": "Tehama County"
-    },
-    {
-      "name": "Alameda County"
-    },
-    {
-      "name": "Nevada County"
+      "name": "San Joaquin County"
     },
     {
       "name": "Placer County"
     },
     {
+      "name": "Mendocino County"
+    },
+    {
+      "name": "Shasta County"
+    },
+    {
+      "name": "San Mateo County"
+    },
+    {
+      "name": "Stanislaus County"
+    },
+    {
+      "name": "Butte County"
+    },
+    {
+      "name": "El Dorado County"
+    },
+    {
+      "name": "Lassen County"
+    },
+    {
+      "name": "Yolo County"
+    },
+    {
+      "name": "Solano County"
+    },
+    {
+      "name": "Siskiyou County"
+    },
+    {
+      "name": "Lake County"
+    },
+    {
+      "name": "Calaveras County"
+    },
+    {
+      "name": "Tehama County"
+    },
+    {
+      "name": "Amador County"
+    },
+    {
+      "name": "Nevada County"
+    },
+    {
+      "name": "Tuolumne County"
+    },
+    {
+      "name": "Plumas County"
+    },
+    {
+      "name": "Sutter County"
+    },
+    {
+      "name": "Modoc County"
+    },
+    {
+      "name": "Glenn County"
+    },
+    {
+      "name": "Trinity County"
+    },
+    {
+      "name": "Merced County"
+    },
+    {
       "name": "Sierra County"
     },
     {
-      "name": "Humboldt County"
+      "name": "Yuba County"
+    },
+    {
+      "name": "Del Norte County"
+    },
+    {
+      "name": "Mono County"
+    },
+    {
+      "name": "Colusa County"
+    },
+    {
+      "name": "Mariposa County"
+    },
+    {
+      "name": "Napa County"
+    },
+    {
+      "name": "Madera County"
+    },
+    {
+      "name": "Washoe County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "San Francisco County"
+      "value": 5,
+      "region": "Sacramento County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 3,
-      "region": "San Francisco County"
+      "value": 81,
+      "region": "Sacramento County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "San Francisco County"
+      "value": 11,
+      "region": "Sacramento County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 2,
-      "region": "San Francisco County"
+      "value": 70,
+      "region": "Sacramento County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "San Francisco County"
+      "value": 8,
+      "region": "Sacramento County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "San Francisco County"
-    },
-    {
-      "source": 5,
-      "target": 1,
-      "value": 1,
+      "value": 62,
       "region": "Sacramento County"
     },
     {
       "source": 5,
+      "target": 1,
+      "value": 1,
+      "region": "Alameda County"
+    },
+    {
+      "source": 5,
       "target": 2,
-      "value": 2,
-      "region": "Sacramento County"
+      "value": 46,
+      "region": "Alameda County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Sacramento County"
+      "value": 6,
+      "region": "Alameda County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Sacramento County"
+      "value": 40,
+      "region": "Alameda County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Sacramento County"
+      "value": 6,
+      "region": "Alameda County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Sacramento County"
+      "value": 34,
+      "region": "Alameda County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 0,
-      "region": "Unknown County"
+      "value": 5,
+      "region": "San Francisco County"
     },
     {
       "source": 6,
       "target": 2,
+      "value": 37,
+      "region": "San Francisco County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 5,
+      "region": "San Francisco County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 32,
+      "region": "San Francisco County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 7,
+      "region": "San Francisco County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 25,
+      "region": "San Francisco County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 3,
+      "region": "Contra Costa County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 34,
+      "region": "Contra Costa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Contra Costa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 31,
+      "region": "Contra Costa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 4,
+      "region": "Contra Costa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 27,
+      "region": "Contra Costa County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 4,
+      "region": "Unknown County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 28,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
       "value": 3,
       "region": "Unknown County"
     },
     {
       "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "Unknown County"
-    },
-    {
-      "source": 2,
       "target": 3,
-      "value": 2,
+      "value": 25,
       "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 2,
+      "value": 4,
       "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 21,
       "region": "Unknown County"
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "value": 1,
-      "region": "Sonoma County"
-    },
-    {
-      "source": 7,
-      "target": 2,
-      "value": 1,
-      "region": "Sonoma County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Sonoma County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Sonoma County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Sonoma County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 1,
-      "region": "Sonoma County"
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 2,
-      "region": "Merced County"
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "value": 0,
-      "region": "Merced County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "Merced County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "Merced County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "Merced County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "Merced County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0,
-      "region": "San Mateo County"
+      "value": 2,
+      "region": "Sonoma County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 1,
-      "region": "San Mateo County"
+      "value": 32,
+      "region": "Sonoma County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "San Mateo County"
+      "value": 1,
+      "region": "Sonoma County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "San Mateo County"
+      "value": 31,
+      "region": "Sonoma County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "San Mateo County"
+      "value": 7,
+      "region": "Sonoma County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "San Mateo County"
+      "value": 24,
+      "region": "Sonoma County"
     },
     {
       "source": 10,
       "target": 1,
-      "value": 1,
-      "region": "Santa Clara County"
+      "value": 0,
+      "region": "Humboldt County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0,
-      "region": "Santa Clara County"
+      "value": 29,
+      "region": "Humboldt County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Santa Clara County"
+      "value": 2,
+      "region": "Humboldt County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Santa Clara County"
+      "value": 27,
+      "region": "Humboldt County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Santa Clara County"
+      "value": 7,
+      "region": "Humboldt County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Santa Clara County"
+      "value": 20,
+      "region": "Humboldt County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0,
-      "region": "Siskiyou County"
+      "value": 5,
+      "region": "Santa Clara County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 1,
-      "region": "Siskiyou County"
+      "value": 26,
+      "region": "Santa Clara County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Siskiyou County"
+      "region": "Santa Clara County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Siskiyou County"
+      "value": 25,
+      "region": "Santa Clara County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Siskiyou County"
+      "value": 1,
+      "region": "Santa Clara County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Siskiyou County"
+      "value": 24,
+      "region": "Santa Clara County"
     },
     {
       "source": 12,
       "target": 1,
-      "value": 0,
-      "region": "Stanislaus County"
+      "value": 3,
+      "region": "Marin County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 1,
-      "region": "Stanislaus County"
+      "value": 23,
+      "region": "Marin County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Stanislaus County"
+      "value": 3,
+      "region": "Marin County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Stanislaus County"
+      "value": 20,
+      "region": "Marin County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Stanislaus County"
+      "region": "Marin County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Stanislaus County"
+      "value": 20,
+      "region": "Marin County"
     },
     {
       "source": 13,
       "target": 1,
-      "value": 0,
-      "region": "Tehama County"
+      "value": 7,
+      "region": "San Joaquin County"
     },
     {
       "source": 13,
       "target": 2,
-      "value": 1,
-      "region": "Tehama County"
+      "value": 19,
+      "region": "San Joaquin County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Tehama County"
+      "region": "San Joaquin County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Tehama County"
+      "value": 18,
+      "region": "San Joaquin County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Tehama County"
+      "value": 2,
+      "region": "San Joaquin County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Tehama County"
+      "value": 16,
+      "region": "San Joaquin County"
     },
     {
       "source": 14,
       "target": 1,
-      "value": 0,
-      "region": "Alameda County"
+      "value": 5,
+      "region": "Placer County"
     },
     {
       "source": 14,
       "target": 2,
-      "value": 1,
-      "region": "Alameda County"
+      "value": 17,
+      "region": "Placer County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Alameda County"
+      "value": 1,
+      "region": "Placer County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Alameda County"
+      "value": 16,
+      "region": "Placer County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Alameda County"
+      "value": 4,
+      "region": "Placer County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Alameda County"
+      "value": 12,
+      "region": "Placer County"
     },
     {
       "source": 15,
       "target": 1,
-      "value": 1,
-      "region": "Nevada County"
+      "value": 0,
+      "region": "Mendocino County"
     },
     {
       "source": 15,
       "target": 2,
-      "value": 0,
-      "region": "Nevada County"
+      "value": 23,
+      "region": "Mendocino County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Nevada County"
+      "value": 2,
+      "region": "Mendocino County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Nevada County"
+      "value": 21,
+      "region": "Mendocino County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Nevada County"
+      "value": 3,
+      "region": "Mendocino County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Nevada County"
+      "value": 18,
+      "region": "Mendocino County"
     },
     {
       "source": 16,
       "target": 1,
-      "value": 0,
-      "region": "Placer County"
+      "value": 5,
+      "region": "Shasta County"
     },
     {
       "source": 16,
       "target": 2,
-      "value": 1,
-      "region": "Placer County"
+      "value": 16,
+      "region": "Shasta County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Placer County"
+      "region": "Shasta County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Placer County"
+      "value": 16,
+      "region": "Shasta County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Placer County"
+      "value": 2,
+      "region": "Shasta County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Placer County"
+      "value": 14,
+      "region": "Shasta County"
     },
     {
       "source": 17,
       "target": 1,
-      "value": 0,
-      "region": "Sierra County"
+      "value": 3,
+      "region": "San Mateo County"
     },
     {
       "source": 17,
       "target": 2,
-      "value": 1,
-      "region": "Sierra County"
+      "value": 20,
+      "region": "San Mateo County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Sierra County"
+      "value": 1,
+      "region": "San Mateo County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Sierra County"
+      "value": 19,
+      "region": "San Mateo County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Sierra County"
+      "value": 4,
+      "region": "San Mateo County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Sierra County"
+      "value": 15,
+      "region": "San Mateo County"
     },
     {
       "source": 18,
       "target": 1,
       "value": 0,
-      "region": "Humboldt County"
+      "region": "Stanislaus County"
     },
     {
       "source": 18,
       "target": 2,
-      "value": 1,
-      "region": "Humboldt County"
+      "value": 18,
+      "region": "Stanislaus County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Humboldt County"
+      "region": "Stanislaus County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 17,
+      "region": "Stanislaus County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Stanislaus County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 16,
+      "region": "Stanislaus County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 1,
+      "region": "Butte County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 15,
+      "region": "Butte County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Butte County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 13,
+      "region": "Butte County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Butte County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 13,
+      "region": "Butte County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 3,
+      "region": "El Dorado County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 12,
+      "region": "El Dorado County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "El Dorado County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "El Dorado County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "El Dorado County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "El Dorado County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 1,
+      "region": "Lassen County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 11,
+      "region": "Lassen County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Lassen County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Lassen County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Lassen County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Lassen County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 0,
+      "region": "Yolo County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 16,
+      "region": "Yolo County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "Yolo County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 12,
+      "region": "Yolo County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Yolo County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 11,
+      "region": "Yolo County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 2,
+      "region": "Solano County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 10,
+      "region": "Solano County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Solano County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Solano County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Solano County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Solano County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 5,
+      "region": "Siskiyou County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 8,
+      "region": "Siskiyou County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Siskiyou County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Siskiyou County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Siskiyou County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Siskiyou County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 1,
+      "region": "Lake County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 10,
+      "region": "Lake County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Lake County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Lake County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lake County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Lake County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 1,
+      "region": "Calaveras County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 11,
+      "region": "Calaveras County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 4,
+      "region": "Calaveras County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Calaveras County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Calaveras County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Calaveras County"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 0,
+      "region": "Tehama County"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 10,
+      "region": "Tehama County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Tehama County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 10,
+      "region": "Tehama County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tehama County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 10,
+      "region": "Tehama County"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 1,
+      "region": "Amador County"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 10,
+      "region": "Amador County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Amador County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Amador County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Amador County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Amador County"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "value": 0,
+      "region": "Nevada County"
+    },
+    {
+      "source": 29,
+      "target": 2,
+      "value": 10,
+      "region": "Nevada County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Nevada County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Nevada County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Nevada County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Nevada County"
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "value": 2,
+      "region": "Tuolumne County"
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "value": 8,
+      "region": "Tuolumne County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Tuolumne County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Tuolumne County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Tuolumne County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Tuolumne County"
+    },
+    {
+      "source": 31,
+      "target": 1,
+      "value": 2,
+      "region": "Plumas County"
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "value": 7,
+      "region": "Plumas County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Plumas County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Plumas County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Plumas County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Plumas County"
+    },
+    {
+      "source": 32,
+      "target": 1,
+      "value": 0,
+      "region": "Sutter County"
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "value": 9,
+      "region": "Sutter County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sutter County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Sutter County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Sutter County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Sutter County"
+    },
+    {
+      "source": 33,
+      "target": 1,
+      "value": 0,
+      "region": "Modoc County"
+    },
+    {
+      "source": 33,
+      "target": 2,
+      "value": 6,
+      "region": "Modoc County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Modoc County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Modoc County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Modoc County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Modoc County"
+    },
+    {
+      "source": 34,
+      "target": 1,
+      "value": 0,
+      "region": "Glenn County"
+    },
+    {
+      "source": 34,
+      "target": 2,
+      "value": 5,
+      "region": "Glenn County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Glenn County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Glenn County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Glenn County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Glenn County"
+    },
+    {
+      "source": 35,
+      "target": 1,
+      "value": 4,
+      "region": "Trinity County"
+    },
+    {
+      "source": 35,
+      "target": 2,
+      "value": 4,
+      "region": "Trinity County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Trinity County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Trinity County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Trinity County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Trinity County"
+    },
+    {
+      "source": 36,
+      "target": 1,
+      "value": 0,
+      "region": "Merced County"
+    },
+    {
+      "source": 36,
+      "target": 2,
+      "value": 7,
+      "region": "Merced County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Merced County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Merced County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Merced County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Merced County"
+    },
+    {
+      "source": 37,
+      "target": 1,
+      "value": 1,
+      "region": "Sierra County"
+    },
+    {
+      "source": 37,
+      "target": 2,
+      "value": 5,
+      "region": "Sierra County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sierra County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Sierra County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Sierra County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Sierra County"
+    },
+    {
+      "source": 38,
+      "target": 1,
+      "value": 3,
+      "region": "Yuba County"
+    },
+    {
+      "source": 38,
+      "target": 2,
+      "value": 5,
+      "region": "Yuba County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Yuba County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Yuba County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Yuba County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Yuba County"
+    },
+    {
+      "source": 39,
+      "target": 1,
+      "value": 1,
+      "region": "Del Norte County"
+    },
+    {
+      "source": 39,
+      "target": 2,
+      "value": 5,
+      "region": "Del Norte County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Del Norte County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Del Norte County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Del Norte County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Del Norte County"
+    },
+    {
+      "source": 40,
+      "target": 1,
+      "value": 0,
+      "region": "Mono County"
+    },
+    {
+      "source": 40,
+      "target": 2,
+      "value": 3,
+      "region": "Mono County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Mono County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Mono County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Mono County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Mono County"
+    },
+    {
+      "source": 41,
+      "target": 1,
+      "value": 0,
+      "region": "Colusa County"
+    },
+    {
+      "source": 41,
+      "target": 2,
+      "value": 3,
+      "region": "Colusa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Colusa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Colusa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Colusa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Colusa County"
+    },
+    {
+      "source": 42,
+      "target": 1,
+      "value": 1,
+      "region": "Mariposa County"
+    },
+    {
+      "source": 42,
+      "target": 2,
+      "value": 2,
+      "region": "Mariposa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Mariposa County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Mariposa County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Mariposa County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Mariposa County"
+    },
+    {
+      "source": 43,
+      "target": 1,
+      "value": 2,
+      "region": "Napa County"
+    },
+    {
+      "source": 43,
+      "target": 2,
+      "value": 1,
+      "region": "Napa County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Napa County"
     },
     {
       "source": 2,
       "target": 3,
       "value": 0,
-      "region": "Humboldt County"
+      "region": "Napa County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Humboldt County"
+      "region": "Napa County"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "Humboldt County"
+      "region": "Napa County"
+    },
+    {
+      "source": 44,
+      "target": 1,
+      "value": 0,
+      "region": "Madera County"
+    },
+    {
+      "source": 44,
+      "target": 2,
+      "value": 1,
+      "region": "Madera County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Madera County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Madera County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Madera County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Madera County"
+    },
+    {
+      "source": 45,
+      "target": 1,
+      "value": 0,
+      "region": "Washoe County"
+    },
+    {
+      "source": 45,
+      "target": 2,
+      "value": 1,
+      "region": "Washoe County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Washoe County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Washoe County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Washoe County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Washoe County"
     }
   ],
   "priceLinks": []

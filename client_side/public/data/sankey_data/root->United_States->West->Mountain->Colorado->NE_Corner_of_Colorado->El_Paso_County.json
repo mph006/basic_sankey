@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Colorado->NE_Corner_of_Colorado->El_Paso_County",
+  "nodes": [
+    {
+      "name": "80132"
+    },
+    {
+      "name": "80133"
+    },
+    {
+      "name": "80832"
+    },
+    {
+      "name": "80921"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "80832"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "80832"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "80832"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "80832"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "80832"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "80832"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "80132"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "80132"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "80132"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "80132"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "80132"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "80132"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "80133"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "80133"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "80133"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "80133"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "80133"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "80133"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "80921"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "80921"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "80921"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "80921"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "80921"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "80921"
+    }
+  ],
+  "priceLinks": []
+}

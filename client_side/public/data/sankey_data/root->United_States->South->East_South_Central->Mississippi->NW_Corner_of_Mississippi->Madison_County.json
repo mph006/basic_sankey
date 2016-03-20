@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Mississippi->NW_Corner_of_Mississippi->Madison_County",
+  "nodes": [
+    {
+      "name": "39045"
+    },
+    {
+      "name": "39046"
+    },
+    {
+      "name": "39130"
+    },
+    {
+      "name": "39158"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "39158"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "39158"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39158"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39158"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "39158"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "39158"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "39045"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "39045"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39045"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39045"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "39045"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "39045"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "39046"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "39046"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39046"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39046"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "39046"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "39046"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "39130"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "39130"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39130"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39130"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "39130"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "39130"
+    }
+  ],
+  "priceLinks": []
+}

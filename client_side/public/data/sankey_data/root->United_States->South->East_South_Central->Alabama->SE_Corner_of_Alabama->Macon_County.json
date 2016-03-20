@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Alabama->SE_Corner_of_Alabama->Macon_County",
+  "nodes": [
+    {
+      "name": "36031"
+    },
+    {
+      "name": "36083"
+    },
+    {
+      "name": "36087"
+    },
+    {
+      "name": "36088"
+    },
+    {
+      "name": "36866"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "36031"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "36031"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "36031"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "36031"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "36031"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "36031"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "36083"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "36083"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "36083"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "36083"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "36083"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36083"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "36087"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "36087"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "36087"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "36087"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "36087"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36087"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "36088"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "36088"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "36088"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "36088"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "36088"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "36088"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "36866"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "36866"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "36866"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "36866"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "36866"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "36866"
+    }
+  ],
+  "priceLinks": []
+}

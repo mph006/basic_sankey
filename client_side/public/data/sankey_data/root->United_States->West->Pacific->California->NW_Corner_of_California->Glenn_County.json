@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->West->Pacific->California->NW_Corner_of_California->Glenn_County",
+  "nodes": [
+    {
+      "name": "95913"
+    },
+    {
+      "name": "95920"
+    },
+    {
+      "name": "95943"
+    },
+    {
+      "name": "95951"
+    },
+    {
+      "name": "95988"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "95920"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "95920"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "95920"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "95920"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "95920"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "95920"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "95988"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "95988"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "95988"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "95988"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "95988"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "95988"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "95943"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "95943"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "95943"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "95943"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "95943"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "95943"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "95913"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "95913"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "95913"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "95913"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "95913"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "95913"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "95951"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "95951"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "95951"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "95951"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "95951"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "95951"
+    }
+  ],
+  "priceLinks": []
+}

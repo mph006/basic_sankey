@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->South->East_South_Central->Mississippi->NW_Corner_of_Mississippi->Sharkey_County",
+  "nodes": [
+    {
+      "name": "38721"
+    },
+    {
+      "name": "39054"
+    },
+    {
+      "name": "39061"
+    },
+    {
+      "name": "39159"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "39054"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "39054"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39054"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39054"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "39054"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "39054"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "39061"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "39061"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39061"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39061"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "39061"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "39061"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "38721"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "38721"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "38721"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "38721"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "38721"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "38721"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "39159"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "39159"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "39159"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "39159"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "39159"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "39159"
+    }
+  ],
+  "priceLinks": []
+}

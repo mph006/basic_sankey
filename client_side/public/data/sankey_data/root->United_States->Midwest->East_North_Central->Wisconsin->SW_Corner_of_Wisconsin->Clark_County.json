@@ -1,0 +1,215 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Wisconsin->SW_Corner_of_Wisconsin->Clark_County",
+  "nodes": [
+    {
+      "name": "54420"
+    },
+    {
+      "name": "54436"
+    },
+    {
+      "name": "54456"
+    },
+    {
+      "name": "54746"
+    },
+    {
+      "name": "54754"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0,
+      "region": "54420"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "54420"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54420"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54420"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54420"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54420"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "54436"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "54436"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54436"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54436"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54436"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54436"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 0,
+      "region": "54456"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 1,
+      "region": "54456"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54456"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54456"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54456"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54456"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0,
+      "region": "54746"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 1,
+      "region": "54746"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "54746"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "54746"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54746"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "54746"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "54754"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 1,
+      "region": "54754"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "54754"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "54754"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "54754"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "54754"
+    }
+  ],
+  "priceLinks": []
+}

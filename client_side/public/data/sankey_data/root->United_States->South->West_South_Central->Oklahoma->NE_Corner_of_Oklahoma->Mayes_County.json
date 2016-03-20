@@ -2,6 +2,18 @@
   "keyPath": "root->United_States->South->West_South_Central->Oklahoma->NE_Corner_of_Oklahoma->Mayes_County",
   "nodes": [
     {
+      "name": "74330"
+    },
+    {
+      "name": "74337"
+    },
+    {
+      "name": "74350"
+    },
+    {
+      "name": "74365"
+    },
+    {
       "name": "74367"
     },
     {
@@ -19,39 +31,183 @@
   ],
   "countLinks": [
     {
+      "source": 1,
+      "target": 5,
+      "value": 0,
+      "region": "74337"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "74337"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 1,
+      "region": "74337"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "74337"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74337"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "74337"
+    },
+    {
       "source": 0,
-      "target": 1,
+      "target": 5,
+      "value": 0,
+      "region": "74330"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "region": "74330"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74330"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74330"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74330"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "74330"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "74350"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "74350"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74350"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "74350"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74350"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "74350"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "74365"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "74365"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "value": 0,
+      "region": "74365"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "74365"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 0,
+      "region": "74365"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "74365"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "74367"
+    },
+    {
+      "source": 4,
+      "target": 6,
       "value": 1,
       "region": "74367"
     },
     {
-      "source": 0,
-      "target": 2,
+      "source": 6,
+      "target": 5,
       "value": 0,
       "region": "74367"
     },
     {
-      "source": 2,
-      "target": 1,
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "74367"
+    },
+    {
+      "source": 7,
+      "target": 5,
       "value": 0,
       "region": "74367"
     },
     {
-      "source": 2,
-      "target": 3,
-      "value": 0,
-      "region": "74367"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "74367"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
+      "source": 7,
+      "target": 8,
+      "value": 1,
       "region": "74367"
     }
   ],

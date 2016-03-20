@@ -1,0 +1,293 @@
+{
+  "keyPath": "root->United_States->West->Mountain->Utah->SE_Corner_of_Utah",
+  "nodes": [
+    {
+      "name": "Emery County"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "San Juan County"
+    },
+    {
+      "name": "Grand County"
+    },
+    {
+      "name": "Wayne County"
+    },
+    {
+      "name": "Garfield County"
+    },
+    {
+      "name": "Sanpete County"
+    },
+    {
+      "name": "Unknown County"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1,
+      "region": "Emery County"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 8,
+      "region": "Emery County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Emery County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 8,
+      "region": "Emery County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Emery County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Emery County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "San Juan County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 6,
+      "region": "San Juan County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "San Juan County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "San Juan County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "San Juan County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "San Juan County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "Grand County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 3,
+      "region": "Grand County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Grand County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Grand County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Grand County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Grand County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1,
+      "region": "Wayne County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 1,
+      "region": "Wayne County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Wayne County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Wayne County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Wayne County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Garfield County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 1,
+      "region": "Garfield County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Garfield County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Garfield County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Garfield County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Garfield County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 0,
+      "region": "Sanpete County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 1,
+      "region": "Sanpete County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Sanpete County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Sanpete County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Sanpete County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "Sanpete County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Unknown County"
+    }
+  ],
+  "priceLinks": []
+}

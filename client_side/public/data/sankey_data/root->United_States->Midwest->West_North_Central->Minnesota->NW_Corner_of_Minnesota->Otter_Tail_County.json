@@ -2,7 +2,22 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Minnesota->NW_Corner_of_Minnesota->Otter_Tail_County",
   "nodes": [
     {
+      "name": "56528"
+    },
+    {
+      "name": "56534"
+    },
+    {
+      "name": "56567"
+    },
+    {
       "name": "56572"
+    },
+    {
+      "name": "56573"
+    },
+    {
+      "name": "56576"
     },
     {
       "name": "Dropped_Out"
@@ -20,37 +35,217 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "56572"
+      "target": 6,
+      "value": 1,
+      "region": "56528"
     },
     {
       "source": 0,
-      "target": 2,
+      "target": 7,
+      "value": 0,
+      "region": "56528"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56528"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "56528"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56528"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "56528"
+    },
+    {
+      "source": 5,
+      "target": 6,
       "value": 1,
-      "region": "56572"
+      "region": "56576"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "56576"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56576"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "56576"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56576"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "56576"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "56573"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "56573"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56573"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56573"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56573"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56573"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "56534"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "56534"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56534"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56534"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56534"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56534"
     },
     {
       "source": 2,
-      "target": 1,
+      "target": 6,
+      "value": 0,
+      "region": "56567"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "56567"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "56567"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56567"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56567"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "56567"
+    },
+    {
+      "source": 3,
+      "target": 6,
       "value": 0,
       "region": "56572"
     },
     {
-      "source": 2,
-      "target": 3,
+      "source": 3,
+      "target": 7,
       "value": 1,
       "region": "56572"
     },
     {
-      "source": 3,
-      "target": 1,
+      "source": 7,
+      "target": 6,
       "value": 0,
       "region": "56572"
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "56572"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "56572"
+    },
+    {
+      "source": 8,
+      "target": 9,
       "value": 1,
       "region": "56572"
     }

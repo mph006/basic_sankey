@@ -1,0 +1,176 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->Pennsylvania->NW_Corner_of_Pennsylvania->Unknown_County",
+  "nodes": [
+    {
+      "name": "15874"
+    },
+    {
+      "name": "16302"
+    },
+    {
+      "name": "16355"
+    },
+    {
+      "name": "16558"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0,
+      "region": "15874"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1,
+      "region": "15874"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "15874"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "15874"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "15874"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "15874"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "16558"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 1,
+      "region": "16558"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "16558"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "16558"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "16558"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "16558"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0,
+      "region": "16302"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 1,
+      "region": "16302"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 0,
+      "region": "16302"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "16302"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "16302"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1,
+      "region": "16302"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0,
+      "region": "16355"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 1,
+      "region": "16355"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "value": 1,
+      "region": "16355"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "16355"
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 0,
+      "region": "16355"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 0,
+      "region": "16355"
+    }
+  ],
+  "priceLinks": []
+}

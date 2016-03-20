@@ -1,0 +1,98 @@
+{
+  "keyPath": "root->United_States->Northeast->Mid-Atlantic->New_Jersey->SE_Corner_of_New_Jersey->Unknown_County",
+  "nodes": [
+    {
+      "name": "08283"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "08017"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "08283"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1,
+      "region": "08283"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "08283"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "08283"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "08283"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "08283"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "08017"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 1,
+      "region": "08017"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "08017"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "08017"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "08017"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "08017"
+    }
+  ],
+  "priceLinks": []
+}

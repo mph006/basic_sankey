@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Texas->NE_Corner_of_Texas->Van_Zandt_County",
+  "nodes": [
+    {
+      "name": "75117"
+    },
+    {
+      "name": "75127"
+    },
+    {
+      "name": "75140"
+    },
+    {
+      "name": "75169"
+    },
+    {
+      "name": "75754"
+    },
+    {
+      "name": "75790"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "75754"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "75754"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "75754"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "75754"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "75754"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "75754"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "75117"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "75117"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "75117"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "75117"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "75117"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "75117"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 1,
+      "region": "75127"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 0,
+      "region": "75127"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "75127"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "75127"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "75127"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "75127"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "75140"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "75140"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "75140"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "75140"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "75140"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "75140"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "75169"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "75169"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "75169"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "75169"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "75169"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "75169"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "75790"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 0,
+      "region": "75790"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "75790"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "75790"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "75790"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "75790"
+    }
+  ],
+  "priceLinks": []
+}

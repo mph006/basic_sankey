@@ -15,44 +15,395 @@
     },
     {
       "name": "Completed_Purchase"
+    },
+    {
+      "name": "Lea County"
+    },
+    {
+      "name": "Eddy County"
+    },
+    {
+      "name": "Otero County"
+    },
+    {
+      "name": "Chaves County"
+    },
+    {
+      "name": "Roosevelt County"
+    },
+    {
+      "name": "Socorro County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "De Baca County"
+    },
+    {
+      "name": "Curry County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 1,
+      "value": 2,
       "region": "Lincoln County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 0,
+      "value": 10,
       "region": "Lincoln County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
+      "value": 3,
       "region": "Lincoln County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
+      "value": 7,
       "region": "Lincoln County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
+      "value": 1,
       "region": "Lincoln County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
+      "value": 6,
       "region": "Lincoln County"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 0,
+      "region": "Lea County"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 7,
+      "region": "Lea County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Lea County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Lea County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lea County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Lea County"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1,
+      "region": "Eddy County"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 9,
+      "region": "Eddy County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Eddy County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Eddy County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Eddy County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 8,
+      "region": "Eddy County"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 0,
+      "region": "Otero County"
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 5,
+      "region": "Otero County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Otero County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Otero County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Otero County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Otero County"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 0,
+      "region": "Chaves County"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "value": 6,
+      "region": "Chaves County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Chaves County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Chaves County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Chaves County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Chaves County"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1,
+      "region": "Roosevelt County"
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 5,
+      "region": "Roosevelt County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Roosevelt County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 4,
+      "region": "Roosevelt County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Roosevelt County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Roosevelt County"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1,
+      "region": "Socorro County"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 0,
+      "region": "Socorro County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Socorro County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Socorro County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Socorro County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Socorro County"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Unknown County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "Unknown County"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 0,
+      "region": "De Baca County"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "value": 1,
+      "region": "De Baca County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "De Baca County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 1,
+      "region": "De Baca County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "De Baca County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "De Baca County"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 0,
+      "region": "Curry County"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 1,
+      "region": "Curry County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Curry County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "Curry County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Curry County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 0,
+      "region": "Curry County"
     }
   ],
   "priceLinks": []

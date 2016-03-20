@@ -1,0 +1,254 @@
+{
+  "keyPath": "root->United_States->South->West_South_Central->Arkansas->NE_Corner_of_Arkansas->Montgomery_County",
+  "nodes": [
+    {
+      "name": "71935"
+    },
+    {
+      "name": "71960"
+    },
+    {
+      "name": "71961"
+    },
+    {
+      "name": "71965"
+    },
+    {
+      "name": "71966"
+    },
+    {
+      "name": "71970"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "71970"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 1,
+      "region": "71970"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71970"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71970"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "71970"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "71970"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 0,
+      "region": "71960"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 1,
+      "region": "71960"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "71960"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "71960"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "71960"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "71960"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 0,
+      "region": "71961"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 1,
+      "region": "71961"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71961"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71961"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1,
+      "region": "71961"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "71961"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0,
+      "region": "71935"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1,
+      "region": "71935"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 1,
+      "region": "71935"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 0,
+      "region": "71935"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "71935"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 0,
+      "region": "71935"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0,
+      "region": "71965"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 1,
+      "region": "71965"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71965"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71965"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "71965"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "71965"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0,
+      "region": "71966"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 1,
+      "region": "71966"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "value": 0,
+      "region": "71966"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1,
+      "region": "71966"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 0,
+      "region": "71966"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1,
+      "region": "71966"
+    }
+  ],
+  "priceLinks": []
+}

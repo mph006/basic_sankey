@@ -2,7 +2,7 @@
   "keyPath": "root->United_States->Midwest->East_North_Central->Ohio->NE_Corner_of_Ohio",
   "nodes": [
     {
-      "name": "Stark County"
+      "name": "Cuyahoga County"
     },
     {
       "name": "Dropped_Out"
@@ -17,471 +17,978 @@
       "name": "Completed_Purchase"
     },
     {
-      "name": "Ashtabula County"
+      "name": "Summit County"
     },
     {
-      "name": "Medina County"
-    },
-    {
-      "name": "Jefferson County"
+      "name": "Stark County"
     },
     {
       "name": "Trumbull County"
     },
     {
-      "name": "Erie County"
-    },
-    {
       "name": "Mahoning County"
     },
     {
-      "name": "Ashland County"
+      "name": "Portage County"
+    },
+    {
+      "name": "Columbiana County"
+    },
+    {
+      "name": "Unknown County"
+    },
+    {
+      "name": "Tuscarawas County"
     },
     {
       "name": "Lorain County"
     },
     {
-      "name": "Cuyahoga County"
+      "name": "Wayne County"
+    },
+    {
+      "name": "Ashtabula County"
     },
     {
       "name": "Richland County"
     },
     {
-      "name": "Tuscarawas County"
+      "name": "Carroll County"
+    },
+    {
+      "name": "Jefferson County"
+    },
+    {
+      "name": "Harrison County"
+    },
+    {
+      "name": "Coshocton County"
+    },
+    {
+      "name": "Holmes County"
+    },
+    {
+      "name": "Ashland County"
+    },
+    {
+      "name": "Geauga County"
+    },
+    {
+      "name": "Medina County"
+    },
+    {
+      "name": "Lake County"
+    },
+    {
+      "name": "Huron County"
+    },
+    {
+      "name": "Knox County"
+    },
+    {
+      "name": "Erie County"
     }
   ],
   "countLinks": [
     {
       "source": 0,
       "target": 1,
-      "value": 0,
-      "region": "Stark County"
+      "value": 5,
+      "region": "Cuyahoga County"
     },
     {
       "source": 0,
       "target": 2,
-      "value": 2,
-      "region": "Stark County"
+      "value": 42,
+      "region": "Cuyahoga County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 1,
-      "region": "Stark County"
+      "value": 4,
+      "region": "Cuyahoga County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Stark County"
+      "value": 38,
+      "region": "Cuyahoga County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Stark County"
+      "value": 5,
+      "region": "Cuyahoga County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Stark County"
+      "value": 33,
+      "region": "Cuyahoga County"
     },
     {
       "source": 5,
       "target": 1,
-      "value": 1,
-      "region": "Ashtabula County"
+      "value": 3,
+      "region": "Summit County"
     },
     {
       "source": 5,
       "target": 2,
-      "value": 1,
-      "region": "Ashtabula County"
+      "value": 30,
+      "region": "Summit County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Ashtabula County"
+      "value": 2,
+      "region": "Summit County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Ashtabula County"
+      "value": 28,
+      "region": "Summit County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Ashtabula County"
+      "value": 4,
+      "region": "Summit County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 1,
-      "region": "Ashtabula County"
+      "value": 24,
+      "region": "Summit County"
     },
     {
       "source": 6,
       "target": 1,
-      "value": 2,
-      "region": "Medina County"
+      "value": 7,
+      "region": "Stark County"
     },
     {
       "source": 6,
       "target": 2,
-      "value": 0,
-      "region": "Medina County"
+      "value": 20,
+      "region": "Stark County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Medina County"
+      "value": 1,
+      "region": "Stark County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Medina County"
+      "value": 19,
+      "region": "Stark County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Medina County"
+      "value": 4,
+      "region": "Stark County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Medina County"
+      "value": 15,
+      "region": "Stark County"
     },
     {
       "source": 7,
       "target": 1,
-      "value": 0,
-      "region": "Jefferson County"
+      "value": 1,
+      "region": "Trumbull County"
     },
     {
       "source": 7,
       "target": 2,
+      "value": 21,
+      "region": "Trumbull County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Trumbull County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 20,
+      "region": "Trumbull County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 3,
+      "region": "Trumbull County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 17,
+      "region": "Trumbull County"
+    },
+    {
+      "source": 8,
+      "target": 1,
       "value": 2,
-      "region": "Jefferson County"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 1,
-      "region": "Jefferson County"
-    },
-    {
-      "source": 2,
-      "target": 3,
-      "value": 1,
-      "region": "Jefferson County"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "Jefferson County"
-    },
-    {
-      "source": 3,
-      "target": 4,
-      "value": 0,
-      "region": "Jefferson County"
-    },
-    {
-      "source": 8,
-      "target": 1,
-      "value": 0,
-      "region": "Trumbull County"
+      "region": "Mahoning County"
     },
     {
       "source": 8,
       "target": 2,
-      "value": 1,
-      "region": "Trumbull County"
+      "value": 20,
+      "region": "Mahoning County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Trumbull County"
+      "value": 1,
+      "region": "Mahoning County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Trumbull County"
+      "value": 19,
+      "region": "Mahoning County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Trumbull County"
+      "value": 5,
+      "region": "Mahoning County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Trumbull County"
+      "value": 14,
+      "region": "Mahoning County"
     },
     {
       "source": 9,
       "target": 1,
-      "value": 0,
-      "region": "Erie County"
+      "value": 3,
+      "region": "Portage County"
     },
     {
       "source": 9,
       "target": 2,
-      "value": 1,
-      "region": "Erie County"
+      "value": 12,
+      "region": "Portage County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Erie County"
+      "region": "Portage County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Erie County"
+      "value": 11,
+      "region": "Portage County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Erie County"
+      "value": 2,
+      "region": "Portage County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Erie County"
+      "value": 9,
+      "region": "Portage County"
     },
     {
       "source": 10,
       "target": 1,
       "value": 1,
-      "region": "Mahoning County"
+      "region": "Columbiana County"
     },
     {
       "source": 10,
       "target": 2,
-      "value": 0,
-      "region": "Mahoning County"
+      "value": 16,
+      "region": "Columbiana County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Mahoning County"
+      "value": 4,
+      "region": "Columbiana County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Mahoning County"
+      "value": 12,
+      "region": "Columbiana County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Mahoning County"
+      "value": 2,
+      "region": "Columbiana County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Mahoning County"
+      "value": 10,
+      "region": "Columbiana County"
     },
     {
       "source": 11,
       "target": 1,
-      "value": 0,
-      "region": "Ashland County"
+      "value": 2,
+      "region": "Unknown County"
     },
     {
       "source": 11,
       "target": 2,
-      "value": 1,
-      "region": "Ashland County"
+      "value": 11,
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Ashland County"
+      "region": "Unknown County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Ashland County"
+      "value": 10,
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Ashland County"
+      "value": 1,
+      "region": "Unknown County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Ashland County"
+      "value": 9,
+      "region": "Unknown County"
     },
     {
       "source": 12,
       "target": 1,
       "value": 0,
-      "region": "Lorain County"
+      "region": "Tuscarawas County"
     },
     {
       "source": 12,
       "target": 2,
-      "value": 1,
-      "region": "Lorain County"
+      "value": 13,
+      "region": "Tuscarawas County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 1,
-      "region": "Lorain County"
+      "region": "Tuscarawas County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Lorain County"
+      "value": 12,
+      "region": "Tuscarawas County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Lorain County"
+      "region": "Tuscarawas County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Lorain County"
+      "value": 12,
+      "region": "Tuscarawas County"
     },
     {
       "source": 13,
       "target": 1,
       "value": 1,
-      "region": "Cuyahoga County"
+      "region": "Lorain County"
     },
     {
       "source": 13,
       "target": 2,
-      "value": 0,
-      "region": "Cuyahoga County"
+      "value": 11,
+      "region": "Lorain County"
     },
     {
       "source": 2,
       "target": 1,
       "value": 0,
-      "region": "Cuyahoga County"
+      "region": "Lorain County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Cuyahoga County"
+      "value": 11,
+      "region": "Lorain County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 0,
-      "region": "Cuyahoga County"
+      "value": 2,
+      "region": "Lorain County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Cuyahoga County"
+      "value": 9,
+      "region": "Lorain County"
     },
     {
       "source": 14,
       "target": 1,
       "value": 0,
-      "region": "Richland County"
+      "region": "Wayne County"
     },
     {
       "source": 14,
       "target": 2,
-      "value": 1,
-      "region": "Richland County"
+      "value": 9,
+      "region": "Wayne County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Richland County"
+      "value": 2,
+      "region": "Wayne County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "Richland County"
+      "value": 7,
+      "region": "Wayne County"
     },
     {
       "source": 3,
       "target": 1,
-      "value": 1,
-      "region": "Richland County"
+      "value": 3,
+      "region": "Wayne County"
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0,
-      "region": "Richland County"
+      "value": 4,
+      "region": "Wayne County"
     },
     {
       "source": 15,
       "target": 1,
       "value": 1,
-      "region": "Tuscarawas County"
+      "region": "Ashtabula County"
     },
     {
       "source": 15,
       "target": 2,
-      "value": 0,
-      "region": "Tuscarawas County"
+      "value": 9,
+      "region": "Ashtabula County"
     },
     {
       "source": 2,
       "target": 1,
-      "value": 0,
-      "region": "Tuscarawas County"
+      "value": 1,
+      "region": "Ashtabula County"
     },
     {
       "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "Tuscarawas County"
+      "value": 8,
+      "region": "Ashtabula County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Ashtabula County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Ashtabula County"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1,
+      "region": "Richland County"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "value": 9,
+      "region": "Richland County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Richland County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Richland County"
     },
     {
       "source": 3,
       "target": 1,
       "value": 0,
-      "region": "Tuscarawas County"
+      "region": "Richland County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Richland County"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "value": 1,
+      "region": "Carroll County"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 9,
+      "region": "Carroll County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 3,
+      "region": "Carroll County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Carroll County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Carroll County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Carroll County"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "value": 10,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 1,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 9,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 7,
+      "region": "Jefferson County"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "value": 1,
+      "region": "Harrison County"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": 6,
+      "region": "Harrison County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Harrison County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Harrison County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Harrison County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Harrison County"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "value": 0,
+      "region": "Coshocton County"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "value": 7,
+      "region": "Coshocton County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Coshocton County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 7,
+      "region": "Coshocton County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Coshocton County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 6,
+      "region": "Coshocton County"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "value": 3,
+      "region": "Holmes County"
+    },
+    {
+      "source": 21,
+      "target": 2,
+      "value": 5,
+      "region": "Holmes County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Holmes County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Holmes County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Holmes County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Holmes County"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 1,
+      "region": "Ashland County"
+    },
+    {
+      "source": 22,
+      "target": 2,
+      "value": 5,
+      "region": "Ashland County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Ashland County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Ashland County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Ashland County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Ashland County"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "value": 1,
+      "region": "Geauga County"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "value": 8,
+      "region": "Geauga County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 2,
+      "region": "Geauga County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Geauga County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Geauga County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Geauga County"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "value": 2,
+      "region": "Medina County"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "value": 6,
+      "region": "Medina County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Medina County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Medina County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Medina County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Medina County"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "value": 2,
+      "region": "Lake County"
+    },
+    {
+      "source": 25,
+      "target": 2,
+      "value": 6,
+      "region": "Lake County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Lake County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 6,
+      "region": "Lake County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Lake County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 5,
+      "region": "Lake County"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "value": 1,
+      "region": "Huron County"
+    },
+    {
+      "source": 26,
+      "target": 2,
+      "value": 5,
+      "region": "Huron County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Huron County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 5,
+      "region": "Huron County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1,
+      "region": "Huron County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 4,
+      "region": "Huron County"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "value": 0,
+      "region": "Knox County"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "value": 3,
+      "region": "Knox County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Knox County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "Knox County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "Knox County"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "Knox County"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "value": 0,
+      "region": "Erie County"
+    },
+    {
+      "source": 28,
+      "target": 2,
+      "value": 2,
+      "region": "Erie County"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "Erie County"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "Erie County"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "Erie County"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "Tuscarawas County"
+      "region": "Erie County"
     }
   ],
   "priceLinks": []

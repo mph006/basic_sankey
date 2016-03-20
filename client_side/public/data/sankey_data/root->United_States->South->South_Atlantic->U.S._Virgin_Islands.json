@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->South->South_Atlantic->U.S._Virgin_Islands",
+  "nodes": [
+    {
+      "name": "SE Corner of U.S. Virgin Islands"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    },
+    {
+      "name": "NW Corner of U.S. Virgin Islands"
+    },
+    {
+      "name": "NE Corner of U.S. Virgin Islands"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3,
+      "region": "SE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "SE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "SE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 2,
+      "region": "SE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "SE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1,
+      "region": "NW Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 3,
+      "region": "NW Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 3,
+      "region": "NW Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NW Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 3,
+      "region": "NW Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 2,
+      "region": "NE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 2,
+      "region": "NE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 0,
+      "region": "NE Corner of U.S. Virgin Islands"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2,
+      "region": "NE Corner of U.S. Virgin Islands"
+    }
+  ],
+  "priceLinks": []
+}

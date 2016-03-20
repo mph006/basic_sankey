@@ -2,7 +2,10 @@
   "keyPath": "root->United_States->West->Mountain->Montana->NW_Corner_of_Montana->Teton_County",
   "nodes": [
     {
-      "name": "59419"
+      "name": "59422"
+    },
+    {
+      "name": "59436"
     },
     {
       "name": "Dropped_Out"
@@ -20,39 +23,75 @@
   "countLinks": [
     {
       "source": 0,
-      "target": 1,
-      "value": 1,
-      "region": "59419"
+      "target": 2,
+      "value": 0,
+      "region": "59422"
     },
     {
       "source": 0,
-      "target": 2,
-      "value": 0,
-      "region": "59419"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "59419"
-    },
-    {
-      "source": 2,
       "target": 3,
-      "value": 0,
-      "region": "59419"
+      "value": 1,
+      "region": "59422"
     },
     {
       "source": 3,
-      "target": 1,
-      "value": 0,
-      "region": "59419"
+      "target": 2,
+      "value": 1,
+      "region": "59422"
     },
     {
       "source": 3,
       "target": 4,
       "value": 0,
-      "region": "59419"
+      "region": "59422"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "59422"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "59422"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 0,
+      "region": "59436"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 1,
+      "region": "59436"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "value": 0,
+      "region": "59436"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1,
+      "region": "59436"
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 0,
+      "region": "59436"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "59436"
     }
   ],
   "priceLinks": []

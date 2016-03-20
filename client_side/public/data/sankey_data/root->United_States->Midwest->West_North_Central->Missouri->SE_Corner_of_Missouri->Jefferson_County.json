@@ -2,7 +2,13 @@
   "keyPath": "root->United_States->Midwest->West_North_Central->Missouri->SE_Corner_of_Missouri->Jefferson_County",
   "nodes": [
     {
-      "name": "63065"
+      "name": "63020"
+    },
+    {
+      "name": "63028"
+    },
+    {
+      "name": "63047"
     },
     {
       "name": "Dropped_Out"
@@ -19,40 +25,112 @@
   ],
   "countLinks": [
     {
-      "source": 0,
-      "target": 1,
-      "value": 0,
-      "region": "63065"
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 1,
-      "region": "63065"
-    },
-    {
-      "source": 2,
-      "target": 1,
-      "value": 0,
-      "region": "63065"
-    },
-    {
       "source": 2,
       "target": 3,
-      "value": 1,
-      "region": "63065"
-    },
-    {
-      "source": 3,
-      "target": 1,
-      "value": 1,
-      "region": "63065"
-    },
-    {
-      "source": 3,
-      "target": 4,
       "value": 0,
-      "region": "63065"
+      "region": "63047"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "63047"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "63047"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "63047"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "63047"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "63047"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "63020"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "63020"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "63020"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "63020"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "63020"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "63020"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "63028"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "63028"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "63028"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "63028"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "63028"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "63028"
     }
   ],
   "priceLinks": []

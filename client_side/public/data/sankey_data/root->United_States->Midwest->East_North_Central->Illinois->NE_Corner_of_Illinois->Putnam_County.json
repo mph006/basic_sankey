@@ -1,0 +1,137 @@
+{
+  "keyPath": "root->United_States->Midwest->East_North_Central->Illinois->NE_Corner_of_Illinois->Putnam_County",
+  "nodes": [
+    {
+      "name": "61326"
+    },
+    {
+      "name": "61327"
+    },
+    {
+      "name": "61340"
+    },
+    {
+      "name": "Dropped_Out"
+    },
+    {
+      "name": "Checkout_Step_1"
+    },
+    {
+      "name": "Checkout_Step_2"
+    },
+    {
+      "name": "Completed_Purchase"
+    }
+  ],
+  "countLinks": [
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0,
+      "region": "61327"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 1,
+      "region": "61327"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "61327"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "61327"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "61327"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "61327"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 0,
+      "region": "61340"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 1,
+      "region": "61340"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 1,
+      "region": "61340"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 0,
+      "region": "61340"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "61340"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 0,
+      "region": "61340"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0,
+      "region": "61326"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1,
+      "region": "61326"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "value": 0,
+      "region": "61326"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1,
+      "region": "61326"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 0,
+      "region": "61326"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1,
+      "region": "61326"
+    }
+  ],
+  "priceLinks": []
+}
