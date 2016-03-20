@@ -82,8 +82,7 @@ function appendElementsToDom(svg,sankey,path,graph){
 
             return  "User From: "+d.region+"\n"+
                     "Path: "+d.source.name + " → " + d.target.name.split("_").join(" ") + "\n" 
-                    + format(d.value) + "\n" 
-                    +((d.value/countTotal)*100).toFixed(2) +"% of "+name+" "+units; 
+                    + format(d.value)
         });
 
     // add in the nodes
